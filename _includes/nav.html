@@ -1,0 +1,8 @@
+{% assign current_page_url = page.url | split: "/" %}
+{% if current_page_url == empty %}{% assign current_page_url = current_page_url | push: "" %}{% endif %}
+{% assign active_url_size = current_page_url | size | minus: 1 %}
+
+{% assign level_prefix = current_page_url | slice: 0, 1 %}
+{% assign level_base = level_prefix | push: current_page_url[1] | join: "/" | append: "/" %}
+
+{% include navlist.html pages=site.pages depth=1 level_prefix=level_prefix level_base=level_base %}

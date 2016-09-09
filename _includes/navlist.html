@@ -1,0 +1,86 @@
+{% comment %}
+A pure-Liquid recursive navigation tree that doesn't totally suck. Liquid obviously isn't a
+programming language, which is why this looks more complicated than it is; it really only does two
+things:
+
+1. Render every root page (e.g. /, /foo/, /bar/)
+2. Render the parents and children of the current page, if any. (e.g. /foo/ and /foo/bar/baz/ if
+   you're on /foo/bar/)
+{% endcomment %}
+
+{% capture output %}
+  {% for node in include.pages %}
+    {% assign node_url = node.url | split: "/" %}
+    {% comment %} Subtract 1 because the split array includes a leading empty string.
+    {% endcomment %}
+    {% assign node_url_size = node_url | size | minus: 1 %}
+    {% assign node_url_prefix = node_url | slice: 0, include.depth %}
+
+    {% if node.title == nil %}{% comment %} e.g. feed.xml {% endcomment %}{% continue %}{% endif %}
+
+    {% if node_url_size < 0 or node_url_size == include.depth %}
+
+      {% comment %} level_prefix is an array of the current page's URL segments *before* the current level, e.g. ["foo"] if we're on /foo/bar/ and level == 2. It's "empty" on /. This comparison prevents us from mistakenly rendering /baz/foo/ when we're on /foo/, even though it's matched by the where_exp filter below. {% endcomment %}
+      {% if node_url_prefix == include.level_prefix or node_url_prefix == empty %}
+        <li>
+          {% comment %} level_base is the current URL including the current level, e.g. "/foo/" if
+          we're on "/foo/bar" and level == 1. {% endcomment %}
+          {% if node.url == include.level_base %}
+
+            {% if node.url == page.url or include.depth == 1 %}
+              {% assign current = true %}
+            {% endif %}
+
+            <a href="{{site.baseurl}}{{node.url}}"{% if node.url == page.url or include.depth == 1 %} class="usa-current"{% endif %}>{{node.title}}</a>
+
+            {% comment %} `contains` is imprecise (we really need starts_with, which isn't
+            supported), but it will at least reduce the number of pages iterated over on the next
+            level. {% endcomment %}
+            {% assign where_select = "page.url contains '%URL%'" | replace: "%URL%", node.url %}
+            {% assign where_reject = "page.path <> '%PATH%'" | replace: "%PATH%", node.path %}
+
+            {% assign child_nodes = include.pages
+              | where_exp: "page", where_select
+              | where_exp: "page", where_reject %}
+
+            {% comment %} NB: Non-empty child_nodes doesn't guarantee that the next iteration will
+            render anything (due to potential false positives from `contains`), which is why this
+            loop is wrapped in a capture. {% endcomment %}
+            {% if child_nodes <> empty %}
+              {% comment %} Recursion variables must be passed (and referenced) as arguments to
+              `include`, because we don't want to overwrite them mid-loop. {% endcomment %}
+              {% assign depth = include.depth | plus: 1 %}
+
+              {% assign level_prefix = current_page_url | slice: 0, depth %}
+
+              {% assign level_base = include.level_base %}
+              {% if current_page_url[depth] %} {% comment %} Update level_base if current page goes
+                deeper than this level. {% endcomment %}
+                {% assign level_base = level_base | append: current_page_url[depth] | append: "/" %}
+              {% endif %}
+
+              {% include navlist.html
+                pages=child_nodes
+                depth=depth
+                level_prefix=level_prefix
+                level_base=level_base %}
+            {% endif %}
+
+          {% else %}
+            <a href="{{site.baseurl}}{{node.url}}">{{node.title}}</a>
+          {% endif %}
+        </li>
+      {% endif %}
+
+    {% endif %}
+
+  {% endfor %}
+{% endcapture %}
+
+{% if output <> empty %}
+  {% capture ul_class %}
+    {% if include.depth == 1 %}usa-sidenav-list{% else %}usa-sidenav-sub_list{% endif %}
+  {% endcapture %}
+  <ul class="{{ul_class}}">{{output|strip_newlines}}</ul>
+{% endif %}
+
