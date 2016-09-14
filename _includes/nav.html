@@ -1,8 +1,44 @@
-{% assign current_page_url = page.url | split: "/" %}
-{% if current_page_url == empty %}{% assign current_page_url = current_page_url | push: "" %}{% endif %}
-{% assign active_url_size = current_page_url | size | minus: 1 %}
+{% comment %}
 
-{% assign level_prefix = current_page_url | slice: 0, 1 %}
-{% assign level_base = level_prefix | push: current_page_url[1] | join: "/" | append: "/" %}
+Pages automatically generates navigation and layout without any kind of per-page or per-project
+configuration. Without configuration, each page only includes links to its immediate children and a
+link back to its parent, which is ideal for high-level divisions such as Guides and Projects.
 
-{% include navlist.html pages=site.pages depth=1 level_prefix=level_prefix level_base=level_base %}
+A single front-matter property, toc_level, defines the "Table of Contents" level for a given 
+content group. For example, if "Foo Guide" is a group at /guides/foo-guide/, by setting toc_level 
+to 2, all pages within /guides/foo-guide/ will get a dedicated "Foo Guide" nav and header.
+
+_layouts/page sets toc_level to 2 by default, so as long as your group is included within a root-
+level folder like /guides/, everything should Just Work™.
+
+{% endcomment %}
+
+{% assign toc_level = page.toc_level | default: layout.toc_level | default: "auto" %}
+
+{% assign pages = site.pages | sort: "url" %}
+
+{% if toc_level == "auto" %}
+  {% comment %} Set base to current page. {% endcomment %}
+  {% assign base = page.url %}
+
+  {% comment %} Infer toc_level from base. {% endcomment %}
+  {% assign toc_level = base | split: "/" | size | minus: 1 %}
+  {% if toc_level == -1 %}{% assign toc_level = 1 %}{% endif %}
+{% else %}
+  {% comment %} Infer base from toc_level. {% endcomment %}
+  {% assign base = page.url | split: "/" | slice: 1, toc_level | join: "/" %}
+  {% assign base = base | prepend: "/" | append: "/" %}
+
+  {% comment %} Render all child pages at and below the toc_level. {% endcomment %}
+  {% assign show_all = true %}
+
+  {% comment %} Sort content pages by `sort` frontmatter property. {% endcomment %}
+  {% assign pages = pages | sort: "title" | sort: "sort" %}
+{% endif %}
+
+{% comment %} Infer first level from base. {% endcomment %}
+{% assign level = base | split: "/" | size | minus: 1 %}
+{% comment %} level == -1 on / {% endcomment %}
+{% if level == -1 %}{% assign level = 1 %}{% endif %}
+
+{% include navlist.html pages=pages level=level base=base show_all=show_all %}
