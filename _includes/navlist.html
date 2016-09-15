@@ -1,18 +1,21 @@
 {% if include.level == toc_level %}
-  {% if page.url != "/" %}
-    {% assign parent_url = page.url | split: "/" | slice: 0, toc_level | join: "/" | append: "/" %}
-    {% assign parent = site.pages | where: "url", parent_url | first %}
 
-    {% if parent_url == page.url %}
-      <a href="" class="usa-current">{{parent.title}}</a></li>
-    {% else %}
-      <a href="{{site.baseurl}}{{parent_url}}">« {{parent.title}}</a>
+  {% capture navbar_content %}
+    {% if page.url != "/" %}
+      {% assign parent_url = page.url | split: "/" | slice: 0, toc_level | join: "/" | append: "/" %}
+      {% assign parent = site.pages | where: "url", parent_url | first %}
+
+      {% if parent_url == page.url %}
+        <a href="" class="usa-current">{{parent.title}}</a></li>
+      {% else %}
+        <a href="{{site.baseurl}}{{parent_url}}">« {{parent.title}}</a>
+      {% endif %}
     {% endif %}
-  {% endif %}
 
-  {% assign toc_page = site.pages | where: "url", include.base | first %}
+    {% assign toc_page = site.pages | where: "url", include.base | first %}
 
-  <h1>{{toc_page.title}}</h1>
+    <h1>{{toc_page.title}}</h1>
+  {% endcapture %}
 
   {% comment %} Pages on content_level (i.e. the toc_page's children) will be rendered as 
   first-level nav items (instead of being nested under the toc_page). {% endcomment %}

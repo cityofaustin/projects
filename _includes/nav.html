@@ -41,4 +41,6 @@ level folder like /guides/, everything should Just Work™.
 {% comment %} level == -1 on / {% endcomment %}
 {% if level == -1 %}{% assign level = 1 %}{% endif %}
 
-{% include navlist.html pages=pages level=level base=base show_all=show_all %}
+{% capture sidenav_content %}
+  {% include navlist.html pages=pages level=level base=base show_all=show_all %}
+{% endcapture %}

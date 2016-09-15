@@ -8,16 +8,20 @@
 
     {% include header.html %}
 
+    {% comment %} Capture navbar_content and sidenav_content {% endcomment %}
+    {% include nav.html %}
 
     <div class="usa-grid">
+      <div class="usa-width-one-whole">
+        {{navbar_content}}
+      </div>
+
       <aside class="usa-width-one-fourth">
-        {% include nav.html %}
+        {{sidenav_content}}
       </aside>
 
       <main id="main-content" class="usa-width-three-fourths usa-content">
-        {{ content }}
-
-
+        {{content}}
       </main>
     </div>
 
