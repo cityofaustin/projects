@@ -1,0 +1,90 @@
+{% if include.level == toc_level %}
+
+  {% capture navbar_content %}
+    {% if page.url != "/" %}
+      {% assign parent_url = page.url | split: "/" | slice: 0, toc_level | join: "/" | append: "/" %}
+      {% assign parent = site.pages | where: "url", parent_url | first %}
+
+      {% if parent_url == page.url %}
+        <a href="" class="usa-current">{{parent.title}}</a></li>
+      {% else %}
+        <a href="{{site.baseurl}}{{parent_url}}">« {{parent.title}}</a>
+      {% endif %}
+    {% endif %}
+
+    {% assign toc_page = site.pages | where: "url", include.base | first %}
+
+    <h1>{{toc_page.title}}</h1>
+  {% endcapture %}
+
+  {% comment %} Pages on content_level (i.e. the toc_page's children) will be rendered as 
+  first-level nav items (instead of being nested under the toc_page). {% endcomment %}
+  {% assign content_level = toc_level | plus: 1 %}
+{% endif %}
+
+{% capture list_items %}
+  {% for node in include.pages %}
+    {% assign node_level = node.url | split: "/" | size | minus: 1 %}
+    {% if node_level == -1 %}{% assign node_level = 1 %}{% endif %}
+
+    {% comment %} Approximate a starts_with comparison. {% endcomment %}
+    {% assign base_size = include.base | size %}
+    {% assign node_base = node.url | slice: 0, base_size %}
+
+    {% if node_level == include.level and node_base == include.base %}
+      <li>
+        {% capture active_class %}
+          {% assign node_size = node.url | size %}
+          {% assign page_base = page.url | slice: 0, node_size %}
+
+          {% comment %} Highlight both current page and its first-level parent. {% endcomment %}
+          {% if node.url == page.url %} class="usa-current"{% elsif include.level == content_level and node.url == page_base %} class="usa-current"{% endif %}
+        {% endcapture %}
+        <a href="{{site.baseurl}}{{node.url}}"{{active_class}}>{{node.title}}</a>
+
+        {% comment %} Don't render root-level pages as children of /. {% endcomment %}
+        {% if node.url != "/" %}
+
+          {% if node.url == include.base or include.show_all %}
+
+            {% comment %} `contains` is imprecise (we need starts_with), but it will at least reduce the number of pages iterated over on the next level. {% endcomment %}
+            {% assign where_select = "page.url contains '%URL%'" | replace: "%URL%", node.url %}
+            {% assign where_reject = "page.path != '%PATH%'" | replace: "%PATH%", node.path %}
+
+            {% assign child_nodes = include.pages
+              | where_exp: "page", where_select
+              | where_exp: "page", where_reject %}
+
+            {% if child_nodes != empty %}
+              {% comment %} Recursion variables must be passed (and referenced) as arguments to
+              `include`, because we don't want to overwrite them mid-loop. {% endcomment %}
+              {% assign _level = include.level | plus: 1 %}
+
+              {% include navlist.html
+                pages=child_nodes
+                level=_level
+                base=node.url
+                show_all=include.show_all %}
+            {% endif %}
+
+          {% endif %}
+
+        {% endif %}
+
+      </li>
+    {% endif %}
+
+  {% endfor %}
+{% endcapture %}
+
+
+{% if list_items != empty %}
+  {% if include.level == content_level %}
+    {{list_items | strip_newlines}}
+  {% else %}
+    {% capture ul_class %}
+      {% if include.level == toc_level %}usa-sidenav-list{% else %}usa-sidenav-sub_list{% endif %}
+    {% endcapture %}
+    <ul class="{{ul_class}}">{{list_items | strip_newlines}}</ul>
+  {% endif %}
+{% endif %}
