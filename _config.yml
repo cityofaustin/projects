@@ -9,4 +9,7 @@ permalink: pretty
 
 exclude:
   - bin
+  - circle.yml
+  - Gemfile
+  - script
   - vendor

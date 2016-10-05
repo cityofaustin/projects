@@ -1,0 +1,14 @@
+general:
+  branches:
+    only:
+      - master
+
+test:
+  override:
+    - echo "no-op"
+
+deployment:
+  pages:
+    branch: master
+    commands:
+      - script/deploy.sh
