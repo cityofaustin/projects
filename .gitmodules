@@ -3,4 +3,4 @@
 	url = https://github.com/cityofaustin/developer-guide.git
 [submodule "projects/permitting"]
 	path = projects/permitting
-	url = https://github.com/cityofaustin/permitting-project/
+	url = https://github.com/cityofaustin/permitting-project.git
