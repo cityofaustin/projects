@@ -1,3 +1,6 @@
 [submodule "guides/developer-guide"]
 	path = guides/developer-guide
 	url = https://github.com/cityofaustin/developer-guide.git
+[submodule "projects/permitting"]
+	path = projects/permitting
+	url = https://github.com/cityofaustin/permitting-project/
