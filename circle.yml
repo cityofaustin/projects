@@ -9,6 +9,8 @@ test:
 
 deployment:
   pages:
-    branch: master
+    branch:
+      - master
+      - gh-pages
     commands:
-      - script/deploy.sh
+      - api/deploy.sh

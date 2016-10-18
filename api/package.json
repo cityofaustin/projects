@@ -1,0 +1,16 @@
+{
+  "name": "pages-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node-lambda run",
+    "pack": "node-lambda package --environment=production --configFile=deploy.env --packageDirectory=build --excludeGlobs=\"*.tf*\""
+  },
+  "dependencies": {
+    "cryptex": "^1.0.0"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.6.9",
+    "node-lambda": "^0.8.10"
+  }
+}
