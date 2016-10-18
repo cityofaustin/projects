@@ -20,7 +20,7 @@ else
 
     if [ -n "$(git status --porcelain)" ]; then
       git add --update
-      SUBMODULE_SHA="$(git submodule status -- guides/developer-guide | cut -c2-8)"
+      SUBMODULE_SHA="$(git submodule status -- $SUBMODULE_PATH | cut -c2-8)"
       git commit -m "Update $SUBMODULE_PATH to $REPOSITORY_NAME@$SUBMODULE_SHA"
     fi
   fi
