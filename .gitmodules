@@ -3,4 +3,16 @@
 	url = https://github.com/cityofaustin/developer-guide.git
 [submodule "projects/permitting"]
 	path = projects/permitting
-	url = https://github.com/cityofaustin/permitting-project.git
+	url = https://github.com/cityofaustin/dti-permitting.git
+[submodule "projects/convention-center"]
+	path = projects/convention-center
+	url = https://github.com/cityofaustin/dti-convention-center.git
+[submodule "projects/resource-recovery"]
+	path = projects/resource-recovery
+	url = https://github.com/cityofaustin/dti-resource-recovery.git
+[submodule "projects/homelessness-outreach-street-team"]
+	path = projects/homelessness-outreach-street-team
+	url = https://github.com/cityofaustin/host-project.git
+[submodule "projects/idea-accelerator"]
+	path = projects/idea-accelerator
+	url = https://github.com/cityofaustin/idea-accelerator.git
