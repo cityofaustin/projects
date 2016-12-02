@@ -17,7 +17,7 @@
     <h1>{{toc_page.title}}</h1>
   {% endcapture %}
 
-  {% comment %} Pages on content_level (i.e. the toc_page's children) will be rendered as 
+  {% comment %} Pages on content_level (i.e. the toc_page's children) will be rendered as
   first-level nav items (instead of being nested under the toc_page). {% endcomment %}
   {% assign content_level = toc_level | plus: 1 %}
 {% endif %}
@@ -40,7 +40,7 @@
           {% comment %} Highlight both current page and its first-level parent. {% endcomment %}
           {% if node.url == page.url %} class="usa-current"{% elsif include.level == content_level and node.url == page_base %} class="usa-current"{% endif %}
         {% endcapture %}
-        <a href="{{site.baseurl}}{{node.url}}"{{active_class}}>{{node.title}}</a>
+        <a href="{{site.baseurl}}{{node.url}}"{{active_class}}>{% if show_all %}{{ node.nav_title | default: node.title }}{% else %}{{ node.title }}{% endif %}</a>
 
         {% comment %} Don't render root-level pages as children of /. {% endcomment %}
         {% if node.url != "/" %}
