@@ -16,3 +16,6 @@
 [submodule "projects/idea-accelerator"]
 	path = projects/idea-accelerator
 	url = https://github.com/cityofaustin/idea-accelerator.git
+[submodule "projects/smart-city-strategic-roadmap"]
+	path = projects/smart-city-strategic-roadmap
+	url = https://github.com/cityofaustin/smart-city-strategic-roadmap.git
