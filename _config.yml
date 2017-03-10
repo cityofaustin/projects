@@ -1,5 +1,5 @@
-title: City of Austin Pages
-url: "http://pages.austintexas.io" # the base hostname & protocol for your site
+title: Innovation Projects
+url: "http://projects.austintexas.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
