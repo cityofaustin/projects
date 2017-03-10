@@ -1,6 +1,0 @@
-build
-node_modules
-.terraform
-*.tfvars
-*.tfstate
-*.tfstate.backup
