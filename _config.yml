@@ -6,6 +6,8 @@ defaults:
     path: ''
   values:
     layout: page
+gems:
+  - jekyll-redirect-from
 url: http://projects.austintexas.io
 theme: jekyll-theme-zilker
 permalink: pretty
