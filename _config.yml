@@ -1,0 +1,11 @@
+---
+title: Innovation Projects
+timezone: UTC
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: page
+url: http://projects.austintexas.io
+theme: jekyll-theme-zilker
+permalink: pretty
