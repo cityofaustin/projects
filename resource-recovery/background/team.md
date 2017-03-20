@@ -7,7 +7,7 @@ sort: 1
 
 ## Project Members & Groups
 
-![image of Advisory Team](https://github.com/cityofaustin/dti-resource-recovery/blob/master/images/advisory_kickoff_teamshot.JPG?raw=true)
+![image of Advisory Team](/resource-recovery/images/advisory_kickoff_teamshot.JPG)
 
 #### Fellows Staff
 
@@ -36,6 +36,6 @@ sort: 1
 * Shana Riviello \| Quality Assurance
 * Teresa Chapman \| Business Outreach
 * Amy Petri \| Office of Sustainability
-* Ilya Schmulenson \| Keep Austin Beautiful 
+* Ilya Schmulenson \| Keep Austin Beautiful
 * Darien Clary \| Austin Independent School District
 * Mindy Reed \| Recycled Reads

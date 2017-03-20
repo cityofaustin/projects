@@ -6,6 +6,6 @@ sort: 3
 
 ## Methods
 
-![Image of Contextual Research](https://github.com/cityofaustin/dti-resource-recovery/blob/master/images/ResearchMethod3.JPG?raw=true)
+![Image of Contextual Research](/resource-recovery/images/ResearchMethod3.JPG)
 
-![Image of Contextual Research](https://github.com/cityofaustin/dti-resource-recovery/blob/master/images/ResearchMethod.jpg?raw=true)
+![Image of Contextual Research](/resource-recovery/images/ResearchMethod.jpg)
