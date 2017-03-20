@@ -7,16 +7,16 @@ sort: 2
 
 ## Scope & Timeline
 
-![image of planning](https://github.com/cityofaustin/dti-resource-recovery/blob/master/images/photo.jpg?raw=true)
+![image of planning](/resource-recovery/images/photo.jpg)
 
 #### Scope
-This is a 6 month project with two main phases: (1) Research, Discovery, and Synthesis and (2) Concepting, Prototyping and Testing. The Fellows are responsible for planning the project, executing the project work, and delivering appropriate deliverables after each phase to Austin Resource Recovery. In addition to delivering actionable insights and solutions, the Fellows will expose and teach human-centered design tools and techniques to Austin Resource Recovery staff and partners. 
+This is a 6 month project with two main phases: (1) Research, Discovery, and Synthesis and (2) Concepting, Prototyping and Testing. The Fellows are responsible for planning the project, executing the project work, and delivering appropriate deliverables after each phase to Austin Resource Recovery. In addition to delivering actionable insights and solutions, the Fellows will expose and teach human-centered design tools and techniques to Austin Resource Recovery staff and partners.
 
 More details on the scope can be found in the [partnership agreement](https://docs.google.com/document/d/1qTiYiE4ddg0zBomGuqdg3_ic13ugebiaFAdxZibDB3k/edit?usp=sharing).
 
 ### Timeline
 
-The project will run from September 2016 - Feb 2017. 
+The project will run from September 2016 - Feb 2017.
 
 A detailed timeline can be found [here](https://docs.google.com/spreadsheets/d/1fMH0t7HOuzI2HAPmbmK_FnPzum0qP3W2dDvJuta7pFw/edit?usp=sharing).
 
@@ -31,8 +31,8 @@ Deliverables:
 * Research plan
 * Recruiting strategy
 * Interview protocols
-* Review of existing print and digital resources 
-* Competitive Analysis 
+* Review of existing print and digital resources
+* Competitive Analysis
 * Resident personas
 * Research artifacts
 * Insights document and videos
