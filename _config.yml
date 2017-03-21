@@ -1,6 +1,10 @@
 ---
 title: Innovation Projects
 timezone: UTC
+collections:
+  homelessness-outreach-street-team:
+    title: HOST
+    output: true
 defaults:
 - scope:
     path: ''

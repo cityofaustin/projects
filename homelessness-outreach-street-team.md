@@ -1,7 +1,7 @@
 ---
-title: HOST
+title: Homelessness Outreach Street Team
 layout: page
-published: true
+collection: homelessness-outreach-street-team
 redirect_from: "/host"
 ---
 
