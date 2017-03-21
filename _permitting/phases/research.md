@@ -1,8 +1,8 @@
 ---
-title: Permitting
-nav_title: Research Phase
-layout: page
-sort: 2
+title: Research Phase
+position: 0
+redirect_from:
+  - /permitting/phases/researchphase/
 ---
 
 ## Research Phase
@@ -99,8 +99,6 @@ The main users involved are
   *	Secondary users are
   *	Public users with stake in building but not involved in acquiring permits
   *	Employees- technical support and maintenance
-
-![images placeholder](www.cats.com/cute.jpg)
 
 
 ### Customer interviews

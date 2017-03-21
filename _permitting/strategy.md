@@ -1,3 +1,10 @@
+---
+title: Strategy
+position: 1
+redirect_from:
+  - /permitting/2017-02-09-Strategy/
+---
+
 # Strategy
 
 ## Principles
@@ -18,7 +25,7 @@ Promote ownership of problems and solutions by city staff.
 
 **Responsive**
 
-Support change and meet arising needs. 
+Support change and meet arising needs.
 
 **Spirited**
 
@@ -46,7 +53,7 @@ Present inherently available tools and processes.
 
 ## Tracks
 
-The Permitting Initiative  
+The Permitting Initiative
 
 **The Web Resource Track** works to develop intuitive digital presentation of standards and rules for the city’s permitting process. An accessible resource for customers and employees will reinforce the permitting process and establish an educational framework to move projects forward.
 

@@ -1,3 +1,11 @@
+---
+title: Research
+position: 0
+redirect_from:
+  - /permitting/2017-02-09-research/
+---
+
+
 ## Research
 
 First, we developed a [strategic plan](https://docs.google.com/document/d/1EoEb5Z4G6tDm1_JLSaCS6dVEp-9MCHXpJ8LDxF-LW6w/edit?usp=sharing) to guide our research.

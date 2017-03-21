@@ -1,8 +1,6 @@
 ---
-title: Permitting
-nav_title: Engage!
-layout: page
-sort: 3
+title: Engage!
+position: 3
 ---
 
 ## Engage!

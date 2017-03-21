@@ -8,6 +8,12 @@ collections:
   idea-accelerator:
     title: Idea Accelerator
     output: true
+  permitting:
+    title: Permitting
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''

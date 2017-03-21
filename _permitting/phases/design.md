@@ -1,8 +1,8 @@
 ---
-title: Permitting
-nav_title: Design Phase
-layout: page
-sort: 4
+title: Design Phase
+position: 2
+redirect_from:
+  - /permitting/phases/designphase/
 ---
 
 ## Design Phase

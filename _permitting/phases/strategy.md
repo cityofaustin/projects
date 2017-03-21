@@ -1,8 +1,6 @@
 ---
-title: Permitting
-nav_title: Strategy for Design
-layout: page
-sort: 3
+title: Strategy for Design
+position: 1
 ---
 
 ## Strategy for Design
@@ -11,9 +9,9 @@ sort: 3
 
 #### Start with Residential
 
-![spiderpie1](https://raw.githubusercontent.com/cityofaustin/dti-permitting/master/images/SpiderPIe-01.png)
+![spiderpie1](/uploads/SpiderPIe-01.png)
 
-![spiderpie1](https://raw.githubusercontent.com/cityofaustin/dti-permitting/master/images/SpiderPIe-02.png)
+![spiderpie1](/uploads/SpiderPIe-02.png)
 
 ### Guiding Principles
 
