@@ -5,6 +5,9 @@ collections:
   homelessness-outreach-street-team:
     title: HOST
     output: true
+  idea-accelerator:
+    title: Idea Accelerator
+    output: true
 defaults:
 - scope:
     path: ''
