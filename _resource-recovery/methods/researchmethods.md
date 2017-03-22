@@ -1,13 +1,12 @@
 ---
 title: Research Methods
-layout: page
-sort: 1
+position: 0
 ---
 
 ## Research Methods
 
 
-![Image of Research](/resource-recovery/images/IMG_0459.JPG)
+![Image of Research](/uploads/IMG_0459.JPG)
 
 #### Research Goals
 
@@ -69,7 +68,7 @@ Concluded each interview with an immediate 45-90 min debrief session to document
 
 ## Synthesis Methods
 
-![image of synthesis](/resource-recovery/images/memi_tom_synthesis.JPG)
+![image of synthesis](/uploads/memi_tom_synthesis.JPG)
 
 [Synthesis guide](https://drive.google.com/drive/folders/0B0ZCxe9t4WXDTGRCOHRrNjNuZ2s?usp=sharing)
 

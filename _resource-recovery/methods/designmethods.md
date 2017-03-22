@@ -1,7 +1,6 @@
 ---
 title: Design Methods
-layout: page
-sort: 2
+position: 1
 ---
 
 ### Design Methods

@@ -1,13 +1,11 @@
 ---
-title: Austin Resource Recovery
-nav_title: Team
-layout: page
-sort: 1
+title: Team
+position: 0
 ---
 
 ## Project Members & Groups
 
-![image of Advisory Team](/resource-recovery/images/advisory_kickoff_teamshot.JPG)
+![image of Advisory Team](/uploads/advisory_kickoff_teamshot.JPG)
 
 #### Fellows Staff
 

@@ -1,13 +1,11 @@
 ---
-title: Austin Resource Recovery
-nav_title: Project Background
-layout: page
-sort: 2
+title: Project Background
+position: 1
 ---
 
 ## Background
 
-![image of recycling sorting center](/resource-recovery/images/Recycling%20Center%20Web-7.jpg)
+![image of recycling sorting center](/uploads/Recycling%20Center%20Web-7.jpg)
 
 Everybody likes to trash talk. Actually, this is recycling talk. In early 2016, Austin's Design, Technology, and Innovation (DTI) Fellows joined forces with Austin Resource Recovery (ARR) to make an impact on Austin's Zero Waste goal through a 6 month partnership. The DTI Fellowship supplied full-time Fellows with expertise in research, design, development, and project management. ARR supplied subject matter experts and funding. September 2016 marks the official start of the project.
 

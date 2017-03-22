@@ -11,6 +11,9 @@ collections:
   permitting:
     title: Permitting
     output: true
+  resource-recovery:
+    title: Resource Recovery
+    output: true
   uploads:
     title: Uploads
     output: true

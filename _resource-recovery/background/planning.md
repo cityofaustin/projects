@@ -1,13 +1,11 @@
 ---
-title: Austin Resource Recovery
-nav_title: Planning
-layout: page
-sort: 2
+title: Planning
+position: 1
 ---
 
 ## Scope & Timeline
 
-![image of planning](/resource-recovery/images/photo.jpg)
+![image of planning](/uploads/photo.jpg)
 
 #### Scope
 This is a 6 month project with two main phases: (1) Research, Discovery, and Synthesis and (2) Concepting, Prototyping and Testing. The Fellows are responsible for planning the project, executing the project work, and delivering appropriate deliverables after each phase to Austin Resource Recovery. In addition to delivering actionable insights and solutions, the Fellows will expose and teach human-centered design tools and techniques to Austin Resource Recovery staff and partners.

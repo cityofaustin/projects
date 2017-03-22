@@ -1,13 +1,12 @@
 ---
 title: Austin Resource Recovery
 nav_title: Site Intro
-layout: page
-sort: 1
+collection: resource-recovery
 ---
 
 ## Welcome!
 
-![image of Balcones Recycling Center Tour](/resource-recovery/images/Recycling%20Center%20Web-1.jpg)
+![image of Balcones Recycling Center Tour](/uploads/Recycling%20Center%20Web-1.jpg)
 
 We are Design, Technology, and Innovation (DTI) Fellows with the City of Austin and you've made it to our project documentation site. This site features the collaboration between [DTI Fellows](https://cityofaustin.github.io/innovation-fellows/) and [Austin Resource Recovery](http://www.austintexas.gov/department/austin-resource-recovery) (ARR) to come up with new approaches to reaching the city's goal of Zero Waste by 2040. Here you will see the latest progress of our work, the research and design methods used by the Fellows, and key project outcomes.
 

@@ -1,7 +1,6 @@
 ---
 title: Appendix
-layout: page
-sort: 6
+position: 5
 ---
 
 ## Appendix
