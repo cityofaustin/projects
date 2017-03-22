@@ -14,6 +14,9 @@ collections:
   resource-recovery:
     title: Resource Recovery
     output: true
+  smart-city-strategic-roadmap:
+    title: Smart City Strategic Roadmap
+    output: true
   uploads:
     title: Uploads
     output: true
