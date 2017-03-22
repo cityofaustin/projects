@@ -2,8 +2,7 @@
 title: Permitting
 nav_title: Intro
 collection: permitting
-layout: page
-published: true
+position: 2
 ---
 To ensure safe and sustainable development during this time of rapid growth for the City of Austin, the permitting process facilitates and regulates building projects.
 
