@@ -4,9 +4,11 @@ position: 5
 collection: smart-city-strategic-roadmap
 ---
 
-On November 3, 2016, Austin City Council passed a resolution calling for the development of a Smart City Strategic Roadmap with relevant City entities, community partners, and the technology community. This roadmap is intended to inform City policy decision-making, help the community tackle local challenges, and help the city improve service delivery.
+On November 3, 2016, Austin City Council passed a resolution calling for the development of a Smart City Strategic Roadmap with relevant City entities, community partners, and the technology community. 
 
-The strategic roadmap should include the following:
+The Austin community and city government partners together to collaboratively draft this roadmap to inform City policy decision-making, help the community tackle local challenges, and help the city improve service delivery.
+
+City Council has asked that our strategic roadmap include the following:
 * A common, Austin-centered definition of Smart Cities
 * A statement of vision about Austin's Smart Cities future
 * Challenges on which we should focus and prioritize
