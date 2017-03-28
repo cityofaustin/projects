@@ -1,8 +1,8 @@
 ---
 title: Austin Resource Recovery
+position: 0
 nav_title: Site Intro
 collection: resource-recovery
-position: 0
 ---
 
 ## Welcome!

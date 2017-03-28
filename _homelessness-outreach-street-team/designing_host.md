@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Designing HOST
+layout: page
 ---
 
 ## Team Structure

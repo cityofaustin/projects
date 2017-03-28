@@ -2,7 +2,7 @@
 title: Team
 position: 2
 redirect_from:
-  - /permitting/2017-02-09-team/
+- "/permitting/2017-02-09-team/"
 ---
 
 # Team

@@ -2,7 +2,7 @@
 title: Design Phase
 position: 2
 redirect_from:
-  - /permitting/phases/designphase/
+- "/permitting/phases/designphase/"
 ---
 
 ## Design Phase

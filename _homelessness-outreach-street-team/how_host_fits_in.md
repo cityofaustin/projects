@@ -1,6 +1,6 @@
 ---
-layout: page
 title: How Host Fits Into Broader Efforts to End Homelessness
+layout: page
 ---
 
 ## Outreach, Engagement, and Intervention

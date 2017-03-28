@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Framing the Pilot
+layout: page
 ---
 
 ## Searching for Balance

@@ -1,6 +1,6 @@
 ---
+title: Foundation
 layout: page
-title:  "Foundation"
 ---
 
 ## Background leading up to Austin's Homelessness Outreach Street Team

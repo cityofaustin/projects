@@ -1,6 +1,6 @@
 ---
 title: Smart City Strategic Roadmap
-collection: smart-city-strategic-roadmap
 position: 5
+collection: smart-city-strategic-roadmap
 ---
 

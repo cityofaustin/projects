@@ -2,9 +2,8 @@
 title: Research
 position: 0
 redirect_from:
-  - /permitting/2017-02-09-research/
+- "/permitting/2017-02-09-research/"
 ---
-
 
 ## Research
 

@@ -14,6 +14,9 @@ collections:
   permitting:
     title: Permitting
     output: true
+  posts:
+    title: Posts
+    output: true
   resource-recovery:
     title: Resource Recovery
     output: true
@@ -29,7 +32,7 @@ defaults:
   values:
     layout: page
 gems:
-  - jekyll-redirect-from
+- jekyll-redirect-from
 url: http://projects.austintexas.io
 theme: jekyll-theme-zilker
 permalink: pretty

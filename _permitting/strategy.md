@@ -2,7 +2,7 @@
 title: Strategy
 position: 1
 redirect_from:
-  - /permitting/2017-02-09-Strategy/
+- "/permitting/2017-02-09-Strategy/"
 ---
 
 # Strategy

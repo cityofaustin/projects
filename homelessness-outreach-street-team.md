@@ -1,9 +1,9 @@
 ---
 title: Homelessness Outreach Street Team
+position: 1
 layout: page
 collection: homelessness-outreach-street-team
 redirect_from: "/host"
-position: 1
 ---
 
 The Homelessness Outreach Street Team (HOST) represents a new collaborative initiative in Austin’s Central Business District to address proactively the needs of people living on the streets.  HOST brings together the expertise of police officers, behavioral health specialists, a paramedic, and outreach social workers. This multidisciplinary team will help bridge the gaps between social services and public safety where hard-to-reach populations get stuck in the revolving door of emergency shelters, justice systems, and emergency services.

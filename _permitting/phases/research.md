@@ -2,7 +2,7 @@
 title: Research Phase
 position: 0
 redirect_from:
-  - /permitting/phases/researchphase/
+- "/permitting/phases/researchphase/"
 ---
 
 ## Research Phase
