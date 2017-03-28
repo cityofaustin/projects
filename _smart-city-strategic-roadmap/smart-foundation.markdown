@@ -21,3 +21,5 @@ How the community prioritizes key principles in terms of desirability, and worth
 # Norms
 
 How the community expresses its values. Every innovation begins as a deviation to a norm. Therefore norms around creative tension and conflict are critically important.
+
+The norms will be best described by the activities that we should undertake in the near term, medium term, and longer term. Such as defining our approach to opt in or opt out policies, or hiring a consultant or team to build out an accessibility tooklit.
