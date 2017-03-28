@@ -4,7 +4,8 @@ date: 2017-03-28 17:29:00 Z
 position: 1
 ---
 
-*"Moore’s Law ... is really about people’s belief system, it’s not a law of physics, it’s about human belief, and when people believe in something, they’ll put energy behind it to make it come to pass." – Carver Mead quoted in the book What Technology Wants by Kevin Kelly*
+*"Moore’s Law ... is really about people’s belief system, it’s not a law of physics, it’s about human belief, and when people believe in something, they’ll put energy behind it to make it come to pass."* 
+– Carver Mead quoted in the book **What Technology Wants by Kevin Kelly**
 
 A Smart Foundation for the Austin's Smart City Strategic Roadmap includes being holistic and specific about those principles we value and prioritize, while establishing norms around the creative tensions and potential conflicts that may arise. This section intends to identify those core principles of consequence to smart cities, how the Austin community prioritizes those key principles, and how the community foresees ways in the near term, medium term, and long term to express these values in concrete actions.
 
