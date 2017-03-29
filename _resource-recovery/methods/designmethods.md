@@ -11,7 +11,7 @@ Work in progress. Check back soon!
 
 The **design phase** is coming up with ideas, testing them out to see what works, and refining the ones that do.
 
-![image of design process](/_uploads/designmethods.png)
+![image of design process](./_uploads/designmethods.png)
 
 * Generate as many ideas as possible to solve for opportunity areas found during research
 * Systematically evaluate ideas based in insights, personas, and our research framework
