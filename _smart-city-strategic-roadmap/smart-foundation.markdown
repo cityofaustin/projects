@@ -13,14 +13,24 @@ A Smart Foundation for the Austin's Smart City Strategic Roadmap includes being 
 
 A concept of consequence to smart cities: privacy, security, sustainability, resilience, accessibility, equity and efficiency
 
-## 
+## Principle 1
+
+## Principle 2
+
+## Principle 3
 
 # Values
 
 How the community prioritizes key principles in terms of desirability, and worth
+
+## Areas of Focus
+
+## Trade-offs
 
 # Norms
 
 How the community expresses its values. Every innovation begins as a deviation to a norm. Therefore norms around creative tension and conflict are critically important.
 
 The norms will be best described by the activities that we should undertake in the near term, medium term, and longer term. Such as defining our approach to opt in or opt out policies, or hiring a consultant or team to build out an accessibility tooklit.
+
+This leads us to the Strategic Roadmap - activities for the near term, medium term, long term.
