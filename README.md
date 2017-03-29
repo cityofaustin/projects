@@ -18,4 +18,4 @@ The changes you make in Siteleaf are not published automatically, but they can b
 
 ## Adding Projects
 
-This project uses the Zilker theme, which generates navigation automatically from pages and collections. To add a new project, first create a collection, then create a page with the same path as the collection, giving it a `collection` metadata field with the same value.
+This project uses the [Zilker theme](https://github.com/cityofaustin/zilker-theme), which generates navigation automatically from pages and collections. To add a new project, first create a collection, then create a page with the same path as the collection, giving it a `collection` metadata field with the same value.
