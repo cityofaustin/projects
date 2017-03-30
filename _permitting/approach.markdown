@@ -1,6 +1,7 @@
 ---
 title: Our Approach
 date: 2017-03-30 15:48:00 Z
+position: 0
 ---
 
 ## Teams

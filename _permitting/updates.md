@@ -1,6 +1,6 @@
 ---
 title: Updates
-position: 5
+position: 4
 ---
 
 Pics of whatever we’re up to/interviews https://drive.google.com/drive/folders/0B8ZfT3Hy63oZaVZNa3pzaHFndEk
