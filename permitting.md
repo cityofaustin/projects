@@ -1,7 +1,7 @@
 ---
 title: The Permitting Initiative
 position: 2
-nav_title: 'Introducing: The Permitting Initiative '
+nav_title: Introduction
 collection: permitting
 ---
 
