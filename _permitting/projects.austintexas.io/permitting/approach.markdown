@@ -18,22 +18,22 @@ We created 3 interrelated teams to approach the city’s permitting process:
 To keep these teams on the same page, we created a shared set of principles to guide our work:
 
 1. **Accessible**
-   Provide information in an open and welcoming manner.
+Provide information in an open and welcoming manner.
 2. **Connective**
-   Develop resilient relationships between parties.
+Develop resilient relationships between parties.
 3. **Empowering**
-   Promote ownership of problems and solutions by city staff.
+Promote ownership of problems and solutions by city staff.
 4. **Responsive**
-   Support change and meet arising needs. 
+Support change and meet arising needs. 
 5. **Spirited**
-   Foster alignment among city departments.
+Foster alignment among city departments.
 6. **Accountable**
-   Share responsibility and mutual support.
+Share responsibility and mutual support.
 7. **Efficient**
-   Facilitate a manageable experience for the public.
+Facilitate a manageable experience for the public.
 8. **Educational**
-   Share knowledge and promote understanding.
+Share knowledge and promote understanding.
 9. **Transparent**
-   Reveal the foundation that supports information.
+Reveal the foundation that supports information.
 10. **Intuitive**
-    Present inherently available tools and processes.
+Present inherently available tools and processes.
