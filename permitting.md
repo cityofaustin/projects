@@ -1,14 +1,12 @@
 ---
-title: Permitting
+title: The Permitting Initiative
 position: 2
-nav_title: Intro
+nav_title: 'Introducing: The Permitting Initiative '
 collection: permitting
 ---
 
-To ensure safe and sustainable development during this time of rapid growth for the City of Austin, the permitting process facilitates and regulates building projects.
+Most people agree that Austin is [the best place to live in the United States](http://realestate.usnews.com/places/rankings/best-places-to-live). Between Barton Springs, The University of Texas, and great queso, it’s hard to argue otherwise.
 
-**The Permitting Initiative** will rethink the informational and operational structures that govern permitting to develop an experience that is accessible, tangible, and cohesive for the public and city staff.
+With all that love and attention comes growth. The City of Austin works to ensure safe and sustainable development through a process of building inspections and permitting. In facilitating and regulating residential projects, the city also wants to help the people who live here participate in the city’s development.
 
-The Permitting Initiative is developed by the City of Austin’s [Design, Technology, and Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/) in collaboration with the Development Services Department.
-
-![IMG_2117.JPG](/uploads/IMG_2117.JPG)
+To make the permitting process more accessible and cohesive, The City of Austin’s Office of Design, Technology, and Innovation is teaming up with the Development Services Department to rethink the ways in which the public and city work together. Here’s a look at what we’re up to with **The Permitting Initiative**.
