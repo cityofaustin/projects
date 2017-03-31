@@ -49,4 +49,8 @@ Building permits have the most complexity, the most interdepartmental collaborat
 
 Departments enforce their own regulations, employ different processes, and use inconsistent terminology, which creates confusion and complexities.
 
+Foundational research underscored the importance of the underlying processes involved with permitting as a means of making lasting, meaningful improvements.
+
+## User Research
+
 \\
