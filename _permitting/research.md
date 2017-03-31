@@ -49,7 +49,4 @@ Building permits have the most complexity, the most interdepartmental collaborat
 
 Departments enforce their own regulations, employ different processes, and use inconsistent terminology, which creates confusion and complexities.
 
-
-
-
 \\
