@@ -9,27 +9,22 @@ position: 0
 ### Finding 1: Value
 
 *Staff pain*
-
 New customers don’t come in prepared with the information staff needs to give accurate guidance.
 When they offer general guidance, customers return upset when they find their requirements are different based on the particularities of their project.
 
 *Customer pain*
-
 Customers reach out for help on what they need to comply with and how for their project.
 But the city responds with restrictions, forms, and permit requirements, which leaves them lost.
 
 *Insight*
-
 Customers’ motivations and understanding are in terms of their own project, while the city’s are in terms of policies and ordinances. Customers are looking for help making decisions, not code interpretations.
 
 *Opportunity*
-
 How might we help staff and customers communicate more effectively?
 
-## Finding 2: Consequence Blindness
+### Finding 2: Consequence Blindness
 
 *Staff pain*
-
 Staff receives a lot of complaints, and each employee makes personal efforts to reduce those complaints. Staff feel they do not have the authority to make certain decisions.
 
 *Customer pain*
@@ -42,7 +37,7 @@ Most efforts to alleviate problems are reactive, solving for subjective cases th
 *Opportunity*
 How might we learn to make more cohesive, holistic decisions that work well for both the city and customers?
 
-## Finding 3: Expectations
+### Finding 3: Expectations
 
 *Staff pain*
 Customers arrive to the office frustrated and direct that frustration at staff. Customers do not understand the complexity staff works in.
@@ -56,7 +51,7 @@ Customers’ inability to communicate and reach satisfactory outcomes with emplo
 *Opportunity*
 How might we meet customer expectations?
 
-## Finding 4: Deflection
+### Finding 4: Deflection
 
 *Staff pain*
 Staff struggle to manage with volume and complaints, so don’t take the time to solve problems themselves in an effort to meet deadlines.
@@ -70,7 +65,7 @@ Due to problems being deflected by the city, many customers must take it upon th
 *Opportunity*
 How might we help staff solve customer problems?
 
-## Finding 5: Risk Aversion
+### Finding 5: Risk Aversion
 
 *Staff pain*
 Staff receives a lot of finger pointing and blame, both from customers and from other staff members. As a result, they understand how to get a project through the system but they don’t share tips for fear of liability.
@@ -84,7 +79,7 @@ Employees lean on the confusion surrounding the permitting service to absolve th
 *Opportunity*
 How might we learn to manage risk-aversion more effectively?
 
-## Finding 6: Cooperation
+### Finding 6: Cooperation
 
 *Staff pain*
 Staff’s actions are scrutinized by customers. They face blame and their decisions are challenged. Staff are wary of people who try to get around the rules.
@@ -98,7 +93,7 @@ Customers do not find issue with development regulation, but with the city’s e
 *Opportunity*
 How might we foster a cooperative, trusting community among employees and customers?
 
-## Finding 7: Breaking Social Contracts
+### Finding 7: Breaking Social Contracts
 
 *Staff pain*
 Staff wants the ability to modify decisions in order to most accurately enforce the code. This means an employee can go back on another employee’s decision at any time.
@@ -112,13 +107,16 @@ Customers read the city’s inability to follow through with previous decisions 
 *Opportunity*
 How might we honor our commitments while also fulfilling our duties as a regulatory entity?
 
-## Reframed Problem
+### Reframed Problem
 
 How might we ensure safe and sustainable development during this time of rapid growth for the City of Austin?
 
-## Key Opportunities
+### Key Opportunities
 
 * Because there is no single resource for information, how might we build a better web resource?
+
 * Because each office’s customer experience varies, how might we create a true “one stop shop”?
+
 * Because they each have their own needs concerning a project, how might we help departments coordinate more effectively?
+
 * Because there are contradictions within the City code, how might we resolve contradictions?
