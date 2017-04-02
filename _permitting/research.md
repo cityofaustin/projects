@@ -37,21 +37,39 @@ We gathered our data and connected information to create context through a permi
 
 Foundation research established the following insights:
 
-1. Unclear Relationships
+* Unclear Relationships
 
 Processes and permits have obscured ownership. No one person has a complete view of what’s happening in other departments and the extent of their relationships.
 
-2. Focus on Building Permits
+* Focus on Building Permits
 
 Building permits have the most complexity, the most interdepartmental collaboration, and the least clarity. Development Services Department owns the major building permits, most of the process, and has the most customer interaction.
 
-3. Inconsistent Processes and Terminology
+* Inconsistent Processes and Terminology
 
 Departments enforce their own regulations, employ different processes, and use inconsistent terminology, which creates confusion and complexities.
 
 Foundational research underscored the importance of the underlying processes involved with permitting as a means of making lasting, meaningful improvements.
 
 ## User Research
+
+Our goals here are to (1) understand users, use cases and staff-customer interactions; (2) gather public point of view on permitting; (3) Identify opportunity areas for design; (4) reframe the problem.
+
+To achieve these goals, we performed 51 qualitative interviews with a range of individuals including: architects, landscape architects, business owners, civil engineers, general and trade contractors, developers, homebuilders, homeowners, permit expediters, property owners, and starts managers.
+
+We also shadowed 4 departments: 
+* Development Assistance Center
+* Commercial Plan Review
+* Residential Plan Review
+* Austin Center for Events
+
+We organized, clustered and found patterns from our research data to create:
+* Customer personas and staff roles & personas
+Snapshots of people we talked to that help us tell their stories to the team. They help us empathize and design for user needs.
+* Journey maps
+Representations of the paths of customers we talked to, including their interactions with city staff. They guide us in designing for the users' processes.
+* Pains and insights
+How we identify the key opportunities for design.
 
 
 
