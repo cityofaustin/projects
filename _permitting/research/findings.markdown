@@ -9,25 +9,31 @@ position: 0
 ### Finding 1: Value
 
 *Staff pain*
+
 New customers don’t come in prepared with the information staff needs to give accurate guidance.
 When they offer general guidance, customers return upset when they find their requirements are different based on the particularities of their project.
 
 *Customer pain*
+
 Customers reach out for help on what they need to comply with and how for their project.
 But the city responds with restrictions, forms, and permit requirements, which leaves them lost.
 
 *Insight*
+
 Customers’ motivations and understanding are in terms of their own project, while the city’s are in terms of policies and ordinances. Customers are looking for help making decisions, not code interpretations.
 
 *Opportunity*
+
 How might we help staff and customers communicate more effectively?
 
 ## Finding 2: Consequence Blindness
 
 *Staff pain*
+
 Staff receives a lot of complaints, and each employee makes personal efforts to reduce those complaints. Staff feel they do not have the authority to make certain decisions.
 
 *Customer pain*
+
 Staff decisions dictate the customer’s path through permitting. Staff indecision, conflicting decisions and decisions made without regard to potential downstream effects create roadblocks customers must resolve.
 
 *Insight*
