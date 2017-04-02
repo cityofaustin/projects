@@ -78,16 +78,4 @@ We organized, clustered and found patterns from our research data to create:
 * Pains and insights
   How we identify the key opportunities for design.
 
-### Findings
-
-Finding 1: Value
-
-*Staff pain*
-New customers don’t come in prepared with the information staff needs to give accurate guidance. 
-When they offer general guidance, customers return upset when they find their requirements are different based on the particularities of their project.
-
-*Customer pain*
-Customers reach out for help on what they need to comply with and how for their project. 
-But the city responds with restrictions, forms, and permit requirements, which leaves them lost.
-
 \\
