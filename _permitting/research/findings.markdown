@@ -99,3 +99,20 @@ Staff wants the ability to modify decisions in order to most accurately enforce 
 
 *Customer pain*
 Answers or decisions are not definitive; they don’t last through rounds of employees. This results in being sent through processes repeatedly and getting blindsided by unexpected staff decisions.
+
+*Insight*
+Customers read the city’s inability to follow through with previous decisions as rude and uncaring, blocking opportunity for a trusting relationship. The city insists that customers treat their approved plans as a binding contract, but frequently breaks this contract themselves.
+
+*Opportunity*
+How might we honor our commitments while also fulfilling our duties as a regulatory entity?
+
+## Reframed Problem
+
+How might we ensure safe and sustainable development during this time of rapid growth for the City of Austin?
+
+## Key Opportunities
+
+* Because there is no single resource for information, how might we build a better web resource?
+* Because each office’s customer experience varies, how might we create a true “one stop shop”?
+* Because they each have their own needs concerning a project, how might we help departments coordinate more effectively?
+* Because there are contradictions within the City code, how might we resolve contradictions?
