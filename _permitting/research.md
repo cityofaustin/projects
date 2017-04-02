@@ -57,20 +57,37 @@ Our goals here are to (1) understand users, use cases and staff-customer interac
 
 To achieve these goals, we performed 51 qualitative interviews with a range of individuals including: architects, landscape architects, business owners, civil engineers, general and trade contractors, developers, homebuilders, homeowners, permit expediters, property owners, and starts managers.
 
-We also shadowed 4 departments: 
+We also shadowed 4 departments:
+
 * Development Assistance Center
+
 * Commercial Plan Review
+
 * Residential Plan Review
+
 * Austin Center for Events
 
 We organized, clustered and found patterns from our research data to create:
+
 * Customer personas and staff roles & personas
-Snapshots of people we talked to that help us tell their stories to the team. They help us empathize and design for user needs.
+  Snapshots of people we talked to that help us tell their stories to the team. They help us empathize and design for user needs.
+
 * Journey maps
-Representations of the paths of customers we talked to, including their interactions with city staff. They guide us in designing for the users' processes.
+  Representations of the paths of customers we talked to, including their interactions with city staff. They guide us in designing for the users' processes.
+
 * Pains and insights
-How we identify the key opportunities for design.
+  How we identify the key opportunities for design.
 
+### Findings
 
+Finding 1: Value
+
+*Staff pain*
+New customers don’t come in prepared with the information staff needs to give accurate guidance. 
+When they offer general guidance, customers return upset when they find their requirements are different based on the particularities of their project.
+
+*Customer pain*
+Customers reach out for help on what they need to comply with and how for their project. 
+But the city responds with restrictions, forms, and permit requirements, which leaves them lost.
 
 \\
