@@ -2,6 +2,7 @@
 title: Findings
 date: 2017-04-02 15:22:00 Z
 position: 0
+Field name: 
 ---
 
 ## Research Findings
@@ -28,7 +29,6 @@ How might we help staff and customers communicate more effectively?
 Staff receives a lot of complaints, and each employee makes personal efforts to reduce those complaints. Staff feel they do not have the authority to make certain decisions.
 
 *Customer pain*
-
 Staff decisions dictate the customer’s path through permitting. Staff indecision, conflicting decisions and decisions made without regard to potential downstream effects create roadblocks customers must resolve.
 
 *Insight*
