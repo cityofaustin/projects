@@ -78,4 +78,5 @@ We organized, clustered and found patterns from our research data to create:
 * Pains and insights
   How we identify the key opportunities for design.
 
+[View the full Research Phase Overview](https://docs.google.com/presentation/d/1HFPmGNXzTa7rsfE2gBru4hTZM6FfH6kvLTXv3omE0ek/edit?usp=sharing)
 \\
