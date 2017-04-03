@@ -120,3 +120,5 @@ How might we ensure safe and sustainable development during this time of rapid g
 * Because they each have their own needs concerning a project, how might we help departments coordinate more effectively?
 
 * Because there are contradictions within the City code, how might we resolve contradictions?
+
+[View the full Research Phase Overview](https://docs.google.com/presentation/d/1HFPmGNXzTa7rsfE2gBru4hTZM6FfH6kvLTXv3omE0ek/edit?usp=sharing)
