@@ -10,7 +10,7 @@ redirect_from:
 ## Core Team
 
 [Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/):
-Julia Byron, UX Design and Research | Eleni Gesch-Karamanlidis, Communications | Patrick McDonnell, Service Design | Lincoln Neiger, Service Design | Jake Paul, Developer | Cathryn Rowe, Developer | Sarah Rudder, Developer | Dan Rudmann, Strategist | Sarah Sharpe, Project Manager
+Julia Byron, UX Design and Research | Eleni Gesch-Karamanlidis, Communications | Patrick McDonnell, Service Design | Lincoln Neiger, Service Design | Jake Paul, Developer | Cathryn Rowe, Developer | Sarah Rudder, Developer | Dan Rudmann, Strategist | Sarah Shields, Project Manager
 
 [Development Services Department](http://austintexas.gov/department/development-services):
 Happiness Kisoso, Project Manager | Julia Robbins, Business Systems Analyst | Greg Hand, Manager | Richard Russell, Manager
