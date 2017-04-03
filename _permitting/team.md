@@ -47,4 +47,4 @@ Jacquie Hrncir
 [Austin Code](http://www.austintexas.gov/department/code):
 Shawn Lincoln
 
-[Complete list of tem members and roles](https://docs.google.com/spreadsheets/d/1sJK6sR7rypTE4I4RHpJd7_nKU6wn3iIbil72PBB1gDc/edit?usp=drive_web)
+[Complete list of team members and roles](https://docs.google.com/spreadsheets/d/1sJK6sR7rypTE4I4RHpJd7_nKU6wn3iIbil72PBB1gDc/edit?usp=drive_web)
