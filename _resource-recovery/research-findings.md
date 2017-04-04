@@ -11,7 +11,7 @@ After four weeks of analyzing hundreds of post-its, we are happy to present the 
 
 ### Research Deliverables
 [Written Report](https://drive.google.com/file/d/0B1h7yUJL74THaE1HYjJWQUlzRlU/view?usp=sharing).
-This document is a comprehenisve write-up of our key research findings. The document includes the following deliverables:
+This document is a comprehensive write-up of our key research findings. The document includes the following deliverables:
 * framework (see above image)
 * series of quotes, insights, and opportunity areas
 * selected participant videos (see below)
