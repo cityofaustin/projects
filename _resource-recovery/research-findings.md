@@ -28,7 +28,7 @@ The research findings were shared with the public during an evening presentation
 
 [Video Recording](http://austintx.swagit.com/play/01192017-783). This is a recording of the public share-out session.
 
-[Presentation](https://drive.google.com/file/d/0B1h7yUJL74THd1V3Skt0WDdET3M/view?usp=sharing). This is the presentation shared at this public session. We recommend reviewing this along with the video recording or refer to the [Written Report](https://drive.google.com/file/d/0B1h7yUJL74THa0ZuZHRVUWF2THc/view?usp=sharing) for more more details and context.
+[Presentation](https://drive.google.com/file/d/0B1h7yUJL74THd1V3Skt0WDdET3M/view?usp=sharing). This is the presentation shared at this public session. We recommend reviewing this along with the video recording or refer to the [Written Report](https://drive.google.com/file/d/0B1h7yUJL74THaE1HYjJWQUlzRlU/view?usp=sharing) for more more details and context.
 
 ![Public Share-out](/uploads/PublicPres-Amalie.JPG)
 
