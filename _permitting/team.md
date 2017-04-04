@@ -1,6 +1,6 @@
 ---
 title: Team
-position: 5
+position: 3
 redirect_from:
 - "/permitting/2017-02-09-team/"
 ---
