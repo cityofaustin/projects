@@ -13,11 +13,11 @@ City Council has asked that our strategic roadmap include the following:
 * A statement of vision about Austin's Smart Cities future
 * Challenges on which we should focus and prioritize
 * Potential opportunities to address those challenges
-* Key goals and outcomes operationally for the City and for residents' quality of life
+* Key goals and outcomes operationally for the City and for residents' equitable quality of life
 * An inventory of practices to consider
 * Core needs, gaps, and capabilities to deliver
 * Potential resources and means for partnering and financing initiatives
-* A prioritized list of or projects to pursue.
+* A prioritized list of projects to pursue.
 
 
 
