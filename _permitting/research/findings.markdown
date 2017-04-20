@@ -1,6 +1,6 @@
 ---
 title: Findings
-date: 2017-04-02 15:22:00 Z
+date: 2017-04-02 10:22:00 -05:00
 position: 0
 Field name: 
 ---
@@ -148,4 +148,4 @@ How might we ensure safe and sustainable development during this time of rapid g
 
 * Because there are contradictions within the City code, how might we resolve contradictions?
 
-[View the full Research Phase Overview](https://docs.google.com/presentation/d/1HFPmGNXzTa7rsfE2gBru4hTZM6FfH6kvLTXv3omE0ek/edit?usp=sharing)
+[View the full Research Phase Overview](https://docs.google.com/presentation/d/1HFPmGNXzTa7rsfE2gBru4hTZM6FfH6kvLTXv3omE0ek/pub?start=false&loop=false&delayms=3000)
