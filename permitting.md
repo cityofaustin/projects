@@ -1,6 +1,6 @@
 ---
 title: The Permitting Initiative
-position: 2
+position: 3
 nav_title: Introduction
 collection: permitting
 ---

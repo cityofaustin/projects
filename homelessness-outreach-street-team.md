@@ -1,6 +1,6 @@
 ---
 title: Homelessness Outreach Street Team
-position: 1
+position: 2
 layout: page
 collection: homelessness-outreach-street-team
 redirect_from: "/host"

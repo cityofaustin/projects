@@ -1,6 +1,6 @@
 ---
 title: Idea Accelerator
-position: 4
+position: 5
 collection: idea-accelerator
 ---
 
