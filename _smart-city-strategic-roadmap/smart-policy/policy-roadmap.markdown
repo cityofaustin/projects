@@ -1,6 +1,6 @@
 ---
-title: Policy - Short, Medium, Long Term
-date: 2017-03-28 18:18:00 Z
+title: Smart Policy Projects
+date: 2017-03-28 13:18:00 -05:00
 position: 0
 ---
 
