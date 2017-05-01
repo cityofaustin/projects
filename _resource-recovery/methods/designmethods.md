@@ -5,11 +5,15 @@ position: 1
 
 ## Design Methods
 
-Work in progress. Check back soon!
+#### Design Goals
 
-### Design Goals
+* Develop recommendations for possible residential recycling solutions based on prototyping, research, and testing with Austin residents.
 
-The **design phase** is coming up with ideas, testing them out to see what works, and refining the ones that do.
+* Develop test metrics and execute testing and measuring of possible solutions.
+
+* Recommend improvements to existing print and digital resources.
+
+* Establish methods to track and measure advertising or outreach effectiveness and/or awareness by personas and market segments.
 
 ![image of design process](/uploads/designmethods.png)
 
