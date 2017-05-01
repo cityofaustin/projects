@@ -17,7 +17,7 @@ position: 1
 
 [Design Plan](https://docs.google.com/document/d/1rqR_tuWFXR3g2NHKQ2_4oQ3OKb_h3xm88ZOom_QVEiY/edit?usp=sharing)
 
-![image of design process](/uploads/DesignMethod-ConceptEvaluation.JPG)
+![image of design process](/uploads/DesignMethod-ConceptEvaluation.jpg)
 
 #### Translating Research to Design
 
