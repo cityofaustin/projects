@@ -31,7 +31,8 @@ The research learnings were a foundation for generating ideas that addressed Aus
 
 * *Prioritize by Feasibility:* Narrow down concepts again, looking at what can be done in the short-term vs. long-term, with a small budget or a big budget, with or without approval from multiple stakeholders.
 
-[Concept Sheet Template](https://docs.google.com/document/d/1l73qK3jtAm5I-5xdqeLI_Y_besYYhwRtEqm-u6Hzx7c/edit?usp=sharing)\
+[Concept Sheet Template](https://docs.google.com/document/d/1l73qK3jtAm5I-5xdqeLI_Y_besYYhwRtEqm-u6Hzx7c/edit?usp=sharing)
+
 [Evaluation Spreadsheet Template](https://docs.google.com/spreadsheets/d/1KdyuqadqUcwr7Yz12LK9EVQz_kvYhz9CBF2IYoZizaU/edit?usp=sharing)
 
 #### Design Sprints
