@@ -1,6 +1,6 @@
 ---
-title: Business models - Short, Medium, Long Term
-date: 2017-03-28 18:22:00 Z
+title: Smart Business Model Projects
+date: 2017-03-28 13:22:00 -05:00
 position: 0
 ---
 
