@@ -1,7 +1,7 @@
 ---
 title: Smart Policy
-date: 2017-03-28 17:29:00 Z
-position: 2
+date: 2017-03-28 12:29:00 -05:00
+position: 3
 ---
 
 *"Of all the prospects raised by the evolution of digital culture, the most tantalizing is the possibility that technology could fuse with politics to create a more civil society." Jon Katz*
