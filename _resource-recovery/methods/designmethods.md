@@ -40,3 +40,34 @@ The research learnings were a foundation for generating ideas that addressed Aus
 Sprints refer to one or two week segments we spent on each round of prototypes. Our goal within each sprint was to build a rough prototype and test with residents so we can determine each prototype’s viability by the end of the sprint.
 
 [Sample Sprint Schedule](https://docs.google.com/spreadsheets/d/1uCVVK9bhXImivm__Rb0O5O9wMBH5UNrPrCKWjXQGF-c/edit?usp=sharing)
+
+![DesignMethod-RoughPrototypes.jpg](/uploads/DesignMethod-RoughPrototypes.jpg)
+
+#### Prototyping
+
+Rapid prototyping a concept is a low-cost and effective method for testing the potential of a new service, product, or message.
+
+* ***Frame the Problem:***\*\* \*\*As a group, we defined a problem statement that a particular concept addressed.
+
+* *Inspiration*: Investigated how other cities / organizations are solving this type of problem
+
+* \*Draw It Out: \*We hand-drew the prototype on a whiteboard, getting everyone on board for what we were building and testing.
+
+* *User Scenario:* Wrote user scenarios, imagining how the prototype would manifest in the real world.
+
+* *Storyboard:* Small vignettes that help envision the prototype being used to reach a goal or fulfill a need.
+
+* *Form a Hypothesis:* Hypothesized how that idea would solve for the problem and developed metrics to measure this hypothesis.
+
+* \*Rough Prototype: \*Built the most minimal version of the prototype using paper, foam core, or other appropriate mediums.
+
+[Prototype Plan Template](https://docs.google.com/document/d/1bqS9Dc8mK8JcDAfPdFtNj0YXUoFX2xojlMPAp1GaslM/edit?usp=sharing)\
+[Storyboard Template](https://docs.google.com/presentation/d/1UACE7gEnpR_rdWTbAc6_DubjkrQ85cPnzG6OQ-5XOyA/edit?usp=sharing)
+
+![DesignMethod-UsabilityTesting.jpg](/uploads/DesignMethod-UsabilityTesting.jpg)
+
+#### Usability Testing
+
+Conducted usability tests with residents that either proved or disproved a prototype’s value, helping us to sometimes fail early and move forward.
+
+\
