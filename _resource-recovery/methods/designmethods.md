@@ -61,7 +61,7 @@ Rapid prototyping a concept is a low-cost and effective method for testing the p
 
 * \*Rough Prototype: \*Built the most minimal version of the prototype using paper, foam core, or other appropriate mediums.
 
-[Prototype Plan Template](https://docs.google.com/document/d/1bqS9Dc8mK8JcDAfPdFtNj0YXUoFX2xojlMPAp1GaslM/edit?usp=sharing)\
+[Prototype & Test Plan Template](https://docs.google.com/document/d/1bqS9Dc8mK8JcDAfPdFtNj0YXUoFX2xojlMPAp1GaslM/edit?usp=sharing)\
 [Storyboard Template](https://docs.google.com/presentation/d/1UACE7gEnpR_rdWTbAc6_DubjkrQ85cPnzG6OQ-5XOyA/edit?usp=sharing)
 
 ![DesignMethod-UsabilityTesting.jpg](/uploads/DesignMethod-UsabilityTesting.jpg)
@@ -70,4 +70,16 @@ Rapid prototyping a concept is a low-cost and effective method for testing the p
 
 Conducted usability tests with residents that either proved or disproved a prototype’s value, helping us to sometimes fail early and move forward.
 
-\
+* \*\*\*Plan & Recruit: \*\*\*Coordinated test location and tried to quickly recruit an equitable pool of participants--people with diverse backgrounds, income or education levels, with and without disabilities, non-English speakers, different ages, and more.
+
+* ***Complete Test Plan:***\*\* \*\*For each prototype, we filled out a prototype test plan detailing the methods for testing and the metrics we were gathering.
+
+* \*\*\*Conduct Usability Test: \*\*\*Test your rough prototype with the people we’re designing for, in the context they’ll use it.
+
+* *Reflect:* Analyzed qualitative and quantitative findings.
+
+* *How to Proceed:* Determined next steps. Sometimes that meant refining our prototype based on test results, other times that meant scrapping the prototype and moving on because the prototype didn’t test well.
+
+* \*Share: \*Sometimes we co-created and tested prototypes with Austin Resource Recovery team members, and always shared learnings and outcomes at bi-weekly sprint review meetings.
+
+[Prototype & Test Plan Template](https://docs.google.com/document/d/1bqS9Dc8mK8JcDAfPdFtNj0YXUoFX2xojlMPAp1GaslM/edit?usp=sharing)
