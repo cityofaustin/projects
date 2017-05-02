@@ -47,7 +47,7 @@ Sprints refer to one or two week segments we spent on each round of prototypes. 
 
 Rapid prototyping a concept is a low-cost and effective method for testing the potential of a new service, product, or message.
 
-* *Frame the Problem:*As a group, we defined a problem statement that a particular concept addressed.
+* *Frame the Problem:* As a group, we defined a problem statement that a particular concept addressed.
 
 * *Inspiration*: Investigated how other cities / organizations are solving this type of problem
 
@@ -83,3 +83,41 @@ Conducted usability tests with residents that either proved or disproved a proto
 * *Share:* Sometimes we co-created and tested prototypes with Austin Resource Recovery team members, and always shared learnings and outcomes at bi-weekly sprint review meetings.
 
 [Prototype & Test Plan Template](https://docs.google.com/document/d/1bqS9Dc8mK8JcDAfPdFtNj0YXUoFX2xojlMPAp1GaslM/edit?usp=sharing)
+
+![DesignMethod-SprintReviewCritique.jpg](/uploads/DesignMethod-SprintReviewCritique.jpg)
+
+#### Critique
+
+We shared work often–with our team and/or with Austin Resource Recovery. Having work out in the open and inviting critique helped us iterate quickly, get feedback from recycling subject matter experts, and avoid going down the wrong path. We developed feedback tips for this project.
+
+* Ask for the type and style of feedback you prefer.
+
+* Have fun & practice pausing.
+
+* Listen & write things down.
+
+* Wear different “hats.” Set aside your typical priorities and put on your creative hat, your evaluative hat, you subject matter expert hat, your resident hat, etc.
+
+* Ask “Where can this go wrong?” It is important to have an open mind when reviewing ideas but also to map constraints and barriers that we’d need to overcome.
+
+* Provide actionable feedback: “This isn’t working because _____. You could try _____, which will help by doing _____.”
+
+#### Making Recommendations & Archiving
+
+Hundreds of files, videos, and images make up our process work and design outcomes. We packaged final products and instructionals in a few ways.
+
+* *Recommendations Booklet:* We  created a booklet that includes a brief history of each prototype, test details, and finished products with instructionals for next steps. Most importantly, Austin Resource Recovery teams can access this booklet and use it in their daily workflow.
+
+* *Relocating Folder:* We prepared and transferred all files to Austin Resource Recovery’s internal drive so they can access original files.
+
+![MediumPostScreenshot.png](/uploads/MediumPostScreenshot.png)
+
+#### Sharing
+
+We shared process work through many channels, hoping to share our methods, pitfalls, and learnings with other practitioners, government teams, and residents.
+
+* *Public Presentations:* More than a presentation, these are our chances to share work and get feedback from the public. We took advantage of public spaces, like City Hall and Carver Library, that had free parking and feel welcoming. Each presentation involved making promotional materials, preparing a deck or visuals, and coordinating with a news source to film and post online for people who cannot attend.
+
+* *Github:* You’re on Github right now! It’s an open source platform that encourages collaboration and sharing. This provided the Fellows with a free, transparent way to share work.
+
+* *Medium:* Writing platform where we shared our personal reflections on methods and process, on what it’s like to conduct research and prototype in city government, and on keeping open lines of communication.
