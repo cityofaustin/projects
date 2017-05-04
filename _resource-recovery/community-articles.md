@@ -5,7 +5,7 @@ position: 5
 
 ## Community Articles
 
-Here you'll find articles that have been written about this project. Some articles are authored by journalists in the community sharing their reflection and recap of the project. Other articles are written by project team members as a way for us to share perspective and reflections about the project.
+Here you'll find articles that have been written about this project. Some articles are authored by journalists in the community sharing their reflection and recap of the project. Other articles are written by project team members as a way for us to share perspective and reflections about the project.\
 
 #### Articles from the Community
 
