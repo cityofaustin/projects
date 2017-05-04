@@ -24,7 +24,7 @@ position: 0
 #### Advisory Team
 
 * Memi Cardenas \| Residential Outreach
-* Suzanne Harm \| Business and Multifamily Outreach
+* Susanne Harm \| Business and Multifamily Outreach
 * Jennifer Denton \| Community Engagement, Block Leader Program
 * Heidi Wong \| Graphic Design
 * Keri Greenwalt \| Graphic Design
