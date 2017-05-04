@@ -5,7 +5,7 @@ position: 5
 
 ## Articles
 
-Here you'll find articles that have been written about this project. Some articles are authored by journalists in the community sharing their reflection and recap of the project. Other articles are written by project team members as a way for us to share perspective and reflections about the project.\
+Here you'll find articles that have been written about this project. Some articles are authored by journalists in the community sharing their reflection and recap of the project. Other articles are written by project team members as a way for us to share perspective and reflections about the project.\\
 
 #### Articles from the Community
 
@@ -21,7 +21,7 @@ Here you'll find articles that have been written about this project. Some articl
 
 [Cities are still struggling to fix recycling contamination — and now, it's getting personal](http://www.wastedive.com/news/cities-are-still-struggling-to-fix-recycling-contamination-and-now-its/435578/) by Cole Rosengren
 
-[Finding Innovative Recycling Solutions in Austin, Texas (Radio Recording)](http://shadesofgreenmedia.com/2017/01/finding-innovative-recycling-solutions-in-austin-texas-01-19-2017/) by Shades of Green, 91.7 FM KOOP\
+[Finding Innovative Recycling Solutions in Austin, Texas (Radio Recording)](http://shadesofgreenmedia.com/2017/01/finding-innovative-recycling-solutions-in-austin-texas-01-19-2017/) by Shades of Green, 91.7 FM KOOP\\
 
 #### Articles by Project Team
 
@@ -33,7 +33,7 @@ Here you'll find articles that have been written about this project. Some articl
 
 [How we’re using Rapid Prototyping in Local Government](https://medium.com/civiqueso/how-were-using-rapid-prototyping-to-design-for-austin-city-government-d0ee34f24f3a) by Céline Thibault
 
-[Prototyping and Design | Round 3 ](https://medium.com/civiqueso/prototypes-blog-post-round-3-cb8313a02f00)by Amalie Barras
+[Prototyping and Design, Round 3](https://medium.com/civiqueso/prototypes-blog-post-round-3-cb8313a02f00) by Amalie Barras
 
 [Drafting a Shared Vision for Recycling in Austin, Texas](https://medium.com/civiqueso/drafting-a-shared-vision-for-recycling-in-austin-texas-725f2cc8c765) by Céline Thibault
 
