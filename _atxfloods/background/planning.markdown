@@ -1,6 +1,7 @@
 ---
 title: Planning
 date: 2017-05-05 17:06:00 -05:00
+position: 1
 ---
 
 # Scope & Timeline
