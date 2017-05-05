@@ -110,7 +110,7 @@ Hundreds of files, videos, and images make up our process work and design outcom
 
 * *Relocating Folder:* We prepared and transferred all files to Austin Resource Recovery’s internal drive so they can access original files.
 
-![MediumPostScreenshot.png](/uploads/MediumPostScreenshot.png)
+![InternalDesignShareout.jpg](/uploads/InternalDesignShareout.jpg)
 
 #### Sharing
 
