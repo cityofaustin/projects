@@ -103,7 +103,7 @@ Concluded each interview with an immediate 45-90 min debrief session to document
 
 * *Insight & Opportunity Area Generation:* Wrote insights and opportunity areas for each grouping of themes. These were generated through a 4-step prompt. Each step had multiple iterations.
 
-  1. Gave the grouping an obvious lable to summarize the main idea of the grouping.
+  1. Gave the grouping an obvious label to summarize the main idea of the grouping.
 
   2. Asked why to unpack the reason this is happening.
 
