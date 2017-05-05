@@ -1,6 +1,7 @@
 ---
 title: Research
 date: 2017-05-05 17:15:00 -05:00
+position: 1
 ---
 
 We kicked off this project with a lot of feedback from our partners in Watershed Protection about what they would like to see in the redesigned ATXfloods.com. They did their due diligence and even looped in other partners, eliciting feedback from other emergency services departments and from local broadcast media. So why did we need a research phase?
