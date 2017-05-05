@@ -43,7 +43,7 @@ Conducted in-depth exploration of mindsets, perceptions, knowledge, and behavior
 
 * *Expert Interviews:* 30-45 min interviews with subject matter experts (e.g. Zero Waste Block Leaders, Advocate Groups, etc.)
 
-* *In-Home Interviews/Ethnography with Residents:* 90-120 mins of in-depth interviews with residents in their homes to learn about their experiences with recycling including their habits and routines, successes and challenges, and mindsets and perceptions regarding. Will do both one-on-one and group interviews with roommates and families. (52 residents total)
+* *In-Home Interviews/Ethnography with Residents:* 90-120 mins of in-depth interviews with residents in their homes to learn about their experiences with recycling including their habits and routines, successes and challenges, and mindsets and perceptions regarding recycling. Will do both one-on-one and group interviews with roommates and families. (52 residents total)
 
 * *Experience Probes:* During in-home interviews, participants will be prompted to complete different activities to reveal more insight into their perceptions, knowledge and behaviors.
 
