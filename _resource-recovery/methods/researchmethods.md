@@ -47,7 +47,7 @@ Conducted in-depth exploration of mindsets, perceptions, knowledge, and behavior
 
 * *Experience Probes:* During in-home interviews, participants will be prompted to complete different activities to reveal more insight into their perceptions, knowledge and behaviors.
 
-* *Property Manager Interviews:* 60 min interviews with property managers at their properties to learn about the recycling services and priorities at multi-family properties. (4 property manager/owners total)
+* *Property Manager Interviews:* 60 min interviews with property managers at their properties to learn about the recycling services and priorities and challenges of providing recycling at multi-family properties. (4 property manager/owners total)
 
 [Interview Guides and Experience Probes](https://drive.google.com/open?id=0B0ZCxe9t4WXDVVRtWnFwMkMwVms)
 
