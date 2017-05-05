@@ -7,21 +7,27 @@ position: 5
 
 Here you'll find articles that have been written about this project. Some articles are authored by journalists in the community sharing their reflection and recap of the project. Other articles are written by project team members as a way for us to share perspective and reflections about the project.
 
+![AustinChronicleArticle.jpg](/uploads/AustinChronicleArticle.jpg)
+
 #### Articles from the Community
 
 [4 takeaways from study on Austin’s recycling behaviors](https://communityimpact.com/austin/central-austin/city-county/2017/01/19/4-takeaways-study-austins-recycling-behaviors/)  by Christopher Neely, Community Impact
 
-[Study reveals why some Austinites don’t recycle](https://www.austinmonitor.com/stories/2017/01/study-reveals-austinites-dont-recycle/) by Cate Malek
+[Study reveals why some Austinites don’t recycle](https://www.austinmonitor.com/stories/2017/01/study-reveals-austinites-dont-recycle/) by Cate Malek, Austin Monitor
 
-[Austin, TX gets creative to determine why 'zero waste' plan has stalled](http://www.wastedive.com/news/austin-tx-gets-creative-to-determine-why-zero-waste-plan-has-stalled/434449/) by Cole Rosengren
+[Austin, TX gets creative to determine why 'zero waste' plan has stalled](http://www.wastedive.com/news/austin-tx-gets-creative-to-determine-why-zero-waste-plan-has-stalled/434449/) by Cole Rosengren, Waste Dive
 
-[Austin City Soul Searching](http://foresternetwork.com/daily/waste/recycling/austin-city-soul-searching/) by Arturo Santiago
+[Austin City Soul Searching](http://foresternetwork.com/daily/waste/recycling/austin-city-soul-searching/) by Arturo Santiago,
 
-[Austin takes next step toward becoming 'zero-waste'](http://keyetv.com/news/local/austin-takes-next-step-toward-becoming-zero-waste) by Juliette Dryer, CBS Austin
+[Cities are still struggling to fix recycling contamination — and now, it's getting personal](http://www.wastedive.com/news/cities-are-still-struggling-to-fix-recycling-contamination-and-now-its/435578/) by Cole Rosengren, Waste Dive
 
-[Cities are still struggling to fix recycling contamination — and now, it's getting personal](http://www.wastedive.com/news/cities-are-still-struggling-to-fix-recycling-contamination-and-now-its/435578/) by Cole Rosengren
+[Austin takes next step toward becoming 'zero-waste' ](http://keyetv.com/news/local/austin-takes-next-step-toward-becoming-zero-waste) by Juliette Dryer, CBS Austin
 
-[Finding Innovative Recycling Solutions in Austin, Texas (Radio Recording)](http://shadesofgreenmedia.com/2017/01/finding-innovative-recycling-solutions-in-austin-texas-01-19-2017/) by Shades of Green, 91.7 FM KOOP\\
+[Finding Innovative Recycling Solutions in Austin, Texas (Radio Recording)](http://shadesofgreenmedia.com/2017/01/finding-innovative-recycling-solutions-in-austin-texas-01-19-2017/) by Shades of Green, 91.7 FM KOOP
+
+[Designing a Smarter City](http://www.austinchronicle.com/news/2016-11-04/designing-a-smarter-city/) by Robyn Ross, Austin Chronicle 
+
+![MediumPostScreenshot.png](/uploads/MediumPostScreenshot.png)
 
 #### Articles by Project Team
 
