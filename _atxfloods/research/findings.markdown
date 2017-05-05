@@ -4,11 +4,11 @@ date: 2017-05-05 17:23:00 -05:00
 position: 1
 ---
 
-#Research Findings
+\#Research Findings
 
 ## Motivations
 
-Overall, we saw some themes emerge when talking to different groups about WHY they might visit ATXfloods.com. You’ll see that accuracy, communication, clarify, and conditions are oft-repeated terms.
+Overall, we saw some themes emerge when talking to different groups about *why* they might visit ATXfloods.com. You’ll see that accuracy, communication, clarify, and conditions are oft-repeated terms.
 
 ### Broadcast Media
 
@@ -46,7 +46,7 @@ Overall, we saw some themes emerge when talking to different groups about WHY th
 
 * Gauge past performances
 
-#### Citizens
+### Citizens
 
 * Safely route travel
 
