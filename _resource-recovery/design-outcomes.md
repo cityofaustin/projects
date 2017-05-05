@@ -46,7 +46,7 @@ After four months of prototyping and testing potential solutions with Austin res
 
 #### Outreach Tool
 
-![OutreachTool_Ipad.jpg](/uploads/OutreachTool_Ipad.jpg)
+![OutreachTool Digital with iPad.png](/uploads/OutreachTool%20Digital%20with%20iPad.png)
 
 *Framework Insight:* Residents need strength in 2 out of 3 framework areas (knowledge, ability, motivation) to recycle well.
 
