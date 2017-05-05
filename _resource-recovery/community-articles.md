@@ -17,15 +17,15 @@ Here you'll find articles that have been written about this project. Some articl
 
 [Austin, TX gets creative to determine why 'zero waste' plan has stalled](http://www.wastedive.com/news/austin-tx-gets-creative-to-determine-why-zero-waste-plan-has-stalled/434449/) by Cole Rosengren, Waste Dive
 
-[Austin City Soul Searching](http://foresternetwork.com/daily/waste/recycling/austin-city-soul-searching/) by Arturo Santiago,
+[Austin City Soul Searching](http://foresternetwork.com/daily/waste/recycling/austin-city-soul-searching/) by Arturo Santiago, Forester Daily News
 
 [Cities are still struggling to fix recycling contamination — and now, it's getting personal](http://www.wastedive.com/news/cities-are-still-struggling-to-fix-recycling-contamination-and-now-its/435578/) by Cole Rosengren, Waste Dive
 
-[Austin takes next step toward becoming 'zero-waste' ](http://keyetv.com/news/local/austin-takes-next-step-toward-becoming-zero-waste) by Juliette Dryer, CBS Austin
+[Austin takes next step toward becoming 'zero-waste' (TV Interview) ](http://keyetv.com/news/local/austin-takes-next-step-toward-becoming-zero-waste) by Juliette Dryer, CBS Austin
 
 [Finding Innovative Recycling Solutions in Austin, Texas (Radio Recording)](http://shadesofgreenmedia.com/2017/01/finding-innovative-recycling-solutions-in-austin-texas-01-19-2017/) by Shades of Green, 91.7 FM KOOP
 
-[Designing a Smarter City](http://www.austinchronicle.com/news/2016-11-04/designing-a-smarter-city/) by Robyn Ross, Austin Chronicle 
+[Designing a Smarter City](http://www.austinchronicle.com/news/2016-11-04/designing-a-smarter-city/) by Robyn Ross, Austin Chronicle
 
 ![MediumPostScreenshot.png](/uploads/MediumPostScreenshot.png)
 
