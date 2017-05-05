@@ -15,10 +15,15 @@ date: 2017-04-19 06:21:00 -05:00
 
 #### FEWS / Watershed Core Team
 
-* Matthew Porcher \| 
+* Matthew Porcher | Flood Early Warning System, Watershed Protection Department
+* Karl McArthur | Flood Early Warning System, Watershed Protection Department
+* Susan Janek |  Flood Early Warning System, Watershed Protection Department
+
 
 #### Advisory Team
 
-* Eric Carter \| CapCOG
-* Kharley Smith \| Hays County Emergency Management
-* Steven Long \| Bastrop County Emergency Management
+* Scott Prinsen | Flood Early Warning System, Watershed Protection Department
+* Eric Carter | CapCOG Homeland Security
+*Kharley Smith | Hays County Emergency Management
+* Steven Long | Bastrop County Emergency Management
+* Martin Richey | Caldwell County Emergency Management
