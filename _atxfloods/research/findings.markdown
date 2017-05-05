@@ -53,3 +53,13 @@ Overall, we saw some themes emerge when talking to different groups about WHY th
 * Plan timing of travel through crossings
 
 * Act as safety ambassadors
+
+## 1. Mobile use is high-priority
+## 2. Impacts situational awareness for many groups
+## 3. Accuracy is a key motivator for use, but reliability is a pain point
+### _Opportunity via timestamped data
+### _Opportunity via status context
+### _Opportunity via imagery
+### _Opportunity via realtime data
+## 4. Regional information is important for routing and assessment
+## 5. Recovery is a period where support is needed
