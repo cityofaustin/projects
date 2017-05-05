@@ -37,17 +37,17 @@ Got a lay of the land, a cursory understanding of recycling and composting throu
 
 #### Field Research
 
-Conducted indpeth exploration of mindsets, perceptions, knowledge, and behaviors of Austin residents and property managers around recycling.
+Conducted in-depth exploration of mindsets, perceptions, knowledge, and behaviors of Austin residents and property managers around recycling.
 
 * *Ride-Alongs:* 2-3 hours shadowing and interviewing recycling truck operators to learn about back end processes and everyday operations.
 
-* *Expert Interviews:* 30-45 min interviews with subject matter experts (e.g. Block Leaders, Advocate Groups, etc.)
+* *Expert Interviews:* 30-45 min interviews with subject matter experts (e.g. Zero Waste Block Leaders, Advocate Groups, etc.)
 
-* *In-Home Interviews/Ethnography with Residents:* 90-120 mins of in-depth interviews with residents in their homes to learn about their experiences with recycling including their habits and routines, successes and challenges, and mindsets and perceptions regarding. Will do both one-on-one and group interviews with roommates and families. (40-50 total)
+* *In-Home Interviews/Ethnography with Residents:* 90-120 mins of in-depth interviews with residents in their homes to learn about their experiences with recycling including their habits and routines, successes and challenges, and mindsets and perceptions regarding. Will do both one-on-one and group interviews with roommates and families. (52 residents total)
 
 * *Experience Probes:* During in-home interviews, participants will be prompted to complete different activities to reveal more insight into their perceptions, knowledge and behaviors.
 
-* *Property Manager Interviews:* 60 min interviews with property managers at their properties to learn about the recycling services and priorities at multi-family properties. (5-10 total)
+* *Property Manager Interviews:* 60 min interviews with property managers at their properties to learn about the recycling services and priorities at multi-family properties. (4 property manager/owners total)
 
 [Interview Guides and Experience Probes](https://drive.google.com/open?id=0B0ZCxe9t4WXDVVRtWnFwMkMwVms)
 
