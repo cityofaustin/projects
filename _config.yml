@@ -5,6 +5,9 @@ collections:
   atxfloods:
     title: ATXfloods
     output: true
+  digital-services-tech-stack-discovery:
+    title: Digital Services Tech Stack Discovery
+    output: true
   homelessness-outreach-street-team:
     title: HOST
     output: true
