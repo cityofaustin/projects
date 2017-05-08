@@ -49,9 +49,9 @@ position: 0
 
 * **Teresa Chapman,** Business Outreach
 
-* **Jorge Ortega, **Marketing Representative
+* **Jorge Ortega,** Marketing Representative
 
-* **Selene Castillo, **Waste Diversion Planner
+* **Selene Castillo,** Waste Diversion Planner
 
 * **Ashley Pace,** Operations Manager, Innovation Office
 
