@@ -9,54 +9,52 @@ position: 0
 
 #### Design, Technology, and Innovation Fellows Staff
 
-* Katherine Duong, Design Researcher & Designer
+* **Katherine Duong,** Design Researcher & Designer
 
-* Celine Tibault, Design Researcher & Designer
+* **Celine Tibault,** Design Researcher & Designer
 
-* Marni Wilhite, Project Manager
+* **Marni Wilhite,** Project Manager
 
-* Amalie Barras, Design and Testing
+* **Amalie Barras,** Design and Testing
 
-* Laura Trujillo, Content Strategist 
+* **Laura Trujillo,** Content Strategist
 
 #### ARR Core Team
 
-* Ron Neumond | Zero Waste Program Development
+* **Ron Neumond,** Zero Waste Program Development
 
-* Emlea Chanslor | PIO Marketing Manager
+* **Emlea Chanslor,** PIO Marketing Manager
 
-* Aiden Cohen | Environmental Conservation Program Manager
+* **Aiden Cohen,**  Environmental Conservation Program Manager
 
-* Gena McKinley | Marketing Communications Consultant
+* **Gena McKinley,** Marketing Communications Consultant
 
 #### Advisory Team
 
-* Memi Cardenas | Residential Outreach
+* **Memi Cardenas,** Residential Outreach
 
-* Susanne Harm | Business and Multifamily Outreach
+* **Susanne Harm,** Business and Multifamily Outreach
 
-* Jennifer Denton | Community Engagement, Block Leader Program
+* **Jennifer Denton,** Community Engagement, Block Leader Program
 
-* Heidi Wong | Graphic Design
+* **Heidi Wong,** Graphic Design
 
-* Keri Greenwalt | Graphic Design
+* **Keri Greenwalt,** Graphic Design
 
-* Ashley Pace | Admin, Process and Outreach
+* **Thomas Gleason,** Business Outreach
 
-* Thomas Gleason | Business Outreach
+* **Melissa Goodman,** Employee Comms & Marketing
 
-* Melissa Goodman | Employee Comms & Marketing
+* **Woody Raine,** Zero Waste Policy
 
-* Woody Raine | Zero Waste Policy
+* **Teresa Chapman,** Business Outreach
 
-* Shana Riviello | Quality Assurance
+* **Ashley Pace,** Operations Manager, Innovation Office
 
-* Teresa Chapman | Business Outreach
+* **Amy Petri,** Office of Sustainability
 
-* Amy Petri | Office of Sustainability
+* **Ilya Schmulenson,** Keep Austin Beautiful
 
-* Ilya Schmulenson | Keep Austin Beautiful
+* **Darien Clary,** Austin Independent School District
 
-* Darien Clary | Austin Independent School District
-
-* Mindy Reed | Recycled Reads
+* **Mindy Reed,** Recycled Reads
