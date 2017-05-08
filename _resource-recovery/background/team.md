@@ -49,6 +49,10 @@ position: 0
 
 * **Teresa Chapman,** Business Outreach
 
+* **Jorge Ortega, **Marketing Representative
+
+* **Selene Castillo, **Waste Diversion Planner
+
 * **Ashley Pace,** Operations Manager, Innovation Office
 
 * **Amy Petri,** Office of Sustainability
