@@ -9,15 +9,15 @@ position: 0
 
 #### Design, Technology, and Innovation Fellows Staff
 
-* Katherine Duong | Design Researcher
+* Katherine Duong, Design Researcher & Designer
 
-* Celine Tibault | Design Researcher
+* Celine Tibault, Design Researcher & Designer
 
-* Marni Wilheit | Project Manager
+* Marni Wilhite, Project Manager
 
-* Amalie Barras | Design and Testing
+* Amalie Barras, Design and Testing
 
-* Laura Trujillo | Content Strategist \
+* Laura Trujillo, Content Strategist 
 
 #### ARR Core Team
 
