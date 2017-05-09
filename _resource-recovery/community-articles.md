@@ -3,9 +3,9 @@ title: Community Articles
 position: 5
 ---
 
-## Articles
+## Articles & Media Coverage
 
-Here you'll find articles that have been written about this project. Some articles are authored by journalists in the community sharing their reflection and recap of the project. Other articles are written by project team members as a way for us to share perspective and reflections about the project.
+Here you'll find articles and other media coverage about this project. Some articles are authored by journalists in the community sharing their reflection and recap of the project. Other articles are blog posts written by project team members as a way for us to share perspective and reflections about the project.
 
 ![AustinChronicleArticle.jpg](/uploads/AustinChronicleArticle.jpg)
 
@@ -21,15 +21,23 @@ Here you'll find articles that have been written about this project. Some articl
 
 [Cities are still struggling to fix recycling contamination — and now, it's getting personal](http://www.wastedive.com/news/cities-are-still-struggling-to-fix-recycling-contamination-and-now-its/435578/) by Cole Rosengren, Waste Dive
 
+[Designing a Smarter City](http://www.austinchronicle.com/news/2016-11-04/designing-a-smarter-city/) by Robyn Ross, Austin Chronicle
+
+![CelineATXN.JPG](/uploads/CelineATXN.JPG)
+
+#### Media Coverage
+
 [Austin takes next step toward becoming 'zero-waste' (TV Interview) ](http://keyetv.com/news/local/austin-takes-next-step-toward-becoming-zero-waste) by Juliette Dryer, CBS Austin
 
-[Finding Innovative Recycling Solutions in Austin, Texas (Radio Recording)](http://shadesofgreenmedia.com/2017/01/finding-innovative-recycling-solutions-in-austin-texas-01-19-2017/) by Shades of Green, 91.7 FM KOOP
+[Finding Innovative Recycling Solutions in Austin, Texas (Radio Interview)](http://shadesofgreenmedia.com/2017/01/finding-innovative-recycling-solutions-in-austin-texas-01-19-2017/) by Shades of Green, 91.7 FM KOOP
 
-[Designing a Smarter City](http://www.austinchronicle.com/news/2016-11-04/designing-a-smarter-city/) by Robyn Ross, Austin Chronicle
+[New tools aim to increase recycling, reach Austin's zero waste goal (TV Interview) ](http://keyetv.com/news/local/new-tools-aim-to-increase-recycling-reach-austins-zero-waste-goal)by Melanie Torre, CBS Austin
+
+[Recycle or trash? Study finds Austin’s recycling rules confusing (TV Interview)](http://kxan.com/2017/05/08/recycle-or-trash-study-finds-austins-recycling-rules-confusing/) by Kate Weidaw, KXAN
 
 ![MediumPostScreenshot.png](/uploads/MediumPostScreenshot.png)
 
-#### Articles by Project Team
+#### Blog Posts by Project Team
 
 [Understanding Recycling in Austin, Texas](https://medium.com/civiqueso/understanding-recycling-in-austin-texas-397a7b42d76f) by Céline Thibault
 
@@ -46,3 +54,5 @@ Here you'll find articles that have been written about this project. Some articl
 [Using Recycling Research Learnings as a Roadmap for Design](https://medium.com/civiqueso/im-c%C3%A9line-bb0c8c9dcdc4) by Céline Thibault
 
 [The Mechanics of Bringing Clients Along the Design Process](https://medium.com/civiqueso/the-mechanics-of-bringing-clients-along-the-design-process-93010a6607f2) by Katherine Duong
+
+[Designing a Content Strategy with a North Star](https://medium.com/@laura.c.trujillo_18/designing-a-content-strategy-with-a-north-star-16539c743088) by Laura Trujillo 
