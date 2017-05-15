@@ -19,5 +19,7 @@ City Council has asked that our strategic roadmap include the following:
 * Potential resources and means for partnering and financing initiatives
 * A prioritized list of projects to pursue.
 
+![Smart City Roadmap Goal - Progress.png](/uploads/Smart%20City%20Roadmap%20Goal%20-%20Progress.png)
 
+![Smart City Roadmap Project  Phases.png](/uploads/Smart%20City%20Roadmap%20Project%20%20Phases.png)
 
