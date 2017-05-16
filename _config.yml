@@ -8,9 +8,6 @@ collections:
   tech-stack:
     title: Digital Services Tech Stack Discovery
     output: true
-  events:
-    title: Events
-    output: true
   homelessness-outreach-street-team:
     title: HOST
     output: true
