@@ -1,5 +1,5 @@
 ---
-title: Plan
+title: Discoveries
 position: 4
 ---
 
