@@ -1,6 +1,6 @@
 ---
 title: Our Approach
-date: 2017-03-30 15:48:00 Z
+date: 2017-03-30 10:48:00 -05:00
 position: 0
 ---
 
@@ -18,42 +18,22 @@ We created 3 interrelated teams to approach the city’s permitting process:
 
 To keep these teams on the same page, we created a shared set of principles to guide our work:
 
-* **Accessible**
+* **Accessible**: Provide information in an open and welcoming manner.
 
-Provide information in an open and welcoming manner.
+* **Connective**: Develop resilient relationships between parties.
 
-* **Connective**
+* **Empowering**: Promote ownership of problems and solutions by city staff.
 
-Develop resilient relationships between parties.
+* **Responsive**: Support change and meet arising needs. 
 
-* **Empowering**
+* **Spirited**: Foster alignment among city departments.
 
-Promote ownership of problems and solutions by city staff.
+* **Accountable**: Share responsibility and mutual support.
 
-* **Responsive**
+* **Efficient**: Facilitate a manageable experience for the public.
 
-Support change and meet arising needs. 
+* **Educational**: Share knowledge and promote understanding.
 
-* **Spirited**
+* **Transparent**: Reveal the foundation that supports information.
 
-Foster alignment among city departments.
-
-* **Accountable**
-
-Share responsibility and mutual support.
-
-* **Efficient**
-
-Facilitate a manageable experience for the public.
-
-* **Educational**
-
-Share knowledge and promote understanding.
-
-* **Transparent**
-
-Reveal the foundation that supports information.
-
-* **Intuitive**
-
-Present inherently available tools and processes.
+* **Intuitive**: Present inherently available tools and processes.
