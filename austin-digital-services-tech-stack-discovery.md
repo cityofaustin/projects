@@ -1,7 +1,7 @@
 ---
 title: Austin Digital Services Tech Stack Discovery
 position: 7
-collection: _austin-digital-services-tech-stack-discovery
+collection: austin-digital-services-tech-stack-discovery
 ---
 
 # Discovering Austin’s Digital Services Needs
