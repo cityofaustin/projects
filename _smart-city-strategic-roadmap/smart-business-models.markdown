@@ -5,6 +5,11 @@ published: false
 position: 7
 ---
 
+During and after the April 18 Smart Cities Council Readiness Workshop, we asked participants for insights and learned:
+
+"The City needs a better identified entryway to intake, evaluate, and provide feedback to specific solutions and technologies."
+
+"The City needs a stronger capability for forming and managing public-private partnerships to address financing, risk, diversity, equity, and asset management."
 
 ## Business Models
 
