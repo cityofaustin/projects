@@ -39,7 +39,7 @@ Next steps involve carving out smart foundation projects for the upcoming fiscal
 
 # Discovery phase feedback that led to this section
 
-During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
+During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
 
 "Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions."
 
