@@ -18,5 +18,7 @@ During and after the April 18 Smart Cities Council Readiness Workshop, we asked 
 
 "Contributors suggested the City measure against benchmarks (some of which already exist) so that Austin can check progress against achieving our goals."
 
+"Contributors suggest that the City needs to facilitate connections and leverage existing programs supporting City Council outcomes."
+
 # Governance
 *The way the rules, norms, standards, and actions are structured, sustained, and regulated; and how teams are held accountable.*
