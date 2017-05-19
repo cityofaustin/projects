@@ -66,8 +66,7 @@ During and after the Smart Cities Council Readiness Workshop, we asked for the a
 
 We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mayor Adler closes up <a href="https://twitter.com/hashtag/sccreadiness?src=hash">#sccreadiness</a> workshop &quot;Need a certain tech base and people that <a href="https://twitter.com/hashtag/Austin?src=hash">#Austin</a> has to be <a href="https://twitter.com/hashtag/smartcity?src=hash">#smartcity</a>&quot; <a href="https://twitter.com/austintexasgov">@austintexasgov</a> <a href="https://t.co/7dkcPLMI1j">pic.twitter.com/7dkcPLMI1j</a></p>&mdash; AustinCityUP (@AustinCityUP) <a href="https://twitter.com/AustinCityUP/status/854450754769354752">April 18, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/kerry_atx/timelines/865580534885343232">Smart Austin Roadmap</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # History of Austin's Open and Smart Initiatives
 
