@@ -55,3 +55,16 @@ Stage 4 evolves into deeper and more robust partnerships and relationships empow
 # Building Blocks
 
 During our interviews and conversations with City Departments, we learned that there are a number of gaps and barriers to being able to build a robust smart city capability.
+
+![Smart Building Blocks.png](/uploads/Smart%20Building%20Blocks.png)
+
+These building Blocks are:
+
+* Foundation - getting on the same page about what Smart Cities really means
+* Policy - identifying ordinances, policies, or procedures that need to be changed or developed
+* Teams - establishing diverse teams to focus on solving problems with data and technology
+* Services - helping people get what they really need from the city
+* Technology - tools that help people solve problems fastert
+* Business and Funding Models - how we partner with others and pay for solutions
+ 
+We go into each of these building blocks in depth in the next pages.
