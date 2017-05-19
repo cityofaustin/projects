@@ -4,6 +4,8 @@ date: 2017-05-19 06:04:00 -05:00
 position: 0
 ---
 
+# Current status
+
 As of May 15, 2017, we have made some progress against these goals, but have more work to do to get the roadmap to it's first full draft.
 
 ![Smart City Roadmap Goal - Progress.png](/uploads/Smart%20City%20Roadmap%20Goal%20-%20Progress.png)
@@ -12,9 +14,11 @@ We've made significant progress on getting an Austin-centered definition of Smar
 
 We have much more work to do prioritize challenges and opportunities, identify resources and means for partnering and financing initiatives, create a list of projects, and align to key goals and outcomes identified by City Council and Management through the Office of Performance Management.
 
+# How we got to now
+
 ![Smart City Roadmap Project  Phases.png](/uploads/Smart%20City%20Roadmap%20Project%20%20Phases.png)
 
-Preparation for this Smart City Strategic Roadmap began in 2016, and will continue iteratively.
+Preparation for this Smart City Strategic Roadmap began in 2016 through a series of workshops, and will continue iteratively. In parallel to these efforts, the City has been working to create an [adaptive strategic plan](https://austinstrategicplan.bloomfire.com/) that sets outcome goals and targets for the next three to five years. The City has also joined a pilot with the [Open Government Partnership](https://opengovpartnership.bloomfire.com/?feed=recent) to create project commitments to make government more accountable, transparent, participatory, with integrated use of technology and innovation methods.
 
 ![Journey to Smart City Foundation - 2016](/uploads/Journey%20to%20Smart%20City%20Foundation%20-%202016.png)
 
