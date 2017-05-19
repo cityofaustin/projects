@@ -42,3 +42,16 @@ The maturity model aligns to the four components of the definition:
 * Integrate technology and data, in a way that evolves our
 * Problem-solving capabilities
 
+There are four main steps in the maturity model. 
+
+Stage 1 involves silo'ed teams with hierarchical governance that communicate one-way, often with paper-based systems that yield no data, and thus problem-solving must be done in person, one episode at a time.
+
+Stage 2 involves cross-disciplinary teams empowered to solicit input from others, enabled by some automated technologies that yield data that gives you high level trends with which you can identify target problem areas or opportunities.
+
+Stage 3 sees diverse teams with shared accountability for outcomes, empowered by their ability to close feedback loops by sharing information on actions taken, enabled by more robust transactional technologies that yield richer analytics, with which you can conduct deeper analysis and identify more hidden problems, yielding in a more responsive problem-solving capability.
+
+Stage 4 evolves into deeper and more robust partnerships and relationships empowered by transparent, multi-partner governance of networked teams across systems and sectors that are enabled by integrated technologies and robust data models than yield a proactive, predictive problem-solving capability. This stage transforms cities into hyper-efficient, sustainable, and resilient systems that support a high quality of life for residents, businesses, and visitors.
+
+# Building Blocks
+
+During our interviews and conversations with City Departments, we learned that there are a number of gaps and barriers to being able to build a robust smart city capability.
