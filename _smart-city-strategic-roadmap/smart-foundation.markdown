@@ -11,7 +11,11 @@ A Smart Foundation for the Austin's Smart City Strategic Roadmap includes being 
 
 # Principles
 
-A concept of consequence to smart cities: privacy, security, sustainability, resilience, accessibility, equity and efficiency
+A concept of consequence to smart cities. During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
+
+"Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions."
+
+"Contributors suggested the City measure against benchmarks (some of which already exist) so that Austin can check progress against achieving our goals."
 
 ## Accessibility
 
