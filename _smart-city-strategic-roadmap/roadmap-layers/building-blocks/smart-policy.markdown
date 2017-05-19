@@ -20,7 +20,7 @@ position: 1
 
 # Discovery phase feedback that led to this section
 
-During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
+During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
 
 "The City needs to identify the decision makers and explain the decision-making process for Smart City projects."
 
