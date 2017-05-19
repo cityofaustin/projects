@@ -26,6 +26,24 @@ Preparation for this Smart City Strategic Roadmap began in 2016 through a series
 
 # What we've learned 
 
+During and after the Smart Cities Council Readiness Workshop, we asked for the advice of partners and stakeholders and received a lot  key insights that will shape the roadmap.
+* Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions.
+* Contributors suggested the City measure against benchmarks (some of which already exist) so that Austin can check progress against achieving our goals.
+* The City needs a better identified entryway to intake, evaluate, and provide feedback to specific solutions and technologies.
+* The City needs a stronger capability for forming and managing public-private partnerships to address financing, risk, diversity, equity, and asset management.
+* The City needs to develop guidance to support prototyping and experimenting in an ethical and transparent way.
+* Contributors offered varying definitions of “smart,” referencing the use of solutions and technology as well as the outcomes that could be advanced.
+* The City should value data as an asset in service delivery and partnerships in ways that: 1) respect intellectual property; 2) assess the cost of unauthorized disclosure; 3) address data ownership; and, 4) inform partnerships.
+* The City needs to identify the decision makers and explain the decision-making process for Smart City projects.
+* Investment in the right skillsets, diverse perspectives, and human capital for the City is critical to the success (and even initiation) of projects.
+* The City should consider how projects impact geographic, racial, socioeconomic, and other types of equity, including unintended negative consequences.
+* Improvements to the City’s procurement process are critical to the success (and even initiation) of projects.
+* Contributors suggested that the City approach Smart Cities with a regional and geographically-distributed focus instead of concentrating solutions or ignoring interconnectedness of systems.
+* There is a need for a concerted effort on privacy and security that includes policies, processes, and staffing.
+* Projects should be continuously learning and adapting, powered by technology that enables flexibility and avoids vendor lock-in.
+* Contributors noted many considerations for managing Smart Cities as a program, including: goals, maturity, measures, value/cost drivers, critical infrastructure, and key resources.
+* Contributors said the city needs to enable a state of readiness for agile and iterative implementation of projects.
+* Contributors suggest that the City needs to facilitate connections and leverage existing programs supporting City Council outcomes. 
 
 # Thank you to our partners
 
