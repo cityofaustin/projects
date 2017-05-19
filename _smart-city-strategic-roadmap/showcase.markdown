@@ -1,7 +1,7 @@
 ---
 title: Smart Project Showcase
 date: 2017-05-04 17:01:00 -05:00
-position: 6
+position: 7
 ---
 
 We are currently in the process of standardizing and refining our inventory of Smart City projects.
