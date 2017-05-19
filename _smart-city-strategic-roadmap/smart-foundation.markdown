@@ -17,7 +17,7 @@ A concept of consequence to smart cities. During and after the April 18 Smart Ci
 
 "Contributors offered varying definitions of “smart,” referencing the use of solutions and technology as well as the outcomes that could be advanced."
 
-"Contributors suggested the City measure against benchmarks (some of which already exist) so that Austin can check progress against achieving our goals."
+"The City should consider how projects impact geographic, racial, socioeconomic, and other types of equity, including unintended negative consequences."
 
 ## Accessibility
 
