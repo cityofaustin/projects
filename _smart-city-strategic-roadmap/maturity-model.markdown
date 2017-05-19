@@ -1,5 +1,5 @@
 ---
-title: Smart Cities Maturity Model
+title: Maturity Model
 date: 2017-05-19 07:40:00 -05:00
 ---
 
