@@ -2,7 +2,7 @@
 title: Smart Business Models
 date: 2017-03-28 12:32:00 -05:00
 published: false
-position: 5
+position: 7
 ---
 
 During and after the April 18 Smart Cities Council Readiness Workshop, we asked participants for insights and learned:
