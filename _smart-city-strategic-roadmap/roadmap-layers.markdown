@@ -35,3 +35,9 @@ A good roadmap will tell you are as well as where you are going.  To this end, o
 
 ![Smart City Maturity Model.jpg](/uploads/Smart%20City%20Maturity%20Model.jpg)
 
+The maturity model aligns to the four components of the definition:
+* Engage stakeholders and users
+* Lead collaboratively
+* Work across disciplines, city Departments, and systems
+* Integrate technology and data, in a way that evolves our
+* Problem-solving capabilities
