@@ -14,9 +14,9 @@ We've made significant progress on getting an Austin-centered definition of Smar
 
 We have much more work to do prioritize challenges and opportunities, identify resources and means for partnering and financing initiatives, create a list of projects, and align to key goals and outcomes identified by City Council and Management through the Office of Performance Management.
 
-# How we got to now
-
 ![Smart City Roadmap Project  Phases.png](/uploads/Smart%20City%20Roadmap%20Project%20%20Phases.png)
+
+# Discovery Phase
 
 Preparation for this Smart City Strategic Roadmap began in 2016 through a series of workshops, and will continue iteratively. In parallel to these efforts, the City has been working to create an [adaptive strategic plan](https://austinstrategicplan.bloomfire.com/) that sets outcome goals and targets for the next three to five years. The City has also joined a pilot with the [Open Government Partnership](https://opengovpartnership.bloomfire.com/?feed=recent) to create project commitments to make government more accountable, transparent, participatory, with integrated use of technology and innovation methods.
 
@@ -27,6 +27,7 @@ Preparation for this Smart City Strategic Roadmap began in 2016 through a series
 # What we've learned 
 
 During and after the Smart Cities Council Readiness Workshop, we asked for the advice of partners and stakeholders and received a lot  key insights that will shape the roadmap.
+
 * Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions.
 * Contributors suggested the City measure against benchmarks (some of which already exist) so that Austin can check progress against achieving our goals.
 * The City needs a better identified entryway to intake, evaluate, and provide feedback to specific solutions and technologies.
@@ -47,9 +48,9 @@ During and after the Smart Cities Council Readiness Workshop, we asked for the a
 
 # Thank you to our partners
 
-We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)![Collage of Tweets from Smart City Readiness Workshops.png]
+We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)
 
-(/uploads/Collage%20of%20Tweets%20from%20Smart%20City%20Readiness%20Workshops.png)
+![Collage of Tweets from Smart City Readiness Workshops.png](/uploads/Collage%20of%20Tweets%20from%20Smart%20City%20Readiness%20Workshops.png)
 
 # History of Austin's Open & Smart Initiatives
 
