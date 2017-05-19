@@ -12,5 +12,9 @@ position: 3
 # Decision-Making
 *Policies and process for framing, making, and weighing trade-offs. Data-informed decisions require 1) reliable quantitative and qualitative data, 2) active consideration of data*
 
+During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
+
+"The City needs to identify the decision makers and explain the decision-making process for Smart City projects."
+
 # Governance
 *The way the rules, norms, standards, and actions are structured, sustained, and regulated; and how teams are held accountable.*
