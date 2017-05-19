@@ -8,6 +8,9 @@ As of May 15, 2017, we have made some progress against these goals, but have mor
 
 ![Smart City Roadmap Goal - Progress.png](/uploads/Smart%20City%20Roadmap%20Goal%20-%20Progress.png)
 
+We've made significant progress on getting an Austin-centered definition of Smart Cities and statement of vision about our future, as well as creating an inventory of practices to consider, and identifying needs, gaps, capabilities to deliver.
+
+We have much more work to do prioritize challenges and opportunities, identify resources and means for partnering and financing initiatives, create a list of projects, and align to key goals and outcomes identified by City Council and Management through the Office of Performance Management.
 
 ![Smart City Roadmap Project  Phases.png](/uploads/Smart%20City%20Roadmap%20Project%20%20Phases.png)
 
@@ -16,6 +19,12 @@ Preparation for this Smart City Strategic Roadmap began in 2016, and will contin
 ![Journey to Smart City Foundation - 2016](/uploads/Journey%20to%20Smart%20City%20Foundation%20-%202016.png)
 
 ![Journey to Smart City Foundation - 2017](/uploads/Journey%20to%20Smart%20City%20Foundation%20-%202017.png)
+
+# Thank you to our partners
+
+We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)![Collage of Tweets from Smart City Readiness Workshops.png]
+
+(/uploads/Collage%20of%20Tweets%20from%20Smart%20City%20Readiness%20Workshops.png)
 
 # History of Austin's Open & Smart Initiatives
 
