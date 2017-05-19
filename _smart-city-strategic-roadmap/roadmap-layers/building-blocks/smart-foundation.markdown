@@ -37,7 +37,7 @@ The norms will be best described by the activities that we should undertake in t
 
 Next steps involve carving out smart foundation projects for the upcoming fiscal year.
 
-# Discovery Phase Feedback that led to this section
+# Discovery phase feedback that led to this section
 
 During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
 
