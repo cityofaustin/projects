@@ -50,7 +50,11 @@ During and after the Smart Cities Council Readiness Workshop, we asked for the a
 
 We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)
 
-![Collage of Tweets from Smart City Readiness Workshops.png](/uploads/Collage%20of%20Tweets%20from%20Smart%20City%20Readiness%20Workshops.png) other organizational innovation initiatives. 
+![Collage of Tweets from Smart City Readiness Workshops.png](/uploads/Collage%20of%20Tweets%20from%20Smart%20City%20Readiness%20Workshops.png) 
+
+# History of Austin's Open and Smart Initiatives
+
+The City of Austin's Smart City initiatives will rest on a foundation of open government and other organizational innovation initiatives. 
 
 ![History of Open and Smart](/uploads/History%20of%20Open%20and%20Smart.png)
 
