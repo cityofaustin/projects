@@ -15,6 +15,8 @@ A concept of consequence to smart cities. During and after the April 18 Smart Ci
 
 "Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions."
 
+"Contributors offered varying definitions of “smart,” referencing the use of solutions and technology as well as the outcomes that could be advanced."
+
 "Contributors suggested the City measure against benchmarks (some of which already exist) so that Austin can check progress against achieving our goals."
 
 ## Accessibility
