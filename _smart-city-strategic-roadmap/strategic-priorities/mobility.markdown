@@ -15,3 +15,5 @@ Getting us where we want to go, when we want to get there, safely and cost-effec
 * Accessibility to and equity of multi-modal transportation choices
 * Safety
 * Condition of transportation-related infrastructure
+
+Source: https://austinstrategicplan.bloomfire.com/posts/1373079-city-of-austin-strategic-direction
