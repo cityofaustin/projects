@@ -26,7 +26,7 @@ Preparation for this Smart City Strategic Roadmap began in 2016 through a series
 
 # What we've learned 
 
-During and after the Smart Cities Council Readiness Workshop, we asked for the advice of partners and stakeholders and received a lot  key insights that will shape the roadmap.
+During and after the Smart Cities Council Readiness Workshop, we asked for the advice of partners and stakeholders and received a lot  key insights that will shape the roadmap. We synthesized [18 insights out of 129 answers](http://insights.austintexas.gov/Austin/1001/answers): 
 
 * Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions.
 * Contributors suggested the City measure against benchmarks (some of which already exist) so that Austin can check progress against achieving our goals.
