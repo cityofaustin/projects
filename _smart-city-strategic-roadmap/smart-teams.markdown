@@ -16,3 +16,7 @@ Teams meaningfully include the community in the design, production, and delivery
 
 ## Iterative
 Teams begin with discovery, and iterate through testing and experimentation: they prioritize efforts on problems worth solving, and opportunities worth seizing.
+
+During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
+
+"The City needs to develop guidance to support prototyping and experimenting in an ethical and transparent way."
