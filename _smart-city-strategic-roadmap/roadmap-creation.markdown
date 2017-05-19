@@ -62,12 +62,6 @@ During and after the Smart Cities Council Readiness Workshop, we asked for the a
 
 * Contributors suggest that the City needs to facilitate connections and leverage existing programs supporting City Council outcomes.
 
-# Thank you to our partners
-
-We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)
-
-<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/kerry_atx/timelines/865580534885343232">Smart Austin Roadmap</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # History of Austin's Open and Smart Initiatives
 
 The City of Austin's Smart City initiatives will rest on a foundation of open government and other organizational innovation initiatives.
@@ -87,5 +81,9 @@ The City of Austin's Smart City initiatives will rest on a foundation of open go
 * In 2015, the city initiated a Community Engagement Task Force to determine ways to better engage Austinites
 
 * In 2016, the city added an Equity Office, to insure equitable outcomes for all Austinites and a Performance Management Office, to ensure accountability for performance. The city also participated in and initiated 3 foundational smart city initiatives: the U.S. Department of Transportation Smart Cities Challenge, Phase 1 of Small Cell Deployment in the downtown core, and joined the U.S. Ignite Smart Gigabit Community
+
+# Thank you to our partners
+
+We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)
 
 <a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/kerry_atx/timelines/865580534885343232">Smart Austin Roadmap - Curated tweets by kerry_atx</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
