@@ -1,5 +1,5 @@
 ---
-title: Smart Policy
+title: Policy
 date: 2017-03-28 12:29:00 -05:00
 position: 1
 ---
