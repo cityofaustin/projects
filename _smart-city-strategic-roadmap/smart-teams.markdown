@@ -22,3 +22,7 @@ During and after the April 18 Smart Cities Council Readiness Workshop, we asked 
 "The City needs to develop guidance to support prototyping and experimenting in an ethical and transparent way."
 
 "Investment in the right skillsets, diverse perspectives, and human capital for the City is critical to the success (and even initiation) of projects."
+
+"Contributors noted many considerations for managing Smart Cities as a program, including: goals, maturity, measures, value/cost drivers, critical infrastructure, and key resources."
+
+"Contributors said the city needs to enable a state of readiness for agile and iterative implementation of projects."
