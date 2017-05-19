@@ -24,3 +24,12 @@ We are a city that becomes increasingly efficient in solving real problems for r
 (iv) using data and integrated technologies
 to transform services and improve quality of life with and for **all** Austinites, businesses, and visitors.
 
+This definition does three things to represent Austin values: 
+1. It complements our open government commitments to be participatory, transparent, accountable, and integrate technology and innovation methods.
+2. It incorporates Austin values of inclusion, accessibility, and equity.
+3. It takes the hype out of Smart Cities by grounding it to the purpose of solving problems, with the essential ingredients of engagement, leadership, collaboration in addition to the use of integrated technologies and data.
+
+# Maturity Model
+
+A good roadmap will tell you are as well as where you are going.  To this end, our roadmap will use a maturity model to help the City as an organization continue to improve our problem-solving capabilities.
+
