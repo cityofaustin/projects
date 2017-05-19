@@ -11,6 +11,8 @@ During and after the April 18 Smart Cities Council Readiness Workshop, we asked 
 
 "The City needs a stronger capability for forming and managing public-private partnerships to address financing, risk, diversity, equity, and asset management."
 
+"Improvements to the City’s procurement process are critical to the success (and even initiation) of projects."
+
 ## Business Models
 
 How we organize around key resources and activities that deliver upon a value proposition to city residents and customers, while balancing cost structures between private sector revenue streams and public sector funds, financing
