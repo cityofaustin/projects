@@ -24,6 +24,9 @@ Preparation for this Smart City Strategic Roadmap began in 2016 through a series
 
 ![Journey to Smart City Foundation - 2017](/uploads/Journey%20to%20Smart%20City%20Foundation%20-%202017.png)
 
+# What we've learned 
+
+
 # Thank you to our partners
 
 We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)![Collage of Tweets from Smart City Readiness Workshops.png]
