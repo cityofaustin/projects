@@ -11,29 +11,17 @@ A Smart Foundation for the Austin's Smart City Strategic Roadmap includes being 
 
 # Principles
 
-A concept of consequence to smart cities. 
-
-During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
-
-"Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions."
-
-"Contributors offered varying definitions of “smart,” referencing the use of solutions and technology as well as the outcomes that could be advanced."
-
-"The City should consider how projects impact geographic, racial, socioeconomic, and other types of equity, including unintended negative consequences."
-
-"Contributors suggested that the City approach Smart Cities with a regional and geographically-distributed focus instead of concentrating solutions or ignoring interconnectedness of systems."
-
-"There is a need for a concerted effort on privacy and security that includes policies, processes, and staffing."
+A concept of consequence to smart cities.
 
 Next steps for the roadmap would be to define and/or provide a toolkit for the following principles:
 
-*Accessibility
-*Equity
-*Inclusion
-*Privacy
-*Security
-*Transparency
-*Resilience
+\*Accessibility
+\*Equity
+\*Inclusion
+\*Privacy
+\*Security
+\*Transparency
+\*Resilience
 
 # Values
 
@@ -48,3 +36,17 @@ How the community expresses its values. Every innovation begins as a deviation t
 The norms will be best described by the activities that we should undertake in the near term, medium term, and longer term. Such as defining our approach to opt in or opt out policies, or hiring a consultant or team to build out an accessibility tooklit.
 
 Next steps involve carving out smart foundation projects for the upcoming fiscal year.
+
+# Discovery Phase Feedback that led to this section
+
+During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
+
+"Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions."
+
+"Contributors offered varying definitions of “smart,” referencing the use of solutions and technology as well as the outcomes that could be advanced."
+
+"The City should consider how projects impact geographic, racial, socioeconomic, and other types of equity, including unintended negative consequences."
+
+"Contributors suggested that the City approach Smart Cities with a regional and geographically-distributed focus instead of concentrating solutions or ignoring interconnectedness of systems."
+
+"There is a need for a concerted effort on privacy and security that includes policies, processes, and staffing."
