@@ -33,3 +33,5 @@ This definition does three things to represent Austin values:
 
 A good roadmap will tell you are as well as where you are going.  To this end, our roadmap will use a maturity model to help the City as an organization continue to improve our problem-solving capabilities.
 
+![Smart City Maturity Model.jpg](/uploads/Smart%20City%20Maturity%20Model.jpg)
+
