@@ -15,3 +15,5 @@ Being enriched by Austin’s unique civic, cultural, ethnic, and learning opport
 * Vibrancy of creative industry ecosystem
 * Appreciation, respect, and welcoming of all people and cultures
 * Honoring of historical and ethnic heritage
+
+Source: https://austinstrategicplan.bloomfire.com/posts/1373079-city-of-austin-strategic-direction
