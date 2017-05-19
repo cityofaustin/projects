@@ -84,6 +84,6 @@ The City of Austin's Smart City initiatives will rest on a foundation of open go
 
 # Thank you to our partners
 
-We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)
+We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573), and [Smart Austin](http://www.smartaustin.org/)
 
 <a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/kerry_atx/timelines/865580534885343232">Smart Austin Roadmap - Curated tweets by kerry_atx</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
