@@ -15,6 +15,8 @@ A belief from the customer about how value (benefit) will be delivered, experien
 ## Data as a Service
 Reusable, open data and open interfaces (APIs), enable data from one service to be combined with data from another to create interesting data combination and integration
 
+# Discover phase feedback that led to this section
+
 During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
 
 "The City should value data as an asset in service delivery and partnerships in ways that: 1) respect intellectual property; 2) assess the cost of unauthorized disclosure; 3) address data ownership; and, 4) inform partnerships."
