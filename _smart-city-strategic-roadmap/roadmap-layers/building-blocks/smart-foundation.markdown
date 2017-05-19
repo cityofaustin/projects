@@ -1,7 +1,7 @@
 ---
 title: Smart Foundation
 date: 2017-03-28 12:29:00 -05:00
-position: 2
+position: 0
 ---
 
 *"Moore’s Law ... is really about people’s belief system, it’s not a law of physics, it’s about human belief, and when people believe in something, they’ll put energy behind it to make it come to pass."* 
