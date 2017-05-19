@@ -16,5 +16,7 @@ During and after the April 18 Smart Cities Council Readiness Workshop, we asked 
 
 "The City needs to identify the decision makers and explain the decision-making process for Smart City projects."
 
+"Contributors suggested the City measure against benchmarks (some of which already exist) so that Austin can check progress against achieving our goals."
+
 # Governance
 *The way the rules, norms, standards, and actions are structured, sustained, and regulated; and how teams are held accountable.*
