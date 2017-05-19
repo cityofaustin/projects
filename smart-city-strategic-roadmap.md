@@ -18,3 +18,5 @@ City Council has asked that our strategic roadmap include the following:
 * Core needs, gaps, and capabilities to deliver
 * Potential resources and means for partnering and financing initiatives
 * A prioritized list of projects to pursue.
+
+The pages that follow detail our learnings as of mid-May 2017, and will be updated as new learnings become available. In the coming months, we will be seeking feedback on the framework of the roadmap, we will seek to standardize how we frame the inventory of smart city projects, and work to align these projects to the City Council Strategic Planning effort already under way.
