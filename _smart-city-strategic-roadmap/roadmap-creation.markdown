@@ -50,7 +50,6 @@ During and after the Smart Cities Council Readiness Workshop, we asked for the a
 
 We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573)
 
-![Collage of Tweets from Smart City Readiness Workshops.png](/uploads/Collage%20of%20Tweets%20from%20Smart%20City%20Readiness%20Workshops.png) 
 
 # History of Austin's Open and Smart Initiatives
 
