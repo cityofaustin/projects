@@ -15,3 +15,5 @@ Being safe in our home, at work, and in our community.
 * Community prevention and preparedness
 * Administration of justice
 * Quality and reliability of safety-related infrastructure and utility services
+
+Source: https://austinstrategicplan.bloomfire.com/posts/1373079-city-of-austin-strategic-direction
