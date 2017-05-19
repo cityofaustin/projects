@@ -19,6 +19,10 @@ A concept of consequence to smart cities. During and after the April 18 Smart Ci
 
 "The City should consider how projects impact geographic, racial, socioeconomic, and other types of equity, including unintended negative consequences."
 
+"Contributors suggested that the City approach Smart Cities with a regional and geographically-distributed focus instead of concentrating solutions or ignoring interconnectedness of systems."
+
+"There is a need for a concerted effort on privacy and security that includes policies, processes, and staffing."
+
 ## Accessibility
 
 ## Equity
