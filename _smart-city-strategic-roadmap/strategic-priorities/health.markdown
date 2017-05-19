@@ -15,3 +15,5 @@ Enjoying a sustainable environment and a healthy life, physically and mentally.
 * Accessibility to quality parks, trails, and recreational opportunities
 * Environmental quality and resilience
 * Food security and nutrition
+
+Source: https://austinstrategicplan.bloomfire.com/posts/1373079-city-of-austin-strategic-direction
