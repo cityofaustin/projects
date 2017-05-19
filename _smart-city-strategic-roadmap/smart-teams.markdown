@@ -20,3 +20,5 @@ Teams begin with discovery, and iterate through testing and experimentation: the
 During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
 
 "The City needs to develop guidance to support prototyping and experimenting in an ethical and transparent way."
+
+"Investment in the right skillsets, diverse perspectives, and human capital for the City is critical to the success (and even initiation) of projects."
