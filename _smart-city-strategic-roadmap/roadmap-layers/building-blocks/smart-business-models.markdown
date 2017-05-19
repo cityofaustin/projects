@@ -18,7 +18,7 @@ What kind of public-private partnerships, strategic alliances, programs such as 
 
 # Discovery phase feedback that led to this section
 
-During and after the April 18 Smart Cities Council Readiness Workshop, we asked participants for [insights and learned](http://insights.austintexas.gov/Austin/1001/insights):
+During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
 
 "The City needs a better identified entryway to intake, evaluate, and provide feedback to specific solutions and technologies."
 
