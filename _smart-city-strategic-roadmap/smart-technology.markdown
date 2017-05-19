@@ -5,4 +5,6 @@ published: false
 position: 6
 ---
 
+During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our insights campaign. We learned:
+
 "Projects should be continuously learning and adapting, powered by technology that enables flexibility and avoids vendor lock-in."
