@@ -10,7 +10,7 @@ The Council on April 5, 2017, affirmed a vision and six outcomes to guide the Ci
 
 Believing that city government works effectively and collaboratively for all of us—that it is equitable, ethical, and innovative.
 
-#Indicators
+# Indicators
 
 * Financial cost and sustainability of City government
 * Condition/quality of City facilities and infrastructure and effective adoption of technology
