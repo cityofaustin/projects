@@ -4,7 +4,7 @@ date: 2017-04-30 22:29:00 -05:00
 position: 3
 ---
 
-The Council on April 5, 2017, affirmed a vision and six outcomes to guide the City of Austin over the next 3 to 5 years. These, along with indicators below, establish a framework for developing the City of Austin's adaptive strategic plan.
+On April 5, 2017, The Austin City Council affirmed a vision and six outcomes to guide the city over the next 3 to 5 years. These, along with indicators below, establish a framework for developing the City of Austin's adaptive strategic plan.
 
 # Our Strategic Outcomes
 
