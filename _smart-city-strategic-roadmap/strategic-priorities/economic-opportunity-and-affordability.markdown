@@ -11,11 +11,11 @@ Having economic opportunities and resources that enable us to thrive in our comm
 
 # Indicators
 
-*Employment
-*Income equality
-*Cost of living compared to income
-*Housing and homelessness
-*Skills and capability of our community workforce
-*Economic mobility
+* Employment
+* Income equality
+* Cost of living compared to income
+* Housing and homelessness
+* Skills and capability of our community workforce
+* Economic mobility
 
 Source: https://austinstrategicplan.bloomfire.com/posts/1373079-city-of-austin-strategic-direction
