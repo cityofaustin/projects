@@ -14,7 +14,7 @@ We've made significant progress on getting an Austin-centered definition of Smar
 
 We have much more work to do prioritize challenges and opportunities, identify resources and means for partnering and financing initiatives, create a list of projects, and align to key goals and outcomes identified by City Council and Management through the Office of Performance Management.
 
-![Smart City Roadmap Project  Phases.png](/uploads/Smart%20City%20Roadmap%20Project%20%20Phases.png)
+![Smart City Roadmap Project Phases 2.png](/uploads/Smart%20City%20Roadmap%20Project%20Phases%202.png)
 
 # Discovery Phase
 
