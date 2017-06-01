@@ -39,3 +39,5 @@ gems:
 url: http://projects.austintexas.io
 theme: jekyll-theme-zilker
 permalink: pretty
+github:
+  repository_url: https://github.com/cityofaustin/innovation-projects
