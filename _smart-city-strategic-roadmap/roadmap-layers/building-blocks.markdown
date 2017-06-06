@@ -1,7 +1,7 @@
 ---
 title: Building Blocks
 date: 2017-05-19 08:47:00 -05:00
-position: 3
+position: 4
 ---
 
 We will be proposing particular projects for fiscal year 2018 that will help clear the lane for smart city projects. 
