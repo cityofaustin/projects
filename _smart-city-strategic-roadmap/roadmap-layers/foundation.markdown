@@ -13,15 +13,15 @@ A Smart Foundation for the Austin's Smart City Strategic Roadmap includes being 
 
 A concept of consequence to smart cities.
 
-Next steps for the roadmap would be to define and/or provide a toolkit for the following principles:
+Next steps for the roadmap would be to define and provide toolkits for the following principles:
 
-\*Accessibility
-\*Equity
-\*Inclusion
-\*Privacy
-\*Security
-\*Transparency
-\*Resilience
+* Accessibility
+* Equity
+* Inclusion
+* Privacy
+* Security
+* Transparency
+* Resilience
 
 # Values
 
@@ -33,7 +33,7 @@ Next steps for the roadmap include defining the specific areas of focus and how 
 
 How the community expresses its values. Every innovation begins as a deviation to a norm. Therefore norms around creative tension and conflict are critically important.
 
-The norms will be best described by the activities that we should undertake in the near term, medium term, and longer term. Such as defining our approach to opt in or opt out policies, or hiring a consultant or team to build out an accessibility tooklit.
+The norms will be best described by the activities that we should undertake in the near term, medium term, and longer term. Such as defining our approach to opt in or opt out policies, or hiring a consultant or team to build out an accessibility toolkit.
 
 Next steps involve carving out smart foundation projects for the upcoming fiscal year.
 
@@ -41,12 +41,12 @@ Next steps involve carving out smart foundation projects for the upcoming fiscal
 
 During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
 
-"Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions."
+> "Evaluating and prioritizing Smart City projects requires the City engage all residents to understand existing needs and accessibility of solutions."
 
-"Contributors offered varying definitions of “smart,” referencing the use of solutions and technology as well as the outcomes that could be advanced."
+> "Contributors offered varying definitions of “smart,” referencing the use of solutions and technology as well as the outcomes that could be advanced."
 
-"The City should consider how projects impact geographic, racial, socioeconomic, and other types of equity, including unintended negative consequences."
+> "The City should consider how projects impact geographic, racial, socioeconomic, and other types of equity, including unintended negative consequences."
 
-"Contributors suggested that the City approach Smart Cities with a regional and geographically-distributed focus instead of concentrating solutions or ignoring interconnectedness of systems."
+> "Contributors suggested that the City approach Smart Cities with a regional and geographically-distributed focus instead of concentrating solutions or ignoring interconnectedness of systems."
 
-"There is a need for a concerted effort on privacy and security that includes policies, processes, and staffing."
+> "There is a need for a concerted effort on privacy and security that includes policies, processes, and staffing."
