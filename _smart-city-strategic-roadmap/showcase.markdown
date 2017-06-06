@@ -15,4 +15,4 @@ This is a living repository of projects that began in September 2016 and continu
 
 For more information on the inventory, view our [documentation page](https://opengovpartnership.bloomfire.com/posts/1365870). Also visit visit [our Smart Austin Community of Practice](https://smartaustin.bloomfire.com/) for articles and case studies we've collected.
 
-*\*When we talk about "smart cities", we always talk about "open government" too. In government, we strive to be "open by default" -- to use open source code, publish data in the open, and generally share with the public the information we collect. These same guideposts should be true of smart cities projects as well.*
+*\*When we talk about "smart cities", we always talk about "open government" too. In government, we strive to be "open by default" -- to use open source code, publish data in the open, and share with the public the information we collect. These same guideposts should be true of smart cities projects as well.*
