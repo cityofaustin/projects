@@ -82,8 +82,8 @@ The City of Austin's Smart City initiatives will rest on a foundation of open go
 
 * In 2016, the city added an Equity Office, to insure equitable outcomes for all Austinites and a Performance Management Office, to ensure accountability for performance. The city also participated in and initiated 3 foundational smart city initiatives: the U.S. Department of Transportation Smart Cities Challenge, Phase 1 of Small Cell Deployment in the downtown core, and joined the U.S. Ignite Smart Gigabit Community
 
-# Thank you to our partners
 <a name="thankyou"></a>
+# Thank you to our partners
 
 We thank our partners for supporting our progress: [Austin CityUp](http://austincityup.org/index.html), [Smart Cities Council](http://smartcitiescouncil.com/), [DigiCity](http://www.digi.city/), [SIM Austin](http://www.simnet.org/members/group.aspx?id=89573), and [Smart Austin](http://www.smartaustin.org/)
 
