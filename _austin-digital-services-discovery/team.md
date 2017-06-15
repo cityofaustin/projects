@@ -5,7 +5,6 @@ position: 2
 
 # Project Teams
 
-
 ## Digital Service Strategy Team
 
 **Marni Wilhite,** Product Management Fellow
@@ -14,14 +13,12 @@ position: 2
 **Charles Purma,** Information System & Business Enterprise Manager
 **Daniel Honker,** Senior Business Process Consultant
 
-
 ## Shared Microservice Team
 
 **Amenity Applewhite,** Public Information Specialist
 **Matt Langan,** Development & Operations Fellow
 **Brian Smith,** Development Fellow
 **Sarah Rudder,** Development Fellow
-
 
 ## Modular Web Flow Core Team
 
@@ -31,7 +28,6 @@ position: 2
 **Brian Smith,** Development Fellow
 **Sarah Rudder,** Development Fellow
 **Ashlee Harris,** Public Information Specialist
-
 
 ## Advisors
 
