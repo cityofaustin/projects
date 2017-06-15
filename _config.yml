@@ -5,7 +5,7 @@ collections:
   atxfloods:
     title: ATXfloods
     output: true
-  austin-digital-services-discovery:
+  austin-digital-services:
     title: Austin Digital Services Discovery
     output: true
   homelessness-outreach-street-team:
