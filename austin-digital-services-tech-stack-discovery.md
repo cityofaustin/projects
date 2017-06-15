@@ -1,5 +1,5 @@
 ---
-title: Austin Digital Services Tech Stack Discovery
+title: Austin Digital Services Discovery
 position: 7
 collection: austin-digital-services-tech-stack-discovery
 ---
