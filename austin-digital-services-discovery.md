@@ -4,7 +4,7 @@ position: 7
 collection: austin-digital-services-discovery
 ---
 
-![image of City of Austin Technologist](/uploads/Recycling%20Center%20Web-7.jpg)
+![image of City of Austin Technologist](/uploads/Jasmine%20Shares%20Work.jpeg)
 
 City of Austin digital services include viewing Austin recycling and trash schedules, getting in line for your driver’s license, registering your kids for summer camp, and other goals residents can accomplish–online. Austin residents rely on digital services more and more every day and city teams realize how important it is to meet their expectations. During the 2017 spring retreat, Austin’s City Council declared their intention to create a government that works for everyone, which you can read more about in the [Smart City Strategic Roadmap](http://projects.austintexas.io/smart-city-strategic-roadmap/). Next steps were to address the Smart City building blocks within Austin.
 
