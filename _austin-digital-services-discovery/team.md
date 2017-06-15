@@ -9,12 +9,11 @@ position: 2
 
 ## Digital Service Strategy Team
 
-**Marni Wilhite,** Product Management Fellow
-
-**Matthew Esquibel,** IT Corporate Manager
-**Adam Wiedeman,** Project Management Fellow
-**Charles Purma,** Information System & Business Enterprise Manager
-**Daniel Honker,** Senior Business Process Consultant
+**Marni Wilhite,** Product Management Fellow <br>
+**Matthew Esquibel,** IT Corporate Manager <br>
+**Adam Wiedeman,** Project Management Fellow <br>
+**Charles Purma,** Information System & Business Enterprise Manager <br>
+**Daniel Honker,** Senior Business Process Consultant <br>
 
 ## Shared Microservice Team
 
@@ -25,8 +24,8 @@ position: 2
 
 ## Modular Web Flow Core Team
 
-**Marni Wilhite,** Product Management Fellow
-**Celine Thibault,** Research & User Experience Design Fellow
+**Marni Wilhite,** Product Management Fellow <br>
+**Celine Thibault,** Research & User Experience Design <br>Fellow
 **Laura Trujillo,** Content Strategist Fellow
 **Brian Smith,** Development Fellow
 **Sarah Rudder,** Development Fellow
