@@ -10,6 +10,7 @@ position: 2
 ## Digital Service Strategy Team
 
 **Marni Wilhite,** Product Management Fellow
+
 **Matthew Esquibel,** IT Corporate Manager
 **Adam Wiedeman,** Project Management Fellow
 **Charles Purma,** Information System & Business Enterprise Manager
