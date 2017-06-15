@@ -3,9 +3,9 @@ title: Background
 position: 1
 ---
 
-# Discovering Austin’s Digital Services Needs
+# Background
 
-![image of tech stack sprint review meeting](/uploads/techabout.jpg)
+![image of Elizabeth drawing a reflection timeline](/uploads/Elizabeth%20Draws%20Timeline.jpeg)
 
 In May, 2017, our team got together to gather requirements, evaluate, and then implement a new technology foundation or “stack” for all City of Austin services. Following in the well-documented footsteps of other innovative cities like [Boston](https://www.boston.gov/departments/digital-team) and [Indianapolis](https://shift.indy.gov/), and international governments like the [United Kingdom](https://www.gov.uk/government/organisations/government-digital-service), we discovered we needed more than a technology foundation–we needed shared values, a roadmap for reaching our goals, and the teams in place to do the work.
 
