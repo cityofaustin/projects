@@ -5,7 +5,7 @@ position: 2
 
 # Project Teams
 
-![image of Team Synthesizing Learnings]()
+![image of Team Synthesizing Learnings](/uploads/Digital%20Service%20Synthesis.jpg)
 
 ## Digital Service Strategy Team
 
