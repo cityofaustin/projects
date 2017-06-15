@@ -6,10 +6,10 @@ collection: austin-digital-services-tech-stack-discovery
 
 # Discovering Austin’s Digital Services Needs
 
-![image of tech stack sprint review meeting](/uploads/techabout.jpg)
+City of Austin digital services include viewing Austin recycling and trash schedules, getting in line for your driver’s license, registering your kids for summer camp, and other goals residents can accomplish–online. Austin residents rely on digital services more and more every day and city teams realize how important it is to meet their expectations. During the 2017 spring retreat, Austin’s City Council declared their intention to create a government that works for everyone, which you can read more about in the [Smart City Strategic Roadmap](http://projects.austintexas.io/smart-city-strategic-roadmap/).
 
-Austintexas.gov’s current version was released in 2012. This is a website that serves a population of over 1 million residents, garners 41 million pageviews a year, and hosts 600 users who manage almost 12,000 pages. Since its release, the technology team’s focus has been limited to general site maintenance and management of content owners/editors, which makes sense, because there are 900 support requests on this site per year, and 2 full-time employees to handle all these requests.
-
-During the 2017 spring retreat, Austin’s City Council declared their intention to create a government that works for everyone, which you can read more about in the [Smart City Strategic Roadmap](http://projects.austintexas.io/smart-city-strategic-roadmap/).
-
-To this end, the Design, Technology, and Innovation fellows and partners are kicking off a project to discover Austin’s current digital services landscape, and recommend a technology framework that meets the needs of users both on the city side and the resident side.
+The Design, Technology, & Innovation Fellows partnered with two City of Austin departments: Communications & Information Management and Communications & Technology Management, to meet that intention and build a better technology foundation for the City of Austin. Our team quickly realized that we needed to define the who, what, and how that goes into providing invaluable digital services to Austin residents before building a solution.
+ 
+This is an overview of our approach and progress we’ve made. If you have questions or comments, we want to hear from you:
+ 
+Innovation@AustinTexas.gov
