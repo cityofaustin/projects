@@ -1,7 +1,7 @@
 ---
 title: Austin Digital Services
 position: 7
-collection: austin-digital-services-discovery
+collection: austin-digital-services
 ---
 
 ![image of City of Austin Technologist](/uploads/Jasmine%20Shares%20Work.jpeg)
