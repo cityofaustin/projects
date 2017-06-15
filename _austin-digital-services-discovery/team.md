@@ -5,6 +5,8 @@ position: 2
 
 # Project Teams
 
+![image of Team Synthesizing Learnings]()
+
 ## Digital Service Strategy Team
 
 **Marni Wilhite,** Product Management Fellow
