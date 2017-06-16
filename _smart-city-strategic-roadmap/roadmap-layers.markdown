@@ -4,7 +4,9 @@ date: 2017-05-19 06:03:00 -05:00
 position: 2
 ---
 
-# Definition
+# Roadmap Layers
+
+## Definition of Smart Cities
 
 The [International Standards Organization Technical Management Board](https://www.iso.org/files/live/sites/isoorg/files/developing_standards/docs/en/smart_cities_report-jtc1.pdf) established this working definition of Smart Cities in 2014:
 
@@ -42,7 +44,7 @@ This definition does three things to represent Austin values:
 
 3. It takes the hype out of Smart Cities by grounding it to the purpose of solving problems, with the essential ingredients of engagement, leadership, collaboration in addition to the use of integrated technologies and data.
 
-# Maturity Model
+## Maturity Model
 
 A good roadmap will tell you where you are as well as where you are going.  To this end, our roadmap will use a maturity model to help the City as an organization continue to improve our problem-solving capabilities.
 
@@ -75,7 +77,7 @@ There are four main steps in the maturity model.
 
 **Stage 4** evolves into deeper and more robust partnerships and relationships empowered by transparent, multi-partner governance of networked teams across systems and sectors that are enabled by integrated technologies and robust data models that yield a proactive, predictive problem-solving capability. This stage transforms cities into hyper-efficient, sustainable, and resilient systems that support a high quality of life for residents, businesses, and visitors.
 
-# Building Blocks
+## Building Blocks
 
 During our interviews and conversations with City Departments, we learned that there are a number of gaps and barriers to being able to build a robust smart city capability.
 
