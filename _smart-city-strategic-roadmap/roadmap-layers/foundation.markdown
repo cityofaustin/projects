@@ -37,7 +37,7 @@ How the community prioritizes key principles in terms of desirability, and worth
 
 Next steps for the roadmap include defining the specific areas of focus and how we might weigh tradeoffs when principles conflict.
 
-# Norms
+## Norms
 
 How the community expresses its values. Every innovation begins as a deviation to a norm. Therefore norms around creative tension and conflict are critically important.
 
