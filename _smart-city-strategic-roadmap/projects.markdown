@@ -1,5 +1,5 @@
 ---
-title: Smart Project Showcase
+title: Inventory of Open Gov/Smart Cities Projects
 date: 2017-05-04 17:01:00 -05:00
 position: 4
 ---
@@ -8,8 +8,7 @@ As part of the Smart City Strategic Roadmap, we are compiling an inventory of pr
 
 View the project inventory embedded below, or  [click here for a bigger view.](https://airtable.com/embed/shrw1eaApYvCI2fbE/tbluO6vp5XB2GwYk4/viwPqpeM7kQ69dSC5)
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrw1eaApYvCI2fbE?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;">
-</iframe>
+<div><iframe class="airtable-embed" src="https://airtable.com/embed/shrw1eaApYvCI2fbE?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe></div>
 
 This is a living repository of projects that began in September 2016 and continues to grow. One reason it continues grow is that many city departments are doing "smart" things, yet very few are calling them "smart city" projects. Instead, they used language such as "Strategic Management Information & Planning Tools" or "Resource Management in Facilities" or "Automated Demand Response."
 
