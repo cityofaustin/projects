@@ -10,15 +10,15 @@ position: 1
 
 ## Strategic Intent
 
-*A statement with a point of view about the future, a sense of discovery and destiny that focuses attention, motivates, guides resources, allows for flexible implementation.*
+A statement with a point of view about the future, a sense of discovery and destiny that focuses attention, motivates, guides resources, allows for flexible implementation.
 
 ## Decision-Making
 
-*Policies and process for framing, making, and weighing tradeoffs. Data-informed decisions require 1) reliable quantitative and qualitative data, 2) active consideration of data*
+Policies and process for framing, making, and weighing tradeoffs. Data-informed decisions require 1) reliable quantitative and qualitative data, 2) active consideration of data
 
 ## Governance
 
-*The way the rules, norms, standards, and actions are structured, sustained, and regulated; and how teams are held accountable.*
+The way the rules, norms, standards, and actions are structured, sustained, and regulated; and how teams are held accountable.
 
 ## Discovery phase feedback that led to this section
 
@@ -32,7 +32,7 @@ During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we 
 
 ## Challenge areas identified
 
-* How might we provide transparent governance of smart city projects? 
+* How might we provide transparent governance of smart city projects?
 
 * How might we measure our progress in achieving smart city goals compared to other cities?
 
