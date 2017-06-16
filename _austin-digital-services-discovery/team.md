@@ -15,7 +15,7 @@ position: 2
 
 ## Shared Microservice Team
 
-**Amenity Applewhite,** Public Information Specialist <br>
+**Amenity Applewhite,** Business Systems Analyst <br>
 **Matt Langan,** Development & Operations Fellow <br>
 **Brian Smith,** Development Fellow <br>
 **Sarah Rudder,** Development Fellow <br>
