@@ -4,12 +4,14 @@ date: 2017-03-28 12:29:00 -05:00
 position: 0
 ---
 
+# Roadmap Layer: Foundation
+
 > *Moore’s Law \[the observation and theory that computing power increases at an exponential pace\]... is really about people’s belief system, it’s not a law of physics, it’s about human belief, and when people believe in something, they’ll put energy behind it to make it come to pass.*
 > – [Carver Mead](https://en.wikipedia.org/wiki/Carver_Mead) in **[What Technology Wants](https://www.librarything.com/work/9897361/summary)** by Kevin Kelly
 
 A Smart Foundation for Austin's Smart City Strategic Roadmap includes being holistic and specific about those principles we value and prioritize, while establishing norms around the creative tensions and potential conflicts that may arise. This section intends to identify those core principles of consequence to smart cities, how the Austin community prioritizes those key principles, and how the community foresees ways in the near term, medium term, and long term to express these values in concrete actions.
 
-# Principles
+## Principles
 
 A concept of consequence to smart cities.
 
@@ -29,7 +31,7 @@ Next steps for the roadmap would be to define and provide toolkits for the follo
 
 * Resilience
 
-# Values
+## Values
 
 How the community prioritizes key principles in terms of desirability, and worth.
 
@@ -43,7 +45,7 @@ The norms will be best described by the activities that we should undertake in t
 
 Next steps involve carving out smart foundation projects for the upcoming fiscal year.
 
-# Discovery phase feedback that led to this section
+## Discovery phase feedback that led to this section
 
 During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice from participants through an [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
 
