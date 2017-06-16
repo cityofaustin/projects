@@ -16,7 +16,7 @@ The idea of ["government as a platform"](http://chimera.labs.oreilly.com/books/1
 
 What kind of public-private partnerships, strategic alliances, and programs (such as ["entrepreneurs in residence"](http://startupinresidence.org/)), do we need to flourish as a Smart City?
 
-# Discovery phase feedback that led to this section
+## Discovery phase feedback that led to this section
 
 During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we asked participants for advice through an [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
 
