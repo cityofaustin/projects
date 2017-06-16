@@ -10,7 +10,7 @@ View the project inventory embedded below, or  [click here for a bigger view.](h
 
 <div><iframe class="airtable-embed" src="https://airtable.com/embed/shrw1eaApYvCI2fbE?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe></div>
 
-This is a living repository of projects that began in September 2016 and continues to grow. One reason it continues grow is that many city departments are doing "smart" things, yet very few are calling them "smart city" projects. Instead, they used language such as "Strategic Management Information & Planning Tools" or "Resource Management in Facilities" or "Automated Demand Response."
+This is a living repository of projects that began in September 2016 and continues to grow. One reason it continues grow is that many city departments are doing "smart" things, yet very few are calling them "smart city" projects. Instead, they used language such as "Strategic Management Information & Planning Tools" or "Resource Management in Facilities" or "Automated Demand Response." The jargon of "smart" is still emerging, and we are finding it useful to do some translating.
 
 For more information on the inventory, view our [documentation page](https://opengovpartnership.bloomfire.com/posts/1365870). Also visit visit [our Smart Austin Community of Practice](https://smartaustin.bloomfire.com/) for articles and case studies we've collected.
 
