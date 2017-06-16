@@ -4,8 +4,14 @@ date: 2017-03-28 12:31:00 -05:00
 position: 4
 ---
 
-# Discovery phase feedback that will be incorporated into this section
+## Discovery phase feedback that will be incorporated into this section
 
-During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
+During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we asked for advice from participants through an [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
 
-"Projects should be continuously learning and adapting, powered by technology that enables flexibility and avoids vendor lock-in."
+> "Projects should be continuously learning and adapting, powered by technology that enables flexibility and avoids vendor lock-in."
+
+## Challenge areas identified:
+
+* How might we enable projects to have quick learning loops that allow them to adapt to change quickly?
+
+* How might we encourage smart city projects to adopt a service-oriented architecture that enables integrations across systems and operates in a vendor-agnostic way?
