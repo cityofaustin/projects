@@ -14,7 +14,7 @@ During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we 
 
 > "Projects should be continuously learning and adapting, powered by technology that enables flexibility and avoids vendor lock-in."
 
-## Challenge areas identified:
+## Challenge areas identified
 
 * How might we enable projects to have quick learning loops that allow them to adapt to change quickly?
 
