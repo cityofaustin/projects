@@ -4,6 +4,8 @@ date: 2017-03-28 12:32:00 -05:00
 position: 5
 ---
 
+# Roadmap Layer: Business and Funding Models
+
 ## Business Models
 
 How we organize around key resources and activities that deliver a value proposition to city residents and customers, while balancing cost structures between private sector revenue streams and public sector financing sources.
