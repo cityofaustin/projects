@@ -18,4 +18,4 @@ Having economic opportunities and resources that enable us to thrive in our comm
 * Skills and capability of our community workforce
 * Economic mobility
 
-Source: https://austinstrategicplan.bloomfire.com/posts/1373079-city-of-austin-strategic-direction
+Source: [https://austinstrategicplan.bloomfire.com/posts/1373079-city-of-austin-strategic-direction](https://austinstrategicplan.bloomfire.com/posts/1373079-city-of-austin-strategic-direction)
