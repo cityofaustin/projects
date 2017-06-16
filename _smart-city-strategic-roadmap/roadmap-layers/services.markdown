@@ -8,18 +8,24 @@ position: 3
 
 ## Outcomes
 
-Demonstrate tangible outcomes and experiences for Austin residents.
+Demonstrate tangible outcomes and experiences for the Austin community.
 
 ## Value Proposition
 
-A belief from the customer about how value (benefit) will be delivered, experienced and acquired
+A belief from the customer about how value (benefit) will be delivered, experienced and acquired.
 
 ## Data as a Service
 
-Reusable, open data and open interfaces (APIs), enable data from one service to be combined with data from another to create interesting data combination and integration
+Reusable, open data and open interfaces (APIs), enable data from one service to be combined with data from another to create interesting data combinations and integrations.
 
-# Discover phase feedback that led to this section
+# Discovery phase feedback that led to this section
 
-During and after the April 18 Smart Cities Council Readiness Workshop, we asked for advice on participants through our [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
+During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we asked for advice from participants through an [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
 
-"The City should value data as an asset in service delivery and partnerships in ways that: 1) respect intellectual property; 2) assess the cost of unauthorized disclosure; 3) address data ownership; and, 4) inform partnerships."
+> "The City should value data as an asset in service delivery and partnerships in ways that: 1) respect intellectual property; 2) assess the cost of unauthorized disclosure; 3) address data ownership; and, 4) inform partnerships."
+
+## Challenge areas identified:
+
+* How might we value data as an asset in our service delivery and in our partnerships?
+
+* How might we define and provide guidance for data ownership and intellectual property in City projects?
