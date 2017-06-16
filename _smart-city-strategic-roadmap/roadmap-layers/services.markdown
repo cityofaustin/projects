@@ -18,7 +18,7 @@ A belief from the customer about how value (benefit) will be delivered, experien
 
 Reusable, open data and open interfaces (APIs), enable data from one service to be combined with data from another to create interesting data combinations and integrations.
 
-# Discovery phase feedback that led to this section
+## Discovery phase feedback that led to this section
 
 During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we asked for advice from participants through an [insights campaign](http://insights.austintexas.gov/Austin/1001/insights). We learned:
 
