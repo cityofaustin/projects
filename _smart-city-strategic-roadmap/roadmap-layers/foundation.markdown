@@ -57,7 +57,7 @@ During and after the April 18 Smart Cities Council Readiness Workshop, we asked 
 
 > "There is a need for a concerted effort on privacy and security that includes policies, processes, and staffing."
 
-# Challenge areas identified
+## Challenge areas identified
 
 * How might we define “smart city” for Austin?
 
