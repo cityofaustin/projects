@@ -26,6 +26,8 @@ During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we 
 
 > "The City should value data as an asset in service delivery and partnerships in ways that: 1) respect intellectual property; 2) assess the cost of unauthorized disclosure; 3) address data ownership; and, 4) inform partnerships."
 
+> "Contributors suggest that the City needs to facilitate connections and leverage existing programs supporting City Council outcomes."
+
 ## Challenge areas identified
 
 * How might we value data as an asset in our service delivery and in our partnerships?
