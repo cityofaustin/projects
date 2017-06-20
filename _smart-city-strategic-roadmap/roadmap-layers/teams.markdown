@@ -40,6 +40,6 @@ During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we 
 
 * How might we help smart city project teams work in agile, human-centered, and iterative ways?
 
-* How might we help project teams connect with the expertise they need, whether inside or outside the City government?
+* How might we help project teams connect with the expertise or perspectives they need, whether inside or outside the City government?
 
 * How might we clarify ethics and standards for prototyping and testing?
