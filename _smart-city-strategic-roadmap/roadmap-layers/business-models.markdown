@@ -24,9 +24,15 @@ During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we 
 
 > "The City needs a better identified entryway to intake, evaluate, and provide feedback to specific solutions and technologies."
 
+> "The City should consider and explore alternative finance models, including public-private partnerships."
+
 > "The City needs a stronger capability for forming and managing public-private partnerships to address financing, risk, diversity, equity, and asset management."
 
 > "Improvements to the City’s procurement process are critical to the success (and even initiation) of projects."
+
+> "The City should value data as an asset in service delivery and partnerships in ways that: 1) respect intellectual property; 2) assess the cost of unauthorized disclosure; 3) address data ownership; and, 4) inform partnerships."
+
+> "Contributors said the city needs to enable a state of readiness for agile and iterative implementation of projects."
 
 ## Challenge areas identified
 
