@@ -30,6 +30,8 @@ During and after the April 18, 2017 Smart Cities Council Readiness Workshop, we 
 
 > "Investment in the right skillsets, diverse perspectives, and human capital for the City is critical to the success (and even initiation) of projects."
 
+> "Effective solutions require that we support dedicated teams with diverse skillsets and backgrounds."
+
 > "Contributors noted many considerations for managing Smart Cities as a program, including: goals, maturity, measures, value/cost drivers, critical infrastructure, and key resources."
 
 > "Contributors said the city needs to enable a state of readiness for agile and iterative implementation of projects."
