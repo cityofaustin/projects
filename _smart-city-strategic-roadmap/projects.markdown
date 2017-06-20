@@ -1,7 +1,7 @@
 ---
 title: Inventory of Open Gov/Smart Cities Projects
 date: 2017-05-04 17:01:00 -05:00
-position: 4
+position: 3
 ---
 
 As part of the Smart City Strategic Roadmap, we are compiling an inventory of projects that involve the use of technology to solve real problems for real people.\* We started collecting this list of projects to understand the types of smart city/open government projects (and opportunities) City departments are involved in, as well as what challenges these projects face in achieving their goals. We are using this information to identify and prioritize what resources and guidance the City should create or make available to help projects succeed.

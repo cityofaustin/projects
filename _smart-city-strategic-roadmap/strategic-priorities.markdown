@@ -1,7 +1,7 @@
 ---
 title: Strategic Priorities
 date: 2017-04-30 22:29:00 -05:00
-position: 3
+position: 2
 ---
 
 On April 5, 2017, The Austin City Council affirmed a [vision and six outcome areas to guide the city over the next 3 to 5 years](https://austinstrategicplan.bloomfire.com/?feed=recent). Within each of these six outcome areas, teams of City staff will develop strategies to make progress, along with indicators to measure success. These outcome areas provide a framework for organizing and managing the City's portfolio of smart city projects. And once they are developed, we will use the strategies to achieve the outcomes as a way to prioritize smart city projects for funding, resourcing, and troubleshooting. 
