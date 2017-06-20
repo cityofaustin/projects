@@ -16,7 +16,7 @@ position: 5
 <div id="mc_embed_signup">
 <form action="//github.us15.list-manage.com/subscribe/post?u=6f30653c65f06ca383a19d0bf&amp;id=481336e8ce" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list for open gov and smart cities in Austin</h2>
+	<h2>Subscribe to our mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -36,6 +36,7 @@ position: 5
     <ul><li><input type="checkbox" value="1" name="group[1409][1]" id="mce-group[1409]-1409-0"><label for="mce-group[1409]-1409-0">I'm a City employee working on an open gov, technology, or smart cities project</label></li>
 <li><input type="checkbox" value="2" name="group[1409][2]" id="mce-group[1409]-1409-1"><label for="mce-group[1409]-1409-1">I'm a City employee with a general interest in open gov or smart cities projects</label></li>
 <li><input type="checkbox" value="4" name="group[1409][4]" id="mce-group[1409]-1409-2"><label for="mce-group[1409]-1409-2">I'm not a City employee, but have an interest in open gov or smart cities projects</label></li>
+<li><input type="checkbox" value="8" name="group[1409][8]" id="mce-group[1409]-1409-3"><label for="mce-group[1409]-1409-3">I'm a business or community organization with a product, service, or partnership opportunity</label></li>
 </ul>
 </div>
 	<div id="mce-responses" class="clear">
@@ -47,5 +48,5 @@ position: 5
     </div>
 </form>
 </div>
-
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
