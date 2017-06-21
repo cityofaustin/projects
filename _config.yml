@@ -20,6 +20,9 @@ collections:
   posts:
     title: Posts
     output: true
+  project-tracking:
+    title: Project Tracking
+    output: true
   resource-recovery:
     title: Resource Recovery
     output: true
