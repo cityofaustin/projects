@@ -1,6 +1,6 @@
 ---
 title: Prioritizing Need and Technology
-position: 1
+position: 2
 ---
 
 # Prioritizing Need and Technology
