@@ -1,7 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Background
-position: 1
+title: City Services Workflow
 ---
 
 # Background
