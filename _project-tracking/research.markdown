@@ -1,6 +1,10 @@
 ---
-title: Research
+title: Research Methods
 date: 2017-06-21 13:20:00 -05:00
 ---
 
-We’re doing the research now -- More to come soon!
+# Research Methods
+
+## Research Goals
+
+## Desk Research
