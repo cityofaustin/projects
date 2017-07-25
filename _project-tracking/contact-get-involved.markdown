@@ -1,6 +1,7 @@
 ---
 title: Contact/get involved
 date: 2017-07-24 20:24:00 -05:00
+position: 3
 ---
 
 There are several ways you can get involved in this project.
