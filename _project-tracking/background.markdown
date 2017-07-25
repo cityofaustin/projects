@@ -1,7 +1,7 @@
 ---
 title: Background
 date: 2017-06-21 13:17:00 -05:00
-position: 1
+position: 0
 ---
 
 The City of Austin consists of 40+ departments and over 13,000 employees serving almost 1 million people. There are tons of City-sponsored projects going on at any given moment in time -- street resurfacing, park improvements, service delivery, and research, to name a few. It can be challenging for people in Austin to know what projects are going on relevant to them, what their status is, and how they can learn more (or even participate). City staff often face the same challenge. Because many of Austin’s challenges cross departmental lines--such as housing affordability, which involves at least half a dozen departments--many employees need easier access to information on other City projects that relate to their work. 
