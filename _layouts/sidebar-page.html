@@ -4,12 +4,7 @@ layout: default
 <div class="container container-fluid">
   <div class="row">
     <div class="sidebar start-xs col-md-3 col-xs-12 hidden-xs hidden-sm">
-
-      {% assign all_project_pages = site.projects | sort: "url" | sort: "position" %}
-      {% assign this_project_folder = page.path | remove: "_projects/" | split: "/" | first | prepend: "/_projects/" | append: "/" %}
-      {% include recursive-nav.html items=all_project_pages base_path=this_project_folder  %}
-
-
+      {% include cached-project-nav.html %}
     </div>
     <div class="col-md-7 col-md-offset-1 col-xs-12">
       <section class="page-header start-xs">

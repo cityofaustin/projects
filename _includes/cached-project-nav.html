@@ -1,0 +1,9 @@
+{% assign all_project_pages = site.projects | sort: "path" | sort: "position" %}
+
+{% assign this_project_folder = page.path | remove: "_projects/" | split: "/" | first | prepend: "/_projects/" | append: "/" %}
+{% capture same_project_pages %}
+<nav>
+  {% include_cached recursive-nav.html items=all_project_pages base_path=this_project_folder %}
+</nav>
+{% endcapture %}
+{{ same_project_pages }}

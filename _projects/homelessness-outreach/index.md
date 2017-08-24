@@ -5,4 +5,6 @@ layout: redirect
 permalink: /projects/homelessness-outreach/
 redirect_to: /projects/homelessness-outreach/about/overview
 position: 0
+active: true
+
 ---

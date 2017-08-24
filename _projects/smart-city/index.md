@@ -5,4 +5,6 @@ layout: redirect
 permalink: /projects/smart-city/
 redirect_to: /projects/smart-city/about/overview
 position: 0
+active: true
+
 ---

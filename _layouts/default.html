@@ -6,9 +6,11 @@
   <body class="{{ page.url | replace:'index','home' | replace: '404','notfound' | replace:'.html','' | slugify }}-page">
     {% include header.html %}
     <main class="main">
+
       {{ content }}
     </main>
     {% include footer.html %}
+    {% include mobile-menu.html %}
   </body>
   {% include icons.html %}
   {% include analytics.html %}
