@@ -1,5 +1,7 @@
 ---
-title:
+title: What We're Doing
+permalink: /projects/_template/about/
+position: 0
 
 ---
 ## Introduction
