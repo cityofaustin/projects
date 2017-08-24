@@ -1,46 +1,68 @@
----
-title: Innovation Projects
-timezone: America/Chicago
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: City of Austin Design, Technology, and Innovation Fellows
+email: innovationfellows@austintexas.gov
+description: >
+  The City of Austin’s Design, Technology, and Innovation Fellows program provides
+  an opportunity for Austin’s passionate and civic-minded designers and developers to bring the
+  principles, values, and practices of the technology sector into government.
+baseurl:
+url: http://projects.austintexas.io
+twitter:
+  username: civiqueso
+medium_url: https://medium.com/city-of-austin-design-technology-innovation
+zilker_theme: light
+# dark is the default, light will also work.
+
+# Build settings
+markdown: kramdown
 collections:
-  atxfloods:
-    title: ATXfloods
+  projects:
+    title: Projects
     output: true
-  austin-digital-services-discovery:
-    title: Austin Digital Services
-    output: true
-  homelessness-outreach-street-team:
-    title: HOST
-    output: true
-  idea-accelerator:
-    title: Idea Accelerator
-    output: true
-  permitting:
-    title: Permitting
-    output: true
-  posts:
-    title: Posts
-    output: true
-  project-tracking:
-    title: Project Tracking
-    output: true
-  resource-recovery:
-    title: Resource Recovery
-    output: true
-  smart-city-strategic-roadmap:
-    title: Smart City Strategic Roadmap
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+    permalink: /:collection/:path/
+
 defaults:
 - scope:
     path: ''
+    type: projects
   values:
-    layout: page
+    layout: 'sidebar-page'
+    nav_from_collection: 'projects'
+
+
 gems:
-- jekyll-redirect-from
-url: http://projects.austintexas.io
-theme: jekyll-theme-zilker
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Jekyll SEO Tag
+# See https://github.com/jekyll/jekyll-seo-tag
+
+
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir: assets/stylesheets/
 permalink: pretty
-github:
-  repository_url: https://github.com/cityofaustin/innovation-projects
+exclude:
+  - node_modules
+  - gulpfile.js
+  - Gemfile
+  - Gemfile.lock
+  - npm-debug.log
+  - /screenshots
+  - /assets/stylesheets/bourbon
+  - /assets/stylesheets/bourbon-neat
+  - /assets/uswds/stylesheets
+  - /assets/uswds/js
+  - .bundle
+  - /vendor
+  - _bourbon
+  - _bourbon-neat
+  - _uswds

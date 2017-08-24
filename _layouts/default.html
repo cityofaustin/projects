@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html class="{{ site.zilker_theme | prepend: 'theme--' }}">
+
+  {% include head.html %}
+
+  <body class="{{ page.url | replace:'index','home' | replace: '404','notfound' | replace:'.html','' | slugify }}-page">
+    {% include header.html %}
+    <main class="main">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+  {% include icons.html %}
+  {% include analytics.html %}
+</html>
