@@ -9,4 +9,5 @@ position: 0
 layout: redirect
 permalink: /projects/_template/
 redirect_to: /projects/_template/about/overview
+date: 2017-12-31
 ---
