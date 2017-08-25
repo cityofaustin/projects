@@ -57,6 +57,8 @@ press_mentions:
 
 Here you’ll find articles and other media coverage about this project. Some articles are authored by journalists in the community sharing their reflection and recap of the project. Other articles are blog posts written by project team members as a way for us to share perspective and reflections about the project.
 
+![Celine interviewed by ATXN](/assets/img/projects/zero-waste/CelineATXN.JPG)
+
 ## Follow Us on Medium
 
 [Understanding Recycling in Austin, Texas](https://medium.com/civiqueso/understanding-recycling-in-austin-texas-397a7b42d76f) by Céline Thibault

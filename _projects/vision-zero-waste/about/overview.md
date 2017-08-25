@@ -6,7 +6,7 @@ position: 0
 
 ## Introduction
 
-![image of Balcones Recycling Center Tour](/uploads/Recycling%20Center%20Web-1.jpg)
+![image of Balcones Recycling Center Tour](/assets/img/projects/zero-waste/Recycling%20Center%20Web-1.jpg)
 
 We are Design, Technology, and Innovation (DTI) Fellows with the City of Austin and you've made it to our project documentation site. This site features the collaboration between [DTI Fellows](https://cityofaustin.github.io/innovation-fellows/) and [Austin Resource Recovery](http://www.austintexas.gov/department/austin-resource-recovery) (ARR) to come up with new approaches to reaching the city's goal of Zero Waste by 2040. Here you will see the latest progress of our work, the research and design methods used by the Fellows, and key project outcomes.
 
@@ -14,7 +14,7 @@ We hope our research and design findings will be useful for city staff who are m
 
 ## Background
 
-![image of recycling sorting center](/uploads/Recycling%20Center%20Web-7.jpg)
+![image of recycling sorting center](/assets/img/projects/zero-waste/Recycling%20Center%20Web-7.jpg)
 
 Everybody likes to trash talk. Actually, this is recycling talk. In early 2016, Austin's Design, Technology, and Innovation (DTI) Fellows joined forces with Austin Resource Recovery (ARR) to make an impact on Austin's Zero Waste goal through a 6 month partnership. The DTI Fellowship supplied full-time Fellows with expertise in research, design, development, and project management. ARR supplied subject matter experts and funding. September 2016 marks the official start of the project.
 
@@ -22,7 +22,7 @@ Before jumping to solutions, the first step is to learn about the perspectives, 
 
 ## Planning
 
-![image of planning](/uploads/photo.jpg)
+![image of planning](/assets/img/projects/zero-waste/photo.jpg)
 
 ### Scope
 This is a 6 month project with two main phases: (1) Research, Discovery, and Synthesis and (2) Concepting, Prototyping and Testing. The Fellows are responsible for planning the project, executing the project work, and delivering appropriate deliverables after each phase to Austin Resource Recovery. In addition to delivering actionable insights and solutions, the Fellows will expose and teach human-centered design tools and techniques to Austin Resource Recovery staff and partners.

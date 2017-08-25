@@ -12,7 +12,7 @@ position: 1
 
 [Design Plan](https://docs.google.com/document/d/1rqR_tuWFXR3g2NHKQ2_4oQ3OKb_h3xm88ZOom_QVEiY/edit?usp=sharing)
 
-![image of design process](/uploads/DesignMethod-ConceptEvaluation.jpg)
+![image of design process](/assets/img/projects/zero-waste/DesignMethod-ConceptEvaluation.jpg)
 
 ## Translating Research to Design
 
@@ -33,7 +33,7 @@ Sprints refer to one or two week segments we spent on each round of prototypes. 
 
 [Sample Sprint Schedule](https://docs.google.com/spreadsheets/d/1uCVVK9bhXImivm__Rb0O5O9wMBH5UNrPrCKWjXQGF-c/edit?usp=sharing)
 
-![DesignMethod-RoughPrototypes.jpg](/uploads/DesignMethod-RoughPrototypes.jpg)
+![DesignMethod-RoughPrototypes.jpg](/assets/img/projects/zero-waste/DesignMethod-RoughPrototypes.jpg)
 
 ## Prototyping
 
@@ -50,7 +50,7 @@ Rapid prototyping a concept is a low-cost and effective method for testing the p
 [Prototype & Test Plan Template](https://docs.google.com/document/d/1bqS9Dc8mK8JcDAfPdFtNj0YXUoFX2xojlMPAp1GaslM/edit?usp=sharing)\
 [Storyboard Template](https://docs.google.com/presentation/d/1UACE7gEnpR_rdWTbAc6_DubjkrQ85cPnzG6OQ-5XOyA/edit?usp=sharing)
 
-![DesignMethod-UsabilityTesting.jpg](/uploads/DesignMethod-UsabilityTesting.jpg)
+![DesignMethod-UsabilityTesting.jpg](/assets/img/projects/zero-waste/DesignMethod-UsabilityTesting.jpg)
 
 ## Usability Testing
 
@@ -65,7 +65,7 @@ Conducted usability tests with residents that either proved or disproved a proto
 
 [Prototype & Test Plan Template](https://docs.google.com/document/d/1bqS9Dc8mK8JcDAfPdFtNj0YXUoFX2xojlMPAp1GaslM/edit?usp=sharing)
 
-![DesignMethod-SprintReviewCritique.jpg](/uploads/DesignMethod-SprintReviewCritique.jpg)
+![DesignMethod-SprintReviewCritique.jpg](/assets/img/projects/zero-waste/DesignMethod-SprintReviewCritique.jpg)
 
 ## Critique
 
@@ -85,7 +85,7 @@ Hundreds of files, videos, and images make up our process work and design outcom
 * *Recommendations Booklet:* We  created a booklet that includes a brief history of each prototype, test details, and finished products with instructionals for next steps. Most importantly, Austin Resource Recovery teams can access this booklet and use it in their daily workflow.
 * *Relocating Folder:* We prepared and transferred all files to Austin Resource Recovery’s internal drive so they can access original files.
 
-![InternalDesignShareout.jpg](/uploads/InternalDesignShareout.jpg)
+![InternalDesignShareout.jpg](/assets/img/projects/zero-waste/InternalDesignShareout.jpg)
 
 ## Sharing
 

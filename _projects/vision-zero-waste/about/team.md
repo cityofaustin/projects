@@ -63,4 +63,4 @@ The Advisory team meets for regular, bi-weekly sprint reviews.
 
 **Mindy Reed** • Recycled Reads
 
-![image of Advisory Team](/uploads/advisory_kickoff_teamshot.JPG)
+![image of Advisory Team](/assets/img/projects/zero-waste/advisory_kickoff_teamshot.JPG)

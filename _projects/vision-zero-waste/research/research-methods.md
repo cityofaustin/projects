@@ -4,7 +4,7 @@ position: 1
 ---
 
 
-![Image of Research](/uploads/IMG_0459.JPG)
+![Image of Research](/assets/img/projects/zero-waste/IMG_0459.JPG)
 
 ## Research Goals
 
@@ -68,7 +68,7 @@ Concluded each interview with an immediate 45-90 min debrief session to document
 
 ## Synthesis Methods
 
-![image of synthesis](/uploads/memi_tom_synthesis.JPG)
+![image of synthesis](/assets/img/projects/zero-waste/memi_tom_synthesis.JPG)
 
 [Synthesis guide](https://drive.google.com/drive/folders/0B0ZCxe9t4WXDTGRCOHRrNjNuZ2s?usp=sharing)
 

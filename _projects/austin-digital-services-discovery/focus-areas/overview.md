@@ -11,7 +11,7 @@ We had some assumptions and baseline requirements heading into this project. We 
 
 ## Background
 
-![LowWaterCrossing.jpeg](/uploads/LowWaterCrossing.jpeg)
+![LowWaterCrossing.jpeg](/assets/img/projects/atxfloods/LowWaterCrossing.jpg)
 
 Many residents know that the part of Texas that Austin is located in is known as Hill Country, but what they may not know is that it is also known as [Flash Flood Alley](https://www.lcra.org/water/floods/Pages/default.aspx). This is due to the area’s steep terrain, shallow soil, and unusually high rainfall rates.
 

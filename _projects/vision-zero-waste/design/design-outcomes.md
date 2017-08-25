@@ -6,13 +6,13 @@ After four months of prototyping and testing potential solutions with Austin res
 
 [Posters about our approach to civic design](https://drive.google.com/file/d/0B5EhpaXrJI6hT0RVajZfR0k4SEk/view?usp=sharing)
 
-![FinalProductsCollage.jpg](/uploads/FinalProductsCollage.jpg)
+![FinalProductsCollage.jpg](/assets/img/projects/zero-waste/FinalProductsCollage.jpg)
 
 ## Final Products
 
 ### Household Sorting Guide
 
-![SortGuide_FinalPoster.jpg](/uploads/SortGuide_FinalPoster.jpg)
+![SortGuide_FinalPoster.jpg](/assets/img/projects/zero-waste/SortGuide_FinalPoster.jpg)
 
 *Research Insight:* Single stream rules are so confusing that almost nobody does it perfectly.
 
@@ -23,7 +23,7 @@ After four months of prototyping and testing potential solutions with Austin res
 
 ### Sorting Game
 
-![SortingGame2.jpg](/uploads/SortingGame2.jpg)
+![SortingGame2.jpg](/assets/img/projects/zero-waste/SortingGame2.jpg)
 
 *Research Observations:* ARR outreach events mostly consist of lecture style conversations with event attendees.
 
@@ -33,7 +33,7 @@ After four months of prototyping and testing potential solutions with Austin res
 
 ### Dual Bin Program
 
-![DualBinProgram2.jpg](/uploads/DualBinProgram2.jpg)
+![DualBinProgram2.jpg](/assets/img/projects/zero-waste/DualBinProgram2.jpg)
 
 *Research Insight:* When space is limited, making room for recycling feels like a personal sacrifice.
 
@@ -43,7 +43,7 @@ After four months of prototyping and testing potential solutions with Austin res
 
 ### Outreach Tool
 
-![OutreachTool Digital with iPad.png](/uploads/OutreachTool%20Digital%20with%20iPad.png)
+![OutreachTool Digital with iPad.png](/assets/img/projects/zero-waste/OutreachTool%20Digital%20with%20iPad.png)
 
 *Framework Insight:* Residents need strength in 2 out of 3 framework areas (knowledge, ability, motivation) to recycle well.
 
@@ -54,7 +54,7 @@ After four months of prototyping and testing potential solutions with Austin res
 
 ### Content Strategy
 
-![ContentStrategyAssets.png](/uploads/ContentStrategyAssets.png)
+![ContentStrategyAssets.png](/assets/img/projects/zero-waste/ContentStrategyAssets.png)
 
 *Research Observation:* Austin Resource Recovery needed a reliable reference tool for recalling personas and applying them to programs & content.
 

@@ -6,7 +6,7 @@ position: 2
 After four weeks of analyzing hundreds of post-its, we are happy to present the findings of our research.
 
 
-![Framework Image](/uploads/Final%20Framework.png)
+![Framework Image](/assets/img/projects/zero-waste/Final%20Framework.png)
 
 ## Research Deliverables
 
@@ -32,12 +32,12 @@ The research findings were shared with the public during an evening presentation
 
 [Presentation](https://drive.google.com/file/d/0B1h7yUJL74THd1V3Skt0WDdET3M/view?usp=sharing). This is the presentation shared at this public session. We recommend reviewing this along with the video recording or refer to the [Written Report](https://drive.google.com/file/d/0B1h7yUJL74THaE1HYjJWQUlzRlU/view?usp=sharing) for more more details and context.
 
-![Public Share-out](/uploads/PublicPres-Amalie.JPG)
+![Public Share-out](/assets/img/projects/zero-waste/PublicPres-Amalie.JPG)
 
 ### Internal Share-out
 
 These research findings were first presented at a share-out session with members of the project advisory team and other ARR staff. This session included a comprehensive review of the research findings, discussions, and a concepting workshop where participants illustrated and shared ideas inspired by the research.
 
-![Share-out Presentation Image](/uploads/share_out_katherine_presenting.jpg)
+![Share-out Presentation Image](/assets/img/projects/zero/share_out_katherine_presenting.jpg)
 
-![Share-out Drawing Image](/uploads/DesignSessionStanding.JPG)
+![Share-out Drawing Image](/assets/img/projects/zero-waste/DesignSessionStanding.JPG)

@@ -5,7 +5,7 @@ position: 0
 
 ## Introduction
 
-![image of City of Austin Technologist](/uploads/Jasmine%20Shares%20Work.jpeg)
+![image of City of Austin Technologist](/assets/img/projects/digital-services-discovery/jasmine.jpg)
 
 City of Austin digital services include viewing Austin recycling and trash schedules, getting in line for your driver’s license, registering your kids for summer camp, and other goals residents can accomplish–online. Austin residents rely on digital services more and more every day and city teams realize how important it is to meet their expectations. During the 2017 spring retreat, Austin’s City Council [cited the importance of creating government that works for everyone](http://projects.austintexas.io/smart-city-strategic-roadmap/).
 
@@ -15,7 +15,7 @@ This is an overview of our approach, shared learnings, and progress we’ve made
 
 ## Background
 
-![image of Elizabeth drawing a reflection timeline](/uploads/Elizabeth%20Draws%20Timeline.jpeg)
+![image of Elizabeth drawing a reflection timeline](/assets/img/projects/digital-services-discovery/elizabeth.jpg)
 
 In May, 2017, our team got together to gather requirements, evaluate, and then implement a new technology foundation or “stack” for all City of Austin services. Following in the well-documented footsteps of other innovative cities like [Boston](https://www.boston.gov/departments/digital-team) and [Indianapolis](https://shift.indy.gov/), and international governments like the [United Kingdom](https://www.gov.uk/government/organisations/government-digital-service), we discovered we needed more than a technology foundation–we needed shared values, a roadmap for reaching our goals, the teams in place to do the work and new workflows to support them.
 
