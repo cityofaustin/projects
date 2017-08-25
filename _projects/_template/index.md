@@ -3,7 +3,7 @@ title: Project
 project_name: Project
 subtitle: with Department
 excerpt:
-image_path:
+image_path: /assets/img/projects/_project/picture.png
 active: true
 position: 0
 layout: redirect
