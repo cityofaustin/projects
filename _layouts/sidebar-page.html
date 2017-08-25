@@ -12,7 +12,9 @@ layout: default
       </section>
       <section class="page-section start-xs">
         <div class="row">
-        {{ content }}
+          <div class="col-sm">
+            {{ content }}
+          </div>
         </div>
         {% if page.press_mentions %}
         {% assign press_mentions = page.press_mentions | sort: "date" | reverse %}
