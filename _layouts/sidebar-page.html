@@ -11,7 +11,23 @@ layout: default
         {% include page-section--header.html %}
       </section>
       <section class="page-section start-xs">
-      {{ content }}
+        <div class="row">
+        {{ content }}
+        </div>
+        {% if page.press_mentions %}
+        {% assign press_mentions = page.press_mentions | sort: "date" | reverse %}
+          <div class="row">
+          {% for mention in press_mentions %}
+            <div class="press-mention col-md-6 col-xs-12">
+              <h5 class="press-title"><a href="{{ site.baseurl }}{{ mention.article_link }}">
+                {{ mention.title }}
+              </a></h5>
+              <p class="press-source">{{ mention.source }}</p>
+              <p class="press-date">{{ mention.date | date: '%B %e, %Y' }}</p>
+            </div>
+          {% endfor %}
+          </row>
+        {% endif %}
       </section>
     </div>
   </div>
