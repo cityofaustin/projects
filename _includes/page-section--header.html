@@ -6,6 +6,11 @@
   <div class="col-xs lede">{{ page.lede_markdown | markdownify | trim }}</div>
 </div>
 {% endif %}
+{% if page.secondary_lede_markdown %}
+<div class="row center-xs">
+  <div class="col-xs-12 col-lg-8">{{ page.secondary_lede_markdown | markdownify | trim }}</div>
+</div>
+{% endif %}
 {% if page.lede_button_text and page.lede_button_path %}
 <div class="row">
   <div class="col-xs">
