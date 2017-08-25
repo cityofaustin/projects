@@ -1,8 +1,8 @@
 {% assign tile = include.tile %}
 <div class="tile tile--{{ include.tile_type }} col-xs-12 col-sm-10 col-sm-offset-1 col-md-offset-0 col-md-4">
-  <a class="tile-link" {% if include.tile_external %}target="_blank"{% endif %} href="{% unless include.tile_external %}{{ site.baseurl }}{% endunless %}{{ tile.url }}" title="{{ tile.title }}"></a>
+  <a class="tile-link" {% if tile.url contains "http" %}target="_blank"{% endif %} href="{% unless tile.url contains "http" %}{{ site.baseurl }}{% endunless %}{{ tile.url }}" title="{{ tile.title }}"></a>
   <div class="tile-outline">
-    <div class="tile-img" style="background-image: url('{% unless include.tile_external %}{{ site.baseurl }}{% endunless %}{{ tile.image_path }}')"></div>
+    <div class="tile-img" style="background-image: url('{% unless tile.image_path contains "http" %}{{ site.baseurl }}{% endunless %}{{ tile.image_path }}')"></div>
     <div class="tile-text">
       <h3 class="tile-title">
         {{ tile.title }}
