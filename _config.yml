@@ -41,7 +41,6 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-include-cache
 
 # Jekyll SEO Tag
 # See https://github.com/jekyll/jekyll-seo-tag
