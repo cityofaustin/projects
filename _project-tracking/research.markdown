@@ -48,18 +48,26 @@ Conducted in-person interviews with City of Austin staff and members of the publ
 
 * *City staff interviews*: Conducted 3 group discussions with City staff (7-10 per interview) from various departments in June 2017.
 
-* *Public stakeholder interviews (currently in progress)*: Will conduct 8-12 interviews in July-August 2017 with community members active in local issues. 
-
-## Interview Debriefs
-
-Concluded each interview with an immediate 30-60-minute debrief to document on post-it notes key quotes, stories, and takeaways. Post-its were color coded as followed:
-
-* Teal - knowledge and facts
-* Rose - experiences
-* Magenta - quotes
-* Lime - ideas and suggestions
-* Orange - questions 
+* *Public stakeholder interviews (currently in progress)*: Will conduct 8-12 interviews in July-August 2017 with community members active in local issues.
 
 # Synthesis Methods
 
-We're doing the research now -- more to come!
+**Interview Debriefs**: Concluded each interview with an immediate 30-60-minute debrief to document on post-it notes key quotes, stories, and takeaways. Post-its were color coded as followed:
+
+* Teal - knowledge and facts
+
+* Rose - experiences
+
+* Magenta - quotes
+
+* Lime - ideas and suggestions
+
+* Orange - questions
+
+**Pattern Identification**: Clustered takeaways from the interviews and identified key themes. These patterns continued to be merged, resorted, and/or eliminated throughout synthesis. We labeled each theme.
+
+**Insight Generation**: Came up with statements of truth based on patterns identified from the interviews. These statements describe "what is" and try to reveal the truth, needs, and experiences of people involved.
+
+**Identification of User Stories**: Drafted statements of what users of a project tracking tool need (known as user stories). User stories inform how we design and build a project tracking tool.
+
+[Photos and artifacts from research synthesis](https://drive.google.com/drive/folders/0B6sCjeOkriUaWWtXRnlKME1wNDQ?usp=sharing)
