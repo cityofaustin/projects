@@ -55,12 +55,12 @@ The Advisory team meets for regular, bi-weekly sprint reviews.
 
 **Ashley Pace**, Operations Manager • Innovation Office
 
-**Amy Petri**• Office of Sustainability
+**Amy Petri** • Office of Sustainability
 
-**Ilya Schmulenson**• Keep Austin Beautiful
+**Ilya Schmulenson** • Keep Austin Beautiful
 
-**Darien Clary**• Austin Independent School District
+**Darien Clary** • Austin Independent School District
 
-**Mindy Reed**• Recycled Reads
+**Mindy Reed** • Recycled Reads
 
 ![image of Advisory Team](/uploads/advisory_kickoff_teamshot.JPG)
