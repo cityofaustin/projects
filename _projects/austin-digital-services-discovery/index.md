@@ -1,8 +1,8 @@
 ---
 title: Austin Digital Services Discovery
 project_name: Austin Digital Services Discovery
-subtitle:
-excerpt:
+subtitle: with Austin Resource Recovery and Communications & Public Information Office
+excerpt: We want to learn what’s not working about our current website and to define, and more importantly—test new methods for developing and accessing City of Austin digital services.
 image_path:
 active: true
 position: 0

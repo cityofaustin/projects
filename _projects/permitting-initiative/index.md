@@ -1,8 +1,8 @@
 ---
-title: Permitting Initiative
+title: Making Permitting Work for Austin
 project_name: Permitting Initiative
-subtitle:
-excerpt:
+subtitle: with Development Services Department
+excerpt: We’re working with staff in departments across the City to illustrate the permitting experience from our users’ perspectives and identify how technology can help us meet increasing demands.
 image_path:
 active: false
 position: 0

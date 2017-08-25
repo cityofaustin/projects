@@ -1,8 +1,8 @@
 ---
 title: Smart City Strategic Roadmap
 project_name: Smart City Strategic Roadmap
-subtitle:
-excerpt:
+subtitle: with Communications and Technology Management
+excerpt: The Austin community and city government partners worked together to collaboratively draft this roadmap to inform City policy decision-making, help the community tackle local challenges, and help the city improve service delivery.
 image_path:
 active: true
 position: 0
