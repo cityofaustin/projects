@@ -1,6 +1,6 @@
 ---
 title: Press Coverage
-position:
+position: 4
 press_mentions:
   - title: 4 takeaways from study on Austin’s recycling behaviors
     article_link: https://communityimpact.com/austin/central-austin/city-county/2017/01/19/4-takeaways-study-austins-recycling-behaviors/
@@ -46,7 +46,7 @@ press_mentions:
     article_link: http://keyetv.com/news/local/new-tools-aim-to-increase-recycling-reach-austins-zero-waste-goal
     source: CBS Austin
     date: 2017-05-08
-    
+
   - title: Recycle or trash? Study finds Austin’s recycling rules confusing (TV Interview)
     article_link: http://kxan.com/2017/05/08/recycle-or-trash-study-finds-austins-recycling-rules-confusing/
     source: KXAN
