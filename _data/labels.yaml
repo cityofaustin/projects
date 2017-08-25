@@ -1,4 +1,4 @@
-intro_markdown: An official city of Austin website
+intro_markdown: An official City of Austin website
 site_title: Innovation Projects
 translate: Translate
 home: Home
@@ -9,7 +9,7 @@ footer_headline: Interested in working with us?
 footer_lede: We partner with City of Austin departments to [xyz].
 footer_button_text: Get in touch
 footer_button_path: /contact
-footer_credits: Office of Innovation • Office of Communications & Technology Management
+footer_credits: Office of Innovation • Communications & Technology Management
 site_nav:
   - label: Home
     path: /
