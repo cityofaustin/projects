@@ -8,25 +8,25 @@ The Core team works on the project on a day-to-day basis.
 
 ### Digital Service Strategy
 
-Marni Wilhite, Product Management | Design, Technology, & Innovation Fellows
-Matthew Esquibel, IT Corporate Manager | Communications and Technology Management
-Adam Wiedeman, Project Management | Design, Technology, & Innovation Fellows
+Marni Wilhite, Product Management • Design, Technology, & Innovation Fellows
+Matthew Esquibel, IT Corporate Manager • Communications and Technology Management
+Adam Wiedeman, Project Management • Design, Technology, & Innovation Fellows
 
 ### Shared Microservices
 
-Amenity Applewhite, Business Systems Analyst | Communications and Public Information Office
-Matt Langan, Development & Operations | Design, Technology, & Innovation Fellow
-Brian Smith, Development | Design, Technology, & Innovation Fellows
-Sarah Rudder, Development | Design, Technology, & Innovation Fellows
+Amenity Applewhite, Business Systems Analyst • Communications and Public Information Office
+Matt Langan, Development & Operations • Design, Technology, & Innovation Fellow
+Brian Smith, Development • Design, Technology, & Innovation Fellows
+Sarah Rudder, Development • Design, Technology, & Innovation Fellows
 
 ### Modular Web Flow Core Team
 
-Marni Wilhite, Product Management | Design, Technology, & Innovation Fellows
-Celine Thibault, Research & User Experience Design | Design, Technology, & Innovation Fellows
-Laura Trujillo, Content Strategist | Design, Technology, & Innovation Fellows
-Brian Smith, Development | Design, Technology, & Innovation Fellows
-Sarah Rudder, Development | Design, Technology, & Innovation Fellows
-Ashlee Harris, Public Information Specialist | Communications and Public Information Office
+Marni Wilhite, Product Management • Design, Technology, & Innovation Fellows
+Celine Thibault, Research & User Experience Design • Design, Technology, & Innovation Fellows
+Laura Trujillo, Content Strategist • Design, Technology, & Innovation Fellows
+Brian Smith, Development • Design, Technology, & Innovation Fellows
+Sarah Rudder, Development • Design, Technology, & Innovation Fellows
+Ashlee Harris, Public Information Specialist • Communications and Public Information Office
 
 ## Advisory Team
 
