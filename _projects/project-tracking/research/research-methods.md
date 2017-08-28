@@ -42,9 +42,13 @@ Conducted in-person interviews with City of Austin staff and members of the publ
 **Interview Debriefs**: Concluded each interview with an immediate 30-60-minute debrief to document on post-it notes key quotes, stories, and takeaways. Post-its were color coded as followed:
 
 * Teal - knowledge and facts
+
 * Rose - experiences
+
 * Magenta - quotes
+
 * Lime - ideas and suggestions
+
 * Orange - questions
 
 **Pattern Identification**: Clustered takeaways from the interviews and identified key themes. These patterns continued to be merged, resorted, and/or eliminated throughout synthesis. We labeled each theme.
