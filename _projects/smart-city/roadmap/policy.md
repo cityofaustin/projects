@@ -1,5 +1,5 @@
 ---
-title:
+title: Policy
 ---
 
 > *Of all the prospects raised by the evolution of digital culture, the most tantalizing is the possibility that technology could fuse with politics to create a more civil society. -  [Jon Katz](https://en.wikipedia.org/wiki/Jon_Katz)*

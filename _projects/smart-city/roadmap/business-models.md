@@ -1,5 +1,5 @@
 ---
-title:
+title: Business Models
 ---
 
 ## Business Models

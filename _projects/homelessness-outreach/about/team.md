@@ -3,7 +3,6 @@ title: Who We Are
 position: 1
 ---
 
-
 ## Team Structure
 
 The Homelessness Outreach Street Team (HOST) brings together the expertise of two police officers, three behavioral health specialists, a community health paramedic, and an outreach social worker. Their job is to help bridge the gaps between social services and safety where hard-to-reach populations get stuck in the revolving door of emergency shelters, justice systems, and emergency services.

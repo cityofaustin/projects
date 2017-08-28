@@ -1,7 +1,8 @@
 ---
 title: Research
-layout: redirect
-permalink: /projects/project-tracking/research/
-redirect_to: /projects/project-tracking/research/research-methods
+permalink: "/projects/project-tracking/research/"
 position: 2
+layout: redirect
+redirect_to: "/projects/project-tracking/research/research-methods"
 ---
+

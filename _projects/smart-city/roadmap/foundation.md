@@ -1,5 +1,5 @@
 ---
-title:
+title: Foundation
 ---
 
 > *Moore’s Law \[the observation and theory that computing power increases at an exponential pace\]... is really about people’s belief system, it’s not a law of physics, it’s about human belief, and when people believe in something, they’ll put energy behind it to make it come to pass.*

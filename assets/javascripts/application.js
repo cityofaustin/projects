@@ -1,5 +1,4 @@
 ---
-# Javascripts!
 ---
 
 // Vendor JS

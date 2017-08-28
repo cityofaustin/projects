@@ -1,5 +1,5 @@
 ---
-title:
+title: Economic Opportunity And Affordability
 ---
 
 The Council on April 5, 2017, affirmed a vision and six outcomes to guide the City of Austin over the next 3 to 5 years. These, along with indicators below, establish a framework for developing the City of Austin's adaptive strategic plan.

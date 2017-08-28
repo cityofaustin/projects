@@ -2,6 +2,7 @@
 title: What We're Making
 position: 2
 ---
+
 After four months of prototyping and testing potential solutions with Austin residents, we are happy to present the final products.
 
 [Posters about our approach to civic design](https://drive.google.com/file/d/0B5EhpaXrJI6hT0RVajZfR0k4SEk/view?usp=sharing)

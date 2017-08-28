@@ -1,7 +1,8 @@
 ---
 title: Design
-layout: redirect
-permalink: /projects/permitting-initiative/design/
-redirect_to: /projects/permitting-initiative/design/design-methods
+permalink: "/projects/permitting-initiative/design/"
 position: 3
+layout: redirect
+redirect_to: "/projects/permitting-initiative/design/design-methods"
 ---
+

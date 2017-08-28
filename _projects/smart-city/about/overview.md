@@ -3,7 +3,6 @@ title: What We're Doing
 position: 0
 ---
 
-
 ## Introduction
 
 On November 3, 2016, Austin City Council passed a [resolution](https://smartaustin.bloomfire.com/posts/1327070-city-of-austin-moving-forward-with-a-smart-cities-strategic-roadmap) calling for the development of a Smart City Strategic Roadmap with relevant City entities, community partners, and the technology community.

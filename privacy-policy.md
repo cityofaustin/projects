@@ -1,8 +1,8 @@
 ---
 title: Privacy Policy
+permalink: "/privacy"
 layout: full-page
 sitemap: false
-permalink: /privacy
 ---
 
 This policy is to inform visitors to [projects.austintexas.io](http://projects.austintexas.io/) and its companion websites of our online information practices. By using our websites, you acknowledge and accept all terms of use outlined below and also found on the [City of Austin website](http://www.austintexas.gov/page/privacy-policy). *Last updated: August 2017*

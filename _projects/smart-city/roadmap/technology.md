@@ -1,5 +1,5 @@
 ---
-title:
+title: Technology
 ---
 
 We believe smart cities conversations shouldn't start with the technology but rather with the problem you're trying to solve. That said, technology is what powers smart cities projects and enables them to scale and serve more people.

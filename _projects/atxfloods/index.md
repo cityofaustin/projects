@@ -1,12 +1,15 @@
 ---
 title: Improving Alerts for Flooded Roadways
+permalink: "/projects/atxfloods/"
+position: 0
 project_name: ATXfloods
 subtitle: with Watershed Protection Department
-excerpt: We’re working with Austin’s Watershed Protection Department to improve how ATXfloods provides information about the status of roadway closures to the public and emergency services.
-image_path: /assets/img/projects/atxfloods/atxfloods.jpg
+excerpt: We’re working with Austin’s Watershed Protection Department to improve how
+  ATXfloods provides information about the status of roadway closures to the public
+  and emergency services.
+image_path: "/assets/img/projects/atxfloods/atxfloods.jpg"
 active: true
-position: 0
 layout: redirect
-permalink: /projects/atxfloods/
-redirect_to: /projects/atxfloods/about/overview
+redirect_to: "/projects/atxfloods/about/overview"
 ---
+

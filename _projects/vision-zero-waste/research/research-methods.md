@@ -3,7 +3,6 @@ title: How we Explore
 position: 1
 ---
 
-
 ![Image of Research](/assets/img/projects/zero-waste/IMG_0459.JPG)
 
 ## Research Goals

@@ -3,7 +3,6 @@ title: Who We Are
 position: 1
 ---
 
-
 ## Core Team
 
 The Core team works on the project on a daily basis.

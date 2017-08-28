@@ -3,7 +3,6 @@ title: What We're Doing
 position: 0
 ---
 
-
 ## Introduction
 
 ![image of Balcones Recycling Center Tour](/assets/img/projects/zero-waste/Recycling%20Center%20Web-1.jpg)

@@ -1,7 +1,8 @@
 ---
 title: About
-layout: redirect
-permalink: /projects/permitting-initiative/about/
-redirect_to: /projects/permitting-initiative/about/overview
+permalink: "/projects/permitting-initiative/about/"
 position: 1
+layout: redirect
+redirect_to: "/projects/permitting-initiative/about/overview"
 ---
+
