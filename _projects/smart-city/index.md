@@ -11,5 +11,6 @@ image_path: "/assets/img/projects/smart-city/smart-city-goals.png"
 active: true
 layout: redirect
 redirect_to: "/projects/smart-city/about/overview"
----
+date: 2017-08-28
 
+---

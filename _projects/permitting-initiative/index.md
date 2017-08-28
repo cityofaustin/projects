@@ -11,5 +11,6 @@ image_path: "/assets/img/projects/permitting/permitting.png"
 active: false
 layout: redirect
 redirect_to: "/projects/permitting-initiative/about/overview"
----
+date: 2017-08-28
 
+---

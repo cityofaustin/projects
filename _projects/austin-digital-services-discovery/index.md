@@ -11,5 +11,6 @@ image_path: "/assets/img/projects/digital-services-discovery/techstack.jpg"
 active: true
 layout: redirect
 redirect_to: "/projects/austin-digital-services-discovery/about/overview"
----
+date: 2017-08-28
 
+---

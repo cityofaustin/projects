@@ -11,5 +11,6 @@ image_path: "/assets/img/projects/zero-waste/vision-zero-waste.jpg"
 active: false
 layout: redirect
 redirect_to: "/projects/vision-zero-waste/about/overview"
----
+date: 2017-08-28
 
+---
