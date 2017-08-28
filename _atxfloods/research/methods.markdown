@@ -14,7 +14,7 @@ We circulated a survey to get feedback from citizens about how currently they us
 
 This survey also served as a screener, to identify and reach out to people who were willing to follow-up with conversations to give more detailed understandings of key tasks, challenges, and motivations for using ATXfloods.com.
 
-On April 6, 2016, we also attended the Deaf & Hard of Hearing Town Hall to learn how that community can be better supported through weather alerts.
+On April 6, 2016, we also attended the Deaf & Hard of Hearing Town Hall to learn how community can be better supported through weather alerts.
 
 ## Auditing Current Tool
 
