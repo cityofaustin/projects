@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/cityofaustin/zilker-theme.git
-  revision: 6ddf65eca5ebadbd26247b13fcf11eac5ad350ec
-  tag: v0.0.2
-  specs:
-    jekyll-theme-zilker (0.0.2)
-      jekyll (~> 3.4)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -25,10 +17,16 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-include-cache (0.1.0)
+      jekyll (~> 3.3)
     jekyll-redirect-from (0.12.1)
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-seo-tag (2.2.3)
+      jekyll (~> 3.3)
+    jekyll-sitemap (1.1.1)
+      jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
@@ -51,12 +49,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.4.2)
+  jekyll-include-cache
   jekyll-redirect-from
-  jekyll-theme-zilker!
-
-RUBY VERSION
-   ruby 2.4.0p0
+  jekyll-seo-tag
+  jekyll-sitemap
 
 BUNDLED WITH
-   1.14.6
+   1.15.3
