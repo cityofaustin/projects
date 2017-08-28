@@ -1,5 +1,6 @@
 ---
 title: Improving Alerts for Flooded Roadways
+date: 2017-08-28 00:00:00 Z
 permalink: "/projects/atxfloods/"
 position: 0
 project_name: ATXfloods
@@ -11,5 +12,5 @@ image_path: "/assets/img/projects/atxfloods/atxfloods.jpg"
 active: true
 layout: redirect
 redirect_to: "/projects/atxfloods/about/overview"
-date: 2017-08-28
 ---
+

@@ -1,5 +1,6 @@
 ---
 title: Austin Digital Services Discovery
+date: 2017-08-28 00:00:00 Z
 permalink: "/projects/austin-digital-services-discovery/"
 position: 0
 project_name: Austin Digital Services Discovery
@@ -11,6 +12,5 @@ image_path: "/assets/img/projects/digital-services-discovery/techstack.jpg"
 active: true
 layout: redirect
 redirect_to: "/projects/austin-digital-services-discovery/about/overview"
-date: 2017-08-28
-
 ---
+

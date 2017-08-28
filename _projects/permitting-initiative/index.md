@@ -1,5 +1,6 @@
 ---
 title: Making Permitting Work for Austin
+date: 2017-08-28 00:00:00 Z
 permalink: "/projects/permitting-initiative/"
 position: 0
 project_name: Permitting Initiative
@@ -11,6 +12,5 @@ image_path: "/assets/img/projects/permitting/permitting.png"
 active: false
 layout: redirect
 redirect_to: "/projects/permitting-initiative/about/overview"
-date: 2017-08-28
-
 ---
+

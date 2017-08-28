@@ -1,5 +1,6 @@
 ---
 title: Smart City Strategic Roadmap
+date: 2017-08-28 00:00:00 Z
 permalink: "/projects/smart-city/"
 position: 0
 project_name: Smart City Strategic Roadmap
@@ -11,6 +12,5 @@ image_path: "/assets/img/projects/smart-city/smart-city-goals.png"
 active: true
 layout: redirect
 redirect_to: "/projects/smart-city/about/overview"
-date: 2017-08-28
-
 ---
+
