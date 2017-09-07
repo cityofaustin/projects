@@ -18,9 +18,9 @@ position: 1
 
 ## Desk Research
 
-Got a cursory understanding of existing project tracking tools, processes, and capabilities for City of Austin projects, as well as practices and tools used by other governments.
+We researched project tracking tools, processes, and capabilities for City of Austin projects, as well as practices and tools used by other governments.
 
-Understand current City project tracking capabilities:
+Main research questions we sought to understand:
 
 * What project tracking tools and project management systems currently exist at the City?
 * Who and how many are using existing public facing project reporting/tracking tools (CIVIC, new Bond Tool?, etc.)?
@@ -30,12 +30,16 @@ Understand current City project tracking capabilities:
 
 Competitive Analysis: “Best in class” - what online portfolio management/project tracking tools are already out there? Ex. UK, Canada, Mexico, etc.
 
+[Documentation from our desk research is here.](https://docs.google.com/document/d/1gqTh6j8l-jw0ju10X9DLdvwVuNwFbHPPNFbC9sUS414/edit?usp=sharing)
+
+[List of project tracking tools currently at use by City of Austin departments is here.](https://airtable.com/shrv3psTrtf6mXAOH/tbldwDPGvhyE07dxQ/viwv60rsecNRcK1NP)
+
 ## Field Research
 
 Conducted in-person interviews with City of Austin staff and members of the public to understand needs, desires, and capabilities for tracking project information.
 
 * *City staff interviews*: Conducted 3 group discussions with City staff (7-10 per interview) from various departments in June 2017.
-* *Public stakeholder interviews (currently in progress)*: Will conduct 8-12 interviews in July-August 2017 with community members active in local issues.
+* *Public stakeholder interviews*: Conducted 8 in-person interviews with community members active in local issues, between June-August 2017.
 
 ## Synthesis Methods
 
