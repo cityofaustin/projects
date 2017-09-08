@@ -5,7 +5,7 @@ position: 2
 
 ![What we're learning - team moving sticky notes of research insights](/uploads/Synthesis%20in%20action.jpg)
 
-Here’s what we’ve learned about project tracking from public stakeholders and City staff. [Read more about our research process here.](http://projects.austintexas.io/projects/project-tracking/research/research-methods/)
+Here’s what we’ve learned about project tracking from public stakeholders and City staff. [Read more about our research process here. ](http://projects.austintexas.io/projects/project-tracking/research/research-methods/) 
 
 ## What we've learned from community members
 
@@ -32,6 +32,8 @@ They also rely on these sources and groups for information, in part, because Cit
 Because it’s hard to navigate the system, and the city isn’t always fully transparent or responsive, many find the most effective way to engage the city is through individual employees they have built relationships with. Many community advocate have a go-to person on the City side for information on particular projects.
 
 When they don't already know a precise city employee to contact, people have a hard time understanding who who to contact, who’s driving an initiative, and who can answer questions on particular projects. People want a human face for projects--a specific person they can contact to get more information on a project. For example, people think it's really helpful when City employees attend and speak at public events. Emails addresses that look like distribution lists or generic accounts (ex: departmentX@austintexas.gov) don't inspire much confidence that they'll get through to a human.
+
+[Photos and documentation from our research synthesis](https://drive.google.com/drive/folders/0B6sCjeOkriUaWWtXRnlKME1wNDQ?usp=sharing)
 
 ## What we've learned from City staff
 
@@ -76,6 +78,8 @@ They also want to use project data to power storytelling about their mission and
 It’s who you know: Staff have to rely on institutional knowledge and meetings to know who to contact about particular issues. For example, 3-1-1, a big collector and disseminator of project information, relies heavily on meetings and relationships for its information. However, staff acknowledge that much of the knowledge that's shared in these meetings and conversations is never documented so that it's sharable more broadly.
 
 Staff also see some successful examples of sharing information proactively. One department issues a weekly newsletter of project updates to tee up news stories for the following week. Departments are also successfully sharing updates with management--without project management tools.
+
+[Photos and documentation from our research synthesis](https://drive.google.com/drive/folders/0B6sCjeOkriUaWWtXRnlKME1wNDQ?usp=sharing)
 
 ## User stories and priority data fields
 
