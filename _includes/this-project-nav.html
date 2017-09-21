@@ -1,0 +1,9 @@
+{% if include.status == "current" %}
+  {% assign list_project_pages = site.projects | where: "active", true %}
+{% elsif include.status == "past" %}
+  {% assign list_project_pages = site.projects | where: "active", false %}
+{% endif %}
+
+{% for project in list_project_pages %}
+  <li><a href="{{ site.baseurl }}{{ project.url }}">{{ project.project_name }}</a></li>
+{% endfor %}
