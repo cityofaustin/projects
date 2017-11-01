@@ -11,7 +11,7 @@ City of Austin digital services include viewing Austin recycling and trash sched
 
 The Design, Technology, & Innovation Fellows partnered with two City of Austin departments: Communications & Information Management and Communications & Technology Management, to learn what’s not working about our current website and to define, and more importantly- test new methods for developing and accessing City of Austin digital services. Also key is building a more agile technology foundation.
 
-This is an overview of our approach, shared learnings, and progress we’ve made.
+This is an overview of our approach, shared learnings, and progress we’ve made. Find.
 
 ## Background
 
