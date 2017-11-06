@@ -1,6 +1,6 @@
 ---
 title: Who We Are
-position: 0
+position: 1
 ---
 
 ## Core Team
