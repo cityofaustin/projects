@@ -6,7 +6,7 @@ tags:
 - government
 - technology
 - user experience
-position: 0
+position: 1
 ---
 
 ![Man participates in user research at outdoor cafe by sorting cards with tasks into categories.](/uploads/outdoor-card-sorting-min.jpg)
