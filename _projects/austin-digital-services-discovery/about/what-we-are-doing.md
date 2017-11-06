@@ -1,6 +1,6 @@
 ---
 title: What We're Doing
-position: 1
+position: 0
 ---
 
 ![Man participates in user research at outdoor cafe by sorting cards with tasks into categories.](/uploads/outdoor-card-sorting-min.jpg)
