@@ -9,7 +9,7 @@ tags:
 position: 0
 ---
 
-![Man participates in user research at outdoor cafe by sorting cards with tasks into categories.](=/uploads/outdoor-card-sorting-min.jpg)
+![Man participates in user research at outdoor cafe by sorting cards with tasks into categories.](/uploads/outdoor-card-sorting-min.jpg)
 
 *We’re building living digital services that grow, adapt, and improve with user needs.*
 
