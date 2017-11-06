@@ -1,28 +1,20 @@
 ---
 title: What We're Doing
+tags:
+- digital services
+- civic tech
+- government
+- technology
+- user experience
 position: 0
 ---
 
-## Introduction
+![Man participates in user research at outdoor cafe by sorting cards with tasks into categories.](=/uploads/outdoor-card-sorting-min.jpg)
 
-![image of City of Austin Technologist](/assets/img/projects/digital-services-discovery/jasmine.jpg)
+*We’re building living digital services that grow, adapt, and improve with user needs.*
 
-City of Austin digital services include viewing Austin recycling and trash schedules, getting in line for your driver’s license, registering your kids for summer camp, and other goals residents can accomplish–online. Austin residents rely on digital services more and more every day and city teams realize how important it is to meet their expectations. During the 2017 spring retreat, Austin’s City Council [cited the importance of creating government that works for everyone](http://projects.austintexas.io/smart-city-strategic-roadmap/).
+City of Austin services include everything from looking up recycling and trash schedules to registering kids for summer camp. As more Austin residents come to rely on mobile devices to accomplish their day-to-day tasks, the ability to access the City’s services online has become imperative. That’s why it is of utmost importance to address these needs by expanding and improving the our digital services.
 
-The Design, Technology, & Innovation Fellows partnered with two City of Austin departments: Communications & Information Management and Communications & Technology Management, to learn what’s not working about our current website and to define, and more importantly- test new methods for developing and accessing City of Austin digital services. Also key is building a more agile technology foundation.
+The Austin Digital Services Discovery Project is a partnership between two City departments, [Communications Public Information](http://www.austintexas.gov/department/communications) and [Communications and Technology Management](http://www.austintexas.gov/department/information-technology), and the [Design, Technology, and Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/). We set out to learn what’s working for other government service providers, then embark on an iterative research, prototyping, and testing process to identify new designs, methods, and technologies. 
 
-This is an overview of our approach, shared learnings, and progress we’ve made. Find.
-
-## Background
-
-![image of Elizabeth drawing a reflection timeline](/assets/img/projects/digital-services-discovery/elizabeth.jpg)
-
-In May, 2017, our team got together to gather requirements, evaluate, and then implement a new technology foundation or “stack” for all City of Austin services. Following in the well-documented footsteps of other innovative cities like [Boston](https://www.boston.gov/departments/digital-team) and [Indianapolis](https://shift.indy.gov/), and international governments like the [United Kingdom](https://www.gov.uk/government/organisations/government-digital-service), we discovered we needed more than a technology foundation–we needed shared values, a roadmap for reaching our goals, the teams in place to do the work and new workflows to support them.
-
-We interviewed City of Austin technology decision makers and implementers in their work spaces–gaining an understanding of their challenges when managing digital services. We wrapped initial discovery then made a strategic decision to break our big tech project into three smaller project segments:
-
-* Developing a Digital Service Strategy and Roadmap: developing shared values and tools for approaching, evaluating, and implementing digital services.
-* City Services Workflow: designing, developing, and testing a new service-oriented web experience with and for residents and city employees.
-* Shared Microservice: designing, developing, and testing a shared service, like payments or forms, that would serve many residents and departments across Austin.
-
-Follow this project page to see our methods, learnings, and progress.
+This site is an overview of our approach, shared learnings, and progress we’ve made. If you have questions or comments, [we’d love to hear from you](#heading=h.m7rmx7ag17ni). 
