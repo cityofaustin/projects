@@ -10,7 +10,7 @@ excerpt: We want to learn what’s not working about our current website and to 
   and more importantly—test new methods for developing and accessing City of Austin
   digital services.
 active: true
-redirect_to: "/projects/austin-digital-services-discovery/about/what-we-are-doing/"
+redirect_to: "/projects/austin-digital-services-discovery/about/what-we-are-doing"
 layout: redirect
 ---
 
