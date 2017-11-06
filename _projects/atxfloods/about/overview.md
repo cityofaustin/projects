@@ -1,6 +1,6 @@
 ---
 title: What We're Doing
-position: 0
+position: 1
 ---
 
 ## Introduction
