@@ -2,7 +2,7 @@
 title: Austin Digital Services Discovery
 date: 2017-08-28 00:00:00 Z
 permalink: "/projects/austin-digital-services-discovery/"
-position: 0
+position: 3
 image_path: "/assets/img/projects/digital-services-discovery/techstack.jpg"
 project_name: Austin Digital Services Discovery
 subtitle: with Austin Resource Recovery and Communications & Public Information Office
