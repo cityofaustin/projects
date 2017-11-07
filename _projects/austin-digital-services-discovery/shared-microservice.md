@@ -1,6 +1,6 @@
 ---
 title: Shared Microservice Approach
-position: 4
+position: 0
 ---
 
 There are a number of reasons we chose digital forms to pilot a microservice approach. To begin with, the form module used in City’s current CMS has been a pain point for years, lacking with regards to both design and functionality. As a result, departments have implemented numerous other solutions. Looking at these turned up issues surrounding ADA compliance, user experience, and integrations with enterprise platforms—to speak nothing of cost-sharing and consistency for our end users.
