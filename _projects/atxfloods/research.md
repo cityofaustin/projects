@@ -1,6 +1,6 @@
 ---
 title: Research
-position: 2
+position: 1
 layout: redirect
 redirect_to: "/projects/atxfloods/research/research-findings"
 ---
