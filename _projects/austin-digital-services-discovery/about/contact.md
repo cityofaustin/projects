@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-position: 4
+position: 5
 ---
 
 If you have questions or comments, we want to hear from you! 
