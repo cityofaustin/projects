@@ -31,15 +31,15 @@ Our fourth [Digital Service Value](#heading=h.nlz2362apq9p) expresses this appro
 
 Outreach to other government organizations is an integral part of our approach — so much so that we consider them [partners](#heading=h.1trfmtpzrgam). Work on every problem space has begun with a look outward: Who has done this? 
 
-**The next step? Reach out.** 
+**Our next step? Reach out.** 
 
-Whether via a website feedback form, a tweet, a Medium comment, a Slack channel, a Facebook or LinkedIn message — *everyone we’ve contacted has been not only generous with their time and supportive with their feedback, but happy to help. *They’ve shared everything from slide decks to the inside scoop on vendor products. The thingslearnings we’ve learned gathered from this outreach haves saved us legwork and headaches while sparking ideas — and pointed us to others who could do the same.
+Whether via a website feedback form, a tweet, a Medium comment, a Slack channel, a Facebook or LinkedIn message — *everyone we’ve contacted has been not only generous with their time and supportive with their feedback, but happy to help. *They’ve shared everything from slide decks to the inside scoop on vendor products. The things we’ve learned from this outreach have saved us legwork and headaches while sparking ideas — and pointed us to others who could do the same.
 
 **Then what? Pay it forward.**
 
 [Write something and put it online](https://medium.com/civiqueso). [Open](https://github.com/CityOfBoston/boston.gov)[ your codebase](https://github.com/CityOfBoston/boston.gov). Sometimes it’s as simple as responding to a Slack message or replying to an email — and jumping on a Hangout can be worth a million words. 
 
-The beauty of working in civic technology is that we’re not competitors, we’re collaborators. We don’t have trade secrets protected by nondisclosure agreementsNDAs — we have blog posts and public codebases. We have the ability to learn from, encourage, and make friends with each other as we work to serve the public better. 
+The beauty of working in civic technology is that we’re not competitors, we’re collaborators. We don’t have trade secrets protected by nondisclosure agreements — we have blog posts and public codebases. We have the ability to learn from, encourage, and make friends with each other as we work to serve the public better. 
 
 Lauren Lockwood, the first Chief Digital Officer at Mass.gov who since leaving has continued to work in civic tech, wrote an [excellent piece with thoughts and strategies for outreach to other cities](https://medium.com/@lflockwood/a-recipe-for-collaboration-between-cities-1e84d8f9b1b6). 
 
@@ -71,6 +71,6 @@ Here are some of the resources we found to be great jumping-off points for these
 
 * [GovDrupal](https://govdrupal-slack.herokuapp.com/)
 
-![Screenshots of the websites of GOV.UK, London.gov.uk, MyIndy.gov, Edmonton.ca, Pilot.Mmass.gov, and Boston.gov](/uploads/ComparisonSites.png)
+![Screenshots of the websites of GOV.UK, London.gov.uk, MyIndy.gov, Edmonton.ca, Mass.gov, and Boston.gov](/uploads/ComparisonSites.png)
 
 *Throughout our discovery process, we tracked the progress of other government websites and reached out to them for advice and feedback.*
