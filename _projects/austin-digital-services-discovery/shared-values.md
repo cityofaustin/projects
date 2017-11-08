@@ -1,6 +1,6 @@
 ---
 title: Shared Values
-position: 3
+position: 2
 redirect_to: "/projects/austin-digital-services-discovery/shared-values/why-and-how"
 layout: redirect
 ---

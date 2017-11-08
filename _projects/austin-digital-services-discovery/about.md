@@ -1,6 +1,6 @@
 ---
 title: About
-position: 2
+position: 1
 layout: redirect
 redirect_to: "/projects/austin-digital-services-discovery/about/overview"
 ---
