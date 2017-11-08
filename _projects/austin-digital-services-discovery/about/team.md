@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Our Teams
 position: 4
 ---
 
