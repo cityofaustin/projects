@@ -1,5 +1,5 @@
 ---
-title: Our Teams
+title: Teams & Partners
 position: 4
 ---
 
