@@ -1,6 +1,7 @@
 ---
 title: Why and How
 date: 2017-11-07 23:52:00 Z
+position: 1
 ---
 
 During our initial discovery, we engaged employees from across the City in conversations about the digital services they offer for residents. We were interested in the types of problems they were experiencing in their work, and what would help them overcome any barriers they experienced. In doing so, we learned that technology itself wasn’t the biggest hurdle: Decision-makers and staff on the frontlines of service delivery were working in a vacuum — siloed from their peers in other departments. They needed a set of values to guide their approach, evaluation, and implementation of digital services. 
