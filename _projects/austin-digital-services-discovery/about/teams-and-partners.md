@@ -3,88 +3,150 @@ title: Teams & Partners
 position: 4
 ---
 
-## Core Team
+## Our teams
 
-The Core team works on the project on a day-to-day basis.
+### Core team 
 
-### Digital Service Strategy
+* Adam Wiedeman, Project Manager
 
+* Ainee Athar, Communications Strategist
 
-**Marni Wilhite**, Product Management • Design, Technology, & Innovation Fellows
+* Amenity Applewhite, Product Manager
 
-**Matthew Esquibel**, IT Corporate Manager • Communications and Technology Management
+* Ashlee Harris, Content Strategist 
 
-**Adam Wiedeman**, Project Management • Design, Technology, & Innovation Fellows
+* Brian Smith, Senior Developer
 
-### Shared Microservices
+* Céline Thibault, Researcher and UX Designer
 
+* Farah Muscadin, Project Manager
 
-**Amenity Applewhite**, Business Systems Analyst • Communications and Public Information Office
+* Griselda Castillo, Communications Strategist 
 
-**Matt Langan**, Development & Operations • Design, Technology, & Innovation Fellow
+* Laura Trujillo, Content Strategist
 
-**Brian Smith**, Development • Design, Technology, & Innovation Fellows
+* Matt Langan, Infrastructure Developer
 
-**Sarah Rudder**, Development • Design, Technology, & Innovation Fellows
+### Advisory & support teams
 
-### Modular Web Flow Core Team
+* Aaron Wagner, Senior Developer 
 
+* Ben Guhin, Senior Design & Technology Advisor 
 
-**Marni Wilhite**, Product Management • Design, Technology, & Innovation Fellows
+* Brian Morris, Senior IT Business Systems Analyst
 
-**Celine Thibault**, Research & User Experience Design • Design, Technology, & Innovation Fellows
+* Brion Oaks, Chief Equity Officer 
 
-**Laura Trujillo**, Content Strategist • Design, Technology, & Innovation Fellows
+* Bryce Bencivengo, Senior Public Information Specialist 
 
-**Brian Smith**, Development • Design, Technology, & Innovation Fellows
+* Charles Purma, Information System & Business Enterprise Manager 
 
-**Sarah Rudder**, Development • Design, Technology, & Innovation Fellows
+* Daniel Honker, Senior Business Process Consultant 
 
-**Ashlee Harris**, Public Information Specialist • Communications and Public Information Office
+* Diana Turner, Research & User Experience Lead
 
-## Advisory Team
+* Divya Rathanlal, IT Supervisor
 
-The Advisory team meets for regular sprint reviews.
+* Doug Matthews, Chief Communications Manager 
 
+* Emlea Chanslor, Public Information & Marketing Manager 
 
-**Aaron Wagner**, Senior Developer
+* Greg Hand, Information System and Business Enterprise Manager
 
-**Ben Guhin**, Senior Design & Technology Advisor
+* Hillary Funk, IT User Experience Analyst Senior
 
-**Brion Oaks**, Chief Equity Officer
+* John Clary, Senior Geospatial Analyst
 
-**Bryce Bencivengo**, Senior Public Information Specialist
+* Jorge Ortega, Marketing Representative 
 
-**Cathryn Rowe**, Visual & User Interface Design Lead
+* Kamran Karimi, IT Corporate Manager 
 
-**Charles Purma**, Information System & Business Enterprise Manager
+* Keri Greenwalt, Digital Graphic Designer 
 
-**Daniel Honker**, Senior Business Process Consultant
+* Kevin Williams, Chief Information Security Officer 
 
-**Diana Turner**, Research & User Experience Lead
+* Khalil Shalabi, Vice President 
 
-**Doug Matthews**, Chief Communications Manager
+* Kim Olivares, Chief Performance Officer 
 
-**Emlea Chanslor**, Public Information & Marketing Manager
+* Lucia Athens, Chief Sustainability Officer 
 
-**Jorge Ortega**, Marketing Representative
+* Marni Wilhite, Product Manager
 
-**Kamran Karimi**, IT Corporate Manager
+* Matt Esquibel, IT Corporate Manager
 
-**Keri Greenwalt**, Digital Graphic Designer
+* Maya Coleman, Information System and Business Enterprise Manager 
 
-**Kevin Williams**, Chief Information Security Officer,
+* Mireya Galarza,IT Business Systems Analyst Senior
 
-**Khalil Shalabi**, Vice President, Technology & Marketing Operations
+* Paul Cook, Senior Business Process Consultant 
 
-**Kim Olivares**, Chief Performance Officer
+* Ross Clark, IT Corporate Manager 
 
-**Paul Cook**, Senior Business Process Consultant
+* Ruben Garcia, Research Analyst
 
-**Lucia Athens**, Chief Sustainability Officer
+* Stephen Elkins, Chief Information Officer
 
-**Ross Clark**, IT Corporate Manager
+* Tarek Moussa, Information Security Analyst
 
-**Stephen Elkins**, Chief Information Officer
+* Yasmin Wagner, Web & Creative Services Manager 
 
-**Yasmin Wagner**, Web & Creative Services Manager
+### Partners
+
+We couldn’t do what we’re doing without the advice and support of our civic tech friends.
+
+* [Boston.gov - Department of Innovation and Technology](https://www.boston.gov/departments/innovation-and-technology)
+
+    * Joshua Gee, Forms Guy, né PDF Killer
+
+    * Matthew Crist, Lead Developer
+
+    * Reilly Zlab, Interim Chief Digital Officer
+
+* [Consumer Finance Protection Bureau](https://github.com/cfpb) 
+
+    * Adam Scott, Software Application Development Lead 
+
+    * Jess Schafer, ‎User Experience Lead
+
+* [GOV.UK - Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
+
+    * Amanda Diamond, Content Product Lead
+
+    * John Turnbull, Content Designer
+
+    * Paul Bowsher, Technical Lead
+
+    * Sam Dub, Product Manager
+
+* [The Lab @ DC](http://thelab.dc.gov/)
+
+    * David Yokum, Director 
+
+    * Karissa Minnich, Operations Analyst
+
+* [Indy.gov](https://my.indy.gov/)
+
+    * Abbey Brands, ‎Chief Communications Officer
+
+* [Mass.gov - GovNext](https://www.mass.gov/topics/executive-office-of-technology-services-and-security)
+
+    * Bryan Hirsch, Director of Technology
+
+    * Harlan Webber, Director of Design & Service Innovation
+
+    * Jesse Biroscak, Product Manager
+
+* [University of Bath](http://www.bath.ac.uk/)
+
+    * Richard Prowse, Head of Digital 
+
+* [Vets.gov](https://www.vets.gov/)
+
+    * Aubrey Holland, Developer
+
+    * Jeff Balboni, Software Engineer
+
+* [West Berkshire Council](http://www.westberks.gov.uk/)
+
+    * Phil Rumens, Digital Services Manager 
