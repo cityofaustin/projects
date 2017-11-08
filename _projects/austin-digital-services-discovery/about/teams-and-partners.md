@@ -3,9 +3,7 @@ title: Teams & Partners
 position: 4
 ---
 
-## Our teams
-
-### Core team 
+## Core team 
 
 * Adam Wiedeman, Project Manager
 
@@ -27,7 +25,7 @@ position: 4
 
 * Matt Langan, Infrastructure Developer
 
-### Advisory & support teams
+## Advisory & support teams
 
 * Aaron Wagner, Senior Developer 
 
@@ -91,7 +89,7 @@ position: 4
 
 * Yasmin Wagner, Web & Creative Services Manager 
 
-### Partners
+## Partners
 
 We couldn’t do what we’re doing without the advice and support of our civic tech friends.
 
