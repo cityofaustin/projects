@@ -1,7 +1,7 @@
 ---
 title: Background
 date: 2017-11-07 13:42:00 Z
-position: 10
+position: 1
 ---
 
 Austintexas.gov was completely rebuilt in 2007. It unified a multitude of separate City sites on a single open source web platform. It also boasted a fully responsive design —  exceptional among government websites at that time. The project came in under-budget, won a number of awards, and was recognized as a great success. 
