@@ -1,6 +1,7 @@
 ---
 title: Learnings
 date: 2017-11-08 04:07:00 Z
+position: 3
 ---
 
 ### Learning #1: No one is creating or managing content the same way.
