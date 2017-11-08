@@ -2,7 +2,7 @@
 title: Vision Zero Waste
 date: 2017-08-28 00:00:00 Z
 permalink: "/projects/vision-zero-waste/"
-position: 9
+position: 8
 project_name: Vision Zero Waste
 subtitle: with Austin Resource Recovery
 excerpt: We’re working with Austin Resource Recovery to research behaviors around
