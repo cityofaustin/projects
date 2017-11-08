@@ -4,7 +4,7 @@ date: 2017-11-08 02:21:00 Z
 position: 3
 ---
 
-*The most important change in our approach to digital services as a city is thinking about them as living tools that need to adapt with resident needs, the competencies of our teams, and **emergent technologies.*
+*The most important change in our approach to digital services as a city is thinking about them as living tools that need to adapt with resident needs, the competencies of our teams, and emergent technologies.*
 
 ### Things have changed
 
