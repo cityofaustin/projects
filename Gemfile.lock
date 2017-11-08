@@ -47,10 +47,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.4.2)
+  jekyll
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
 
 BUNDLED WITH
-   1.15.3
+   1.15.4
