@@ -8,6 +8,8 @@ position: 0
 
 Based on what we [learned in the research phase](http://projects.austintexas.io/projects/project-tracking/research/research-findings/), we have been designing and testing mockups for how the project tracking tool might look. 
 
+As of November 2017, we are testing these mockups and will post new iterations leading up to the launch of the tool.
+
 **Mockup: Project tracking home page**
 
 ![Mockup of the home page. Displays an overview of projects by city goal: Mobility, Safety, Health, Cultural & Learning, Economic Affordability, and Government that Works. Each goal has a description of the goal, as well as a listing of the recently updated projects within it. Each goal also lists the number of projects within each stage: Planning, Learning, Implementing, Complete.](/uploads/Wireframes%20v2%20-%20Home.png)
