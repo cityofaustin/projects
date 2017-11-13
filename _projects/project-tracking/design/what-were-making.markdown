@@ -12,7 +12,7 @@ As of November 2017, we are testing these mockups and will post new iterations l
 
 **Mockup: Project tracking home page**
 
-![Mockup of the home page. Displays an overview of projects by city goal: Mobility, Safety, Health, Cultural & Learning, Economic Affordability, and Government that Works. Each goal has a description of the goal, as well as a listing of the recently updated projects within it. Each goal also lists the number of projects within each stage: Planning, Learning, Implementing, Complete.](/uploads/Wireframes%20v2%20-%20Home.png)
+[![Mockup of the home page. Displays an overview of projects by city goal: Mobility, Safety, Health, Cultural & Learning, Economic Affordability, and Government that Works. Each goal has a description of the goal, as well as a listing of the recently updated projects within it. Each goal also lists the number of projects within each stage: Planning, Learning, Implementing, Complete.](/uploads/Wireframes%20v2%20-%20Home.png)](/uploads/Wireframes%20v2%20-%20Home.png)
 
 **Mockup: View of all projects**
 
