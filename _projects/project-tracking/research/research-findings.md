@@ -1,6 +1,6 @@
 ---
 title: What We're Learning
-position: 2
+position: 1
 ---
 
 ![What we're learning - team moving sticky notes of research insights](/uploads/Synthesis%20in%20action.jpg)

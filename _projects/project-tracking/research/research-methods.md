@@ -1,6 +1,6 @@
 ---
 title: How we Explore
-position: 1
+position: 0
 ---
 
 ## Research Goals
