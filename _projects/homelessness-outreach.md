@@ -2,7 +2,7 @@
 title: Homelessness Outreach Street Team
 date: 2017-08-28 00:00:00 Z
 permalink: "/projects/homelessness-outreach/"
-position: 4
+position: 3
 project_name: Homelessness Outreach Street Team
 subtitle: with Austin Police Department, Austin-Travis County Integral Care, Austin-Travis
   County Emergency Medical Services, and Downtown Austin Alliance
