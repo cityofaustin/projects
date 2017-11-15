@@ -4,7 +4,7 @@ date: 2017-11-08 03:18:00 Z
 position: 1
 ---
 
-### 1. Put residents first.
+## 1. Put residents first.
 
 Design for users first by committing to fully understanding the needs and expectations of the community, and testing solutions with residents.
 
@@ -20,7 +20,7 @@ Build on current Open Data and engagement practices. Develop workflows for proje
 
 Conduct face-to-face research with residents, supplemented with quantitative data and industry knowledge. Create a human-centered test group that seeks out a diverse pool of residents to test prototypes.
 
-### 2. Recognize that digital services require teams and competencies, not just software.
+## 2. Recognize that digital services require teams and competencies, not just software.
 
 Support research, design, delivery, and integration with expert teams and by empowering non-traditional designers and technologists.
 
@@ -36,7 +36,7 @@ Build teams of experts who can be accountable for meeting digital service goals 
 
 Evaluate opportunities for templating, training, and standardization across departments. Develop guardrails to provide autonomy while ensuring usability, accessibility, and effectiveness.
 
-### 3. Cultivate Digital Community.
+## 3. Cultivate Digital Community.
 
 Meet experts’ enthusiasm with access to learning opportunities and cross-departmental and cross-discipline connection.
 
@@ -52,7 +52,7 @@ Support designers and developers by providing opportunities for personal and pro
 
 Prioritize open solutions so we can share the source code. Inspire developers to contribute to living applications. Promote a culture of sharing and provide clear methods for collaboration with the technical community.
 
-### 4. Champion iterative, data-informed methodologies.
+## 4. Champion iterative, data-informed methodologies.
 
 Adopt an agile approach to technology and workflow design that uses prototyping, testing, and iteration to learn and improve over time, rather than "redesign".
 
@@ -68,7 +68,7 @@ Encourage employees to document and share problems and solutions as they find th
 
 Develop solutions that can be useful across departments and initiatives. Avoid redundant systems and "reinventing the wheel" with a repository of modular, reusable components.
 
-### 5. Prioritize equity when planning features & functionality.
+## 5. Prioritize equity when planning features & functionality.
 
 Seek equitable outcomes in our processes for workflow and technology development across city departments.
 
@@ -84,7 +84,7 @@ Prioritize projects to provide the greatest value for residents, even when enter
 
 Check in regularly with community organizations across the city about how we can better serve and represent residents with digital services.
 
-### 6. Support agile procurement strategies that avoid vendor lock-in.
+## 6. Support agile procurement strategies that avoid vendor lock-in.
 
 Purchase software one piece at a time, and avoid contracts that lock us into specific solutions, contractors, or vendors. Default to open source.
 
