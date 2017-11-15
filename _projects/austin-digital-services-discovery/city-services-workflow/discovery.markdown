@@ -9,5 +9,4 @@ In a city the size of Austin, nearing 1 million residents, hundreds of people ne
 We visited the desks of ten City employees from various departments who authored and published web content. Here’s what we learned by observation and matching opportunities for design.
 
 ![City employee using his desktop computer](/uploads/jorge-desk-celine-min.JPG)
-*Austin Resource Recovery employee showing his current content workflow process.* 
-> "I wish there was an easy way to track old content, but right now we don’t have that."*
+*Austin Resource Recovery employee showing his current content workflow process. "I wish there was an easy way to track old content, but right now we don’t have that."*
