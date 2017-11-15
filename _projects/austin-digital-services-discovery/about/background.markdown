@@ -14,7 +14,7 @@ Acknowledging the need for an overhaul, we are reconsidering the Austintexas.gov
 
 In May, 2017, the City of Austin IT and Communications departments partnered with the Innovation Fellows and initiated the "Tech Stack" project to identify a new technology foundation for the City’s digital services. 
 
-Discovery began a combination of [outreach](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/teams-and-partners/#partners) to other government digital service teams and a series of interviews. We spoke with our internal technology decision makers and implementers to gain an understanding of their process and challenges they meet when delivering digital services.
+Discovery began a combination of [outreach](/projects/austin-digital-services-discovery/about/our-approach/#part-of-a-larger-movement) to other government digital service teams and a series of interviews. We spoke with our internal technology decision makers and implementers to gain an understanding of their process and challenges they meet when delivering digital services.
 
 Immediately, we realized that the City required far more than a prescribed technology foundation. We needed shared values and a roadmap for reaching our goals, a deep understanding of the workflows and roles we would need to support them, and an architectural strategy for the City’s technologies so that they can progress to leverage emergent technologies and meet new digital demands as they arise.
 
