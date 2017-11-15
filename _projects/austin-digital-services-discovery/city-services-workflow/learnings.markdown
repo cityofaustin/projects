@@ -35,10 +35,10 @@ When something new needs to go online, there’s a mad rush to update content. T
 We did a shallow inventory of AustinTexas.gov primary navigation and discovered it’s not working well because it’s seldom used. We did a deep dive into one department’s content and discovered that a majority of this department’s digital content was informational ([example of a static, informational page](http://www.austintexas.gov/department/austin-resource-recovery/services)). Only 35% of their content was a service or interactional page ([example of an interactional service page](http://www.austintexas.gov/page/my-collection-schedule)). Interestingly, the service pages received a higher number of visitors than the informational pages.
 
 ![An Austin resident visits the City of Austin website using his iPhone while a Fellow looks on.](/uploads/outdoor-mobile-testing.jpg)
->"What is this? I don't want to browse around [for recycling information]." - Scott, resident
+*"What is this? I don't want to browse around [for recycling information]." - Scott, resident*
 
 ![An Austin resident matches cards representing City services to corresponding themes.](/uploads/outdoor-card-sorting-min.jpg)
->"I don’t want to throw something dangerous away like batteries." - resident
+*"I don’t want to throw something dangerous away like batteries." - resident*
 
 **Opportunities presented:**
 
