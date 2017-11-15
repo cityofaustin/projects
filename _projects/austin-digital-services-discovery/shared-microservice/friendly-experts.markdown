@@ -4,7 +4,7 @@ date: 2017-11-15 06:10:00 Z
 position: 3
 ---
 
-Realizing that others have tread these trans**form**ational waters already, we reached out to other organizations who had tackled forms in their digitization of government services so that we were aware of processes and issues we should consider as we moved forward.
+Realizing that others have tread these trans**form**ational waters already, we reached out to other organizations who had tackled forms in their digitization of government services so that we were aware of processes and issues we needed to consider as we moved forward.
 
 We spoke with Joshua Gee, who’d created an [online inventory of City of Boston forms](https://github.com/CityOfBoston/Forms/) as he deftly purged PDFs from their website — earning him the moniker "PDF Killer." He gave us great insight into the institutional and legal hurdles that the process entailed, but also demonstrated the success of such an endeavor: A year into his work he was no longer tracking down forms to digitize. Departments now come to him with requests, knowing that his process will streamline their work along while improving the end user experience. Now “PDF Killer” has become “Form Guy” — a superhero of digital service delivery. 
 
