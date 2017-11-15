@@ -13,7 +13,7 @@ When the site was initially built, this plug-and-play model was widely used than
 In the past several years, private-sector companies like Uber and Netflix have demonstrated the benefits of an alternative — a polylithic microservice approach to create a modular and flexible platforms. **Each microservice is a small, autonomous service focused on doing one thing well.** They interact with the rest of the system via APIs, so they can be independently developed and deployed without breaking other components.
 
 ## Microservices for the win
-The benefits of microservice architectures, adapted below from the excellent O’Reilly book *[Building Microservice*s](http://shop.oreilly.com/product/0636920033158.do), include:
+The benefits of microservice architectures, adapted below from the excellent O’Reilly book *[Building Microservices](http://shop.oreilly.com/product/0636920033158.do)*, include:
 
 * **Technical heterogeneity** - Allowing a team to use the right tool for each job and adopt modern technologies more quickly. 
 
