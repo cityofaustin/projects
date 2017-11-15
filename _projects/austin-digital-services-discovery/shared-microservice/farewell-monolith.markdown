@@ -1,6 +1,7 @@
 ---
 title: Farewell, Monolith
 date: 2017-11-15 05:10:00 Z
+position: 0
 ---
 
 ## Too big to fail
