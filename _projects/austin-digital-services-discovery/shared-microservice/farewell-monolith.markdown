@@ -3,7 +3,7 @@ title: Farewell, Monolith
 date: 2017-11-15 05:10:00 Z
 ---
 
-##Too big to fail
+## Too big to fail
 
 The current Austintexas.gov exemplifies a monolithic architecture: A single platform — codebase, database, and user interface — contains all the functionality and content for the entire website. In addition to the standard content management system functionality — text editing, user roles and permissions, and workflow tools — it also incorporates site search, forms, calendars, and other functionalities through the implementation of "modules" specifically developed for our CMS. 
 
