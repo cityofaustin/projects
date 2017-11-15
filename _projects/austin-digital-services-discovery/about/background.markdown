@@ -10,7 +10,7 @@ Once the site was launched, several City staff assumed maintenance of the techni
 
 Acknowledging the need for an overhaul, we are reconsidering the Austintexas.gov in a holistic way. This means that we must not only identify how the site can best serve its users, but also how ensure we sustainably support them as their digital needs evolve. 
 
-"Tech Stack" to “Stack Pack”
+## "Tech Stack" to “Stack Pack”
 
 In May, 2017, the City of Austin IT and Communications departments partnered with the Innovation Fellows and initiated the "Tech Stack" project to identify a new technology foundation for the City’s digital services. 
 
