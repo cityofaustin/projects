@@ -18,10 +18,10 @@ Content authors and publishers are few and far between. They work in separate bu
 
 When something new needs to go online, there’s a mad rush to update content. This rush puts publishers in crisis mode where they feel they need to drop everything and redirect their attention to the website. Conversely, once content is published, it’s rarely updated and probably doesn’t have a direct content owner. We use SiteImprove to tell us when there’s a broken link on austintexas.gov, but in general–content is published then forgotten. 
 
-[A City employee in front of her two computer screens](/uploads/employee-two-screens.jpg) 
+![A City employee in front of her two computer screens](/uploads/employee-two-screens.jpg) 
 *One publisher told us, "If I have time, I look at different pages for errors...but I don't ever have extra time."*
 
-[A City employee shows one of the documents she created to manage web updates.](/uploads/employee-laptop-min.jpg)
+![A City employee shows one of the documents she created to manage web updates.](/uploads/employee-laptop-min.jpg)
 *Another publisher has designed an elaborate system for managing necessary updates.*
 
 **Opportunities presented:**
