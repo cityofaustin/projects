@@ -20,7 +20,7 @@ Immediately, we realized that the City required far more than a prescribed techn
 
 So in June, we made a strategic decision to break the project into a pack of three smaller focus areas:
 
-* [Shared Values](http://projects.austintexas.io/projects/projects/austin-digital-services-discovery/shared-values): Defining a set of collective values to guide our digital strategy and roadmap. 
+* [Shared Values](http://projects.austintexas.io/projects/projects/austin-digital-services-discovery/shared-values/): Defining a set of collective values to guide our digital strategy and roadmap. 
 
 * [City Services Workflow](http://projects.austintexas.io/projects/austin-digital-services-discovery/city-services-workflow/): Designing, developing, and testing a new service-oriented web experience with and for residents and city employees.
 
