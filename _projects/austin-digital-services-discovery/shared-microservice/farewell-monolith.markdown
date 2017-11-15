@@ -21,11 +21,11 @@ The benefits of microservice architectures, adapted below from the excellent O�
 
 * **Scaling** - Enabling services to scale individually to meet real time demands and control costs.
 
-* **Safety and speed **- Instead of a risky and time-consuming full-system release, microservices can be developed, tested, and deployed individually.
+* **Safety and speed** - Instead of a risky and time-consuming full-system release, microservices can be developed, tested, and deployed individually.
 
-* **Organizational alignment **- Empowering small teams to work on codebases that tie directly to their business functions.
+* **Organizational alignment** - Empowering small teams to work on codebases that tie directly to their business functions.
 
-* **Composability **- Creating opportunities to remix and reuse functionality to serve different needs.
+* **Composability** - Creating opportunities to remix and reuse functionality to serve different needs.
 
 With these models in mind, we’ve chosen to pursue a microservice architecture to deliver the City’s digital services: We are choosing a CMS based on the content creation and content management needs we identified in our [content workflow research](#heading=h.feah0f2zwfbp). It will be decoupled from the public-facing user interface, so that we can use a framework especially suited to delivering a robust and intuitive user experience to residents. Finally, functionality such as event registration and mapping tools will be handled by microservices. This way, we’ll build a polylithic platform that can evolve according to user needs and leverage innovative technologies as they become available. 
 
