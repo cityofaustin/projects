@@ -95,7 +95,7 @@ We couldn’t do what we’re doing without the advice and support of our civic 
 
 * [Boston.gov - Department of Innovation and Technology](https://www.boston.gov/departments/innovation-and-technology)
 
-    * Joshua Gee, Forms Guy, né PDF Killer
+    * Joshua Gee, Product Manager, né PDF Killer
 
     * Matthew Crist, Lead Developer
 
