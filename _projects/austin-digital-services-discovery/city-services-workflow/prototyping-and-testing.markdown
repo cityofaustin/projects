@@ -4,8 +4,6 @@ date: 2017-11-15 04:52:00 Z
 position: 3
 ---
 
-## Prototyping and Testing 
-
 We began prototyping an ideal content management system, new and revised roles and responsibilities, and content guidance and support using  human-centered design tools like storyboarding and journey maps to communicate how content was being managed and how it could be managed. 
 
 ![A woman drawing stick figures using the City of Austin website](/uploads/laura-drawing-stick-figures-min.jpg) 
