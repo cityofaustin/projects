@@ -7,7 +7,7 @@ position: 2
 ## Digital services 
 
 *If you want to come to City Hall to do business with us, we'll be here for you. But if you have to come to City Hall to do business with us, then we're not doing our job. 
-	- **[Jascha Franklin-Hodge, Boston.gov](https://github.com/CityOfBoston/Forms/)**
+	- *[Jascha Franklin-Hodge, Boston.gov](https://github.com/CityOfBoston/Forms/)*
 
 The City of Austin provides an extensive range of services — from health screenings, to renter’s assistance, to snorkeling classes —  designed to help residents thrive. Currently, however, many of those services are buried in the 12,000 pages of the [City's website](http://austintexas.gov/),  and others have yet to be made available online. 
 
