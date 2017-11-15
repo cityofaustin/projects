@@ -12,4 +12,4 @@ An [independent audit conducted by the Office of the City Auditor](http://austin
 
 After compiling key points from our conversations, we presented them to our advisory teams and set out to construct a set of values collaboratively. An initial ideation session produced a wealth of ideas. We then synthesized the thoughts into groups, and iterated the grouping to derive the City of Austin Digital Service Values. 
 
-![Synthesizing Post-It notes from an ideation session to identify overarching ideas they represented.](/uploads/DigitalValues-min.jpg)
+![Synthesizing Post-It notes from an ideation session to identify overarching ideas they represented.](/uploads/digital-values-2-min.png)
