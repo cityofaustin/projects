@@ -11,4 +11,4 @@ City of Austin services include everything from looking up recycling and trash s
 
 The Austin Digital Services Discovery Project is a partnership between two City departments, [Communications Public Information](http://www.austintexas.gov/department/communications) and [Communications and Technology Management](http://www.austintexas.gov/department/information-technology), and the [Design, Technology, and Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/). We set out to learn what’s working for other government service providers, then embark on an iterative research, prototyping, and testing process to identify new designs, methods, and technologies. 
 
-This site is an overview of our approach, shared learnings, and progress we’ve made. If you have questions or comments, [we’d love to hear from you](/about/get-in-touch).
+This site is an overview of our approach, shared learnings, and progress we’ve made. If you have questions or comments, [we’d love to hear from you](austin-digital-services-discovery/about/contact/).
