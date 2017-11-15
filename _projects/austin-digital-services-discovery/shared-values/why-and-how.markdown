@@ -4,6 +4,8 @@ date: 2017-11-07 23:52:00 Z
 position: 0
 ---
 
+![Alternative Text: Synthesizing Post-It notes from an ideation session to identify overarching ideas they represented.](/uploads/digital-values-1-min.png)
+
 During our initial discovery, we engaged employees from across the City in conversations about the digital services they offer for residents. We were interested in the types of problems they were experiencing in their work, and what would help them overcome any barriers they experienced. In doing so, we learned that technology itself wasn’t the biggest hurdle: Decision-makers and staff on the frontlines of service delivery were working in a vacuum — siloed from their peers in other departments. They needed a set of values to guide their approach, evaluation, and implementation of digital services. 
 
 An [independent audit conducted by the Office of the City Auditor](http://austintexas.gov/sites/default/files/files/Auditor/Audit_Reports/AU17104_Online_Access_To_City_Services.pdf) and released in October 2017 reinforced this need, stating that the lack of a citywide strategy for offering services online presented a significant barrier to departments successful implementation of digital services.
