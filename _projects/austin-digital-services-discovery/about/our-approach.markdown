@@ -6,7 +6,7 @@ position: 3
 
 *The most important change in our approach to digital services as a city is thinking about them as living tools that need to adapt with resident needs, the competencies of our teams, and emergent technologies.*
 
-### Things have changed
+## Things have changed
 
 City employees and residents alike have been asking for a "redesign" for years, but this is an old way of thinking about the City’s site. Things have changed since 2007:
 
@@ -22,12 +22,12 @@ City employees and residents alike have been asking for a "redesign" for years, 
 * **In 2007, plugins were the standard way to extend a large website.** Like other organizations who chose open source CMSs like Drupal and Wordpress, we took advantage of modules or plugins to add tools to functionality — forms, calendars, news feeds, etc. — to our web platform. Doing so gave us quick access to different tools, but it came at a cost: Over time, our codebase became bloated and interdependencies prevented us from removing or updating components individually. This slowed our release cycle and we ended up forsaking new features because we were constantly patching a behemoth we couldn’t take apart.
   Today, we have an opportunity to start anew and leverage a microservice architecture with a slim CMS that can be extended with discrete, independently-deployable applications to create a sturdy, yet flexible, platform.
 
-### Things will change
+## Things will change
 
 Returning to the idea of a "redesign": Building a website that beautifully leverages today’s top technologies and meets the needs of residents as well as internal users is a solution — but it has a shelf-life. Instead, we’re setting up a process of continuous research, testing, and development to sustain a constantly evolving digital service platform.
 Our fourth [Digital Service Value](#heading=h.nlz2362apq9p) expresses this approach: “Champion iterative, data-informed methodologies.”
 
-### Part of a larger movement
+## Part of a larger movement
 
 Outreach to other government organizations is an integral part of our approach — so much so that we consider them [partners](#heading=h.1trfmtpzrgam). Work on every problem space has begun with a look outward: Who has done this?
 
