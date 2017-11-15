@@ -27,8 +27,7 @@ We performed usability testing with two groups to get us started:
 ![City resident holds a smartphone and tests a new austin.gov prototype](/uploads/outdoor-mobile-testing.jpg)
 *A City resident provided us feedback on a digital prototype using a smartphone.*  
 
-
-![An Austin resident matches cards with city services listed on them to service themes.](outdoor-card-sorting-min.jpg)
+![An Austin resident matches cards with city services listed on them to service themes.](/uploads/outdoor-card-sorting-min.jpg)
 *A City resident matched city services to service themes during a card-sorting exercise.*
 
 ![Two men share their feedback about City services at a job-fair table.](/uploads/job-fair-feedback-min.jpg) 
