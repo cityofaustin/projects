@@ -4,7 +4,7 @@ date: 2017-11-08 04:07:00 Z
 position: 1
 ---
 
-### Learning #1: No one is creating or managing content the same way.
+## Learning #1: No one is creating or managing content the same way.
 
 Content authors and publishers are few and far between. They work in separate buildings, miles apart, and are often content-teams-of-one in their department. Some people edit content daily while others only edit content once a month. For every-day users, our content management system is familiar despite the many workarounds people have for being able to publish error-free content. For seldom users, the content management system is a big black box that needs to be explored and relearned each time they log on.
 
@@ -14,7 +14,7 @@ Content authors and publishers are few and far between. They work in separate bu
 
 * Build a bridge between content creators and content coaches so people know where to go when they have questions about crafting content.
 
-### Learning #2: Content management is a marathon, not a sprint.
+## Learning #2: Content management is a marathon, not a sprint.
 
 When something new needs to go online, there’s a mad rush to update content. This rush puts publishers in crisis mode where they feel they need to drop everything and redirect their attention to the website. Conversely, once content is published, it’s rarely updated and probably doesn’t have a direct content owner. We use SiteImprove to tell us when there’s a broken link on austintexas.gov, but in general–content is published then forgotten. 
 
@@ -30,7 +30,7 @@ When something new needs to go online, there’s a mad rush to update content. T
 
 * To create a reliable system for publishing new content that doesn’t send authors and publishers into crisis mode and sets expectations with content requesters.
 
-### Learning #3: Most of our content is ready for the archives.
+## Learning #3: Most of our content is ready for the archives.
 
 We did a shallow inventory of AustinTexas.gov primary navigation and discovered it’s not working well because it’s seldom used. We did a deep dive into one department’s content and discovered that a majority of this department’s digital content was informational ([example of a static, informational page](http://www.austintexas.gov/department/austin-resource-recovery/services)). Only 35% of their content was a service or interactional page ([example of an interactional service page](http://www.austintexas.gov/page/my-collection-schedule)). Interestingly, the service pages received a higher number of visitors than the informational pages.
 
