@@ -12,6 +12,9 @@ When the site was initially built, this plug-and-play model was widely used than
 
 In the past several years, private-sector companies like Uber and Netflix have demonstrated the benefits of an alternative — a polylithic microservice approach to create a modular and flexible platforms. **Each microservice is a small, autonomous service focused on doing one thing well.** They interact with the rest of the system via APIs, so they can be independently developed and deployed without breaking other components.
 
+![Diagram of coupling explained in next paragraph](/uploads/mono-vs-poly-sm.png)
+*In a monolithic architecture, the editor interface, user interface, data access layer, business logic layer, and database are all components of a single platform. A polylithic architecture has the editor interface, data access, and CMS business logic connected to the CMS database, and leverages APIs to connect that component to the public interface and integrate additional microservice functionalities.* 
+
 ## Microservices for the win
 The benefits of microservice architectures, adapted below from the excellent O’Reilly book *[Building Microservices](http://shop.oreilly.com/product/0636920033158.do)*, include:
 
@@ -26,9 +29,6 @@ The benefits of microservice architectures, adapted below from the excellent O�
 * **Organizational alignment** - Empowering small teams to work on codebases that tie directly to their business functions.
 
 * **Composability** - Creating opportunities to remix and reuse functionality to serve different needs.
-
-![Diagram of coupling explained in next paragraph](/uploads/mono-vs-poly-sm.png)
-*In a monolithic architecture, the editor interface, user interface, data access layer, business logic layer, and database are all components of a single platform. A polylithic architecture has the editor interface, data access, and CMS business logic connected to the CMS database, and leverages APIs to connect that component to the public interface and integrate additional microservice functionalities.* 
 
 With these models in mind, we’ve chosen to pursue a microservice architecture to deliver the City’s digital services: We are choosing a CMS based on the content creation and content management needs we identified in our [content workflow research](http://projects.austintexas.io/projects/austin-digital-services-discovery/city-services-workflow/discovery/). It will be decoupled from the public-facing user interface, so that we can use a framework especially suited to delivering a robust and intuitive user experience to residents. Finally, functionality such as event registration and mapping tools will be handled by microservices. This way, we’ll build a polylithic platform that can evolve according to user needs and leverage innovative technologies as they become available. 
 
