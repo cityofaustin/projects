@@ -6,7 +6,7 @@ position: 0
 
 ## Too big to fail
 
-The current Austintexas.gov exemplifies a monolithic architecture: A single platform — codebase, database, and user interface — contains all the functionality and content for the entire website. In addition to the standard content management system functionality — text editing, user roles and permissions, and workflow tools — it also incorporates site search, forms, calendars, and other functionalities through the implementation of "modules" specifically developed for our CMS. 
+The current Austintexas.gov exemplifies a monolithic architecture: A single platform — codebase, database, and user interface — contains all the functionality and content for the entire website. In addition to the standard content management system (CMS) functionality — text editing, user roles and permissions, and workflow tools — it also incorporates site search, forms, calendars, and other functionalities through the implementation of "modules" specifically developed for our CMS. 
 
 When the site was initially built, this plug-and-play model was widely used thanks to popular CMSs such as Wordpress and Drupal that offered numerous extensions. As the site has grown, however, we’ve experienced the downside to this approach: Because the logic, interface, and content model is so intertwined, it has been hard to extend and maintain. When a single functionality — digital forms, for instance — breaks or stops meeting our needs, it is difficult to extract it from the entire platform and replace it with an improved solution. There are numerous points of failure, any one of which can bring down the entire site — a classic "too big to fail" situation.
 
