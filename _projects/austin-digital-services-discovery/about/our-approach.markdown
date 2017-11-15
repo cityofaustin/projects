@@ -29,6 +29,9 @@ Our fourth [Digital Service Value](#heading=h.nlz2362apq9p) expresses this appro
 
 ## Part of a larger movement
 
+![Screenshots of the websites of GOV.UK, London.gov.uk, MyIndy.gov, Edmonton.ca, Mass.gov, and Boston.gov](/uploads/ComparisonSites.png)
+*Throughout our discovery process, we tracked the progress of other government websites and reached out to them for advice and feedback.*
+
 Outreach to other government organizations is an integral part of our approach — so much so that we consider them [partners](#heading=h.1trfmtpzrgam). Work on every problem space has begun with a look outward: Who has done this?
 
 **Our next step? Reach out.**
@@ -70,7 +73,3 @@ Here are some of the resources we found to be great jumping-off points for these
 * [Municipal Design](http://municipaldesign.club/)
 
 * [GovDrupal](https://govdrupal-slack.herokuapp.com/)
-
-![Screenshots of the websites of GOV.UK, London.gov.uk, MyIndy.gov, Edmonton.ca, Mass.gov, and Boston.gov](/uploads/ComparisonSites.png)
-
-*Throughout our discovery process, we tracked the progress of other government websites and reached out to them for advice and feedback.*
