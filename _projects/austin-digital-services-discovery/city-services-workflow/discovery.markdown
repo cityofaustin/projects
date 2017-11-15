@@ -10,4 +10,4 @@ We visited the desks of ten City employees from various departments who authored
 
 ![City employee using his desktop computer](/uploads/jorge-desk-celine-min.JPG)
 *Austin Resource Recovery employee showing his current content workflow process.* 
->"I wish there was an easy way to track old content, but right now we don’t have that."*
+> "I wish there was an easy way to track old content, but right now we don’t have that."*
