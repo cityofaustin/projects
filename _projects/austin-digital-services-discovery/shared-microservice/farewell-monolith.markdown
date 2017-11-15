@@ -17,7 +17,7 @@ The benefits of microservice architectures, adapted below from the excellent Oâ€
 
 * **Technical heterogeneity** - Allowing a team to use the right tool for each job and adopt modern technologies more quickly. 
 
-* **Resilience** -** **Ensuring that if one component fails, the rest of the system continues to function. 
+* **Resilience** - Ensuring that if one component fails, the rest of the system continues to function. 
 
 * **Scaling** - Enabling services to scale individually to meet real time demands and control costs.
 
