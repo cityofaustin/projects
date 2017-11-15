@@ -1,5 +1,5 @@
 ---
-title: Friendly experts
+title: Friendly Experts
 date: 2017-11-15 06:10:00 Z
 published: false
 position: 3
