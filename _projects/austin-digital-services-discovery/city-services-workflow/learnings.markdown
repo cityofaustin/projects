@@ -37,7 +37,7 @@ We did a shallow inventory of AustinTexas.gov primary navigation and discovered 
 ![An Austin resident visits the City of Austin website using his iPhone while a Fellow looks on.](/uploads/outdoor-mobile-testing.jpg)
 *"What is this? I don't want to browse around [for recycling information]." - Scott, resident*
 
-![An Austin resident matches cards representing City services to corresponding themes.](/uploads/outdoor-card-sorting-min.jpg)
+![An Austin resident matches cards representing City services to corresponding themes.](/uploads/outdoor-card-sorting-min-0b7e0e.jpg)
 *"I don’t want to throw something dangerous away like batteries." - resident*
 
 **Opportunities presented:**
