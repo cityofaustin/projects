@@ -107,7 +107,7 @@ We couldn’t do what we’re doing without the advice and support of our civic 
 
     * Jess Schafer, ‎User Experience Lead
 
-* ** [Georgia.gov Interactive] **(https://digitalservices.georgia.gov/)
+* **[Georgia.gov Interactive] **(https://digitalservices.georgia.gov/)**
     * Kendra Skeene, *Director of Product*
 
 * [GOV.UK - Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
