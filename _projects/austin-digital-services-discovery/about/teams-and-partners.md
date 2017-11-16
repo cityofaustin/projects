@@ -1,5 +1,5 @@
 ---
-title: Teams & Partners
+title: Teams & Friends
 position: 4
 ---
 
@@ -89,7 +89,7 @@ position: 4
 
 * Yasmin Wagner, Web & Creative Services Manager 
 
-## Partners
+## Friends
 
 We couldn’t do what we’re doing without the advice and support of our civic tech friends.
 
@@ -106,6 +106,9 @@ We couldn’t do what we’re doing without the advice and support of our civic 
     * Adam Scott, Software Application Development Lead 
 
     * Jess Schafer, ‎User Experience Lead
+
+* [Georgia.gov Interactive](https://digitalservices.georgia.gov/)
+    * Kendra Skeene, Director of Product
 
 * [GOV.UK - Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service)
 
