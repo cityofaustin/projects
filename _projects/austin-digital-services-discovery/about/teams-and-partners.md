@@ -90,15 +90,15 @@ position: 4
 * Yasmin Wagner, Web & Creative Services Manager 
 
 ## Friends
+*"If you want to go fast, go alone; but if you want to go far, go together."*
+* -
+ [https://www.npr.org/sections/goatsandsoda/2016/07/30/487925796/it-takes-a-village-to-determine-the-origins-of-an-african-proverb](African proverb)*
 
-We couldn’t do what we’re doing without the advice and support of our civic tech friends.
+[Outreach is fundamental to our approach.](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/our-approach/#part-of-a-larger-movement) We couldn’t do what we’re doing without the advice and support of our civic tech friends. 
 
 * [Boston.gov - Department of Innovation and Technology](https://www.boston.gov/departments/innovation-and-technology)
-
     * Joshua Gee, Product Manager, né PDF Killer
-
     * Matthew Crist, Lead Developer
-
     * Reilly Zlab, Interim Chief Digital Officer
 
 * [Consumer Finance Protection Bureau](https://github.com/cfpb) 
