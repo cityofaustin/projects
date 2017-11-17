@@ -89,9 +89,7 @@ position: 4
 
 * Yasmin Wagner, Web & Creative Services Manager 
 
-## Friends
-#### "If you want to go fast, go alone; but if you want to go far, go together." 
-*- [African proverb](https://www.npr.org/sections/goatsandsoda/2016/07/30/487925796/it-takes-a-village-to-determine-the-origins-of-an-african-proverb)*     
+## Friends     
 
 [Outreach is fundamental to our approach.](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/our-approach/#part-of-a-larger-movement) We couldn’t do what we’re doing without the advice and support of our civic tech friends. 
 
