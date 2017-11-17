@@ -32,7 +32,7 @@ Our fourth [Digital Service Value](#heading=h.nlz2362apq9p) expresses this appro
 ![Screenshots of the websites of GOV.UK, London.gov.uk, MyIndy.gov, Edmonton.ca, Mass.gov, and Boston.gov](/uploads/ComparisonSites.png)
 *Throughout our discovery process, we tracked the progress of other government websites and reached out to them for advice and feedback.*
 
-Outreach to other government organizations is an integral part of our approach — so much so that we consider them [partners](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/teams-and-partners/#partners). **Work on every problem space has begun with a look outward: Who has done this?**
+Outreach to other government organizations is an integral part of our approach — so much so that we consider them [partners](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/teams-and-friends/#friends). **Work on every problem space has begun with a look outward: Who has done this?**
 
 **Our next step? Reach out.**
 
