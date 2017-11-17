@@ -91,8 +91,7 @@ position: 4
 
 ## Friends
 *"If you want to go fast, go alone; but if you want to go far, go together."*
-* -
- [https://www.npr.org/sections/goatsandsoda/2016/07/30/487925796/it-takes-a-village-to-determine-the-origins-of-an-african-proverb](African proverb)*
+* *-[African proverb](https://www.npr.org/sections/goatsandsoda/2016/07/30/487925796/it-takes-a-village-to-determine-the-origins-of-an-african-proverb)*
 
 [Outreach is fundamental to our approach.](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/our-approach/#part-of-a-larger-movement) We couldn’t do what we’re doing without the advice and support of our civic tech friends. 
 
@@ -137,6 +136,8 @@ position: 4
     * Harlan Webber, Director of Design & Service Innovation
 
     * Jesse Biroscak, Product Manager
+* [Results for America](https://results4america.org/)
+    * Lauren Lockwood
 
 * [University of Bath](http://www.bath.ac.uk/)
 
