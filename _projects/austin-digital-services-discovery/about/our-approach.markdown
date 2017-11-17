@@ -4,7 +4,7 @@ date: 2017-11-08 02:21:00 Z
 position: 3
 ---
 
-#### *The most important change in our approach to digital services as a city is thinking about them as living tools that need to adapt with resident needs, the competencies of our teams, and emergent technologies.*
+*The most important change in our approach to digital services as a city is thinking about them as living tools that need to adapt with resident needs, the competencies of our teams, and emergent technologies.*
 
 ## Things have changed
 
@@ -28,6 +28,8 @@ Returning to the idea of a "redesign": Building a website that beautifully lever
 Our fourth [Digital Service Value](#heading=h.nlz2362apq9p) expresses this approach: “Champion iterative, data-informed methodologies.”
 
 ## Part of a larger movement
+#### "If you want to go fast, go alone; but if you want to go far, go together." 
+*- [African proverb](https://www.npr.org/sections/goatsandsoda/2016/07/30/487925796/it-takes-a-village-to-determine-the-origins-of-an-african-proverb)*
 
 ![Screenshots of the websites of GOV.UK, London.gov.uk, MyIndy.gov, Edmonton.ca, Mass.gov, and Boston.gov](/uploads/ComparisonSites.png)
 *Throughout our discovery process, we tracked the progress of other government websites and reached out to them for advice and feedback.*
