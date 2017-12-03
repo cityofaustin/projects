@@ -37,7 +37,7 @@ Outreach to other government organizations is an integral part of our approach �
 
 **Our next step? Reach out.**
 
-Whether via a website feedback form, a tweet, a Medium comment, a Slack channel, a Facebook or LinkedIn message — \*everyone we’ve contacted has been not only generous with their time and supportive with their feedback, but happy to help. \*They’ve shared everything from slide decks to the inside scoop on vendor products. The things we’ve learned from this outreach have saved us legwork and headaches while sparking ideas — and pointed us to others who could do the same.
+Whether via a website feedback form, a tweet, a Medium comment, a Slack channel, a Facebook or LinkedIn message, reach out. *You will see that others in government technology are generous with their time, provide excellent feedback, and are happy to help.* By doing this, we've made connections and shared everything from slide decks to the inside scoop on vendor products. The things we’ve learned from this outreach have saved us legwork and headaches while sparking ideas — and pointed us to others who could do the same.
 
 **Then what? Pay it forward.**
 
