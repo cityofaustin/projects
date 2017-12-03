@@ -37,7 +37,9 @@ Outreach to other government organizations is an integral part of our approach �
 
 **Our next step? Reach out.**
 
-Whether via a website feedback form, a tweet, a Medium comment, a Slack channel, a Facebook or LinkedIn message, reach out. *You will see that others in government technology are generous with their time, provide excellent feedback, and are happy to help.* By doing this, we've made connections and shared everything from slide decks to the inside scoop on vendor products. The things we’ve learned from this outreach have saved us legwork and headaches and sparked some of our best ideas.
+Whether via a website feedback form, a tweet, a Medium comment, a Slack channel, a Facebook or LinkedIn message, reach out. You will see that others in government technology are generous with their time, provide excellent feedback, and are happy to help. 
+
+By doing this, we've made connections and shared everything from slide decks to the inside scoop on vendor products. The things we’ve learned from this outreach have saved us legwork and headaches and sparked some of our best ideas.
 
 **Then what? Pay it forward.**
 
@@ -65,7 +67,8 @@ Here are some of the resources we found to be great jumping-off points for these
 
 **Podcasts**
 
-* [Responsive Web Design Podcast - Government episodes ](https://responsivewebdesign.com/tag/government/)
+* [Responsive Web Design Podcast - Government episodes](https://responsivewebdesign.com/tag/government/)
+* [The Lab @ DC](https://itunes.apple.com/us/podcast/the-lab-dc/id1308290799?mt=2)
 
 **Slack**
 
@@ -75,4 +78,8 @@ Here are some of the resources we found to be great jumping-off points for these
 
 * [Municipal Design](http://municipaldesign.club/)
 
+* [Wagtail](http://wagtail.io/slack)
+
 * [GovDrupal](https://govdrupal-slack.herokuapp.com/)
+
+Do you have any great resources we should add to this list? [Let us know](mailto:innovation@austintexas.gov)!
