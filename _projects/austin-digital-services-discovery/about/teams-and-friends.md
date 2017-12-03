@@ -72,13 +72,13 @@ position: 4
     * Paul Bowsher, Technical Lead
     * Sam Dub, Product Manager
 
+* [Indy.gov](https://my.indy.gov/)
+    * Abbey Brands, ‎Chief Communications Officer
+
 * [The Lab @ DC](http://thelab.dc.gov/)
     * David Yokum, Director
     * Emily A. Batchelder, Marketing Specialist 
     * Karissa Minnich, Operations Analyst
-
-* [Indy.gov](https://my.indy.gov/)
-    * Abbey Brands, ‎Chief Communications Officer
 
 * [Mass.gov - GovNext](https://www.mass.gov/topics/executive-office-of-technology-services-and-security)
     * Bryan Hirsch, Director of Technology
