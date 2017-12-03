@@ -100,9 +100,10 @@ position: 4
 
 * [Consumer Finance Protection Bureau](https://github.com/cfpb) 
 
-    * Adam Scott, Software Application Development Lead 
-
+    * Adam Scott, Software Application Development Lead
+    * Andy Chosak, Technology & Innovation Fellow  
     * Jess Schafer, ‎User Experience Lead
+    * Will Barton, Software Developer
 
 * [Georgia.gov Interactive](https://digitalservices.georgia.gov/)
     * Kendra Skeene, Director of Product
