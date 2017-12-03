@@ -14,7 +14,7 @@ When the site was initially built, this plug-and-play model was widely used than
 
 In the past several years, private-sector companies like Uber and Netflix have demonstrated the benefits of an alternative — a polylithic microservice approach to create a modular and flexible platforms. **Each microservice is a small, autonomous service focused on doing one thing well.** They interact with the rest of the system via APIs, so they can be independently developed and deployed without breaking other components.
 
-![Diagram of coupling explained in next paragraph](/uploads/mono-vs-poly-min.png)
+![Diagram of coupling explained in next paragraph](/uploads/AA-mono-vs-poly-min.png)
 *In a monolithic architecture, the editor interface, user interface, data access layer, business logic layer, and database are all components of a single platform. A polylithic architecture has the editor interface, data access, and CMS business logic connected to the CMS database, and leverages APIs to connect that component to the public interface and integrate additional microservice functionalities.* 
 
 The benefits of microservice architectures, adapted below from the excellent O’Reilly book *[Building Microservices](http://shop.oreilly.com/product/0636920033158.do)*, include:
