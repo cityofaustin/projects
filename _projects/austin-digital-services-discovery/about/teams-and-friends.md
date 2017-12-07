@@ -8,11 +8,15 @@ position: 4
 * Ainee Athar, Communications Strategist
 * Amenity Applewhite, Product Manager
 * Ashlee Harris, Content Strategist 
-* Brian Smith, Senior Developer
+* Ben Weatherman, Software Developer
+* Brian Smith, Software Developer
 * Céline Thibault, Researcher and UX Designer
 * Courtney Morgan, Content Strategist
 * Farah Muscadin, Project Manager
 * Laura Trujillo, Content Strategist
+* Marni Wilhite, Program Manager
+* Mateo Clarke, Software Developer
+* Simi Damani, Software Developer
 
 ## Advisory & support teams
 * Aaron Wagner, Senior Developer 
