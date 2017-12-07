@@ -40,7 +40,6 @@ position: 4
 * Khalil Shalabi, Vice President 
 * Kim Olivares, Chief Performance Officer 
 * Lucia Athens, Chief Sustainability Officer 
-* Marni Wilhite, Product Manager
 * Matt Esquibel, IT Corporate Manager
 * Maya Coleman, Information System and Business Enterprise Manager 
 * Mireya Galarza,IT Business Systems Analyst Senior
