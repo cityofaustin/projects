@@ -10,12 +10,14 @@ position: 4
 * Ashlee Harris, Content Strategist 
 * Ben Weatherman, Software Developer
 * Brian Smith, Software Developer
-* Céline Thibault, Researcher and UX Designer
+* Céline Thibault, User Researcher and UX Designer
 * Courtney Morgan, Content Strategist
 * Farah Muscadin, Project Manager
+* Julia Byron, User Researcher and UX Designer
 * Laura Trujillo, Content Strategist
 * Marni Wilhite, Program Manager
 * Mateo Clarke, Software Developer
+* Mireya Galarza, User Researcher
 * Simi Damani, Software Developer
 
 ## Advisory & support teams
@@ -42,7 +44,6 @@ position: 4
 * Lucia Athens, Chief Sustainability Officer 
 * Matt Esquibel, IT Corporate Manager
 * Maya Coleman, Information System and Business Enterprise Manager 
-* Mireya Galarza,IT Business Systems Analyst Senior
 * Paul Cook, Senior Business Process Consultant 
 * Ross Clark, IT Corporate Manager 
 * Ruben Garcia, Research Analyst
