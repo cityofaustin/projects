@@ -42,7 +42,7 @@ Since iterative development involves the process of creating a new product, we�
 
 ##### 1. Define the problem
 
-A customer comes to your food truck and ask what vegan items you have. You don’t currently offer anything vegan on your menu. 
+* A customer comes to your food truck and ask what vegan items you have. You don’t currently offer anything vegan on your menu. 
 * You promise to add something to the menu by next week. They say they will return then.
 * You don’t ask them any further questions, and they leave. 
 * You are not knowledgeable about vegan dietary needs.
@@ -68,15 +68,17 @@ Based on your assumptions, you decide a vegan sandwich will be best. You determi
 
 ##### 5. Team develops a product based on the requirements and deadline
 
-The chefs now have two days to prepare a vegan sandwich with all of the ingredients in the requirement list. In a rush to meet the deadline, one of the chefs makes a mistake and uses butter on the bread.
+Now, the chefs have two days to prepare a vegan sandwich with all of the ingredients in the requirement list. In a rush to meet the deadline, one of the chefs makes a mistake and uses butter on the bread.
 
 ##### 6. Put the fully-developed, final product in front of the user
 
-The customer returns a week later. You’ve added “vegan sandwich” to your menu. You give the sandwich to the customer.
+* The customer returns a week later. 
+* You’ve added “vegan sandwich” to your menu. 
+* You give the sandwich to the customer.
 
 ##### Result
 
-The customer hates the sandwich. 
+The customer hates the sandwich: 
 
 * “I don’t like pinto beans. I like black beans.”
 * “I’m vegan. I don’t eat butter or cheese!”
