@@ -2,7 +2,7 @@
 title: Smart City Strategic Roadmap
 date: 2017-08-28 00:00:00 Z
 permalink: "/projects/smart-city/"
-position: 7
+position: 8
 project_name: Smart City Strategic Roadmap
 subtitle: with Communications and Technology Management
 excerpt: The Austin community and city government partners worked together to collaboratively
