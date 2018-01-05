@@ -17,7 +17,7 @@ This toolkit will help you:
 * Understand your users and how to develop user personas,
 * And deep dive into your content and start on your inventory.
 
-## What is Iterative Development?
+## Project Development, Historically
 Historically, a majority of projects fail because they haven’t been tested with the actual target user and often go over budget. 
 
 ### Traditional Development Process
