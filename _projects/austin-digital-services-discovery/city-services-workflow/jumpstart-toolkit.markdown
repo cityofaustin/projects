@@ -99,69 +99,57 @@ A customer comes to your food truck and ask what vegan items you have. You don�
 
 ##### 2. Focus on your user
 
-You get to know your customer. You ask them about themselves. You ask what type of vegan dishes they like. You get to know them and understand their needs. 
-
-You find out that they are a 33-year old Austinite, who is vegan, loves black beans and is an architect who works in a building nearby your food truck. They need a good place to get vegan food for lunch regularly. 
+* You get to know your customer and ask them about themselves. 
+* You ask what type of vegan dishes they like and begin to understand their needs. 
+* You find out that they are a 33-year old Austinite, who is vegan, loves black beans and is an architect who works in a building nearby your food truck. They need a good place to get vegan food for lunch regularly. 
 
 ##### 3. Develop a clear goal
 
-You let them know that you don’t currently offer vegan food, but you would love to work with them to develop something other customers would enjoy, too. They agree!
-
-You write a clear goal that you will create a vegan wrap with a variety of topping options to best meet your customers’ needs and will include your customers’ feedback.
-
-You’ll add the wrap within approximately 3 months, keeping that deadline flexible for adjustments if major findings are found and the development roadmap needs to be changed. 
+* You let them know that you don’t currently offer vegan food, but you would love to work with them to develop something other customers would enjoy, too. They agree!
+* You write a clear goal that you will create a vegan wrap with a variety of topping options to best meet your customers’ needs and will include your customers’ feedback.
+* You’ll add the wrap within approximately 3 months, keeping that deadline flexible for adjustments if major findings are found and the development roadmap needs to be changed. 
 
 
 ##### 4.  Test your assumptions with your user 
 
-You research common vegan wrap recipes, and look at what vegan items other local food trucks are offering.
-
-You develop a list of necessary ingredients. You understand the importance of user research so you ask the customer to look at your requirements list and give you input.  
-* Almond flour tortillas and whole wheat tortillas
-* Black beans and pinto beans
-* Tofu
-* Pickled cabbage
-* Kale
-* Onions
-* Carrots
-
-The customer says: “This looks great, but I’d add coconut wraps and vegan cheese.”
+* You research common vegan wrap recipes, and look at what vegan items other local food trucks are offering.
+* You develop a list of necessary ingredients. You understand the importance of user research so you ask the customer to look at your requirements list and give you input.  
+  * Almond flour tortillas and whole wheat tortillas
+  * Black beans and pinto beans
+  * Tofu
+  * Pickled cabbage
+  * Kale
+  * Onions
+  * Carrots
+* The customer says: “This looks great, but I’d add coconut wraps and vegan cheese.”
 
 ##### 5. Build in increments 
 
-You hire a chef with a vegan specialty. You don’t have them rush to make the whole wrap at once. 
-
-You research the best vegan cheeses. You purchase a small sample of the top two cheeses and test them with customers for two weeks. After evaluating all customer feedback over the next week, you select one cheese to use. 
-
-You get customer feedback on other ingredients to add. 
-
-You repeat the user research process for all the other ingredients, and develop a “prototype wrap” to test with more customers, not yet adding it to your full menu. 
+* You hire a chef with a vegan specialty. You don’t have them rush to make the whole wrap at once. 
+* You research the best vegan cheeses. You purchase a small sample of the top two cheeses and test them with customers for two weeks. After evaluating all customer feedback over the next week, you select one cheese to use. 
+* You get customer feedback on other ingredients to add. 
+* You repeat the user research process for all the other ingredients, and develop a “prototype wrap” to test with more customers, not yet adding it to your full menu. 
 
 While this may take longer than putting out a fast, but likely failing, final wrap, incremental development allows your customers to be repeatedly engaged so they know the proper solution is coming: Buy-in!
 
 ##### 6. Measure success 
 
-Customers try the prototype wrap.
-
-You measure success using qualitative metrics, such as interviews and surveys, where most customers say they love it. A few have suggested changes in how the tofu is cooked. Others have recommended an even better vegan cheese.
-
-You measure success using quantitative metrics, such as increased sales and customer repeat visits. 
+* Customers try the prototype wrap.
+* You measure success using qualitative metrics, such as interviews and surveys, where most customers say they love it. A few have suggested changes in how the tofu is cooked. Others have recommended an even better vegan cheese.
+* You measure success using quantitative metrics, such as increased sales and customer repeat visits. 
 
 
 ##### 7. Reflect, adjust and iterate
 
-You have the chefs cook the tofu softer. You purchase the recommended vegan cheese. You test again with customers with these new changes. You repeat until fully meeting your success metrics.  
-
-You add the vegan wrap to your menu.
-
-You keep a feedback mechanism open so that customers can continue to provide their comments on the wrap. 
-
-You avoid establishing any long-term vendor contracts with the ingredient providers so that you can change your offerings as your customers’ needs change.
-
+* You have the chefs cook the tofu softer. 
+* You purchase the recommended vegan cheese. You test again with customers with these new changes. * You repeat until fully meeting your success metrics.  
+* You add the vegan wrap to your menu.
+* You keep a feedback mechanism open so that customers can continue to provide their comments on the wrap. 
+* You avoid establishing any long-term vendor contracts with the ingredient providers so that you can change your offerings as your customers’ needs change.
 
 ##### Result
 
-Your customers are happy, and their needs are being met.
+Your customers are happy, and their needs are being met:
 
 * “I feel heard.”
 * “I love the new vegan wrap!”
