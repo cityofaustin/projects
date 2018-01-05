@@ -12,11 +12,15 @@ The City of Austin is moving towards user-centered design, which means truly und
 
 ## Persona Examples
 
-These personas were developed by the Resource Recovery department to understand the user personas of residents using their recycling services. 
+These personas were developed by Austin Resource Recovery to understand the user personas of residents using their recycling services.
+
+### Persona: The Enthusiast
 
 ![A figure of the iterative development process of cycles of research, design evaluation and development.](/uploads/ARR Final Personas.jpg) 
 
 ![A figure of the iterative development process of cycles of research, design evaluation and development.](/uploads/ARR Final Personas(1).jpg) 
+
+### Persona: Under Pressure
 
 ![A figure of the iterative development process of cycles of research, design evaluation and development.](/uploads/ARR Final Personas(2).jpg) 
 
