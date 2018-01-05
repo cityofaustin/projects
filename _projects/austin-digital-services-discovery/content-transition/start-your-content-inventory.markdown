@@ -1,6 +1,7 @@
 ---
 title: Start your Content Inventory
 date: 2018-01-05 18:59:00 Z
+published: false
 position: 2
 ---
 
