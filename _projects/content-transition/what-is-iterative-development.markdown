@@ -1,7 +1,7 @@
 ---
 title: What is Iterative Development
 date: 2018-01-05 15:31:00 Z
-position: 4
+position: 0
 ---
 
 We are changing the way that we deliver digital services to residents and helping departments transition their content to a prototype platform, ensuring that it is service-oriented, written and structured to meet the needs of residents. 
