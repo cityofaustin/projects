@@ -1,6 +1,7 @@
 ---
 title: How to Create User Personas
 date: 2018-01-05 18:39:00 Z
+position: 4
 ---
 
 Personas are depictions of your different types of users, that describe who they are, their needs, and their motivations. They serve as a guiding light for developing tools and services. There can be multiple user types, or personas, for each service that your department provides.
