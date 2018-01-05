@@ -1,7 +1,7 @@
 ---
 title: Funshops
 date: 2017-11-15 05:01:00 Z
-position: 6
+position: 5
 ---
 
 Our funshops are providing content creators with an in-person training to dive deeper into the style guide, explore why they don’t need to transition all of their current content onto the new site, and learn how to transition their content to the new site starting with their most vital services. From games to quizzes to film-like scenarios, the training is so interactive that the learnings are bound to stick. 
