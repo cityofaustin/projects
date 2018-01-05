@@ -1,7 +1,7 @@
 ---
 title: Start your Content Inventory
 date: 2018-01-05 18:59:00 Z
-position: 1
+position: 2
 ---
 
 A content inventory is a list of all of your content, such as pages, news releases, blog posts, documents, etc.
