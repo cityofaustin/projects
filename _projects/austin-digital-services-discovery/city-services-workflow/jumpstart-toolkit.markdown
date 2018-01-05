@@ -1,5 +1,5 @@
 ---
-title: Content Transition Jumpstart Toolkit
+title: Content Transition
 date: 2018-01-05 15:31:00 Z
 position: 5
 ---
