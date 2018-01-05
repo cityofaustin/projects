@@ -67,6 +67,9 @@ position: 4
     * Jess Schafer, ‎User Experience Lead
     * Will Barton, Software Developer
 
+* [District of Columbia Human Resources](https://dchr.dc.gov/)
+    * Emily Batchelder, Strategic Marketing Specialist
+
 * [Georgia.gov Interactive](https://digitalservices.georgia.gov/)
     * Kendra Skeene, Director of Product
 
