@@ -17,6 +17,6 @@ A content inventory we'll help your department discover:
 
 ## Content Inventory Example
 
-![An example of a content inventory in Microsoft Excel.](/uploads/content-inventory-screenshot.png) 
+![Example of a content inventory.](/uploads/content-inventory-screenshot.png) 
 
 Your department's director will assign a point of contact for this project, and they will be provided a content inventory template to being diving into your content. 
