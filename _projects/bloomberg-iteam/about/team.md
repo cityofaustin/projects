@@ -35,11 +35,11 @@ The Homelessness Advisory Council of Austin (HACA)|Involves individuals with liv
 
 
 ### Executives Team
-Office	|Individual	|
-:--	|:-- |
+Office	|Individual|
+:--	|:--	
 Ending Community Homelessness Coalition (ECHO)|Ann Howard
-Austin Public Health |Stephanie Hayden
-Austin-Travis County Emergency Medical Services| Cmdr. Andy Hofmeister
+Austin Public Health|Stephanie Hayden
+Austin-Travis County Emergency Medical Services|Cmdr. Andy Hofmeister
 Downtown Austin Community Court|Pete Valdez
 Austin Police Department|Cmdr. 
 Integral Care|Kathleen Casey
