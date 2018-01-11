@@ -71,7 +71,7 @@ This group is engaged through our weekly meetings with Ending Community Homeless
 * SAFE
 * Neighborhood Housing and Community Development Department 
 * Parks and Recreation Department 
-* Austin Public LIbrary 
+* Austin Public Library 
 * Code Department 
 * Leadership Austin 
 * Austin Independent School District 
