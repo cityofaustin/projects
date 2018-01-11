@@ -89,6 +89,5 @@ Bloomberg iTeam: [iteam@austintexas.gov](mailto:iteam@austintexas.gov)
 
 Innovation Office: [innovation@austintexas.gov](mailto:innovation@austintexas.gov)
 
-Sign up for our newsletter: ___________________
 
 
