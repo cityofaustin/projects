@@ -5,7 +5,9 @@ permalink: "/projects/homelessness-outreach/"
 position: 5
 project_name: Bloomberg iTeam
 subtitle: Shared Understanding of Homelessness
-excerpt: The Austin i-team is working with service providers and individuals experiencing homelessness to gain a better understanding of the situation and the people involved. The goal is to achieve functional zero in 10 years.
+excerpt: The Austin i-team is working with service providers and individuals experiencing
+  homelessness to gain a better understanding of the situation and the people involved.
+  The goal is to achieve functional zero in 10 years.
 image_path: 
 active: true
 layout: redirect
