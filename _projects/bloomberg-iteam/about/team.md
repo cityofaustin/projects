@@ -21,7 +21,7 @@ The Bloomberg Austin iTeam uses a nested team approach, which consists of four c
 The Bloomberg core innovation team working on the project consists of:
 
 
-![iTeam Core Team Photos](/assets/img/projects/bloomberg-iteam/iteam-team-pics.png.png)
+![iTeam Core Team Photos](/assets/img/projects/bloomberg-iteam/iteam-team-pics.png)
 
 ### Project Partners
 The Bloomberg i-Team holds weekly meetings with HOST and with a broader HOST and Executive teams for sprint reviews. The Dell Medical School stakeholders provide advice on subject matter expertise, while the The Homelessness Advisory Council of Austin (HACA) are consulted on a bimonthly basis for their input to help inform policies, participate and provide input on research activities, and create a shared understanding about what individuals undergoing homelessness face every day.
