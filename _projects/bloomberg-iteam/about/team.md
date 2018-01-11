@@ -27,7 +27,7 @@ The Bloomberg core innovation team working on the project consists of:
 The Bloomberg i-Team holds weekly meetings with HOST and with a broader HOST and Executive teams for sprint reviews. The Dell Medical School stakeholders provide advice on subject matter expertise, while the The Homelessness Advisory Council of Austin (HACA) are consulted on a bimonthly basis for their input to help inform policies, participate and provide input on research activities, and create a shared understanding about what individuals undergoing homelessness face every day.
 
 Project Role	|Description|
-:--	|:--	|:--
+:--	|:--	
 HOST|Participate in sprint planning and pop ups.
 Dell Medical School|Advise on data integration, solutions architecture, and connecting to the population health goals of the Medical School and Design Institute for Health.
 The Homelessness Advisory Council of Austin (HACA)|Involves individuals with lived experience with homelessness (including those at risk of homelessness, experiencing homelessness, and formerly homeless) in process and decision making.
@@ -36,7 +36,7 @@ The Homelessness Advisory Council of Austin (HACA)|Involves individuals with liv
 
 ### Executives Team
 Office	|Individual	|
-:--	|:--	|:--
+:--	|:--
 Ending Community Homelessness Coalition (ECHO)|Ann Howard
 Austin Public Health |Stephanie Hayden
 Austin-Travis County Emergency Medical Services| Cmdr. Andy Hofmeister
