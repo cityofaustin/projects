@@ -28,27 +28,11 @@ The purpose of the grant is to add an innovation capacity to a city. Grant funds
 2. **Quantitative Research**: Inventory a data to identify areas of opportunity for better integration, knowledge sharing, and potential investments. 
 3. **ARCH Service Mapping**: Understanding the experience of people with lived experience in Austin, the role that the ARCH plays in their experience, and a service blueprint for the ARCH. 
 
-After the initial research, we’ll pull together insights based on what we’ve learned and our recommendations for moving forward. Expected deliverables:
-
-* Research plan
-* Strategy for recruiting research participants
-* Interview protocols
-* Inventory of existing data
-* Service Blueprint 
-* Synthesis of Research Findings
-* Documentation of insights
-
+After the initial research, we’ll pull together insights based on what we’ve learned and our recommendations for moving forward. 
 
 ### Phase 2 - Concepting & Prototyping
 
 During this stage, we’ll begin designing and prototyping options for how to achieve the project’s desired outcomes. We’ll develop options based on the information gathered during the Discovery stage and test them with different types of users to understand how they work well and how they can be improved. This might include designing and testing different user interfaces, ways of providing geographic information about organizations, and internal administration of the system.
-
-Expected deliverables:
-
-* Preliminary List of Ideas
-* Prioritization of needs and desired functionality 
-* Concepts and prototypes of possible prioritized solutions 
-* Recommendations for Prototypes for Delivery based on research and testing
 
 ## Scope of Work
 
@@ -66,7 +50,7 @@ During the Research and Discovery phase, the i-team
 
 ## Deliverables
 
-Deliverables for this phase include:
+Expected deliverables include:
 
 * Research plan
 * Interview guidelines
