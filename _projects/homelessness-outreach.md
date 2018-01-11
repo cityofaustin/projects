@@ -10,7 +10,7 @@ excerpt: The Homelessness Outreach Street Team (HOST) represents a new collabora
   initiative in Austin’s Central Business District to address proactively the needs
   of people living on the streets.
 image_path: 
-active: true
+active: false
 layout: redirect
 redirect_to: "/projects/homelessness-outreach/about/overview"
 ---
