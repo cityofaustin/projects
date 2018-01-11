@@ -8,7 +8,7 @@ The Bloomberg Austin iTeam uses a nested team approach, which consists of four c
 
 **Core Team**: those who work on the project every day, share office space, and participate in all Stand-Ups, Sprint Planning, Sprint Reviews, and Sprint Retrospectives. A Project Manager manages daily processes for the team, and is the primary point of contact with all stakeholders.
 
-**Project Partners**: subject matter experts relevant to the project who help the Core Team identify and connect with research participants and other experts. Current Project Partners are HOST, the Dell Medical School, and the Advisory Group for people with lived experience. This team may expand as needed. 
+**Project Partners**: subject matter experts relevant to the project who help the Core Team identify and connect with research participants and other experts. Current Project Partners are Homeless Outreach Street Team (HOST), the Dell Medical School, and the Homelessness Advisory Council of Austin (HACA). This team may expand as needed. 
 
 **The Project Executives Team**: a small group of individuals, primarily City Leadership, who have the final sign-off on project decisions based on the core team’s recommendations. Receives a weekly progress report.
 
@@ -24,11 +24,11 @@ The Bloomberg core innovation team working on the project consists of:
 ![iTeam Core Team Photos](/assets/img/projects/bloomberg-iteam/iteam-team-pics.png)
 
 ### Project Partners
-The Bloomberg i-Team holds weekly meetings with HOST and with a broader HOST and Executive teams for sprint reviews. The Dell Medical School stakeholders provide advice on subject matter expertise, while the The Homelessness Advisory Council of Austin (HACA) are consulted on a bimonthly basis for their input to help inform policies, participate and provide input on research activities, and create a shared understanding about what individuals undergoing homelessness face every day.
+The Bloomberg i-Team holds weekly meetings with HOST and with a broader HOST and Executive teams for sprint reviews. The Dell Medical School stakeholders provide advice on subject matter expertise, while HACA are consulted on a bimonthly basis for their input to help inform policies, participate and provide input on research activities, and create a shared understanding about what individuals undergoing homelessness face every day.
 
 Project Role	|Description|
 :--	|:--	
-HOST|Participate in sprint planning and pop ups.
+Homeless Outreach Street Team (HOST)|Participate in sprint planning and pop ups.
 Dell Medical School|Advise on data integration, solutions architecture, and connecting to the population health goals of the Medical School and Design Institute for Health.
 The Homelessness Advisory Council of Austin (HACA)|Involves individuals with lived experience with homelessness (including those at risk of homelessness, experiencing homelessness, and formerly homeless) in process and decision making.
 
@@ -55,7 +55,7 @@ Senior Advisor for Design and Technology| Ben Guhin
 ### Awareness Group
 This group is engaged through our weekly meetings with Ending Community Homelessness Coalition (ECHO). They consist of organizations who are interested in the progress of the project, participating in it, or providing feedback on the project.
 
-* ECHO 
+* Ending Community Homelessness Coalition (ECHO) 
 * Front Steps 
 * Housing Authority of the City of Austin 
 * Caritas of Austin 
@@ -69,7 +69,7 @@ This group is engaged through our weekly meetings with Ending Community Homeless
 * University of Texas 
 * Micah-6 Austin 
 * Lifeworks
-* SAFE
+* Stop Abuse for Everyone (SAFE)
 * Neighborhood Housing and Community Development Department 
 * Parks and Recreation Department 
 * Austin Public Library 
