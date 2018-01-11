@@ -36,7 +36,7 @@ The Homelessness Advisory Council of Austin (HACA)|Involves individuals with liv
 
 ### Executives Team
 Office	|Individual	|
-:--	|:--
+:--	|:-- 
 Ending Community Homelessness Coalition (ECHO)|Ann Howard
 Austin Public Health |Stephanie Hayden
 Austin-Travis County Emergency Medical Services| Cmdr. Andy Hofmeister
@@ -48,7 +48,7 @@ Downtown Austin Alliance|Bill Brice
 Mayor, Mayor Pro Tem, and Council Liaisons|Sly Majid, Mayor’s Office, Ashley Richardson, Mayor Pro Tem’s Office
 City Manager Liaison|Joe Silva, Rey Arellano, Sarah Hensley, Mark Washington
 Chief Administrative Officer|Sabine Romero 
-Senior Advisor for Design and Technology|Ben Guhin
+Senior Advisor for Design and Technology| Ben Guhin
 
 
 ### Awareness Group
