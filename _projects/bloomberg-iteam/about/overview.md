@@ -53,14 +53,15 @@ Expected deliverables:
 ## Scope of Work
 
 The project will be 7-months long and consist of several design sprints.  The design sprints in 2017 have consisted of 3 phases over a short period of time: Research, Discovery, and Synthesis. 
+
 During the Research and Discovery phase, the i-team 
-Met with stakeholders to better understand the path of homelessness and services offered by the city to aid those experiencing homelessness. 
-Held interviews with individuals who are experiencing or who had experience homelessness, case managers, and service providers within the downtown area and outside the city limits. 
-Conducted ride alongs with the EMS and HOST teams
-Visited and mapped the service of various locations that housed individuals both permanently and temporarily, and performed observations at various shelters. 
-Participated in two pop-ups conducted by the HOST team at the ARCH in September and Terrazas library in November. 
-Gathered and synthesized data from stakeholders on demographics, services, and client behaviours.
-Launched a lived experience advisory group who have experienced or are currently experiencing homelessness to share stories, obtain feedback and learnings to inform policy makers, and find solutions by creating it with those who know the situation best.
+* Met with stakeholders to better understand the path of homelessness and services offered by the city to aid those experiencing homelessness. 
+* Held interviews with individuals who are experiencing or who had experience homelessness, case managers, and service providers within the downtown area and outside the city limits. 
+* Conducted ride alongs with the EMS and HOST teams
+* Visited and mapped the service of various locations that housed individuals both permanently and temporarily, and performed observations at various shelters. 
+* Participated in two pop-ups conducted by the HOST team at the ARCH in September and Terrazas library in November. 
+* Gathered and synthesized data from stakeholders on demographics, services, and client behaviours.
+* Launched a lived experience advisory group who have experienced or are currently experiencing homelessness to share stories, obtain feedback and learnings to inform policy makers, and find solutions by creating it with those who know the situation best.
 
 
 ## Deliverables
