@@ -35,6 +35,7 @@ The Homelessness Advisory Council of Austin (HACA)|Involves individuals with liv
 
 
 ### Executives Team
+
 Office	|Individual|
 :--	|:--	
 Ending Community Homelessness Coalition (ECHO)|Ann Howard
