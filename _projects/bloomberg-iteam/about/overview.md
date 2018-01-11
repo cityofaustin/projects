@@ -25,8 +25,8 @@ The purpose of the grant is to add an innovation capacity to a city. Grant funds
 ### Phase 1 - Discovery - conduct research in 3 parallel streams: 
 
 1. **Ethnographic Study**: Interviews with those with lived experience of homelessness, service providers, and community members to learn more about their experience and perspectives. 
-2. **Quantitative Research**: Inventory a data to identify areas of opportunity for better integration, knowledge sharing, and potential investments. 
-3. **ARCH Service Mapping**: Understanding the experience of people with lived experience in Austin, the role that the ARCH plays in their experience, and a service blueprint for the ARCH. 
+2. **Quantitative Research**: Inventory data to identify areas of opportunity for better integration, knowledge sharing, and potential investments. 
+3. **ARCH Service Mapping**: Understanding the experience of people with lived experience in Austin, the role that the ARCH plays in their experience, and a service blueprint for the Austin Resource Center for the Homeless (ARCH). 
 
 After the initial research, we’ll pull together insights based on what we’ve learned and our recommendations for moving forward. 
 
@@ -36,12 +36,12 @@ During this stage, we’ll begin designing and prototyping options for how to ac
 
 ## Scope of Work
 
-The project will be 7-months long and consist of several design sprints.  The design sprints in 2017 have consisted of 3 phases over a short period of time: Research, Discovery, and Synthesis. 
+The project will be 7-months long and consist of several design sprints.  The design sprints in 2017 have consisted of three phases over a short period of time: Research, Discovery, and Synthesis. 
 
 During the Research and Discovery phase, the i-team 
 * Met with stakeholders to better understand the path of homelessness and services offered by the city to aid those experiencing homelessness. 
 * Held interviews with individuals who are experiencing or who had experience homelessness, case managers, and service providers within the downtown area and outside the city limits. 
-* Conducted ride alongs with the EMS and HOST teams
+* Conducted ride alongs with the Emergency Medical Services and Homeless Outreach Street Team.
 * Visited and mapped the service of various locations that housed individuals both permanently and temporarily, and performed observations at various shelters. 
 * Participated in two pop-ups conducted by the HOST team at the ARCH in September and Terrazas library in November. 
 * Gathered and synthesized data from stakeholders on demographics, services, and client behaviours.
