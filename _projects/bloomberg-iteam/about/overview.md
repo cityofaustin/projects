@@ -41,7 +41,7 @@ The project will be 7-months long and consist of several design sprints.  The de
 During the Research and Discovery phase, the i-team 
 * Met with stakeholders to better understand the path of homelessness and services offered by the city to aid those experiencing homelessness. 
 * Held interviews with individuals who are experiencing or who had experience homelessness, case managers, and service providers within the downtown area and outside the city limits. 
-* Conducted ride alongs with the Emergency Medical Services and Homeless Outreach Street Team.
+* Conducted ride alongs with the Emergency Medical Services (EMS) and Homeless Outreach Street Team (HOST).
 * Visited and mapped the service of various locations that housed individuals both permanently and temporarily, and performed observations at various shelters. 
 * Participated in two pop-ups conducted by the HOST team at the ARCH in September and Terrazas library in November. 
 * Gathered and synthesized data from stakeholders on demographics, services, and client behaviours.
