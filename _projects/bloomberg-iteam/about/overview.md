@@ -22,7 +22,7 @@ The purpose of the grant is to add an innovation capacity to a city. Grant funds
 
 ## The Plan
 
-###Phase 1 - Discovery - conduct research in 3 parallel streams: 
+### Phase 1 - Discovery - conduct research in 3 parallel streams: 
 
 1. **Ethnographic Study**: Interviews with those with lived experience of homelessness, service providers, and community members to learn more about their experience and perspectives. 
 2. **Quantitative Research**: Inventory a data to identify areas of opportunity for better integration, knowledge sharing, and potential investments. 
@@ -39,7 +39,7 @@ After the initial research, we’ll pull together insights based on what we’ve
 * Documentation of insights
 
 
-###Phase 2 - Concepting & Prototyping
+### Phase 2 - Concepting & Prototyping
 
 During this stage, we’ll begin designing and prototyping options for how to achieve the project’s desired outcomes. We’ll develop options based on the information gathered during the Discovery stage and test them with different types of users to understand how they work well and how they can be improved. This might include designing and testing different user interfaces, ways of providing geographic information about organizations, and internal administration of the system.
 
@@ -63,7 +63,7 @@ Gathered and synthesized data from stakeholders on demographics, services, and c
 Launched a lived experience advisory group who have experienced or are currently experiencing homelessness to share stories, obtain feedback and learnings to inform policy makers, and find solutions by creating it with those who know the situation best.
 
 
-##Deliverables
+## Deliverables
 
 Deliverables for this phase include:
 
