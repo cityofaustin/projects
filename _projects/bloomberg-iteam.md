@@ -1,7 +1,7 @@
 ---
-title: Homelessness Outreach Street Team
-date: 2017-08-28 00:00:00 Z
-permalink: "/projects/homelessness-outreach/"
+title: Bloomberg iTeam
+date: 2018-01-11 00:00:00 Z
+permalink: "/projects/bloomberg-iteam/"
 position: 5
 project_name: Bloomberg iTeam
 subtitle: Shared Understanding of Homelessness
