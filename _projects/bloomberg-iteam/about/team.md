@@ -17,13 +17,13 @@ The Bloomberg Austin iTeam uses a nested team approach, which consists of four c
 ![Nested Teams Graphic](/assets/img/projects/bloomberg-iteam/iteam-nested-teams.png)
 
 
-### Core Team
+## Core Team
 The Bloomberg core innovation team working on the project consists of:
 
 
 ![iTeam Core Team Photos](/assets/img/projects/bloomberg-iteam/iteam-team-pics.png)
 
-### Project Partners
+## Project Partners
 The Bloomberg i-Team holds weekly meetings with HOST and with a broader HOST and Executive teams for sprint reviews. The Dell Medical School stakeholders provide advice on subject matter expertise, while HACA are consulted on a bimonthly basis for their input to help inform policies, participate and provide input on research activities, and create a shared understanding about what individuals undergoing homelessness face every day.
 
 Project Role	|Description|
@@ -34,7 +34,7 @@ The Homelessness Advisory Council of Austin (HACA)|Involves individuals with liv
 
 
 
-### Executive Team
+## Executive Team
 The Executive team consists of a group of individuals, primarily City Leadership, who have the final sign-off on project decisions based on the core team’s recommendations.
 
 Office	|Individual|
@@ -53,7 +53,7 @@ Office	|Individual|
 [Senior Advisor for Design and Technology](http://www.austintexas.gov/department/about-innovation-office)|Ben Guhin
 
 
-### Awareness Group
+## Awareness Group
 This group is engaged through our weekly meetings with Ending Community Homelessness Coalition (ECHO). They consist of organizations who are interested in the progress of the project, participating in it, or providing feedback on the project.
 
 * [Ending Community Homelessness Coalition (ECHO) ](http://www.austinecho.org/)
