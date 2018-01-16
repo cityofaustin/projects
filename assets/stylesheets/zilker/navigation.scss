@@ -521,9 +521,14 @@ body {
 // 1.5rem for h2 top margin
 h2[id]::before {
     content: "";
-    margin-top: -1 * ($site-header-height + $pre-header-height);
-    height: $site-header-height + $pre-header-height + 1.5rem;
     visibility: hidden;
     pointer-events: none;
     display: block;
+    margin-top: -1 * ($pre-header-height);
+    height: $pre-header-height + 1.5rem;
+
+    @media #{$md-viewport} {
+      margin-top: -1 * ($site-header-height + $pre-header-height);
+      height: $site-header-height + $pre-header-height + 1.5rem;
+    }
 }
