@@ -1,6 +1,6 @@
 ---
 title: Get in Touch
-position: 2
+position: 3
 ---
 
 ## Get In Touch
