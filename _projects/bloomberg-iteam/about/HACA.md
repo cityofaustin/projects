@@ -22,14 +22,17 @@ Below are a summary of the activities that we have conducted with the group sinc
 * Session 6: Activity: Insights feedback
 * Session 7: Activity: Bio for HACA packet
 
+
 ![HACA team providing feedback](/assets/img/projects/bloomberg-iteam/iteam - haca insights.JPG)
-HACA team providing feedback
+**HACA team providing feedback**
+
 
 ![A storyboard created by a HACA member about their path of homelessness](/assets/img/projects/bloomberg-iteam/iteam - haca storyboard.jpg)
-A storyboard created by a HACA member about their path of homelessness
+**A storyboard created by a HACA member about their path of homelessness**
+
 
 ![A flyer created by a HACA member to help individuals new to homelessness](/assets/img/projects/bloomberg-iteam/iteam - haca flyer.jpg)
-A flyer created by a HACA member to help individuals new to homelessness
+**A flyer created by a HACA member to help individuals new to homelessness**
 
 ## Future Needs
 
