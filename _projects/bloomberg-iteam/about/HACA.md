@@ -20,7 +20,7 @@ Below are a summary of the activities that we have conducted with the group sinc
 * Session 4: Activity: Roleplay
 * Session 5: Activity: Insights feedback
 * Session 6: Activity: Insights feedback
-* Session 7: Activity: Bio for HACA packet
+* Session 7: Activity: Participant biographies for HACA packet
 
 
 ![HACA team providing feedback](/assets/img/projects/bloomberg-iteam/iteam - haca insights.JPG)
