@@ -7,10 +7,11 @@ position: 0
 
 In Austin, there are over 2,000 individuals without a safe place to sleep. There are many reasons a person can become homeless. It can range from the lack of affordable housing to the loss of family and community.
 
-Mayor Steve Adler and the [City of Austin](https://austintexas.gov/) hopes to address this very issue. 
-In 2016, the [Design, Technology and Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/) secured a grant from [Bloomberg Philanthropies](https://www.bloomberg.org/program/government-innovation/innovation-teams/#overview), which is funding innovation teams (i-teams) in over 20 cities worldwide to tackle urban problems and deliver better solutions for residents. 
+In 2017, the [Design, Technology and Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/) secured a grant from [Bloomberg Philanthropies](https://www.bloomberg.org/program/government-innovation/innovation-teams/#overview. Austin was selected from a pool of municipalities with a demonstrated commitment to designing and delivering bold solutions to solve homelessness. Other cities selected for the global program include Be’er Sheva, Israel; Toronto, Canada, and Anchorage, AK; Austin, TX; Baltimore, MD; Detroit, MI; and Durham; NC in the United States.
 
-With this grant, the Austin i-team is working with service providers and individuals experiencing homelessness to gain a better understanding of the situation and the people involved. The goal is to achieve functional zero in 10 years. We hope the research and design findings will bring Austin’s homeless a step closer to home. 
+Currently in the third round of funding, the Bloomberg program will allow Mayor Steve Adler and the [City Council](https://austintexas.gov/) to fund an in-house innovation team, or “i-team”, to pioneer new approaches on homelessness.
+
+“This grant will help us tackle problems in new ways that reflect who we are in Austin, and I’m excited to see what can come from this,” said Mayor Adler. “When we effectively ended veteran homelessness, we learned how effective new partnerships between the business community, philanthropists and non-profits could be. Bloomberg’s grant will allow our Innovation Office to experiment with new ways to house the homeless.”
 
 
 ## iTeam Grant Requirements
@@ -43,5 +44,4 @@ Expected deliverables include:
 * [Sprint 1: Lived Experience Research Aug 28 - Sept 8](https://docs.google.com/document/d/1Ou0MFxoZL80ZeuPqwHALJL7ygwQE4c0bkEciv2wyJpk/edit?usp=sharing)
 * [Sprint 2: Sleeping at the ARCH Sept 18- Oct 27](https://docs.google.com/document/d/1e5RWiWoOHIDItWDwGZFA-_vmLULtygoTEesatGNcA-g/edit?usp=sharing)
 * [Homelessness Advisory Council of Austin (HACA)](http://projects.austintexas.io/projects/bloomberg-iteam/about/HACA/)
-
 
