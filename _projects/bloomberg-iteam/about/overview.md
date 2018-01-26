@@ -43,5 +43,5 @@ Expected deliverables include:
 * [Research Plan](https://docs.google.com/document/d/1By9fQ2VHCA_XXeU2h9K3SAikTs5D4o47_sjU3xogUT0/edit?usp=sharing)
 * [Sprint 1: Lived Experience Research Aug 28 - Sept 8](https://docs.google.com/document/d/1Ou0MFxoZL80ZeuPqwHALJL7ygwQE4c0bkEciv2wyJpk/edit?usp=sharing)
 * [Sprint 2: Sleeping at the ARCH Sept 18- Oct 27](https://docs.google.com/document/d/1e5RWiWoOHIDItWDwGZFA-_vmLULtygoTEesatGNcA-g/edit?usp=sharing)
-* [Homelessness Advisory Council of Austin (HACA)](http://projects.austintexas.io/projects/bloomberg-iteam/about/HACA/)
+* [Homelessness Advisory Committee of Austin (HACA)](http://projects.austintexas.io/projects/bloomberg-iteam/about/HACA/)
 
