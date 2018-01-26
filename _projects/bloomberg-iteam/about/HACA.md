@@ -19,8 +19,8 @@ Below are a summary of the activities that we have conducted with the group sinc
 * Session 3: Activity: Flyer creation
 * Session 4: Activity: Roleplay
 * Session 5: Activity: Insights feedback
-* Session 6: Activity: Insights feedback
-* Session 7: Activity: Participant biographies for HACA packet
+* Session 6: Activity: How Might We ideation
+* Session 7: Activity: Participant biographies for the HACA packet
 
 
 ![HACA team providing feedback](/assets/img/projects/bloomberg-iteam/iteam - haca insights.JPG)
