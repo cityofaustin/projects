@@ -7,7 +7,7 @@ position: 0
 
 In Austin, there are over 2,000 individuals without a safe place to sleep. There are many reasons a person can become homeless. It can range from the lack of affordable housing to the loss of family and community.
 
-In 2017, the [Design, Technology and Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/) secured a grant from [Bloomberg Philanthropies](https://www.bloomberg.org/program/government-innovation/innovation-teams/#overview. Austin was selected from a pool of municipalities with a demonstrated commitment to designing and delivering bold solutions to solve homelessness. Other cities selected for the global program include Be’er Sheva, Israel; Toronto, Canada, and Anchorage, AK; Austin, TX; Baltimore, MD; Detroit, MI; and Durham; NC in the United States.
+In 2017, the [Design, Technology and Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/) secured a grant from [Bloomberg Philanthropies](https://www.bloomberg.org/program/government-innovation/innovation-teams/#overview.) Austin was selected from a pool of municipalities with a demonstrated commitment to designing and delivering bold solutions to solve homelessness. Other cities selected for the global program include Be’er Sheva, Israel; Toronto, Canada, and Anchorage, AK; Austin, TX; Baltimore, MD; Detroit, MI; and Durham; NC in the United States.
 
 Currently in the third round of funding, the Bloomberg program will allow Mayor Steve Adler and the [City Council](https://austintexas.gov/) to fund an in-house innovation team, or “i-team”, to pioneer new approaches on homelessness.
 
