@@ -1,5 +1,5 @@
 ---
-title: Day Two: Methods & Practices
+title: Day Two
 ---
 
 ![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
