@@ -1,5 +1,5 @@
 ---
-title: Day one
+title: Day One: Welcome to Austin
 ---
 
 ![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
@@ -7,59 +7,69 @@ title: Day one
 
 ## 9:00am
 
-Something
-
-### 10:00am
-
-Something else
+Breakfast / Networking
 
 
----
+## 9:30am
+
+Remarks from Kerry O'Connor, Stephen Elkins, and Ben Guhin
 
 
-* Accurately convey whether public’s route is safe & clear
+## 10:00am
 
-### Citizen Storm Spotters
+Welcome to Austin - Dr. Kazique Prince, Office of the Mayor 
 
-* Convey conditions through images and information, using reliable sources
 
-### Emergency Management
+## 10:30am
 
-* Quick reference for where problems exist
-* Provide a way for the public to check and validate conditions so they can make good, safe decisions
+Panel on the Structure of Austin’s City Government, with Councilmembers Jimmy Flannigan and Greg Casar
 
-### Emergency Medical Services
 
-* Enable reactive & proactive responses
+## 11:30am
 
-### Flood Early Warning System
+15-minute Break
 
-* Communicate accurate information on conditions
 
-### School Transportation Dispatchers
+## 11:45am
 
-* Ensure safety of children
-* Create understanding with parents
+Overview of City of Austin Departments and Programs - Jill Goodman, Office of Performance Management
 
-### Weather Service
 
-* Accurately warn public of area affected by severe weather
-* Gauge past performances
+## 12:30pm
 
-### Citizens
+Catered lunch, including session on Ethics in Government, Public vs Private
 
-* Safely route travel
-* Plan timing of travel through crossings
-* Act as safety ambassadors
 
-## Summary
+## 1:30pm
 
-1. Mobile use is high-priority
-2. Impacts situational awareness for many groups
-3. Accuracy is a key motivator for use, but reliability is a pain point
-  * Opportunity via timestamped data
-  * Opportunity via status context
-  * Opportunity via imagery
-  * Opportunity via realtime data
-4. Regional information is important for routing and assessment
-5. Recovery is a period where support is needed
+Historical Inequities in Austin - Brion Oaks and Kelli Coleman, Equity Office
+
+
+## 2:30pm 
+
+Public Relations Training - Bryce Bencivengo and David Greene, CPIO
+
+
+## 3:30pm
+
+15-minute Break
+
+
+## 3:45pm
+
+Basadur profiles and cognitive preferences
+
+
+## 4:45pm
+
+DTI Values and what's in store for the rest of this week - Ben Guhin
+
+
+## 5:00pm
+
+Done for today!
+
+
+
+
+
