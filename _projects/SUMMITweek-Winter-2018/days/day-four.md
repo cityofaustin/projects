@@ -22,9 +22,10 @@ The Science of Great Organizations - Art Markman
 
 ## 11:15am 
 
-**Case Study:** Coherence vs Consensus
+**Case Study:** Critique and the art of sharing your work in the open
 
-**Activity:** Balancing insurgency and legitimacy
+**Activity:** Practicing critique
+
 
 
 ## 11:00am 
@@ -41,9 +42,9 @@ The Science of Great Organizations - Art Markman
 
 ## 11:45am
 
-**Case Study:** Critique and the art of sharing your work in the open
+**Case Study:** Coherence vs Consensus
 
-**Activity:** Practicing critique
+**Activity:** Balancing insurgency and legitimacy
 
 
 ## 12:15am
