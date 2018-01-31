@@ -1,6 +1,6 @@
 ---
 title: Day One
-position: 0
+position: 1
 ---
 
 ![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
