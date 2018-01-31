@@ -1,5 +1,5 @@
 ---
-title: Day Three
+title: Day Three: Cross-Governmental DTI Summit
 position: 3
 ---
 
