@@ -1,6 +1,6 @@
 ---
 title: Day Four
-position: 3
+position: 4
 ---
 
 ![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
