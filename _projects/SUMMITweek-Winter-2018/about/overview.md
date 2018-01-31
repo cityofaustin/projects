@@ -23,7 +23,7 @@ Our Design, Technology, and Innovation Fellows program launched in Summer 2016 w
 
 Over the following year and a half, we totally accomplished all four of these goals. Success!
 
-But! We never had a dedicated budget to hire folks for the program, so we brought on staff as they were needed for specific projects. Seven people in August 2016, an additional person in September, two more people in October, another in November, three more people in January, etc, onboarding over 30 new employees over the course of our first year, and our onboarding materials evolved as we grew.
+But! We didn't had a dedicated budget to hire folks for the program, so we brought on staff as they were needed for specific projects. Seven people in August 2016, an additional person in September, two more people in October, another in November, three more people in January, etc, onboarding over 30 new employees over the course of our first year, and our onboarding materials evolved as we grew.
 
 At the same time, more folks from CTM and across City departments have joined our teams, with a group of 40+ people across a wide range of skillsets making up the core of our organizational culture.
 
