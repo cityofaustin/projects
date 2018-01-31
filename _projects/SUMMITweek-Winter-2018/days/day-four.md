@@ -18,7 +18,7 @@ Welcome & what's in store for today - Daniel Honker
 
 ## 10:00am
 
-The Science of Great Organizations - TBD
+The Science of Great Organizations - TBD 
 
 
 ## 11:15am 
