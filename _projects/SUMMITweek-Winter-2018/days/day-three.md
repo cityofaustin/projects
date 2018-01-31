@@ -1,6 +1,5 @@
 ---
-title: Day Three: Cross-Governmental DTI Summit
-position: 3
+title: Day Three
 ---
 
 ![summit-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summit-logo.jpg)
