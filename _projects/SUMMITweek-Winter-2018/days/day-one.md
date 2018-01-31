@@ -73,7 +73,7 @@ Done for today!
 
 -
 
-Go to **[Day two](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-two/)** 
+Go to **[Day two](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-two/)**  
 
 
 
