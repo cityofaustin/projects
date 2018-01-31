@@ -1,10 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Day One: Welcome to Austin
-position: 0
-=======
 title: Day One
->>>>>>> origin/master
 ---
 
 ![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)

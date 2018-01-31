@@ -1,10 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Day Four: How We Manage Projects
-position: 3
-=======
 title: Day Four
->>>>>>> origin/master
 ---
 
 ![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
