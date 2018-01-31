@@ -1,7 +1,6 @@
 ---
-title: Day Four: How We Manage Projects
+title: Day Four
 ---
-
 
 ![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: Day One: Welcome to Austin
+title: Day One
 ---
 
 ![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
