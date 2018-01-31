@@ -1,5 +1,5 @@
 ---
-title: Day Two
+title: Day Two: Methods and Disciplines
 position: 2
 ---
 
