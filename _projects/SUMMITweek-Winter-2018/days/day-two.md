@@ -1,8 +1,11 @@
 ---
+<<<<<<< HEAD
 title: Day Two: Methods and Disciplines
 position: 1
+=======
+title: Day Two
+>>>>>>> origin/master
 ---
-
 
 ![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
 
