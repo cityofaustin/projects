@@ -1,5 +1,6 @@
 ---
 title: Day Two: Methods and Disciplines
+position: 1
 ---
 
 
@@ -34,12 +35,14 @@ Why we’re doing this, what we’ve done, and what’s next - Ben Guhin
 ## 11:15am 
 
 **Case Study:** Field Research for Austin Resource Recovery
+
 **Activity:** Reviewing and finalizing a research plan
 
 
 ## 11:45am
 
 **Case Study:** Testing with users for Austin.gov
+
 **Activity:** Conducting usability testing
 
 
@@ -51,12 +54,14 @@ Lunch
 ## 1:45pm
 
 **Case Study:** Engineering team workflow
+
 **Activity:** Game demonstrating agile principles
 
 
 ## 2:15pm
 
 **Case Study:** Open Source development for ATXfloods and Austin.gov
+
 **Activity:** Do something in Github
 
 
@@ -68,12 +73,14 @@ Lunch
 ## 3:00pm
 
 **Case Study:** Product management for ATXfloods and Austin.gov
+
 **Activity:** Planning poker
 
 
 ## 3:30pm
 
 **Case Study:** Writing Resident-Centered Content
+
 **Activity:** Writing Resident-Centered Content
 
 

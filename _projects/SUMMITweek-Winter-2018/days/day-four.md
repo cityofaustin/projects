@@ -1,5 +1,6 @@
 ---
 title: Day Four: How We Manage Projects
+position: 3
 ---
 
 
@@ -24,6 +25,7 @@ The Science of Great Organizations - Art Markman
 ## 11:15am 
 
 **Case Study:** Coherence vs Consensus
+
 **Activity:** Balancing insurgency and legitimacy
 
 
@@ -35,12 +37,14 @@ The Science of Great Organizations - Art Markman
 ## 11:15am 
 
 **Case Study:** Working on a distributed team, working in a shared space.
+
 **Activity:** Commitments of a distributed workforce
 
 
 ## 11:45am
 
 **Case Study:** Critique and the art of sharing your work in the open
+
 **Activity:** Practicing critique
 
 
@@ -52,6 +56,7 @@ Lunch
 ## 1:45pm
 
 **Case Study:** Real-talk Retros
+
 **Activity:** Retrospecting
 
 
