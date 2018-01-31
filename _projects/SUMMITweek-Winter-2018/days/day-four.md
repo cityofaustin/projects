@@ -1,5 +1,5 @@
 ---
-title: Day Four
+title: Day Four: How We Manage Projects
 position: 4
 ---
 
