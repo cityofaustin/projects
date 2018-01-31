@@ -1,5 +1,5 @@
 ---
-title: Day One
+title: Day One: Welcome to Austin
 position: 1
 ---
 
