@@ -27,10 +27,10 @@ But! We never had budget for the program, so we brought on staff as they were ne
 
 As of February 2018, we're a year and a half into this experiment and have a pretty good idea of how we work. SUMMITweek gives us the space and time to share those practices and policies across our teams so that we can be as collaborative and productive as possible. 
 
-- *Day one* focuses on how the City of Austin works and basic policies relating to all City employees.
-- *Day two* focuses on our methods and standards across disciplines 
-- *Day three* is open to other local governments and is an opportunity to expand our networks and impact across the region
-- *Day four* focuses on project management and how to contribute to your team
+- **Day one** focuses on how the City of Austin works and basic policies relating to all City employees.
+- **Day two** focuses on our methods and standards across disciplines 
+- **Day three** is open to other local governments and is an opportunity to expand our networks and impact across the region
+- **Day four** focuses on project management and how to contribute to your team
 
 
 
