@@ -18,7 +18,7 @@ Welcome & what's in store for today - Daniel Honker
 
 ## 10:00am
 
-The Science of Great Organizations - TBD 
+The Science of Great Organizations - Art Markman 
 
 
 ## 11:15am 
