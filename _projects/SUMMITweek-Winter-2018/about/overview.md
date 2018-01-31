@@ -1,5 +1,5 @@
 ---
-title: What We're Doing
+title: This is gonna be awesome
 position: 0
 ---
 

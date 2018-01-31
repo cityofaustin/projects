@@ -1,14 +1,23 @@
 ---
-title: What We're Learning
+title: Day one
 ---
 
-## Motivations
 
-Overall, we saw some themes emerge when talking to different groups about why they might visit ATXfloods.com. You’ll see that accuracy, communication, clarify, and conditions are oft-repeated terms.
+![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
 
-### Broadcast Media
 
-* Clarify severity of storm / situation
+## 9:00am
+
+Something
+
+### 10:00am
+
+Something else
+
+
+---
+
+
 * Accurately convey whether public’s route is safe & clear
 
 ### Citizen Storm Spotters
