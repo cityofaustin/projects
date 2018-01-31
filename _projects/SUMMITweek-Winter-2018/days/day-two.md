@@ -97,3 +97,8 @@ Doors for public event at Google Fiber Space
 
 Event at Google Fiber Space on the future of Austin's Civic Tech Community
 
+
+-
+
+Go to **[Day three](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-three/)**
+

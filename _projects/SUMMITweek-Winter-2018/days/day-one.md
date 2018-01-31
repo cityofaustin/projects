@@ -71,6 +71,10 @@ DTI Values and what's in store for the rest of this week - Ben Guhin
 Done for today!
 
 
+-
+
+Go to **[Day two](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-two/)** 
+
 
 
 
