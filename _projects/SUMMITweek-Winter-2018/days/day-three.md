@@ -1,6 +1,6 @@
 ---
 title: Day Three
-position: 2
+position: 3
 ---
 
 ![summit-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summit-logo.jpg)
