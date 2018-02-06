@@ -23,16 +23,19 @@ Test participants’ perception of the foster process:
 Real foster process:
 
 ![An image of the actual foster process residents will go through] (innovation-projects/assets/img/projects/digital-services-discovery/foster_process_reali_sCISx.jpg)
+
 We found test participants didn’t understand what would happen next and thought an animal would be picked for them. Incorrect expectations can lead to people dropping out of the program after being approved to foster. Data from the foster program suggests this may be happening - around 1,100 applications are approved a year but only around 450 people are in the system. We will better communicate the process and expectations in the form to improve applicant retention.
 
 ## 2. Clarify
 
 ![An image of two forms- one with confusing language, and one with clear, action oriented language] (innovation-projects/assets/img/projects/digital-services-discovery/language_clarity.jpg)
+
 We will use more clear, action oriented language and add help text to improve comprehension.
 
 ## 3. Streamline and remove barriers
 
 ![An image of a form asking for the date of a rabies vaccination] (innovation-projects/assets/img/projects/digital-services-discovery/date_barrier.jpg)
+
 “Aaaarrrgghhh I don’t know the day. I’m going to make a wild guess. Looking in records is onerous.” Test participant, age 48
 
 Not only is this annoying for the participant, but the animal center only needs to know if the rabies vaccination is current; exact date doesn’t matter. We will remove unnecessary questions and only ask questions relevant to each user.
