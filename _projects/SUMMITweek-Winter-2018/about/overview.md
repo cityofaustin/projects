@@ -30,9 +30,9 @@ At the same time, more folks from CTM and across City departments have joined ou
 As of February 2018, we're a year and a half into this experiment and have a pretty good idea of how to work across our disciplines and projects. SUMMITweek gives us the space and time to share those practices and policies across our teams so that we can be as collaborative and productive as possible. 
 
 - **[Day one](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-one/)** focuses on how the City of Austin works and basic policies relating to all City employees.
-- **[Day two](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-two/)** focuses on our methods and standards across disciplines 
+- **[Day two](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-two/)** focuses on our methods and how we manage work across disciplines 
 - **[Day three](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-three/)** is open to other local governments and is an opportunity to expand our networks and impact across Central Texas
-- **[Day four](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-four/)** focuses on project management and how to contribute to your team
+
 
 
 
