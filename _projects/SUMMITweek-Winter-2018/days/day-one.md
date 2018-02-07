@@ -46,9 +46,9 @@ Catered lunch, including session on Ethics in Government, Public vs Private
 Historical Inequities in Austin - Brion Oaks and Kelli Coleman, Equity Office
 
 
-## 2:30pm 
+## 2:45pm 
 
-Public Relations Training - Bryce Bencivengo and David Greene, CPIO
+The Science of Great Organizations - Art Markman
 
 
 ## 3:30pm
