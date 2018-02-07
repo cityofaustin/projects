@@ -18,7 +18,7 @@ Welcome & what's in store for today - Daniel Honker
 
 ## 10:00am
 
-Design & Technology in Government, Planned Serendipity, and How to Fail - Lane Becker
+Design, Technology, and Agility in Government - Lane Becker
 
 
 ## 10:30am
@@ -33,16 +33,17 @@ Why we’re doing this, what we’ve done, and what’s next - Ben Guhin
 
 ## 11:15am 
 
-**Case Study:** Field Research for Austin Resource Recovery
+**Case Study:** Writing Resident-Centered Content
 
-**Activity:** Reviewing and finalizing a research plan
+**Activity:** Writing Resident-Centered Content
 
 
 ## 11:45am
 
-**Case Study:** Testing with users for Austin.gov
+**Case Study:** Field Research for Austin Resource Recovery
 
-**Activity:** Conducting usability testing
+**Activity:** Planning and conducting field research
+
 
 
 ## 12:15am
@@ -50,7 +51,7 @@ Why we’re doing this, what we’ve done, and what’s next - Ben Guhin
 Lunch 
 
 
-## 1:45pm
+## 1:30pm
 
 **Case Study:** Engineering team workflow
 
@@ -59,44 +60,37 @@ Lunch
 
 ## 2:15pm
 
-**Case Study:** Open Source development for ATXfloods and Austin.gov
+**Case Study:** Testing with users for Austin.gov
 
-**Activity:** Do something in Github
+**Activity:** Conducting usability testing
 
 
-## 2:50pm
+## 2:45pm
 
-10-minute Break
+15-minute Break
 
 
 ## 3:00pm
 
-**Case Study:** Product management for ATXfloods and Austin.gov
+**Case Study:** Product and Project Management 
 
-**Activity:** Planning poker
-
-
-## 3:30pm
-
-**Case Study:** Writing Resident-Centered Content
-
-**Activity:** Writing Resident-Centered Content
+**Activity:** Real-talk Retros
 
 
-## 4:30pm
+## 3:45pm
 
-Closeout, clarify logistics for Day 3 at the New Central Library
+Closeout; review logistics for Thursday
+
+
+## 4:00pm
+
+Done for today!
 
 
 ## 6:00pm
 
-Doors for public event at Google Fiber Space
-
-
-## 7:00pm
-
-Event at Google Fiber Space on the future of Austin's Civic Tech Community
-
+Optional public event on the future of Austin's Civic Tech Community:
+[https://www.eventbrite.com/e/whats-the-future-of-austins-civic-tech-community-tickets-42915146358](https://www.eventbrite.com/e/whats-the-future-of-austins-civic-tech-community-tickets-42915146358)
 
 -
 
