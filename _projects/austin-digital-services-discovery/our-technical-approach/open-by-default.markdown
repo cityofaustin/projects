@@ -3,8 +3,6 @@ title: Open by default
 position: 1
 ---
 
-# Open by default
-
 ## GraphQL is as cool as everyone says it is
 
 Among other things, GraphQL is a great choice for us because it’s modern and open. Turns out those things are really important! So we [talked about it at our sprint review](https://docs.google.com/presentation/d/e/2PACX-1vRQZw0IVzNoCbjhMrGgDtjvudFmPPqZ_zyPVMUcTym3ves1Jkpn0m-_tySjMSBZPqwHp20LPPx0vHwZ/pub?start=false&loop=false&delayms=5000#slide=id.g2f011be153_0_696).
