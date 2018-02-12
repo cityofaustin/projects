@@ -23,23 +23,23 @@ position: 3
 Test participants’ perception of the foster process:
 “I’m super allergic to cats... so they’ll know our house is not open to fostering cats” - Test participant, age 36
 
-![An image of the perception of the foster process](innovation-projects/assets/img/projects/digital-services-discovery/foster_process_perce_4ec8W.jpg)
+![An image of the perception of the foster process]({{site.url}}/assets/img/projects/digital-services-discovery/foster_process_perce_4ec8W.jpg)
 
 Real foster process:
 
-![An image of the actual foster process residents will go through](innovation-projects/assets/img/projects/digital-services-discovery/foster_process_reali_m0sRt.jpg)
+![An image of the actual foster process residents will go through]({{site.url}}innovation-projects/assets/img/projects/digital-services-discovery/foster_process_reali_m0sRt.jpg)
 
 We found test participants didn’t understand what would happen next and thought an animal would be picked for them. Incorrect expectations can lead to people dropping out of the program after being approved to foster. Data from the foster program suggests this may be happening - around 1,100 applications are approved a year but only around 450 people are in the system. We will better communicate the process and expectations in the form to improve applicant retention.
 
 ## 2. Clarify
 
-![An image of two forms- one with confusing language, and one with clear, action oriented language](innovation-projects/assets/img/projects/digital-services-discovery/language_clarity.jpg)
+![An image of two forms- one with confusing language, and one with clear, action oriented language]({{site.url}}innovation-projects/assets/img/projects/digital-services-discovery/language_clarity.jpg)
 
 We will use more clear, action oriented language and add help text to improve comprehension.
 
 ## 3. Streamline and remove barriers
 
-![An image of a form asking for the date of a rabies vaccination](innovation-projects/assets/img/projects/digital-services-discovery/date_barrier.jpg)
+![An image of a form asking for the date of a rabies vaccination]({{site.url}}innovation-projects/assets/img/projects/digital-services-discovery/date_barrier.jpg)
 
 “Aaaarrrgghhh I don’t know the day. I’m going to make a wild guess. Looking in records is onerous.” Test participant, age 48
 
@@ -47,7 +47,7 @@ Not only is this annoying for the participant, but the animal center only needs 
 
 ## 4. Optimize for accessibility
 
-![An image of an excessive form](innovation-projects/assets/img/projects/digital-services-discovery/date_barrier.jpg)
+![An image of an excessive form]({{site.url}}innovation-projects/assets/img/projects/digital-services-discovery/date_barrier.jpg)
 
 “This is driving me crazy!” Test participant, age 35, using a screen reader. 
 
@@ -55,7 +55,8 @@ Improper screen reader implementation caused the app to read out, “Collapse hu
 
 ## 5 Optimize for mobile
 
-![An image of a form being viewed on a smart phone](innovation-projects/assets/img/projects/digital-services-discovery/mobile_default.jpg)![An image of a form zoomed out on a smart phone, showing it doesn't fit on the screen](innovation-projects/assets/img/projects/digital-services-discovery/mobile_zoomed_out.jpg)
+![An image of a form being viewed on a smart phone]({{site.url}}innovation-projects/assets/img/projects/digital-services-discovery/mobile_default.jpg)
+![An image of a form zoomed out on a smart phone, showing it doesn't fit on the screen]({{site.url}}innovation-projects/assets/img/projects/digital-services-discovery/mobile_zoomed_out.jpg)
 
 The application is very inconvenient on mobile, meaning the 52% of Austinites who access the city website would likely abandon the application. We will design mobile first and responsive for all screen sizes.
 
@@ -69,7 +70,7 @@ The application is very inconvenient on mobile, meaning the 52% of Austinites wh
 
 “It’s like a reference for animals, like your resume” Test participant, age 27
 
-![An image of a good example of friendly language on a form](innovation-projects/assets/img/projects/digital-services-discovery/muttville_friendly_l_c8DkE.jpg)
+![An image of a good example of friendly language on a form]({{site.url}}innovation-projects/assets/img/projects/digital-services-discovery/muttville_friendly_l_c8DkE.jpg)
 
 Muttville lets applicants know right off the bat that they aren’t trying to evaluate applicants’ worthiness but rather determine pets that are a good fit. They also offer help and thank them before asking for any information.
 
