@@ -47,8 +47,7 @@ Historical Inequities in Austin - Brion Oaks and Kelli Coleman, Equity Office
 
 
 ## 2:45pm 
-
-The Science of Great Organizations - Art Markman
+Panel on working with the DTI Program, featuring staff from our partner departments
 
 
 ## 3:30pm
