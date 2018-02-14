@@ -9,6 +9,5 @@ position: 3
 ## Check out [dtisummit.io](http://dtisummit.io) for info on day three.
 
 
---
 
 
