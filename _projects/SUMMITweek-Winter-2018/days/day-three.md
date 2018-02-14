@@ -12,4 +12,3 @@ position: 3
 --
 
 
-Go to **[Day four](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-four/)** 
