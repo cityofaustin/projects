@@ -21,9 +21,10 @@ position: 3
 ## 1. Set expectations
 
 Test participants’ perception of the foster process:
-“I’m super allergic to cats... so they’ll know our house is not open to fostering cats” - Test participant, age 36
 
 ![An image of the perception of the foster process]({{site.url}}/assets/img/projects/digital-services-discovery/foster_process_perce_4ec8W.jpg)
+
+_“I’m super allergic to cats... so they’ll know our house is not open to fostering cats” - Test participant, age 36_
 
 Real foster process:
 
@@ -41,7 +42,7 @@ We will use more clear, action oriented language and add help text to improve co
 
 ![An image of a form asking for the date of a rabies vaccination]({{site.url}}/assets/img/projects/digital-services-discovery/date_barrier.jpg)
 
-“Aaaarrrgghhh I don’t know the day. I’m going to make a wild guess. Looking in records is onerous.” Test participant, age 48
+_“Aaaarrrgghhh I don’t know the day. I’m going to make a wild guess. Looking in records is onerous.” Test participant, age 48_
 
 Not only is this annoying for the participant, but the animal center only needs to know if the rabies vaccination is current; exact date doesn’t matter. We will remove unnecessary questions and only ask questions relevant to each user.
 
@@ -49,7 +50,7 @@ Not only is this annoying for the participant, but the animal center only needs 
 
 ![An image of an excessive form]({{site.url}}/assets/img/projects/incorrect_screen_rea_gFxid.jpg)
 
-“This is driving me crazy!” Test participant, age 35, using a screen reader. 
+_“This is driving me crazy!” Test participant, age 35, using a screen reader._
 
 Improper screen reader implementation caused the app to read out, “Collapse human household member” before every single field in the app. For him to skip over the fifteen irrelevant fields, he had to listen to that irrelevant command 15 times. Most participants faced issues here and there, but our participants over 65 and the participant who used the screen reader faced these issues more frequently and faced more difficulty overcoming them. We will improve the site by designing for all users, not just the highly digitally literate or people not using assistive technologies.
 
@@ -68,7 +69,7 @@ The application is very inconvenient on mobile, meaning the 52% of Austinites wh
 * Better fit the foster process?
 * Encourage applicants to consider fostering their non-ideal animal?
 
-“It’s like a reference for animals, like your resume” Test participant, age 27
+_“It’s like a reference for animals, like your resume” Test participant, age 27_
 
 ![An image of a good example of friendly language on a form]({{site.url}}/assets/img/projects/digital-services-discovery/muttville_friendly_l_c8DkE.jpg)
 
