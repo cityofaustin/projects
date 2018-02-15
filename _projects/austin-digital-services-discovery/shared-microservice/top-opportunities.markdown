@@ -54,7 +54,7 @@ _“This is driving me crazy!” Test participant, age 35, using a screen reader
 
 Improper screen reader implementation caused the app to read out, “Collapse human household member” before every single field in the app. For him to skip over the fifteen irrelevant fields, he had to listen to that irrelevant command 15 times. Most participants faced issues here and there, but our participants over 65 and the participant who used the screen reader faced these issues more frequently and faced more difficulty overcoming them. We will improve the site by designing for all users, not just the highly digitally literate or people not using assistive technologies.
 
-## 5 Optimize for mobile
+## 5. Optimize for mobile
 
 ![An image of a form being viewed on a smart phone]({{site.url}}/assets/img/projects/digital-services-discovery/mobile_default.jpg)
 ![An image of a form zoomed out on a smart phone, showing it doesn't fit on the screen]({{site.url}}/assets/img/projects/digital-services-discovery/mobile_zoomed_out.jpg)
@@ -70,8 +70,4 @@ The application is very inconvenient on mobile, meaning the 52% of Austinites wh
 * Encourage applicants to consider fostering their non-ideal animal?
 
 _“It’s like a reference for animals, like your resume” Test participant, age 27_
-
-![An image of a good example of friendly language on a form]({{site.url}}/assets/img/projects/digital-services-discovery/muttville_friendly_l_c8DkE.jpg)
-
-Muttville lets applicants know right off the bat that they aren’t trying to evaluate applicants’ worthiness but rather determine pets that are a good fit. They also offer help and thank them before asking for any information.
 
