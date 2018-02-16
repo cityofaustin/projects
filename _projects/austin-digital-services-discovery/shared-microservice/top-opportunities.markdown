@@ -48,7 +48,7 @@ Not only is this annoying for the participant, but the animal center only needs 
 
 ## 4. Optimize for accessibility
 
-![An image of an excessive form]({{site.url}}/assets/img/projects/digital-services-discovery/incorrect_screen_rea_gFxid.jpg)
+![An image of an excessive form]({{site.url}}/assets/img/projects/digital-services-discovery/incorrect screen reading implementation.png)
 
 _“This is driving me crazy!” Test participant, age 35, using a screen reader._
 
