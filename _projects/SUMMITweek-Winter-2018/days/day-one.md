@@ -47,7 +47,7 @@ Historical Inequities in Austin - Brion Oaks and Kelli Coleman, Equity Office
 
 
 ## 2:45pm 
-Panel on working with the DTI Program, featuring staff from our partner departments
+Panel on working with the DTI Program, featuring Emlea Chanslor from Austin Resource Recovery, Keith Simpson from Austin / Travis County EMS, and Rachel Crist from Development Services
 
 
 ## 3:30pm
@@ -57,7 +57,7 @@ Panel on working with the DTI Program, featuring staff from our partner departme
 
 ## 3:45pm
 
-Basadur profiles and cognitive preferences
+Basadur profiles, cognitive preferences, and how we collaborate
 
 
 ## 4:45pm
