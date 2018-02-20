@@ -23,7 +23,7 @@ Welcome to Austin - Dr. Kazique Prince, Office of the Mayor
 
 ## 10:30am
 
-Panel on the Structure of Austin’s City Government, with Councilmembers Jimmy Flannigan and Greg Casar
+Panel on the Structure of Austin’s City Government, with Mayor Pro Tem Kathie Tovo and Councilmembers Jimmy Flannigan and Pio Renteria
 
 
 ## 11:30am
