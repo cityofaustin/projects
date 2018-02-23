@@ -28,7 +28,7 @@ baseurl:
 url: http://projects.austintexas.io
 twitter:
   username: civiqueso
-medium_url: https://medium.com/city-of-austin-design-technology-innovation
+medium_url: https://medium.com/civiqueso
 zilker_theme: light
 markdown: kramdown
 gems:
