@@ -22,3 +22,7 @@ The Bloomberg core innovation team working on the project consists of:
 
 
 ![iTeam Core Team Photos](/assets/img/projects/bloomberg-iteam/iteam-team-pics.png)
+
+
+and our wonderful team of interns:
+![iTeam Interns Photos](/assets/img/projects/bloomberg-iteam/iteam-interns.png)
