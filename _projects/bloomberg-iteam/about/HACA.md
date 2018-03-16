@@ -1,5 +1,5 @@
 ---
-title: HACA
+title: Homelessness Advisory Group
 position: 2
 ---
 
