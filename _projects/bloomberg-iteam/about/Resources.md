@@ -9,8 +9,8 @@ Below are a summary of the activities that we have conducted with the group sinc
 
 ##### Social Security Office
 
-* Suite B, 5508 US-290 (south Austin)  | 800 772-1213
-* 1029 Camino La Costa (north Austin) | 866-627-6991 
+* Suite B, 5508 US-290 (south Austin). Tel: 800 772-1213
+* 1029 Camino La Costa (north Austin). Tel: 866-627-6991 
 
 ##### Goodwill Employment Services
 
@@ -27,13 +27,13 @@ Provides employment services and counseling to people looking for work. This is 
 ##### Centex Personnel Services
 
 Provides temporary employment placement to r individuals seeking work
-* 8130 N Lamar Blvd | 512-491-WORK (9675)
+* 8130 N Lamar Blvd. Tel: 512-491-WORK (9675)
 
 ##### DARS (Department of Assistive & Rehabilitative Service for individuals with SSDI)
 
 Provides services to Texans who are disabled and to families with children who have developmental delays.
 
-* 4800 N Lamar Blvd | 800 628-5115
+* 4800 N Lamar Blvd. Tel: 800 628-5115
 
 ##### Social Security Administration
 Provides Disability Determination Services 
@@ -43,7 +43,7 @@ Provides Disability Determination Services
 
 Provides short term labor jobs to people seeking work
 
-* 4916 I-35, Austin, TX 78751 | 512-972-4100
+* 4916 I-35, Austin, TX 78751. Tel: 512-972-4100
 
 
 
@@ -79,13 +79,13 @@ If you are living outside, in a car, or in an emergency shelter, a Coordinated A
 ##### Food Stamps Office (SNAP)
 Offers food help to low-income individuals and families. 
 
-* 1601 Rutherford Ln  | 512-339-8868
+* 1601 Rutherford Ln. Tel: 512-339-8868
 
 ##### Social Security Office: 
 Social Security can help you with applying for Social Security benefits, including Retirement/Spouse, Medicare, Disability, and Supplemental Security Income (SSI), getting a Social Security number or a replacement card 
 
-* B, 5508 US-290 (south Austin)  | 800 772-1213
-* 1029 Camino La Costa (north Austin) | 866-627-6991 
+* B, 5508 US-290 (south Austin). Tel: 800 772-1213
+* 1029 Camino La Costa (north Austin). Tel: 866-627-6991 
 
 
 ## I need Shelter:
@@ -93,18 +93,18 @@ Social Security can help you with applying for Social Security benefits, includi
 ##### Salvation Army 
 Provides shelter and other services to women, families, and men
 
-* 501 E 8th St, Austin | 512-476-1111
+* 501 E 8th St, Austin. Tel: 512-476-1111
 
 ##### ARCH 
 Provides shelter and other services to men
 
-* 500 E 7th St. | 512-305-4100
+* 500 E 7th St. Tel: 512-305-4100
 
 ##### LifeWorks 
 
 Provides shelter and other services to young adults
 
-* 3700 S 1st St. | 512-735-2100
+* 3700 S 1st St. Tel: 512-735-2100
 
 ##### SafePlace
 Provides shelter to women, children, and young adults
@@ -116,7 +116,7 @@ Provides shelter to women, children, and young adults
 
 Provides housing and other services to women, families, and men
 
-* 611 Neches St. | 512-479-4610
+* 611 Neches St. . Tel: 512-479-4610
 
 
 ## I need Medical Help:
