@@ -136,9 +136,9 @@ Provides mental health counseling at the ARCH
 ##### CommunityCare Clinics
 Provides healthcare for people without insurance 
 
-* ARCH location | 512-978-9920
-* 1313 Red River St #100  | 512-978-9610
-* 211 Comal St  | 512-978-9200
+* ARCH location. Tel: 512-978-9920
+* 1313 Red River St #100. Tel: 512-978-9610
+* 211 Comal St. Tel: 512-978-9200
 
 ##### SafePlace
 Provides safety for people affected by domestic violence, and sexual assault and exploitation
