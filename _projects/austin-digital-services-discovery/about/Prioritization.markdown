@@ -16,4 +16,4 @@ We are iterating on the process and will be scheduling the next round of priorit
 
 #### Many more to go!
 
-We are tracking our progress on this [department prioritization airtable]:(https://airtable.com/tblOlcAJkRpQgGdmJ/viwaqKycdujHfu2iF).
+We are tracking our progress on this [department prioritization airtable](https://airtable.com/tblOlcAJkRpQgGdmJ/viwaqKycdujHfu2iF).
