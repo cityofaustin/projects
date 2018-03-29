@@ -25,7 +25,7 @@ Each resident’s experience on alpha.austin.gov relies on their ability to acce
 #### Big picture ways we focus design and development work on accessibility
 
 ##### Coach authors to write people-oriented content: 
-The first step to making our website more usable is writing simpler, more accessible content. We're doing that through our [funshops]: (http://projects.austintexas.io/projects/austin-digital-services-discovery/city-services-workflow/funshops/)
+The first step to making our website more usable is writing simpler, more accessible content. We're doing that through our [funshops]:(/city-services-workflow/funshops/)
 
 ##### Make text and icons legible:
 we check the contrast and size of our typeface to make sure people experiencing lower vision or perceive colors differently can use City of Austin digital services.
