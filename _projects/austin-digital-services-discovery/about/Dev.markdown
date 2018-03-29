@@ -8,7 +8,8 @@ position: 3
 
 We’d previously been trying to iterate on both the author and resident interface at the same time. For now, we’re concentrating on making a great experience for residents. On the frontend, that means implementing our designers’ amazing designs (see the next section for more info on this). On the backend, we’re only concerned about creating an API that supports resident-facing needs.
 
-![We’re focusing on the residents' needs and not the city of austin employee right now.](/_uploads/focus_on_resident_ne_swni0.jpg)
+![We’re focusing on the residents' needs and not the city of austin employee right now.](/uploads/focus_on_resident_ne_swni0.jpg)
+
 We’re focusing on the right half of this image and not the left half.
 
 ### Implement Design v2
@@ -27,9 +28,9 @@ Each of these has a different set of requirements and thus we have different sol
 #### Static content
 This data doesn’t change often and has a lot of overlap across pages. For instance, the phrase “Welcome to Austin, Texas” can be used in many different pages and we’re not likely to change the wording of it.
 
-For these cases, we decided to use [React Intl]:(https://github.com/yahoo/react-intl) to generate translated content. We chose this because it has a lot of tools for creating translation files and has an intuitive API.
+For these cases, we decided to use [React Intl]: (https://github.com/yahoo/react-intl) to generate translated content. We chose this because it has a lot of tools for creating translation files and has an intuitive API.
 
 #### Dynamic content
 
 This data is expected to change often and probably won’t be used across pages. For instance, if an author writes out the steps to pick up recycled paint, the content could change anytime the department changes their intake process. It’s also likely to only be used on 1 page.
-For these cases, we decided to use [Django Modeltranslation]:(https://github.com/deschler/django-modeltranslation) to load and store generated content. We also evaluated [Wagtail Modeltranslation]:(https://github.com/infoportugal/wagtail-modeltranslation) but it doesn’t have support for translating text fields within streamfields and overall didn’t provide much advantage over using the Django version. We didn’t spend a lot of time evaluating other solutions because Django Modeltranslation is well used in the Django world and provided enough functionality for us to begin user testing.
+For these cases, we decided to use [Django Modeltranslation]: (https://github.com/deschler/django-modeltranslation) to load and store generated content. We also evaluated [Wagtail Modeltranslation]: (https://github.com/infoportugal/wagtail-modeltranslation) but it doesn’t have support for translating text fields within streamfields and overall didn’t provide much advantage over using the Django version. We didn’t spend a lot of time evaluating other solutions because Django Modeltranslation is well used in the Django world and provided enough functionality for us to begin user testing.
