@@ -8,11 +8,11 @@ position: 2
 
 ![Ashlee Harris, Laura Trujillo, and Celine Thibault mapping existing services to conceptual information architecture.](/_uploads/map_services.jpg)
 
-Today, our information architecture resembles partner team’s Mass.gov website. When we were just starting out rethinking how a new website could better serve residents, we looked to dozens of other cities, states, and international teams who have done this work before. An additional helpful resource is the [Responsive Web Design podcast series]: (https://responsivewebdesign.com/tag/government/) produced by Karen McGrane and Ethan Marcotte. We also tried something really different that helped us think about what people really needed rather than thinking about what we could provide.
+Today, our information architecture resembles partner team’s Mass.gov website. When we were just starting out rethinking how a new website could better serve residents, we looked to dozens of other cities, states, and international teams who have done this work before. An additional helpful resource is the [Responsive Web Design podcast series]:(https://responsivewebdesign.com/tag/government/) produced by Karen McGrane and Ethan Marcotte. We also tried something really different that helped us think about what people really needed rather than thinking about what we could provide.
 
 ![Mapping existing city services to labels that reflect residents’ well-being.](/_uploads/existing_services.jpg)
 
-We reviewed psychological frameworks like Maslov’s Hierarchy of Needs and [Carol Ryff’s Six-factor Model of Psychological Well-being]:(chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.aging.wisc.edu/midus/findings/pdfs/830.pdf) and created service labels like “Learning, working, and growing in Austin” that could contribute to a resident’s sense of purpose. We quickly drafted an initial, high-level information architecture that we began testing with residents using card sorting where residents revealed which labels or navigational buckets worked and which ones didn’t.
+We reviewed psychological frameworks like Maslov’s Hierarchy of Needs and [Carol Ryff’s Six-factor Model of Psychological Well-being]:(www.aging.wisc.edu/midus/findings/pdfs/830.pdf) and created service labels like “Learning, working, and growing in Austin” that could contribute to a resident’s sense of purpose. We quickly drafted an initial, high-level information architecture that we began testing with residents using card sorting where residents revealed which labels or navigational buckets worked and which ones didn’t.
 
 Since then, our team has gained more insight into the complexity of Austin services and digital content and so the information architecture and content model have evolved to support a wide range of potential services. We’ll continue to test and iterate on how digital services are organized on alpha.austin.gov based on our observations of Austin residents using the new site. 
 One of our senior designers recently recommended grouping content by resident goal in the future. It’s something we’re not ready for now, and will be informed by our continued work with residents, but also feels similar to our initial exploration around navigation related to a person’s well-being and that’s exciting.
@@ -37,8 +37,8 @@ If a resident cannot see an image, alternative text can provide that information
 Cities embody hundreds of services making navigation, buttons, and other controls vital to getting residents to and enabling them to use services. Alpha.austin.gov is designed to simplify the choices a residents has to make to discover new services or use services to accomplish a goal.
 
 ##### Tools we use in design and development
-* [Colorable]: (http://jxnblk.com/colorable/demos/text/) for checking color contrast of text on background
-* If you’d rather do that work in [Sketch]: (https://www.sketchapp.com/) directly, there’s several tools. I like [Color Contrast Checker]: (https://github.com/getflourish/Sketch-Color-Contrast-Analyser) well enough though it leaves a lot to be imagined in terms of user experience.
+* [Colorable]:(http://jxnblk.com/colorable/demos/text/) for checking color contrast of text on background
+* If you’d rather do that work in [Sketch]:(https://www.sketchapp.com/) directly, there’s several tools. I like [Color Contrast Checker]:(https://github.com/getflourish/Sketch-Color-Contrast-Analyser) well enough though it leaves a lot to be imagined in terms of user experience.
 
 #### Accessibility informs design
 In a recent alpha.austin.gov mockup, when a resident hovered over a menu item like “Housing & Utilities”–the submenu dropped down, displaying topics like “Recycling, Trash, and Compost”. Also, the primary indicator that someone hovered over an item was the menu item turning an orange-red. One of our developers brought up two reasons why this design created a challenging user experience:
