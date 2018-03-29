@@ -3,6 +3,7 @@ title: Meeting Residents Needs
 date: 2017-12-03 22:30:00 Z
 position: 2
 ---
+
 ### Structure alpha.austin.gov to reflect residents’ needs
 
 Today, our information architecture resembles partner team’s Mass.gov website. When we were just starting out rethinking how a new website could better serve residents, we looked to dozens of other cities, states, and international teams who have done this work before. An additional helpful resource is the [Responsive Web Design podcast series]: https://responsivewebdesign.com/tag/government/ produced by Karen McGrane and Ethan Marcotte. We also tried something really different that helped us think about what people really needed rather than thinking about what we could provide.
