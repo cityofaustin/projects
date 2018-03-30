@@ -12,7 +12,7 @@ Today, our information architecture resembles partner team’s Mass.gov website.
 
 ![Mapping existing city services to labels that reflect residents’ well-being.](/uploads/existing_services.jpg)
 
-We reviewed psychological frameworks like Maslov’s Hierarchy of Needs and [Carol Ryff’s Six-factor Model of Psychological Well-being]:(www.aging.wisc.edu/midus/findings/pdfs/830.pdf) and created service labels like “Learning, working, and growing in Austin” that could contribute to a resident’s sense of purpose. We quickly drafted an initial, high-level information architecture that we began testing with residents using card sorting where residents revealed which labels or navigational buckets worked and which ones didn’t.
+We reviewed psychological frameworks like Maslov’s Hierarchy of Needs and [Carol Ryff’s Six-factor Model of Psychological Well-being](www.aging.wisc.edu/midus/findings/pdfs/830.pdf) and created service labels like “Learning, working, and growing in Austin” that could contribute to a resident’s sense of purpose. We quickly drafted an initial, high-level information architecture that we began testing with residents using card sorting where residents revealed which labels or navigational buckets worked and which ones didn’t.
 
 Since then, our team has gained more insight into the complexity of Austin services and digital content and so the information architecture and content model have evolved to support a wide range of potential services. We’ll continue to test and iterate on how digital services are organized on alpha.austin.gov based on our observations of Austin residents using the new site. 
 One of our senior designers recently recommended grouping content by resident goal in the future. It’s something we’re not ready for now, and will be informed by our continued work with residents, but also feels similar to our initial exploration around navigation related to a person’s well-being and that’s exciting.
@@ -25,7 +25,7 @@ Each resident’s experience on alpha.austin.gov relies on their ability to acce
 #### Big picture ways we focus design and development work on accessibility
 
 ##### Coach authors to write people-oriented content: 
-The first step to making our website more usable is writing simpler, more accessible content. We're doing that through our [funshops]:({{site.url}}/city-services-workflow/funshops/)
+The first step to making our website more usable is writing simpler, more accessible content. We're doing that through our [funshops](/city-services-workflow/funshops/)
 
 ##### Make text and icons legible:
 we check the contrast and size of our typeface to make sure people experiencing lower vision or perceive colors differently can use City of Austin digital services.
