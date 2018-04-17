@@ -19,3 +19,7 @@ For example, the current application has a page that shows information blocks fo
 
 
 Another example is with help text - in testing the existing application, we found many areas where applicants needed more clarification. But these were usually related to only people answering the question in a certain way. So we added alerts that display only when relevant to applicants.
+
+The next step is to test the prototype with representative users.
+
+If you have questions, contact [julia.byron@austintexas.gov](mailto: julia.byron@austintexas.gov) or [amenity.applewhite@austintexas.gov](mailto: amenity.applewhite@austintexas.gov).
