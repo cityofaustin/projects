@@ -71,3 +71,12 @@ Moving into Sketch, we use symbols to build reusable components. Using symbols f
 One of the most valuable places for streamlining components is in a design and development review, where both teams are thinking critically on how to avoid unnecessary duplicate content types. In the photo above, one of our designers partnered with two developers to breakdown our most recent design update into a small set of components. 
 
 Now that we’ve begun working with our own set of components, we’re beginning to carve out a place for them to be accessed and kept up to date and shared across teams via a storybook. Once our storybook is up, we’ll have more to share.
+
+###Learning about the EMS hiring process
+
+A few of our team members worked with the Emergency Medical Services team on a recruiting strategy last year. They learned the recruiting team at Emergency Medical Services needs to hire a lot of medics but spends a lot of time and energy evaluating applications from people who are not qualified. In addition to clarifying the hiring process for medics, the team defined two goals to improve recruiting:
+
+* Goal #1 is to reduce the number of disqualified applicants
+* Goal #2 is to increase the number of qualified applicants
+
+We've begun drafting a new user experience for applying to be an Emergency Medical Services medic that will meet those goals and integrate with the recruiting team's workflow.
