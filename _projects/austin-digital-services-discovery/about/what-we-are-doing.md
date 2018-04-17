@@ -3,7 +3,6 @@ title: What We're Doing
 position: 0
 ---
 
-***Update: Materials from our 11/29/17 Community Share-out are posted on our [Presentations page](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/presentations/).*** 
 
 ![Man participates in user research at outdoor cafe by sorting cards with tasks into categories.](/uploads/outdoor-card-sorting-min.jpg)
 
