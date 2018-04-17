@@ -5,7 +5,6 @@ position: 4
 
 ## Core team 
 * Adam Wiedeman, Project Manager
-* Ainee Athar, Communications Strategist
 * Amenity Applewhite, Product Manager
 * Ashlee Harris, Content Strategist 
 * Ben Weatherman, Software Developer
@@ -56,7 +55,7 @@ position: 4
 [Outreach is fundamental to our approach.](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/our-approach/#part-of-a-larger-movement) We couldn’t do what we’re doing without the advice and support of our civic tech friends. 
 
 * [Boston.gov - Department of Innovation and Technology](https://www.boston.gov/departments/innovation-and-technology)
-    * Joshua Gee, Product Manager, né PDF Killer
+    * Rachel Braun, Product Manager, Digital Team
     * Matthew Crist, Lead Developer
     * Reilly Zlab, Interim Chief Digital Officer
 
@@ -66,9 +65,6 @@ position: 4
     * Andy Chosak, Technology & Innovation Fellow  
     * Jess Schafer, ‎User Experience Lead
     * Will Barton, Software Developer
-
-* [District of Columbia Human Resources](https://dchr.dc.gov/)
-    * Emily Batchelder, Strategic Marketing Specialist
 
 * [Georgia.gov Interactive](https://digitalservices.georgia.gov/)
     * Kendra Skeene, Director of Product
@@ -82,7 +78,7 @@ position: 4
 * [Indy.gov](https://my.indy.gov/)
     * Abbey Brands, ‎Chief Communications Officer
 
-* [The Lab @ DC](http://thelab.dc.gov/)
+* [The Lab @ DC](http://thelab.dc.gov/) & [District of Columbia Human Resources](https://dchr.dc.gov/)
     * David Yokum, Director
     * Emily A. Batchelder, Marketing Specialist 
     * Karissa Minnich, Operations Analyst
