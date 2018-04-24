@@ -18,8 +18,8 @@ The iTeam shared their research findings in two different sessions with City Sta
 The goal of the presentation is to help those who are not familiar with the topic be more informed about homelessness. We hope that people left with a better understanding of the challenges of homelessness, have increased empathy for people experiencing homelessness, and feel inspired and informed to take action. For those whose day job is related to homelessness, we wanted to inspire and prompt people to think about the challenges in a new way and give people time and space to reflect. 
 
 * [Presentation Link](https://goo.gl/vAkBRh) 
-* [Recording Link] (http://austintx.swagit.com/play/04232018-1105/2/) 
-* [Photos Link] (https://drive.google.com/drive/folders/19x6Uq8LvgtCFHNOaUOzinP3EkueEuYyC?usp=sharing) 
+* [Recording Link](http://austintx.swagit.com/play/04232018-1105/2/) 
+* [Photos Link](https://drive.google.com/drive/folders/19x6Uq8LvgtCFHNOaUOzinP3EkueEuYyC?usp=sharing) 
 
 
 
