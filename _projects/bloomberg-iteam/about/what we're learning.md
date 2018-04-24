@@ -21,7 +21,7 @@ The goal of the presentation is to help those who are not familiar with the topi
 * [Recording Link](http://austintx.swagit.com/play/04232018-1105/2/) 
 * [Photos Link](https://drive.google.com/drive/folders/19x6Uq8LvgtCFHNOaUOzinP3EkueEuYyC?usp=sharing) 
 
-![Share out at City Hall](/assets/img/projects/bloomberg-iteam/iteam-shareout.jpg)
+![Share out at City Hall](/assets/img/projects/bloomberg-iteam/iteam-share out.JPG)
 
 
 
