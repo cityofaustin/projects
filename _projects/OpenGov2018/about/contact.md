@@ -4,11 +4,11 @@ position: 2
 ---
 If you have questions or comments, we would love to hear from you.
 
-# Email
+# Email us
 
 innovation@austintexas.gov
 
-# Signup for email updates and announcements related to our participation in the Open Government Partnership
+# Signup for email updates and announcements
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -20,7 +20,7 @@ innovation@austintexas.gov
 <div id="mc_embed_signup">
 <form action="https://github.us15.list-manage.com/subscribe/post?u=6f30653c65f06ca383a19d0bf&amp;id=a35ce2a0d4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list </h2>
+	<h2>Subscribe to updates and announcements related to our open government commitments </h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
