@@ -6,7 +6,7 @@ If you have questions or comments, we would love to hear from you.
 
 # Email us
 
-innovation@austintexas.gov
+If you have questions or comments, we would love to hear from you: innovation@austintexas.gov
 
 # Signup for email updates and announcements
 
