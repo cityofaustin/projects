@@ -20,7 +20,7 @@ If you have questions or comments, we would love to hear from you: innovation@au
 <div id="mc_embed_signup">
 <form action="https://github.us15.list-manage.com/subscribe/post?u=6f30653c65f06ca383a19d0bf&amp;id=a35ce2a0d4" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to updates and announcements related to our open government commitments </h2>
+	<h2>Sign up for our email list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
