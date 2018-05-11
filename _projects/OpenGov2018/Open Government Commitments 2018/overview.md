@@ -1,9 +1,6 @@
 ---
 title: Overview
-permalink: "/projects/OpenGov2018/overview"
 position: 0
-layout: redirect
-redirect_to: "/projects/OpenGov2018/Open Government Commitments 2018/overview"
 ---
 
 # Austin's Open Government Commitments for 2018-2019
