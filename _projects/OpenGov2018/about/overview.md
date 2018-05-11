@@ -9,7 +9,7 @@ The City of Austin is preparing to co-create a new set of 3-5 commitments as par
 
 Here you will find information on how to contribute your ideas for commitment topics for our open government projects in 2018-2019.
 
-## More to come -- sign up for email updates
+## Call for commitment ideas coming soon -- sign up for email updates
 
 We will open a call for commitment topics in May 2018. To receive updates and announcements when the call is opened, or to just keep in touch with these open government commitments for Austin, [sign up for our email list](/projects/OpenGov2018/about/contact). 
 
