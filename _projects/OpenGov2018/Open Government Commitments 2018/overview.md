@@ -1,9 +1,7 @@
 ---
-title: Overview
+title: Austin's Open Government Commitments for 2018-2019
 position: 0
 ---
-
-# Austin's Open Government Commitments for 2018-2019
 
 > Help us make commitments to up our game in transparency, civic engagement, accountability, and technology innovation.
 
