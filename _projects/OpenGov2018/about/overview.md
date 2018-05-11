@@ -11,7 +11,7 @@ Here you will find information on how to contribute your ideas for commitment to
 
 ## More to come -- sign up for email updates
 
-We will open a call for commitment topics in May 2018. To receive updates and announcements when the call is opened, or to just keep in touch with these open government commitments for Austin, [sign up for our email list](/projects/OpenGov2018/Open Government Commitments 2018/contact). 
+We will open a call for commitment topics in May 2018. To receive updates and announcements when the call is opened, or to just keep in touch with these open government commitments for Austin, [sign up for our email list](/projects/OpenGov2018/about/contact). 
 
 ## About the Open Government Partnership
 
