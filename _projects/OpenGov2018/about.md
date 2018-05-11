@@ -1,6 +1,6 @@
 ---
 title: About
-position: 1
+position: 0
 layout: redirect
-redirect_to: "/projects/OpenGov2018/about/overview"
+redirect_to: "/projects/OpenGov2018/Open Government Commitments 2018/overview"
 ---
