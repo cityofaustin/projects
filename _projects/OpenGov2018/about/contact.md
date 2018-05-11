@@ -5,11 +5,11 @@ position: 2
 
 If you have questions or comments, we would love to hear from you.
 
-# Email us
+## Email us
 
-If you have questions or comments, we would love to hear from you: innovation@austintexas.gov
+If you have questions or comments, we would love to hear from you: [innovation@austintexas.gov](mailto:innovation@austintexas.gov)
 
-# Signup for email updates and announcements
+## Signup for email updates and announcements
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
