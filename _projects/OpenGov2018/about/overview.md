@@ -3,7 +3,7 @@ title: Austin’s Open Government Commitments for 2018-2019
 position: 0
 ---
 
-### Help us make commitments to up our game in transparency, civic engagement, accountability, and technology innovation.
+**Help us make commitments to up our game in transparency, civic engagement, accountability, and technology innovation.**
 
 The City of Austin is preparing to co-create a new set of 3-5 commitments as part of our membership in the international Open Government Partnership. These projects will improve our transparency, community engagement, accountability, and technology/innovation. 
 
