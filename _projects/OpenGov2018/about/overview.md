@@ -3,11 +3,11 @@ title: Overview
 position: 0
 ---
 
-## Help us make commitments for open government in 2018-2019
+## Help us make commitments for open government in 2018-2020
 
 The City of Austin is preparing to co-create a new set of 3-5 commitments as part of our membership in the international Open Government Partnership. These projects will improve our transparency, community engagement, accountability, and technology/innovation. 
 
-Here you will find information on how to contribute your ideas for commitment topics for our open government projects in 2018-2019.
+Here you will find information on how to contribute your ideas for commitment topics for our open government projects in 2018-2020.
 
 ## Call for commitment ideas coming soon -- sign up for email updates
 
@@ -21,4 +21,4 @@ These five open government projects were assessed by an independent reviewer app
 
 These projects culminated in an [Open Government Showcase](https://medium.com/civiqueso/civic-participation-initiatives-the-city-of-austin-open-government-showcase-9be319e6c9d9) in December 2017. 
 
-In 2018, the Open Government Partnership invited Austin to continue our participation by making commitments to 3-5 new projects that advance open government principles. 
+In 2018, the Open Government Partnership invited Austin to continue our participation by making commitments to 3-5 new projects that advance open government principles for the next two years.
