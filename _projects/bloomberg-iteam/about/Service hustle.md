@@ -7,9 +7,9 @@ position: 7
 
 The Service Hustle is a weekend-long workshop to co-create and prototype new service concepts for the city’s homelessness system. Focusing on problems of storage, employment, pets, safety, etc, teams of design & innovation professionals, people experiencing homelessness, and front line staff of homelessness services will spend the weekend collaborating toward solutions that will help solve these problems! Activities will include brainstorming, concepting, eating!, making, sharing, AND KARAOKE!
 
-* When: 	Friday, June 1 - Sunday, June 3 (all weekend, meals provided)
-* Where: 	Faulk Library, 800 Guadalupe St
-* Topic Areas:	Storage, Transportation, People with Pets, Staying Housed, Gaining Employment, Safety, Relaxation, and Awareness
+* #### When: 	Friday, June 1 - Sunday, June 3 (all weekend, meals provided)
+* #### Where: 	Faulk Library, 800 Guadalupe St
+* #### Topic Areas:	Storage, Transportation, People with Pets, Staying Housed, Gaining Employment, Safety, Relaxation, and Awareness
 
 ![Service Hustle](/assets/img/projects/bloomberg-iteam/hustle-flyer.png)
 
