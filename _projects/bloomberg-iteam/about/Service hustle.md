@@ -11,7 +11,7 @@ The Service Hustle is a weekend-long workshop to co-create and prototype new ser
 * Where: 	Faulk Library, 800 Guadalupe St
 * Topic Areas:	Storage, Transportation, People with Pets, Staying Housed, Gaining Employment, Safety, Relaxation, and Awareness
 
-![Service Hustle](/assets/img/projects/bloomberg-iteam/iteam-hustle flyer.png)
+![Service Hustle](/assets/img/projects/bloomberg-iteam/hustle-flyer.png)
 
 We’ve got over 40 design professionals signed up to attend this event! We’re now looking for people from the streets and front line staff of homelessness services to bring the real value to the event: your experience! Please sign up for any of the time slots that you can attend during your registration, linked below!
 
@@ -24,13 +24,13 @@ We’ve got over 40 design professionals signed up to attend this event! We’re
 ## Schedule
 Below is a brief schedule to help you understand what will be happening during each day of the Hustle.
 
-###Friday, 06/01
+### Friday, 06/01
 Kick off and Ideation   |   6:30pm-10:00pm   |   dinner provided
 
 We will introduce everyone to the Hustle, go over the agenda and goals for the weekend, and get everyone ready and in the right mindset for coming up with new ideas surrounding the topic areas (above.) 
 By the end of the night, everyone will know which group and topic area they will be focusing on for the rest of the weekend!
 
-###Saturday, 06/02
+### Saturday, 06/02
 Concept Development   |   8:00am-12:00pm   |   breakfast provided
 
 Teams will meet in the morning to start building their ideas from the night before into service concepts. The Hustle will provide instruction on how to do this! 
@@ -44,7 +44,7 @@ Concept Narrative   |   6:30pm-10:00pm   |   dinner provided
 
 Teams will begin constructing their concept narrative, or the way they would like to communicate their service concept to the rest of the Hustle. Will it be a presentation? A make-believe commercial? There are no rules! Each group will find its own way.
 
-###Sunday, 06/03
+### Sunday, 06/03
 Presentation Preparation   |   8:00am-12:00pm   |   breakfast provided
 
 Teams will spend this time building and practicing their final presentation to the rest of the Hustle. 
@@ -74,7 +74,6 @@ Yes! We will be providing food and coffee and snacks and fun because the Hustle 
 ### What if I can only attend part of the Hustle?
 The Hustle runs from Friday evening on June 1st to Sunday afternoon on June 3rd. You’ll get the most out of the weekend if you come for the entirety of it, but we understand that that is a lot to ask of people! Because of this, we’ve broken the weekend into six separate time slots. During registration, please select the time slots you are able to attend! And don’t worry: we understand how life goes, so arriving a bit late/leaving a bit early or stepping out for a while is ok.
 
-
 ### Where can I park?
 Throughout the weekend, you can park FOR FREE at the City Hall parking garage (301 W 2nd st). Just be sure to bring your ticket so we can validate it for you. The City Hall parking garage is about an eight minute walk from the Faulk Library. 
 If you'd like to park closer to the event, there is ample street parking around the Faulk Library. If you require closer parking to Faulk and are unable to pay for it, please reach out to us to let us know and we will work it out. 
@@ -86,6 +85,6 @@ Please let us know in the registration form if you have any conflicting appointm
 The Hustle is open to everyone who has registered! Please use the registration form, linked above, to sign up. There is a section of the form where you can add the names of the people you would like to bring to the Hustle! 
 
 ### Any additional questions? Can’t sign up online?
-Email us at [iteam@austintexas.com](mailto:iteam@austintexas.com)  or call 512.537.3319! 
+Email us at [iteam@austintexas.com](mailto:iteam@austintexas.com) or call 512.537.3319! 
 
 
