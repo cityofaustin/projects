@@ -1,5 +1,5 @@
 ---
-title: About
+title: The Service Hustle for Homelessness
 position: 7
 ---
 
