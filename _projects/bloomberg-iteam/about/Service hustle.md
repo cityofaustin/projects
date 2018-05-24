@@ -25,31 +25,31 @@ We’ve got over 40 design professionals signed up to attend this event! We’re
 Below is a brief schedule to help you understand what will be happening during each day of the Hustle.
 
 ### Friday, 06/01
-Kick off and Ideation       6:30pm-10:00pm        Dinner provided
+Kick off and Ideation | 6:30pm-10:00pm | Dinner provided
 
 We will introduce everyone to the Hustle, go over the agenda and goals for the weekend, and get everyone ready and in the right mindset for coming up with new ideas surrounding the topic areas (above.) 
 By the end of the night, everyone will know which group and topic area they will be focusing on for the rest of the weekend!
 
 ### Saturday, 06/02
-Concept Development         8:00am-12:00pm        Breakfast provided
+Concept Development | 8:00am-12:00pm | Breakfast provided
 
 Teams will meet in the morning to start building their ideas from the night before into service concepts. The Hustle will provide instruction on how to do this! 
 By lunch, teams will be ready to begin testing assumptions and exciting ideas about their concept.
 
-Concept Prototyping       12:00pm-6:30pm          Lunch provided
+Concept Prototyping | 12:00pm-6:30pm | Lunch provided
 
 Teams will spend the afternoon building simple prototypes to help them test their concepts to see how they could look in the real world. Teams will take what they learn from testing and modify their initial ideas to make them more useful and more exciting!
 
-Concept Narrative         6:30pm-10:00pm         Dinner provided
+Concept Narrative | 6:30pm-10:00pm | Dinner provided
 
 Teams will begin constructing their concept narrative, or the way they would like to communicate their service concept to the rest of the Hustle. Will it be a presentation? A make-believe commercial? There are no rules! Each group will find its own way.
 
 ### Sunday, 06/03
-Presentation Preparation   8:00am-12:00pm        Breakfast provided
+Presentation Preparation | 8:00am-12:00pm | Breakfast provided
 
 Teams will spend this time building and practicing their final presentation to the rest of the Hustle. 
 
-Presentations to HACA     12:00pm-3:00pm         Lunch provided
+Presentations to HACA | 12:00pm-3:00pm | Lunch provided
 
 Each team will present their service concept to members of the Homelessness Advisory Committee of Austin (HACA.)
 
