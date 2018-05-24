@@ -11,7 +11,7 @@ The Service Hustle is a weekend-long workshop to co-create and prototype new ser
 * Where: 	Faulk Library, 800 Guadalupe St
 * Topic Areas:	Storage, Transportation, People with Pets, Staying Housed, Gaining Employment, Safety, Relaxation, and Awareness
 
-![Service Hustle](/assets/img/projects/bloomberg-iteam/iteam-hustle-flyer.png)
+![Service Hustle](/assets/img/projects/bloomberg-iteam/iteam-hustle flyer.png)
 
 We’ve got over 40 design professionals signed up to attend this event! We’re now looking for people from the streets and front line staff of homelessness services to bring the real value to the event: your experience! Please sign up for any of the time slots that you can attend during your registration, linked below!
 
