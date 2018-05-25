@@ -8,7 +8,7 @@ position: 0
 
 In December 2017, we released v1.0 of the project tracker: https://grackle.austintexas.io/
 
-In service of giving people a "bird's eye view" of City projects, it's codenamed "grackle" -- in honor of Austin's favorite inhabitant of [grocery storie parking lots](http://kut.org/post/why-do-grackles-flock-grocery-store-parking-lots-dusk). 
+In service of giving people a "bird's eye view" of City projects, it's codenamed "grackle" -- in honor of Austin's favorite inhabitant of [grocery store parking lots](http://kut.org/post/why-do-grackles-flock-grocery-store-parking-lots-dusk). 
 
 v1.0 aims to be a demonstration of what a product like this can do, so it includes a small number of projects. We're currently looking into what the next iteration might look like, and what kinds of projects it might feature.
 
