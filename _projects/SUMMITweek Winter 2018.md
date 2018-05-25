@@ -8,7 +8,7 @@ subtitle: A week of workshops, guest speakers, and knowledge-sharing
 excerpt: SUMMITweek gathers our design, technology, and innovation teams to get us
   aligned on projects and practices across our disciplines.
 image_path: "/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg"
-active: true
+active: false
 layout: redirect
 redirect_to: "/projects/SUMMITweek-Winter-2018/about/overview"
 ---
