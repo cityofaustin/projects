@@ -7,7 +7,7 @@ position: 0
 
 Here you’ll find an overview of a project to create an online tracking interface for City of Austin projects. This effort is a partnership between the City of Austin’s [Communications and Technology Management](https://www.austintexas.gov/techreport/communications-and-technology-management) department and the [Office of Innovation](https://cityofaustin.github.io/innovation/). This effort is also a commitment the City of Austin has made as part of its participation in the [Open Government Partnership subnational pilot program](https://opengovpartnership.bloomfire.com/posts/1315600-austin-s-open-government-partnership-action-plan).
 
-**Update December 2017**: Project tracker v1.0 (codename Grackle, to give a "bird's eye view" of city projects) is now online: https://grackle.austintexas.io/
+**Update December 2017**: Project tracker v1.0 is now online: [grackle.austintexas.io](https://grackle.austintexas.io/)
 
 ## Background
 
