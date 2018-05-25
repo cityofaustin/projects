@@ -4,11 +4,15 @@ date: 2017-11-13 16:49:00 Z
 position: 0
 ---
 
-## Current Design Concepts
+## Grackle project tracker v1.0 now online
 
-Based on what we [learned in the research phase](http://projects.austintexas.io/projects/project-tracking/research/research-findings/), we have been designing and testing mockups for how the project tracking tool might look. 
+In December 2017, we released v1.0 of the project tracker: https://grackle.austintexas.io/
 
-As of November 2017, we are testing these mockups and will post new iterations leading up to the launch of the tool.
+In service of giving people a "bird's eye view" of City projects, it's codenamed "grackle" -- in honor of Austin's favorite inhabitant of [grocery storie parking lots](http://kut.org/post/why-do-grackles-flock-grocery-store-parking-lots-dusk). 
+
+## Archived design mockups
+
+Designs we used to build v1.0, based on what we [learned in the research phase](http://projects.austintexas.io/projects/project-tracking/research/research-findings/). 
 
 **Mockup: Project tracking home page**
 

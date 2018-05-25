@@ -8,11 +8,11 @@ position: 1
 The Core team works on the project on a day-to-day basis.
 
 
-**Daniel Honker**, Product Manager • Office of Innovation
+**Tori Breitling**, Design lead • Design, Technology, & Innovation Fellow
 
-**Sarah Rudder**, Development • Design, Technology, & Innovation Fellows
+**Mateo Clarke**, Development lead • Communications and Technology Management
 
-**Brian Smith**, Development • Design, Technology, & Innovation Fellows
+**Daniel Honker**, Product manager • Office of Innovation
 
 **Sara Smith**, Research Lead • Communications and Technology Management
 
@@ -21,13 +21,15 @@ The Core team works on the project on a day-to-day basis.
 The support team assists the project as needed.
 
 
-**Ben Guhin** • Office of Innovation / Communications and Technology Management
+**Ben Guhin** • Communications and Technology Management
 
 **Kerry O’Connor** • Chief Innovation Officer
 
-**Diana Turner** • Design, Technology, & Innovation Fellows
+**Diana Turner** • Design, Technology, & Innovation Fellow
 
-**Marni Wilhite** • Design, Technology, & Innovation Fellows
+**Marni Wilhite** • Communications and Technology Management
+
+**Brian Smith** • Communications and Technology Management
 
 ## Advisory Team
 

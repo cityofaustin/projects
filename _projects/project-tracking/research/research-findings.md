@@ -87,8 +87,12 @@ Learning about the user needs from our research, we created user stories to docu
 
 The user stories follow the format: As a \[user persona\], I need a way to \[do an action\], in order to \[accomplish a goal\]. We then organized these user stories into several buckets based on how they inform our design and development of a tool.
 
+[View the user stories in a new tab or window](https://airtable.com/shryp2gT6Mo1lSURw/tblJpFkh0NTynJQNq?backgroundColor=red&viewControls=on).
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/shryp2gT6Mo1lSURw?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 These user stories helped us identify priority data fields to display on each project:
+
+[View the data fields in a new tab or window](https://airtable.com/shrIKPqMn6uf9MZ32/tblcbwonWuTi4NpGq?backgroundColor=red&viewControls=on).
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrIKPqMn6uf9MZ32?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
