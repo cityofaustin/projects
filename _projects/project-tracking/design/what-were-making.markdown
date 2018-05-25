@@ -6,7 +6,7 @@ position: 0
 
 ## Grackle project tracker v1.0 now online
 
-In December 2017, we released v1.0 of the project tracker: https://grackle.austintexas.io/
+In December 2017, we released v1.0 of the project tracker: [grackle.austintexas.io](https://grackle.austintexas.io/)
 
 In service of giving people a "bird's eye view" of City projects, it's codenamed "grackle" -- in honor of Austin's favorite inhabitant of [grocery store parking lots](http://kut.org/post/why-do-grackles-flock-grocery-store-parking-lots-dusk). 
 
