@@ -1,4 +1,4 @@
-# Innovation Projects
+# Design, Technology, and Innovation Projects
 
 This is a GitHub Pages site for project documentation maintained by the City’s Office of Design & Delivery.
 
