@@ -5,7 +5,7 @@ position: 2
 
 ## Transformation doesn’t happen overnight.
 
-We took the layers of our smart city definition and adapted them into a maturity model to help us think about where we are and where we are going. 
+We took the layers of our [smart city definition](URL) and adapted them into a maturity model to help us think about where we are and where we are going. 
 
 ## A maturity model for “smartness”
 
