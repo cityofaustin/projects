@@ -14,7 +14,7 @@ Dimension A. Engage society: how openly do you allow others to participate? Leve
 Dimension B. Lead Collaboratively: what does your leadership look like on your teams? Level 1 = Hierarchical. Level 2 = Encourage team problem-solving. Level 3 = Shared accountability for outcomes. Level 4 = Transparent multi-partner governance.
 Dimension C. Work across disciplines, systems: How do teams work together? Level 1 = Silos. Level 2 = Across disciplines or units. Level 3 = Across teams or departments. Level 4 = Across systems.
 Dimension D. Tech and data: How is content managed and technologies used? Level 1 = Paper/no data. Level 2 = Some automation/some data. Level 3 = Transactional services/analytics. Level 4 = Integrated systems/data models.
-Dimension E. Capability: How evolved is your ability to solve problems? Level 1 = In-person, one episode at a time. Level 2 = Some analysis - high level trends. Level 3 = Deeper analysis, identify hidden problems, respond. Level 4 = Real-time data, predictive, proactive, transformative.](/assets/img/projects/smart-city/Smart%20City%20Maturity%20Model.jpg)
+Dimension E. Capability: How evolved is your ability to solve problems? Level 1 = In-person, one episode at a time. Level 2 = Some analysis - high level trends. Level 3 = Deeper analysis, identify hidden problems, respond. Level 4 = Real-time data, predictive, proactive, transformative.](/assets/img/projects/smart-city/Maturity-model.png)
 
 The maturity model includes **integrating data and technology** -- which powers efficiency and automation in a smart city. But it also builds a foundation for being able to effectively use that technology by: 
 
