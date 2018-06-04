@@ -1,17 +1,15 @@
 ---
-title: Overview
+title: Smart City Vision
 position: 0
 ---
 
 ## Let’s use technology to solve real problems for real people
 
-The “smart city” movement has swept the globe. Interest in how we might use data, algorithms, and automation to improve services is pervasive across cities, including Austin. From smart lighting that adjusts to people’s movements, to self-driving cars, to aerial drones for disaster response, these technologies promise improvements in public safety, mobility, and sustainability, to name a few. 
+The “smart city” movement has swept the globe. Cities like Austin are booming with interest in how we might use data, algorithms, automation, and increased connectivity to improve services. From smart lighting that adjusts to people’s movements, to self-driving cars, to aerial drones for disaster response, these technologies promise improvements in public safety, mobility, and sustainability, to name a few. The problem is this: too much of the smart city conversation focuses on the technology itself, at the expense of real issues people are facing.
 
-### Too much of the “smart city” conversation is focused on technology itself, disconnected from the real experiences and challenges our communities face.
+### In Austin, we’re thinking about how we might use these tools to solve real problems that impact real people. 
 
-In Austin, we’re thinking about how we might use these tools to solve real problems that impact real people. This means looking through the lenses of equity, sustainability, and accessibility (to name a few) to understand the challenges facing Austin communities -- rather than starting with technology and trying to find problems it can fix. 
-
-This site outlines how Austin is approaching the “smart city” -- how we’re putting people first, understanding the challenges, and working with partners to use tech in ways that make a real difference for people in Austin.
+This means looking through the lenses of equity, sustainability, and accessibility (to name a few) to understand the challenges facing Austin communities -- rather than starting with technology and trying to find problems it can fix. 
 
 ### Get smart. Join our mailing list to stay up to date on Austin smart city initiatives.
 
