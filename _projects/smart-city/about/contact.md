@@ -5,11 +5,9 @@ position: 5
 
 ## Check out the Smart Austin knowledge base
 
-[![Screenshot of Smart Austin knowledge base](/assets/img/projects/smart-city/smart-austin-bloomfire.png)](https://smartaustin.bloomfire.com)
+<img src="/assets/img/projects/smart-city/smart-austin-bloomfire.png" alt="Screenshot of Smart Austin knowledge base" href="https://smartaustin.bloomfire.com" width="700" align="center">
 
 This is where City staff and community members share case studies, articles, and trends on the smart cities movement.
-
-## Sign up for our mailing list
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -21,7 +19,7 @@ This is where City staff and community members share case studies, articles, and
 <div id="mc_embed_signup">
 <form action="https://github.us15.list-manage.com/subscribe/post?u=6f30653c65f06ca383a19d0bf&amp;id=6ebed9d9aa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe to our mailing list</h2>
+	<h2>Sign up for our mailing list</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
