@@ -1,6 +1,6 @@
 ---
 title: How we got to now
-position: 2
+position: 3
 ---
 
 ## Building a Smart City Strategic Roadmap
