@@ -1,11 +1,9 @@
 ---
-title: “Smart city” vision
+title: Defining “smart city” for Austin
 position: 1
 ---
 
 > *“For every technology advance or item, multiple issues need to be addressed that go beyond the technology itself. We must look into policies, relationships, and intended and unintended consequences.”*  - City of Austin employee
-
-## Defining “smart city” for Austin
 
 Taking advantage of the benefits of emerging technologies (and mitigating their risks and unintended consequences) requires that we also build relationships between government and community, provide leadership, and collaborate across programs and sectors. 
 
