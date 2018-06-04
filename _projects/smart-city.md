@@ -1,6 +1,6 @@
 ---
 title: Smart City Initiative
-date: 2017-08-28 00:00:00 Z
+date: 2018-06-04 00:00:00 Z
 permalink: "/projects/smart-city/"
 position: 8
 project_name: Smart City Initiative
