@@ -1,5 +1,5 @@
 ---
-title: Smart City Vision
+title: Smart city vision
 position: 0
 ---
 
@@ -11,6 +11,8 @@ The “smart city” movement has swept the globe. Cities like Austin are boomin
 
 This means looking through the lenses of equity, sustainability, and accessibility (to name a few) to understand the challenges facing Austin communities -- rather than starting with technology and trying to find problems it can fix. 
 
+## Get smart. Join our mailing list to stay up to date on Austin smart city initiatives.
+
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -21,7 +23,6 @@ This means looking through the lenses of equity, sustainability, and accessibili
 <div id="mc_embed_signup">
 <form action="https://github.us15.list-manage.com/subscribe/post?u=6f30653c65f06ca383a19d0bf&amp;id=6ebed9d9aa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Get smart. Join our mailing list to stay up to date on Austin smart city initiatives.</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

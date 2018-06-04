@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Get in touch
 position: 5
 ---
 
@@ -7,7 +7,7 @@ position: 5
 
 <a href="https://smartaustin.bloomfire.com"><img src="/assets/img/projects/smart-city/smart-austin-bloomfire.png" alt="Screenshot of Smart Austin knowledge base" width="600"></a>
 
-This is where City staff and community members share case studies, articles, and trends on the smart cities movement.
+The [knowledge base](https://smartaustin.bloomfire.com) is where City staff and community members share case studies, articles, and trends on the smart cities movement.
 
 ## Sign up for our mailing list
 
