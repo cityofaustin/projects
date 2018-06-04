@@ -1,5 +1,5 @@
 ---
-title: Becoming a “smart city”
+title: Becoming an open and smart city
 position: 2
 ---
 
