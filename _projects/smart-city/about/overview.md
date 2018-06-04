@@ -1,5 +1,5 @@
 ---
-title: Smart City Vision
+title: Smart city vision
 position: 0
 ---
 
