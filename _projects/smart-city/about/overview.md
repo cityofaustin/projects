@@ -11,7 +11,7 @@ The “smart city” movement has swept the globe. Cities like Austin are boomin
 
 This means looking through the lenses of equity, sustainability, and accessibility (to name a few) to understand the challenges facing Austin communities -- rather than starting with technology and trying to find problems it can fix. 
 
-### Get smart. Join our mailing list to stay up to date on Austin smart city initiatives.
+## Get smart. Join our mailing list to stay up to date on Austin smart city initiatives.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
