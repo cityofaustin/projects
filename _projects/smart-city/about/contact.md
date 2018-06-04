@@ -5,7 +5,7 @@ position: 5
 
 ## Check out the Smart Austin knowledge base
 
-[Image with link to smart austin bloomfire]
+[![Screenshot of Smart Austin knowledge base](https://smartaustin.bloomfire.com/)](/assets/img/projects/smart-city/smart-austin-bloomfire.png)
 
 This is where City staff and community members share case studies, articles, and trends on the smart cities movement.
 
