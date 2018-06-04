@@ -1,32 +1,18 @@
 ---
-title: Who We Are
-position: 1
+title: Who we are
+position: 4
 ---
 
-## Core Team
+City of Austin departments are working together to make Austin's smart city vision a reality. These teams are coordinating strategy and activities across the City government:
 
-The Core team works on the project on a daily basis.
+* The City of Austin [Office of Innovation Office](https://cityofaustin.github.io/innovation)
+* The City of Austin [Communications and Technology Management](https://www.austintexas.gov/techreport/communications-and-technology-management) department are coordinating activity on Austin's Smart City Strategic Roadmap. 
+* The City of Austin [Telecommunications and Regulatory Affairs](http://www.austintexas.gov/department/telecommunications) office
 
+**Executive Sponsors:**
 
-**Matt Esquibel** • Communications and Technology Management
+* **Stephen Elkins** • Chief Information Officer
 
-**Ben Guhin** • Innovation Office/Communications and Technology Management
+* **Kerry O’Connor** • Chief Innovation Officer
 
-**Angela Hanson** • Innovation Office
-
-**Daniel Honker** • Innovation Office
-
-**Lance McNeill** • Innovation Office
-
-**Charles Purma** • Communications and Technology Management
-
-**Sara Smith** • Communications and Technology Management
-
-**John Speirs** • Telecommunications and Regulatory Affairs
-
-## Executive Sponsors
-
-
-**Stephen Elkins** • Chief Information Officer
-
-**Kerry O’Connor** • Chief Innovation Officer
+* **Rondella Hawkins** • Telecommunications and Regulatory Affairs Officer

@@ -1,41 +1,55 @@
 ---
-title: What We're Doing
+title: Smart City Vision
 position: 0
 ---
 
-## Introduction
+## Let’s use technology to solve real problems for real people
 
-On November 3, 2016, Austin City Council passed a [resolution](https://smartaustin.bloomfire.com/posts/1327070-city-of-austin-moving-forward-with-a-smart-cities-strategic-roadmap) calling for the development of a Smart City Strategic Roadmap with relevant City entities, community partners, and the technology community.
+The “smart city” movement has swept the globe. Cities like Austin are booming with interest in how we might use data, algorithms, automation, and increased connectivity to improve services. From smart lighting that adjusts to people’s movements, to self-driving cars, to aerial drones for disaster response, these technologies promise improvements in public safety, mobility, and sustainability, to name a few. The problem is this: too much of the smart city conversation focuses on the technology itself, at the expense of real issues people are facing.
 
-The Austin community and city government partners worked together to collaboratively draft this roadmap to inform City policy decision-making, help the community tackle local challenges, and help the city improve service delivery.
+### In Austin, we’re thinking about how we might use these tools to solve real problems that impact real people. 
 
-City Council has asked that our strategic roadmap include the following:
+This means looking through the lenses of equity, sustainability, and accessibility (to name a few) to understand the challenges facing Austin communities -- rather than starting with technology and trying to find problems it can fix. 
 
-* A common, Austin-centered definition of Smart Cities
-* A statement of vision about Austin's Smart Cities future
-* Challenges on which we should focus and prioritize
-* Potential opportunities to address those challenges
-* Key goals and outcomes operationally for the City and for residents' equitable quality of life
-* An inventory of practices to consider
-* Core needs, gaps, and capabilities to deliver
-* Potential resources and means for partnering and financing initiatives
-* A prioritized list of projects to pursue.
+## Get smart. Join our mailing list to stay up to date on Austin smart city initiatives.
 
-The pages that follow detail our learnings as of mid-May 2017, and will be updated as new learnings become available. In the coming months, we will be seeking feedback on the framework of the roadmap, we will seek to standardize how we frame the inventory of smart city projects, and work to align these projects to the City Council Strategic Planning effort already under way.
-
-## Inventory of projects
-As part of the Smart City Strategic Roadmap, we are compiling an inventory of projects that involve the use of technology to solve real problems for real people.\* We started collecting this list of projects to understand the types of smart city/open government projects (and opportunities) City departments are involved in, as well as what challenges these projects face in achieving their goals. We are using this information to identify and prioritize what resources and guidance the City should create or make available to help projects succeed.
-
-View the project inventory embedded below, or  [click here for a bigger view.](https://airtable.com/embed/shrw1eaApYvCI2fbE/tbluO6vp5XB2GwYk4/viwPqpeM7kQ69dSC5)
-
-<div><iframe class="airtable-embed" src="https://airtable.com/embed/shrw1eaApYvCI2fbE?backgroundColor=purple" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe></div>
-
-### About the project inventory
-
-This is a living repository of projects that began in September 2016 and continues to grow. One reason it continues grow is that many city departments are doing "smart" things, yet very few are calling them "smart city" projects. Instead, they used language such as "Strategic Management Information & Planning Tools" or "Resource Management in Facilities" or "Automated Demand Response." The jargon of "smart" is still emerging, and we are finding it useful to do some translating.
-
-For more information on the inventory, view our [documentation page](https://opengovpartnership.bloomfire.com/posts/1365870). Also visit visit [our Smart Austin Community of Practice](https://smartaustin.bloomfire.com/) for articles and case studies we've collected.
-
-### Why are we talking about open government?
-
-When we talk about "smart cities", we always talk about "open government" too. In government, we strive to be "open by default" -- to use open source code, publish data in the open, and share with the public the information we collect. These same guideposts should be true of smart cities projects as well.
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://github.us15.list-manage.com/subscribe/post?u=6f30653c65f06ca383a19d0bf&amp;id=6ebed9d9aa" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Subscribe to our mailing list for updates on Austin's smart city activities</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-MMERGE5">Organization </label>
+	<input type="text" value="" name="MMERGE5" class="" id="mce-MMERGE5">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_6f30653c65f06ca383a19d0bf_6ebed9d9aa" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='MMERGE5';ftypes[5]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
