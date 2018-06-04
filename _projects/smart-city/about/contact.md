@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: Get in touch
 position: 5
 ---
 
