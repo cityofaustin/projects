@@ -1,5 +1,5 @@
 ---
-title: Our approach to recruiting & hiring
+title: Of the people, by the people
 position: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Keep 'agile' agile
-position: 3
+title: Keeping 'agile' agile
+position: 4
 ---
 
 ## Header

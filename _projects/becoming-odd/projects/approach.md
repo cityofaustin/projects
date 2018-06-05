@@ -1,5 +1,5 @@
 ---
-title: Our approach to project scoping and project management
+title: How we manage projects
 position: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Our approach to managing people
-position: 1
+title: How to manage awesome people
+position: 0
 ---
 
 ## Header
