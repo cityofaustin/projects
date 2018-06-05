@@ -7,7 +7,7 @@ project_name: Becoming odd
 subtitle: Templates, guides, and other resources for building our Office of Design & Delivery"
 excerpt: "Collection of resources that we've used for recruiting, hiring, project management, and program management."
 image_path: "/assets/img/projects/becoming-odd/odd-cover.jpg"
-active: false
+active: true
 layout: redirect
 redirect_to: "/projects/becoming-odd/about/overview"
 ---
