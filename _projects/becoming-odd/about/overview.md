@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: About these resources
 position: 0
 ---
 
@@ -7,14 +7,13 @@ position: 0
 
 
 
-## Introduction
+## What's odd
 
 We launched our Office of Design & Delivery in May 2018 to scale our capacity for designing and delivering the best possible services for our residents.
 
-This site includes links to resources that we used to help build and support the program since early 2016. In most cases, we also include links to [github issues]() for members of the community to ask questions and provide feedback on our work. If you don't see an issue link, feel free to create one!
+This site includes links to resources that we used to help build and support the program since early 2016. In most cases, we also include links to [github issues](https://github.com/cityofaustin/odd-resources/issues) for members of the community to ask questions and provide feedback on our work. If you don't see an issue link, feel free to create one!
 
-We encourage you to re-use this work and build on it for your organizations. When you do, please let us know by tweeting at [\@civiqueso]
-(https://twitter.com/civiqueso/)!
+We encourage you to re-use this work and build on it for your organizations. When you do, please let us know by tweeting at [@civiqueso](https://twitter.com/civiqueso/)!
 
 
 ## Sections
