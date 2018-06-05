@@ -3,7 +3,7 @@ title: Overview
 position: 0
 ---
 
-![odd-logo-wide.png](/assets/img/projects/becoming-odd/odd-logo-wide.png)
+![odd-logo-wide.jpg](/assets/img/projects/becoming-odd/odd-logo-wide.jpg)
 
 
 
