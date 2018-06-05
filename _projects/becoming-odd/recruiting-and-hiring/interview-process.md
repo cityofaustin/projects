@@ -5,7 +5,7 @@ position: 5
 
 ![interview-process-doc.jpg](/assets/img/projects/becoming-odd/interview-process-doc.jpg)
 
-## How we interview
+## How to identify great people for our teams
 
 We've refined the following process for screening, interviewing, and selecting candidates:
 
