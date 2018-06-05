@@ -24,7 +24,7 @@ A third iteration followed in Summer 2017 to match the styling of our other desi
 
 ![third-fellows-website.jpg](/assets/img/projects/becoming-odd/fellows-website-summer-2017.jpg)
 
-Our most recent iteration is updated to introduce our new [Office of Design & Delivery](http://odd.austintexas.gov). It's also the first time that we feature our [Principles](http://projects.austintexas.io/projects/becoming-odd/about/principles/) and [Values](http://projects.austintexas.io/projects/becoming-odd/about/values/), which are included in the "How we work" section of [odd.austintexas.io](http://odd.austintexas.io)
+Our most recent iteration is updated to introduce our new [Office of Design & Delivery](http://odd.austintexas.io). It's also the first time that we feature our [Principles](http://projects.austintexas.io/projects/becoming-odd/about/principles/) and [Values](http://projects.austintexas.io/projects/becoming-odd/about/values/), which are included in the "How we work" section of [odd.austintexas.io](http://odd.austintexas.io)
 
 ![first-odd-website.jpg](/assets/img/projects/becoming-odd/odd-cover.jpg)
 
