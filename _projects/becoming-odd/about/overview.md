@@ -9,7 +9,7 @@ position: 0
 
 ## What's odd
 
-We launched our Office of Design & Delivery in May 2018 to scale our capacity for designing and delivering the best possible services for our residents.
+We launched our [Office of Design & Delivery](http://odd.austintexas.io) in May 2018 to scale our capacity for designing and delivering the best possible services for our residents.
 
 This site includes links to resources that we used to help build and support the program since early 2016. In most cases, we also include links to [github issues](https://github.com/cityofaustin/odd-resources/issues) for members of the community to ask questions and provide feedback on our work. If you don't see an issue link, feel free to create one!
 
