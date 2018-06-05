@@ -3,13 +3,13 @@ site_title: Design, Technology, and Innovation Projects
 translate: Translate
 home: Home
 header_projects_button_text: Work with us
-header_projects_button_url: https://cityofaustin.github.io/innovation-fellows/
+header_projects_button_url: http://odd.austintexas.io
 last_revision_prefix: Updated
 footer_headline: Interested in working with us?
 footer_lede: We partner with City of Austin departments to tackle some of their biggest challenges.
 footer_button_text: Get in touch
 footer_button_path: /contact
-footer_credits: Office of Innovation • Communications & Technology Management
+footer_credits: Office of Design & Delivery • Communications & Technology Management
 site_nav:
   - label: Home
     path: /
@@ -21,8 +21,8 @@ site_nav:
     path: /contact/
 social_icons:
   medium_path: https://medium.com/city-of-austin-design-technology-innovation
-  medium_title: Read Medium Posts by @Civiqueso
+  medium_title: Read Medium Posts by @civiqueso
   github_path: https://github.com/cityofaustin
   github_title: Check out the City of Austin's Open Source projects
   twitter_path: https://twitter.com/civiqueso
-  twitter_title: Read Tweets by @Civiqueso
+  twitter_title: Read Tweets by @civiqueso
