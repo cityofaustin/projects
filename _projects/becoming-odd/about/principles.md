@@ -10,9 +10,10 @@ position: 2
 
 Initially referred to as our "Digital Service Values," these were developed over the Summer of 2017 as part of "Tech Stack Discovery" project. When we launched our Office of Design & Delivery in May 2018, our team took another pass to refine them as principles for our work across all services (digital and otherwise).
 
-Our latest version is at [http://odd.austintexas.io/how-we-work/](http://odd.austintexas.io/how-we-work/)
+### Our latest version is at [http://odd.austintexas.io/how-we-work/](http://odd.austintexas.io/how-we-work/)
 
 
+--
 
 #### Have a question or comment?
 Join the conversation at [/odd-resources/issues/1](https://github.com/cityofaustin/odd-resources/issues/1)
