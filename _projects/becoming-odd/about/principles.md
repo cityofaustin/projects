@@ -13,6 +13,6 @@ Initially referred to as our "Digital Service Values," these were developed over
 Our latest version is at [http://odd.austintexas.io/how-we-work/](http://odd.austintexas.io/how-we-work/)
 
 
---
 
-Have a question or comment? Join the conversation at [/odd-resources/issues/1](https://github.com/cityofaustin/odd-resources/issues/1)
+#### Have a question or comment?
+Join the conversation at [/odd-resources/issues/1](https://github.com/cityofaustin/odd-resources/issues/1)
