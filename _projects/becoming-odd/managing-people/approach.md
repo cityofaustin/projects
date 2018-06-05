@@ -1,5 +1,5 @@
 ---
-title: How to manage awesome people
+title: Managing awesome people
 position: 0
 ---
 
