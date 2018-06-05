@@ -18,9 +18,15 @@ We encourage you to re-use this work and build on it for your organizations. Whe
 
 ## Sections
 
-- [Section name](link) includes x
-- [Section name](link) includes y
-- [Section name](link) includes z
+- [Principles](http://projects.austintexas.io/projects/becoming-odd/about/principles/)
+- [Values](http://projects.austintexas.io/projects/becoming-odd/about/values/)
+- [Recruiting & hiring](http://projects.austintexas.io/projects/becoming-odd/recruiting-and-hiring/approach/)
+- [Position descriptions](http://projects.austintexas.io/projects/becoming-odd/recruiting-and-hiring/position-descriptions/)
+- [Recruiting websites](http://projects.austintexas.io/projects/becoming-odd/recruiting-and-hiring/recruiting-website/)
+- [Interview process](http://projects.austintexas.io/projects/becoming-odd/recruiting-and-hiring/recruiting-website/)
+- [How we manage projects](http://projects.austintexas.io/projects/becoming-odd/projects/approach/)
+- [Partnership agreements](http://projects.austintexas.io/projects/becoming-odd/projects/partnership-agreements/)
+
 
 
 ## Background
