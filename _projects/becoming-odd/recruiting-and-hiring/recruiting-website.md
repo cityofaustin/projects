@@ -29,7 +29,7 @@ Our most recent iteration is updated to introduce our new [Office of Design & De
 ![first-odd-website.jpg](/assets/img/projects/becoming-odd/odd-cover.jpg)
 
 
---
+
 
 
 #### Have a question or comment?

@@ -12,7 +12,7 @@ Many applicants' first impressions of us come from our position descriptions. We
 
 Our latest versions are available as markdown files on our recruiting website, and we'll be adjusting the content and adding more over the next few months.
 
-### [https://github.com/cityofaustin/odd/tree/master/_jobs/positions](https://github.com/cityofaustin/odd/tree/master/_jobs/positions)
+#### [https://github.com/cityofaustin/odd/tree/master/_jobs/positions](https://github.com/cityofaustin/odd/tree/master/_jobs/positions)
 
 
 ![odd-positions-github.jpg](/assets/img/projects/becoming-odd/odd-positions-github.jpg)
