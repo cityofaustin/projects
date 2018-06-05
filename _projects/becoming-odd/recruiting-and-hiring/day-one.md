@@ -1,0 +1,79 @@
+---
+title: Day One
+position: 1
+---
+
+![summitweek-logo.jpg](/assets/img/projects/SUMMITweek-Winter-2018/summitweek-logo.jpg)
+
+
+## 9:00am
+
+Breakfast / Networking
+
+
+## 9:30am
+
+Remarks from Kerry O'Connor, Stephen Elkins, and Ben Guhin
+
+
+## 10:00am
+
+Welcome to Austin - Dr. Kazique Prince, Office of the Mayor 
+
+
+## 10:30am
+
+Panel on the Structure of Austin’s City Government, with Mayor Pro Tem Kathie Tovo and Councilmembers Jimmy Flannigan and Pio Renteria
+
+
+## 11:30am
+
+15-minute Break
+
+
+## 11:45am
+
+Overview of City of Austin Departments and Programs - Jill Goodman, Office of Performance Management
+
+
+## 12:30pm
+
+Catered lunch, including session on Ethics in Government, Public vs Private
+
+
+## 1:30pm
+
+Historical Inequities in Austin - Brion Oaks and Kelli Coleman, Equity Office
+
+
+## 2:45pm 
+Panel on working with the DTI Program, featuring Emlea Chanslor from Austin Resource Recovery, Keith Simpson from Austin / Travis County EMS, and Rachel Crist from Development Services
+
+
+## 3:30pm
+
+15-minute Break
+
+
+## 3:45pm
+
+Basadur profiles, cognitive preferences, and how we collaborate
+
+
+## 4:45pm
+
+DTI Values and what's in store for the rest of this week - Ben Guhin
+
+
+## 5:00pm
+
+Done for today!
+
+
+-
+
+Go to **[Day two](http://projects.austintexas.io/projects/SUMMITweek-Winter-2018/days/day-two/)**  
+
+
+
+
