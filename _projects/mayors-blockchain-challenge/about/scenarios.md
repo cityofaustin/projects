@@ -45,4 +45,4 @@ He grabs a cup of coffee and finds Maggie to ask her about the platform. He has 
 * How else might you solve it?
 * Is blockchain better? Why/why not?
 
-### [Answer these questions about Scenario 1!](https://airtable.com/shrJQ0hLxsC4LCIB3)
+#### [Answer these questions about Scenario 1!](https://airtable.com/shrJQ0hLxsC4LCIB3)
