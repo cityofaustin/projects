@@ -36,7 +36,7 @@ He grabs a cup of coffee and finds Maggie to ask her about the platform. He has 
 * Texas driver's license image file
 * myPass branding standards
 
-<sub>&ast;This is meant to illustrate only one possibility of how the Steven and Maggie might experience the interaction.</sub>
+<sub>&#42;This is meant to illustrate only one possibility of how the Steven and Maggie might experience the interaction.</sub>
 
 ### Things to keep in mind
 * How will you show that this ID is validated and verified?
