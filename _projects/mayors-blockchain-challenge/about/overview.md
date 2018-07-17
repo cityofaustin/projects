@@ -7,9 +7,7 @@ position: 0
 
 The streets of Austin aren't an easy place to live. Important personal documents are often lost or stolen, and without them, people experiencing homelessness have difficulty accessing important services like healthcare, employment, and housing. 
 
-[The Ausitn Mayor’s Office](http://mayoradler.wpengine.com/), in collaboration with [Dell Medical School](https://dellmed.utexas.edu/) and the [City of Austin Innovation Office](https://cityofaustin.github.io/innovation/), is working to improve access to services by using blockchain technology to permanently store and maintain IDs and other important documents. We’ll explore big questions and potential paths forward in the Challenge, and use what we learn in the [Bloomberg Philanthropies Mayor’s Challenge](https://mayorschallenge.bloomberg.org/), where we’ll continue working toward exciting and innovative solutions.
-
-Around the same time, the City of Austin developed its first [strategic framework](https://austinstrategicplan.bloomfire.com/posts/3222339-strategic-direction-2023-final-adopted-3-8-18) in more than a decade. This framework outlines the most pressing challenges facing Austin over the next five years, and we use these challenges to frame and prioritize smart city projects. The Austin City Council adopted Strategic Direction 2023 in March 2018.  
+[The Austin Mayor’s Office](http://mayoradler.wpengine.com/), in collaboration with [Dell Medical School](https://dellmed.utexas.edu/) and the [City of Austin Innovation Office](https://cityofaustin.github.io/innovation/), is working to improve access to services by using blockchain technology to permanently store and maintain IDs and other important documents. We’ll explore big questions and potential paths forward in the Challenge, and use what we learn in the [Bloomberg Philanthropies Mayor’s Challenge](https://mayorschallenge.bloomberg.org/), where we’ll continue working toward exciting and innovative solutions.
 
 ## About the challenge
 
