@@ -2,12 +2,6 @@
 title: Schedule
 position: 2
 ---
-
----
-title: Schedule
-position: 2
----
-
 ### July 13 - July 25
 We'll send you use case scenarios and info to guide your development.
 
