@@ -30,6 +30,8 @@ While you can enter as an individual, we highly encourage teams that include at 
 
 Ideas and solutions presented must be developed for this challenge by the participants representing them.
 
+You can connect with other particpants, form teams, and collaborate on the [Challenge Slack channel](https://join.slack.com/t/atx-mbc/shared_invite/enQtNDAyODg1Nzg4NDE2LWM0ZDllYzc1ZjUzYzEyNjk2NzczM2NiZjZjM2MzNTBiMGQ5ZTcwYzFhNmEyZjYxNDYzMjQyN2FlMDIwYjJhZDk).
+
 ### How do I participate as a community member?
 Are you a services provider or person with lived homelessness experience? We'd love for you to participate as a consultant or subject matter expert. Please contact innovation@austintexas.gov with your interest.
 
