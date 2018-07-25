@@ -37,4 +37,4 @@ Are you a services provider or person with lived homelessness experience? We'd l
 
 ### [Register for the Challenge here!](https://www.eventbrite.com/e/the-mayors-blockchain-challenge-tickets-48004157728?aff=Website)
 
-**Watch this space for updates on judging and prizes**
+**Watch this space for updates**
