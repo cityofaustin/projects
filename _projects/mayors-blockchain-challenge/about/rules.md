@@ -35,8 +35,6 @@ You can connect with other particpants, form teams, and collaborate on the [Chal
 ### How do I participate as a community member?
 Are you a services provider or person with lived homelessness experience? We'd love for you to participate as a consultant or subject matter expert. Please contact innovation@austintexas.gov with your interest.
 
-### [Register for the Challenge here!](https://www.eventbrite.com/e/the-mayors-blockchain-challenge-tickets-48004157728?aff=Website)
-
 ## Participant Agreement
 
 Each particiant will be asked to sign this agreement when they arrive at the Challenge, and all members of a team must have each signed a copy of the agreement in order for the team's submission to be eligible for judging or a prize.
