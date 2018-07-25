@@ -2,6 +2,9 @@
 title: Schedule
 position: 2
 ---
+### Location
+800 Guadalupe St., Austin, TX 78701
+
 ### July 13 - July 25
 We'll send you use case scenarios and info to guide your development.
 
