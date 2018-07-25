@@ -13,8 +13,8 @@ The streets of Austin aren't an easy place to live. Important personal documents
 
 Through the [Mayor's Blockchain Challenge](https://www.eventbrite.com/e/the-mayors-blockchain-challenge-tickets-48004157728), you'll investigate ways to secure a basic need: a trusted digital identity.
 
-Starting on July 13, we'll release increasingly complex scenarios that you should consider when designing your solution. You don't need to wait until the event to begin creating. In fact, we encourage you to start as soon as you get the first scenario!
+Starting on July 13, we'll release guidelines, info, and scenarios that you should consider when designing your solution. You don't need to wait until the event to begin creating. In fact, we encourage you to start as soon as you get the first scenario!
 
-Beginning July 27, we’ll all come together at the Faulk Library to share, refine, and test the solutions you’ve been developing. There will be service providers, people with lived experience, and subject matter experts on hand to answer questions and give you access to real world insights and testing scenarios.
+Beginning July 27, we’ll all come together at the Faulk Library to share, refine, and test the solutions you’ve been developing. There will be service providers, people with lived experience, and subject matter experts on hand to answer questions and give you access to real world insights and testing scenarios. Faulk is located at 800 Guadalupe St., Austin, TX 78701.
 
 We’ll take what we learn from the Challenge and apply for a grant from Bloomberg Philanthropies which could fund continued work on these and other solutions that will improve access to services for those experiencing homelessness, and in turn empower them to improve their quality of life.
