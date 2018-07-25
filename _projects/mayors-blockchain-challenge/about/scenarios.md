@@ -13,6 +13,8 @@ You don’t have to wait until the 28th to start working on your solution! Use t
 * Built on a private blockchain
 * Non-transferable assets
 
+Want to discuss, collaborate, or join a team? [Join the Mayor's Blockchain Challenge Slack Channel!](https://join.slack.com/t/atx-mbc/shared_invite/enQtNDAyODg1Nzg4NDE2LWM0ZDllYzc1ZjUzYzEyNjk2NzczM2NiZjZjM2MzNTBiMGQ5ZTcwYzFhNmEyZjYxNDYzMjQyN2FlMDIwYjJhZDk)
+
 ## The Big Idea
 We hope the blockchain-based solutions we test at the Challenge will help:
 
@@ -28,6 +30,14 @@ We hope the blockchain-based solutions we test at the Challenge will help:
 * Get more complete and accurate health information from individuals and other service providers.
 * Compile and manage complex combinations of records that individuals must submit to receive services.
 * If approved by the individual, provide important records to other service providers almost seamlessly.
+
+**We’ll consider the Challenge a success if the solutions we create together:**
+
+* Provide easier access to homeless services
+* Enable people who are experiencing homelessness to control their own records
+* Can manage complex combinations of documents
+* Connect currently disconnected sources and providers, and 
+* Provide seamless access to records
 
 ### Our Goals for the Weekend
 Here are the four goals for the Challenge weekend:
@@ -57,9 +67,72 @@ We've taken a stab at such a framework, understanding that projects built today 
 
 ### Putting Technical Design Decisions in Context
 You’re the tech experts, and you know best. What we in the public sector know is that certain decisions will likely be better suited for the current reality of government. If you want to get into the government head-space on this technology, the OECD has a great document about [blockchain in the public sector](https://www.oecd-ilibrary.org/governance/blockchains-unchained_3c32c429-en). And here’s more from ACT-IAC on [evaluation criteria for blockchain in the public sector](https://blockchain-working-group.github.io/blockchain-playbook/phases/1/).
+
+## What You'll Devleop
+
+There are several service packages available to people within the homeless community in Austin, such as basic medical insurance, disability benefits, and housing. Applying for each of these service packages requires several documents (assets) from different sources or service providers (entities), and each needs to be certified at a different level. In some cases, a self-uploaded asset (uncertified) is sufficient. 
+
+For the Challenge, **your submission must facilitate at least 2 of the 3 service packages described below, and demonstrate the following functions:**
+
+* At least (1) primary asset received from the source
+* At least (1) asset verified through a transaction
+* At least (1) self-upload
+* At least (1) smart contract
+* Transact with at least (5) entities in your overall solution
+
+Additionally, you should incorporate the following constraint: *non-transferability*. What do we mean by this?
+
+* Once an asset is certified, it’s owner should not be able to send (transfer) it to anyone else. Correct ownership is required to certify an asset as “verified” or “validated”.
+* Assets used to obtain services should be shared (and appended to revoke when they expire) instead of transferred to service providers.
+
+## Service Packages and Requirements
+
+Your solution should address at least 2 of these 3 service packages.
+
+### 1) Medical Access Provider (MAP) card
+This is the most basic and easily accessible type of medical insurance available to a person experiencing homelessness. The card is provided by Central Health through an in-person assessment. With a MAP card, you have access to clinics, can get necessary medicine, and are able to receive emergency care.
+* With this service package, your solution needs at least:
+    * (2) entities:
+        * Central Health needs access the user’s documentation, and issues the MAP card
+        * DPS is the source of a Texas ID card to prove identity
+    * (1) smart contract that can show:
+        * Expiry of the MAP card, which expires after 6 months, or immediately if the card holder receives a Medicaid card
+        * The service package’s level of completion (expressed as a percentage)
+
+**[Airtable](https://airtable.com/shrJymkil7qIkGhDR) tab:** MAP Card Package
+
+**Current application requirements** (for reference): https://www.medicalaccessprogram.net/do-i-qualify/documents-to-bring/
+
+### 2) Housing application
+People can apply for supportive housing in Austin through several service providers, but applicants must also complete a coordinated assessment. In order to qualify for this housing package, a user must prove identity and a disability, and a case worker must attest to the user’s homelessness status.
+* With this service package, your solution needs at least:
+    * (3) entities:
+        * DPS is the source of a Texas ID card for proof of identity
+        * Central Health can attest to disability through medical records
+        * Austin Community Court provides case workers for people experiencing homelessness. They are the source for the case manager letter required to prove homelessness.
+    * (1) smart contract that can show:
+        * The service package’s level of completion (expressed as a percentage)
+
+**[Airtable](https://airtable.com/shrJymkil7qIkGhDR) tab:** Housing Package
+
+** Current application requirements** (for reference): https://www.thn.org/wp-content/uploads/2018/03/7.-TxBoSCoC_PSH_Eligibility-Packet-V3.pdf
+
+### 3) SOAR/Expedited disability application
+The goal of SOAR is to expedite access to critical services for people in danger of or currently experiencing homelessness who have a documented disability. A case worker completes the SOAR application on behalf of a user, and the completed application is ultimately submitted to the Social Security Administration.
+* With this service package, your solution needs at least:
+    * (2) entities:
+        *  representative: A case worker with either the Sunrise Community Church or Trinity Center organizations. This entity needs access to the user’s documentation, and will submit the SOAR application on behalf of the user.
+        * User: has all self-uploads and documentation, and will need to share (not send) assets with their personal representative.
+    * Self-uploads:
+        * Most documentation for this package is self-uploaded, including the form to assign a personal representative (which the personal representative needs to also sign)
+
+**[Airtable](https://airtable.com/shrJymkil7qIkGhDR) tab:** SOAR Package
+
+**Current application requirements** (for reference): https://soarworks.prainc.com/article/complete-application-soar-packet
+
  
 
-## Build Scenario 1 - Released 07/13/2018
+## Build Scenario - Released 07/13/2018
 
 ### The Setup
 Steven Smith has been homeless on and off for the past decade since experiencing major health issues. He is currently living in an encampment in South Austin and regularly checks in at Sunrise Community Church with Maggie, one of their staff members who helps people experiencing homelessness navigate the complexity of receiving services.
