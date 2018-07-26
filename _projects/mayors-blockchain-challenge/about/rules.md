@@ -33,9 +33,9 @@ Ideas and solutions presented must be developed for this challenge by the partic
 You can connect with other particpants, form teams, and collaborate on the [Challenge Slack channel](https://join.slack.com/t/atx-mbc/shared_invite/enQtNDAyODg1Nzg4NDE2LWM0ZDllYzc1ZjUzYzEyNjk2NzczM2NiZjZjM2MzNTBiMGQ5ZTcwYzFhNmEyZjYxNDYzMjQyN2FlMDIwYjJhZDk).
 
 ### How do I participate as a community member?
-Are you a services provider or person with lived homelessness experience? We'd love for you to participate as a consultant or subject matter expert. Please contact innovation@austintexas.gov with your interest.
+Are you a services provider or person with lived homelessness experience? We'd love for you to participate as a consultant or subject matter expert. Please contact innovation@austintexas.gov with your interest, or sign up to be a user tester at the link below.
 
-### [Register for the Challenge here!](https://www.eventbrite.com/e/the-mayors-blockchain-challenge-tickets-48004157728?aff=Website)
+### Community members, [sign up to be a user tester!](https://airtable.com/shr7jB2L6MzO4URwd)
 
 ## Participant Agreement
 
