@@ -33,7 +33,7 @@ Doors open.
 Breakfast is served.
 
 #### 9:00am
-Intro, orientation, annoncements, and last minute team formation.
+Intro, orientation, announcements, and last minute team formation.
 
 #### 9:30am
 Start hacking!
