@@ -24,8 +24,11 @@ The winning team in the challenge will receive $2,000, and the runner up team wi
 
 ### Judging criteria
 [Criteria for generalist judges](https://docs.google.com/document/d/1bkND7igdV-ls9vo_NVLHP7R70cCYF1Dz3a7DXoLlMls/edit?usp=sharing)
+
 [Criteria for judges with lived experience of homelessness](https://docs.google.com/document/d/1gTyKI6TvPlgvLYW_AEg0bIkFNOHqrg2j8_OCQtFtT8g/edit?usp=sharing)
+
 [Criteria for blockchain judges](https://docs.google.com/document/d/1c3GjeNzOdtFhbL-MC4zP8B0b0ivXiQC7h_FH-OFZa0A/edit?usp=sharing)
+
 [Criteria for service provider judges](https://docs.google.com/document/d/1mQiBRl0MpP0RuRJUIOBZUG2OuuF81iY4847X8tt0f8o/edit?usp=sharing)
 
 ### Teams
