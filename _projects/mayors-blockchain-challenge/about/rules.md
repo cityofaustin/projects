@@ -23,7 +23,10 @@ All submissions are due by 10am on Sunday, July 29.
 The winning team in the challenge will receive $2,000, and the runner up team will receive $1,000!
 
 ### Judging criteria
-[Submissions will be judged using these criteria.](https://docs.google.com/document/d/1bkND7igdV-ls9vo_NVLHP7R70cCYF1Dz3a7DXoLlMls/edit?usp=sharing)
+[Criteria for generalist judges](https://docs.google.com/document/d/1bkND7igdV-ls9vo_NVLHP7R70cCYF1Dz3a7DXoLlMls/edit?usp=sharing)
+[Criteria for judges with lived experience of homelessness](https://docs.google.com/document/d/1gTyKI6TvPlgvLYW_AEg0bIkFNOHqrg2j8_OCQtFtT8g/edit?usp=sharing)
+[Criteria for blockchain judges](https://docs.google.com/document/d/1c3GjeNzOdtFhbL-MC4zP8B0b0ivXiQC7h_FH-OFZa0A/edit?usp=sharing)
+[Criteria for service provider judges](https://docs.google.com/document/d/1mQiBRl0MpP0RuRJUIOBZUG2OuuF81iY4847X8tt0f8o/edit?usp=sharing)
 
 ### Teams
 While you can enter as an individual, we highly encourage teams that include at least a blockchain developer and a front end developer. Your team can consist of people located remotely, but each team must have at least one member who can attend and present your solution in Austin during the hackathon (July 28-29).
