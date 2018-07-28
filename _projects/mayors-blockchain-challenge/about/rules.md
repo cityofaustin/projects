@@ -4,7 +4,7 @@ position: 3
 ---
 
 ### Guidelines for participation
-When you [join the event on Eventbrite](https://www.eventbrite.com/e/the-mayors-blockchain-challenge-tickets-48004157728?aff=Website), you'll receive email updates with increasingly complex use case scenarios to solve. By July 28, you should have a solution that covers all the scenarios to test and present. The hackathon starting on July 27 will give you extra time and space to meet with your team, build and refine on site, and test your solution with real users.
+When you [join the event on Eventbrite](https://www.eventbrite.com/e/the-mayors-blockchain-challenge-tickets-48004157728?aff=Website), you'll receive email updates with background info, guidelines, and use case scenarios to guide your build. By July 28, you should have a solution that covers all the scenarios to test and present. The hackathon starting on July 27 will give you extra time and space to meet with your team, build and refine on site, and test your solution with real users.
 
 ### Submissions
 To be considered for a prize, your submission to the Challenge must consist of the following (at minimum):
