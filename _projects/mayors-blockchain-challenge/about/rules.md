@@ -8,14 +8,14 @@ When you [join the event on Eventbrite](https://www.eventbrite.com/e/the-mayors-
 
 ### Submissions
 To be considered for a prize, your submission to the Challenge must consist of the following (at minimum):
-* Consensus algorithm
 * 5-minute presentation of your solution that includes these slides (you can include additional slides as well):
   * Who you are
-  * Descrtiption of blockchain platform used
+  * Descrtiption of platform used
   * Which service packages you chose
   * The elements you included
   * A solution diagram
   * Test results
+* Consensus / validation process
 * Any prototypes you create
 * Link to repo used for the Challenge
 
