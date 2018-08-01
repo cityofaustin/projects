@@ -115,7 +115,7 @@ People can apply for supportive housing in Austin through several service provid
 
 **[Airtable](https://airtable.com/shrJymkil7qIkGhDR) tab:** Housing Package
 
-** Current application requirements** (for reference): https://www.thn.org/wp-content/uploads/2018/03/7.-TxBoSCoC_PSH_Eligibility-Packet-V3.pdf
+**Current application requirements** (for reference): https://www.thn.org/wp-content/uploads/2018/03/7.-TxBoSCoC_PSH_Eligibility-Packet-V3.pdf
 
 ### 3) SOAR/Expedited disability application
 The goal of SOAR is to expedite access to critical services for people in danger of or currently experiencing homelessness who have a documented disability. A case worker completes the SOAR application on behalf of a user, and the completed application is ultimately submitted to the Social Security Administration.
