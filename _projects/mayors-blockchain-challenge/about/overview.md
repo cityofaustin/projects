@@ -11,7 +11,7 @@ The streets of Austin aren't an easy place to live. Important personal documents
 
 **UPDATE:** The Mayor's Blockchain Challenge was a success! Thank you to the amazing group of community members, developers, designers, service providers, City staff, experts, and Mayor Adler for co-creating a set of solutions that will significatly improve the lives of those experiencing homelessness in Austin. We are energized by your compassion and talent, and can't wait to work with you more to advance these and similar solutions. Congratulations to the Compass, DigitalTown, Transmute, and Samiam teams for taking home awards!
 
-We're just getting strated. Thank you for being part of a community that's making Austin better for all. Now that the Challenge weekend is over, we'll be in touch soon with next steps! 
+We're just getting strated. Thank you for being part of a community that's making Austin better for all. Now that the Challenge weekend is over, we'll be in touch soon with next steps.
 
 ## About the challenge
 
