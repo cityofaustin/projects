@@ -7,7 +7,9 @@ position: 1
 Congratulations to the winning MBC teams! We were blown away by the diversity of solutions and progress everyone made, and also how well many of the solutions complimented each other. All teams did great work, but these came out on top:
 
 1st Prize: Compass
+
 2nd Prize: DigitalTown
+
 Hack It Forward Prizes: Transmute and Samiam
 
 ## For the Challenge:
