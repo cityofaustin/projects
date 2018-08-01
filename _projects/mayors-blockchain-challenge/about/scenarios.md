@@ -3,6 +3,15 @@ title: Info for Participants
 position: 1
 ---
 
+## Congrats to our Winners!
+Congratulations to the winning MBC teams! We were blown away by the diversity of solutions and progress everyone made, and also how well many of the solutions complimented each other. All teams did great work, but these came out on top:
+
+1st Prize: Compass
+2nd Prize: DigitalTown
+Hack It Forward Prizes: Transmute and Samiam
+
+## For the Challenge:
+
 You don’t have to wait until the 28th to start working on your solution! Use the info and resources below to start now. Make sure your build can handle all the points in each scenario, as well as these general requirements:
 
 **Your solution should be able to handle:**
