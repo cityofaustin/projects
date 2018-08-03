@@ -3,7 +3,7 @@ title: Overview
 position: 0
 ---
 
-## Austin's commitments to open government
+## Austin's commitment to open government
 
 As part of our participation in the international [Open Government Partnership](https://www.opengovpartnership.org/), the City of Austin co-creates -- with the Austin community -- commitments to promote transparency, community engagement, accountability, and technology innovation. We joined this partnership and launched our first set of commitments in 2016 and are currently preparing for a new set of open government commitments for 2018-2020.
 
@@ -22,6 +22,10 @@ We committed to [five projects for 2017](https://opengovpartnership.bloomfire.co
 3. Redesigning how we coordinate on open government issues within the City government
 4. Improving public meetings
 5. Creating an online project tracker 
+
+[Austin's 2016-2017 Open Government Partnership Action Plan](https://opengovpartnership.bloomfire.com/posts/2704472-austin-s-open-government-partnership-action-plan)
+
+[More information on our first set of commitments in 2016-2017](https://opengovpartnership.bloomfire.com/?feed=recent)
 
 In December 2017 we hosted an [Open Government Showcase](https://medium.com/civiqueso/civic-participation-initiatives-the-city-of-austin-open-government-showcase-9be319e6c9d9), which included talks on these projects as well as other open government efforts the City of Austin has made recently.
 
