@@ -3,19 +3,19 @@ title: Overview
 position: 0
 ---
 
-## Help us make commitments for open government in 2018-2020
+## Austin's commitments to open government
 
-The City of Austin is getting ready to co-create 3-5 commitments to up our game in open government. Part of our membership in the international Open Government Partnership, our commitments will address real problems for people in Austin, and do so in ways that promote transparency, community engagement, accountability, and technology innovation. 
+As part of our participation in the international [Open Government Partnership](https://www.opengovpartnership.org/), the City of Austin co-creates -- with the Austin community -- commitments to promote transparency, community engagement, accountability, and technology innovation. We joined this partnership and launched our first set of commitments in 2016 and are currently preparing for a new set of open government commitments for 2018-2020.
 
-Here you will find information on how to get involved in setting open government commitments for 2018-2020.
+## Commitment areas for 2018-2020 coming soon
 
-## Call for commitment ideas coming soon -- sign up for email updates
-
-We will open a call for commitment topics in May 2018. True to the principles of open government, we will work with the Austin community to pick commitments and then deliver on them. [Sign up for our email list](/projects/OpenGov2018/about/contact) to get updates and announcements on how to get involved. 
+In summer 2018 we are having conversations with community groups about what commitments we might make for 2018-2020. [Sign up for our email list](/projects/OpenGov2018/about/contact) to get updates and announcements on how to get involved. 
 
 ## About the Open Government Partnership and Austin's previous commitments
 
-The Open Government Partnership is an international organization of countries that aim to improve government accountability, transparency, community engagement, and technology practices. The City of Austin joined this partnership in 2016 as one of its first local government members -- and the only local government in the United States. We committed to [five projects for 2017](https://opengovpartnership.bloomfire.com/?feed=recent):
+The [Open Government Partnership](https://www.opengovpartnership.org/) is an international organization of countries that aim to improve government accountability, transparency, community engagement, and technology practices. The City of Austin joined this partnership in 2016 as one of its first local government members -- and the only local government in the United States in this network. 
+
+We committed to [five projects for 2017](https://opengovpartnership.bloomfire.com/?feed=recent):
 
 1. Creating shared reasoning around homelessness
 2. Developing an equity assessment tool
