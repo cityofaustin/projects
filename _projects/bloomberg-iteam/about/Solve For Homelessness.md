@@ -3,9 +3,9 @@ title: Visit our new website
 position: 0
 ---
 
-## Visit our new website
+## [Solve For Homelessness](https://austininnovation.wixsite.com/solveforhomelessness)
 
-[Solve For Homelessness](https://austininnovation.wixsite.com/solveforhomelessness)
+
 
 
 Since September 2017, the Office of Innovation’s iTeam has worked with individuals and partners across the City of Austin to understand homelessness in Austin from the perspective of people living those experiences. We have also examined some of the public and non-profit response systems that are addressing this growing crisis.
