@@ -12,7 +12,7 @@ Since September 2017, the Office of Innovation’s iTeam has worked with individ
 
 Transparency. Education. Engagement.
 
-This website has been created to share the iTeam’s processes and research, communicate what we learned, and provide up-to-date information about our recommendations and ongoing collaborative projects. 
+This [website](https://austininnovation.wixsite.com/solveforhomelessness)has been created to share the iTeam’s processes and research, communicate what we learned, and provide up-to-date information about our recommendations and ongoing collaborative projects. 
 
 
 
