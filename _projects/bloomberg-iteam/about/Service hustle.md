@@ -1,6 +1,6 @@
 ---
 title: The Service Hustle for Homelessness
-position: 7
+position: 8
 ---
 
 ## The Service Hustle for Homelessness
