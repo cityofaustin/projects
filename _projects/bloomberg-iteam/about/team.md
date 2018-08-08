@@ -1,6 +1,6 @@
 ---
 title: Team
-position: 1
+position: 2
 ---
 
 ## A Nested Team Approach
