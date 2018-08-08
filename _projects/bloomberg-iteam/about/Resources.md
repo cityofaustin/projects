@@ -1,6 +1,6 @@
 ---
 title: Resource Directory
-position: 4
+position: 5
 ---
 
 Below are a summary of the activities that we have conducted with the group since its inception. The participants meet twice a month for two hours and are compensated for their time.
