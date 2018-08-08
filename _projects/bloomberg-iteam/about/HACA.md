@@ -1,6 +1,6 @@
 ---
 title: Homelessness Advisory Group
-position: 3
+position: 4
 ---
 
 ## Background of the Homelessness Advisory Committee of Austin (HACA)
