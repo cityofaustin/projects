@@ -7,8 +7,10 @@ position: 0
 
 **We’re building living digital services that grow, adapt, and improve with user needs.**
 
-City of Austin services include everything from looking up recycling and trash schedules to registering kids for summer camp. As more Austin residents come to rely on mobile devices to accomplish their day-to-day tasks, the ability to access the City’s services online has become imperative. That’s why it is of utmost importance to address these needs by expanding and improving the our digital services.
+The City of Austin offers residents hundreds upon hundreds of services — everything from building permits to supplemental food assistance. Since people are increasingly reliant on mobile devices to accomplish their day-to-day tasks, the ability to access these services online has become imperative.
 
-The Austin Digital Services Discovery Project is a partnership between two City departments, [Communications Public Information](http://www.austintexas.gov/department/communications) and [Communications and Technology Management](http://www.austintexas.gov/department/information-technology), and the [Design, Technology, and Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/). We set out to learn what’s working for other government service providers, then embark on an iterative research, prototyping, and testing process to identify new designs, methods, and technologies. 
+Towards this end, CTM’s [Office of Design and Delivery(http://odd.austintexas.io/)] is in the process of rebuilding the City of Austin’s website to improve resident access to municipal services. An alpha release of the new site can be found at [Alpha.austin.gov (http://alpha.austin.gov/)]. This site will stand in parallel to the current Austintexas.gov until essential services and content have been transitioned.
 
-This site is an overview of our approach, shared learnings, and progress we’ve made. If you have questions or comments, [we’d love to hear from you](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/contact/).
+Austin.gov is a product, not a project. Resident needs evolve, and the City’s website must grow and adapt to meet those needs. It will be extended and refined continuously based on user research, evolving technologies, and the [City’s strategic priorities (https://austinstrategicplan.bloomfire.com/posts/3301043-austin-strategic-direction-2023-final)].
+
+This site is an overview of our approach, shared learnings, and progress we’ve made. If you have questions or comments, [we’d love to hear from you](http://projects.austintexas.io/projects/austin-digital-services-discovery/about/contact/). You can also follow [Civiqueso on Medium(https://medium.com/civiqueso)].
