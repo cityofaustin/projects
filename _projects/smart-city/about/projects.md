@@ -10,8 +10,10 @@ As part of our smart city initiative, we are compiling a list of local projects 
 - Make these projects more transparent and accessible
 - Spark more engagement and collaboration on these efforts with the Austin community
 
-### Update in progress -- more projects coming soon
+## Update in progress -- more projects coming soon
 
-We're updating this list in fall 2018, based on an [original list](https://airtable.com/embed/shrw1eaApYvCI2fbE/tbluO6vp5XB2GwYk4/viwPqpeM7kQ69dSC5) put together in 2017. 
+We're updating this list in fall 2018, based on an [original list](https://airtable.com/embed/shrw1eaApYvCI2fbE/tbluO6vp5XB2GwYk4/viwPqpeM7kQ69dSC5) put together in 2017.
+
+[Click here to open a larger view](https://airtable.com/shr6ZZT3ngiWpKKvj/tblQXFH8dwIBq5LWj).
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr6ZZT3ngiWpKKvj?backgroundColor=green&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
