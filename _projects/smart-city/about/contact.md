@@ -1,6 +1,6 @@
 ---
 title: Get in touch
-position: 5
+position: 6
 ---
 
 ## Check out the Smart Austin knowledge base
