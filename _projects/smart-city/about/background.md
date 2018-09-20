@@ -60,9 +60,6 @@ Based on this input, we drafted the first iteration of the Smart City Strategic 
 
 ## Inventory of projects
 
-As part of the Smart City Strategic Roadmap, we compiled an inventory of projects that involve the use of technology to solve real problems for real people.\* We are using this information to identify and prioritize what resources and guidance the City should create or make available to help projects succeed.
+As part of the Smart City Strategic Roadmap, we compiled an inventory of projects in 2017 that involve the use of technology to solve real problems for real people. We are using this information to identify and prioritize what resources and guidance the City should create or make available to help projects succeed.
 
-[View the project inventory here.](https://airtable.com/embed/shrw1eaApYvCI2fbE/tbluO6vp5XB2GwYk4/viwPqpeM7kQ69dSC5)
-
-For more information on the inventory, view our [documentation page](https://opengovpartnership.bloomfire.com/posts/1365870). Also visit visit [our Smart Austin Community of Practice](https://smartaustin.bloomfire.com/) for articles and case studies we've collected.
-
+[Jump to projects page](/projects/smart-city/about/projects/). 

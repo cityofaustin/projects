@@ -1,6 +1,6 @@
 ---
 title: Who we are
-position: 4
+position: 5
 ---
 
 ## Austin's open and smart city team
