@@ -26,6 +26,13 @@ By “the mistakes of the past,” the Mayor was referring to Austin’s legacy 
 
 As a result of collaborative efforts between Mayor, Council, City Management and staff, the recently adopted City of Austin [Strategic Direction 2023](https://austinstrategicplan.bloomfire.com/posts/3301043-austin-strategic-direction-2023-final) identifies a strategy of “Develop and act upon recommendations to reduce the number of households and businesses displaced from Austin due to unaffordability.”  In 2018, Austinites voted to approve a $250 million affordable housing bond, and a resident Task Force on Anti-Displacement issues recommendations to provide a right to remain and a right to return for Austin residents.
 
+Anti-Displacement issues recommendations to provide a right to remain and a right to return for Austin residents. 
+
+However, the city has yet to identify a methodology to measure progress against its [anti-displacement strategy](https://austinstrategicplan.bloomfire.com/series/3304505/posts/3302571-outcome-metrics-master-list ). The Austin i-team support this methodology development over the course of the year. The University of Texas at Austin’s report on gentrification and displacement, UpRooted, defines direct displacement as when (1) residents can no longer afford to remain in their homes due to rising housing bills (rents or property taxes), or (2) residents are forced out due to causes such as eminent domain, lease non-renewals, and evictions to make way for new development, or physical conditions that render their homes uninhabitable. The report also classifies different stages of gentrification.
+
+These definitions, along with the over 300 recommendations on this topic provided to the City provide Austin’s i-team with a place to begin. Framing the problem of displacement looks roughly like the following:
+
+
 ## iTeam Grant Requirements
 
 The purpose of the grant is to add an innovation capacity to a city. Grant funds may only be used for salaries and benefits, and for expenses related to the iTeam’s work. Teams are expected to go through a rigorous process of framing problems before engaging in solutioning or connecting to ideas. 
