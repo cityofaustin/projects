@@ -7,7 +7,7 @@ position: 1
 
 * [Project Plan](https://docs.google.com/document/d/1U3ie2l3x8hNtROPeZ3QuJHf0PSVwMrnA5QyY1hWVb0w/edit?usp=sharing): Provides an overview of the project.
 * [Research Plan](https://docs.google.com/presentation/d/1VQ1bJJBFIaRRG0AxgzoOsQic9d9JhhZra4-enwl_LGM/edit?usp=sharing): The document explains the background, approach, research goals and activities of the project.
-* Sprint Syntheses: Forthcoming
+* Sprint Syntheses: Forthcoming.
 
 ## Sprint Synthesis
 
