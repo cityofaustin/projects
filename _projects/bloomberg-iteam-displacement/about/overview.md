@@ -26,14 +26,35 @@ By “the mistakes of the past,” the Mayor was referring to Austin’s legacy 
 
 As a result of collaborative efforts between Mayor, Council, City Management and staff, the recently adopted City of Austin [Strategic Direction 2023](https://austinstrategicplan.bloomfire.com/posts/3301043-austin-strategic-direction-2023-final) identifies a strategy of “Develop and act upon recommendations to reduce the number of households and businesses displaced from Austin due to unaffordability.”  In 2018, Austinites voted to approve a $250 million affordable housing bond, and a resident Task Force on Anti-Displacement issues recommendations to provide a right to remain and a right to return for Austin residents.
 
-Anti-Displacement issues recommendations to provide a right to remain and a right to return for Austin residents. 
+### Definition and Measurment
 
-However, the city has yet to identify a methodology to measure progress against its [anti-displacement strategy](https://austinstrategicplan.bloomfire.com/series/3304505/posts/3302571-outcome-metrics-master-list ). The Austin i-team support this methodology development over the course of the year. The University of Texas at Austin’s report on gentrification and displacement, UpRooted, defines direct displacement as when (1) residents can no longer afford to remain in their homes due to rising housing bills (rents or property taxes), or (2) residents are forced out due to causes such as eminent domain, lease non-renewals, and evictions to make way for new development, or physical conditions that render their homes uninhabitable. The report also classifies different stages of gentrification.
+However, the city has yet to identify a methodology to measure progress against its [anti-displacement strategy](https://austinstrategicplan.bloomfire.com/series/3304505/posts/3302571-outcome-metrics-master-list ). The Austin i-team support this methodology development over the course of the year. The University of Texas at Austin’s report on gentrification and displacement, UpRooted, defines direct displacement as when:
+   1. residents can no longer afford to remain in their homes due to rising housing bills (rents or property taxes), or
+   2. residents are forced out due to causes such as eminent domain, lease non-renewals, and evictions to make way for new development, or physical conditions that render their homes uninhabitable. The report also classifies different stages of gentrification.
 
 These definitions, along with the over 300 recommendations on this topic provided to the City provide Austin’s i-team with a place to begin. Framing the problem of displacement looks roughly like the following:
 
 ![Displacement Problem framing](/assets/img/projects/bloomberg-iteam-displacement/displacement-prob-frame.png)
 
+## The Plan
+
+Bringing the tools of data science, service design, content strategy, and community organizing, the Austin i-team will begin focusing on those services that are designed to stabilize residents in housing. Building off of over a year’s worth of work to alleviate homelessness in Austin, the Austin i-team will continue to focus on issues of service delivery to help Austin’s most vulnerable residents not only survive, but thrive.
+
+Goals for the i-teams’ work over the course of 2019 include:
+
+   * Quick action that enables neighbors--both homeowners and renters--to stay in their neighborhood with agency and control over the fate of their community; 
+   * Lessons learned address Council requests, city strategic outcomes, and inform how the Department of Neighborhood Housing and Community Development deploys its anti-displacement strategy in all neighborhoods also facing displacement pressure;
+   * Establishing anti-displacement metrics with actionable targets ensures accountability for progress, which, combined with community participation in the project, increases trust and connection between residents and the city;
+   * Improve accessibility to resources that will improve quality of life for current and future community members.
+   
+The i-teams process of discovery and prototyping will help us build evidence for how different anti-displacement strategies will perform to stabilize residents at risk of displacement in gentrifying neighborhoods. Our work will be informed by the lived experience to learn how we might effectively facilitate and connect:
+
+   * People of color to easily- accessible database of affordable units
+   * Households in need to opportunities to reduce utility costs
+   * Seniors in need to service providers that address displacement
+   * Eligible homeowners with property tax exemptions
+   * Tenants facing displacement with assistance programs
+   * The iTeam could employ [other potential actions](https://airtable.com/shrYMtqL09aEhDAjl/tblkvbyzUnWqCKNvh) based on the needs of the neighborhood
 
 ## iTeam Grant Requirements
 
@@ -41,27 +62,10 @@ The purpose of the grant is to add an innovation capacity to a city. Grant funds
 
 ![iTeam Grant Requirements Timeline](/assets/img/projects/bloomberg-iteam/iteam-grant-requirement-timeline.png)
 
-
-## The Plan
-
-### Phase 1 - Discovery - conduct research in 3 parallel streams: 
-
-1. **Ethnographic Study**: Interviews with those with lived experience of homelessness, service providers, and community members to learn more about their experience and perspectives. 
-2. **Quantitative Research**: Inventory data to identify areas of opportunity for better integration, knowledge sharing, and potential investments. 
-3. **ARCH Service Mapping**: Understanding the experience of people with lived experience in Austin, the role that the ARCH plays in their experience, and a service blueprint for the Austin Resource Center for the Homeless (ARCH). 
-
-After the initial research, we’ll pull together insights based on what we’ve learned and our recommendations for moving forward. 
-
-### Phase 2 - Concepting & Prototyping
-
-During this stage, we’ll begin designing and prototyping options for how to achieve the project’s desired outcomes. We’ll develop options based on the information gathered during the Discovery stage and test them with different types of users to understand how they work well and how they can be improved. This might include designing and testing different user interfaces, ways of providing geographic information about organizations, and internal administration of the system.
-
 ## Deliverables
 
 Expected deliverables include:
 
-* [Project Plan](https://docs.google.com/document/d/17_YGSKrM8yVcdg8krNv0atT8g034LNwdS_jSN2Kp26s/edit?usp=sharing)
-* [Research Plan](https://docs.google.com/document/d/1By9fQ2VHCA_XXeU2h9K3SAikTs5D4o47_sjU3xogUT0/edit?usp=sharing)
-* [Sprint 1: Lived Experience Research Aug 28 - Sept 8](https://docs.google.com/document/d/1Ou0MFxoZL80ZeuPqwHALJL7ygwQE4c0bkEciv2wyJpk/edit?usp=sharing)
-* [Sprint 2: Sleeping at the ARCH Sept 18- Oct 27](https://docs.google.com/document/d/1e5RWiWoOHIDItWDwGZFA-_vmLULtygoTEesatGNcA-g/edit?usp=sharing)
-* [Homelessness Advisory Committee of Austin (HACA)](http://projects.austintexas.io/projects/bloomberg-iteam/about/HACA/)
+* [Project Plan](https://docs.google.com/document/d/1U3ie2l3x8hNtROPeZ3QuJHf0PSVwMrnA5QyY1hWVb0w/edit?usp=sharing)
+* [Research Plan](https://docs.google.com/presentation/d/1H8OSRHAAuyK0DgMd4QjnFPYBvfVtByKh3K-L6PSZCMM/edit?usp=sharing)
+* Synthesis of each sprint
