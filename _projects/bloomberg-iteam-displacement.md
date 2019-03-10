@@ -6,7 +6,7 @@ position: 5
 project_name: Bloomberg iTeam
 subtitle: Resident-focused displacement mitigation
 excerpt: The Austin i-team is working with residents, service providers, and City departments to reduce displacement pressure in gentrifying neighborhoods.
-image_path: "/assets/img/projects/bloomberg-iteam/iteam - haca insights.JPG"
+image_path: "/assets/img/projects/bloomberg-iteam-displacement/iteam-sprint1.png"
 active: true
 layout: redirect
 redirect_to: "/projects/bloomberg-iteam-displacement/about/overview"
