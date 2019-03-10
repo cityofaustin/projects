@@ -32,7 +32,7 @@ However, the city has yet to identify a methodology to measure progress against 
 
 These definitions, along with the over 300 recommendations on this topic provided to the City provide Austin’s i-team with a place to begin. Framing the problem of displacement looks roughly like the following:
 
-![Displacement Problem framing](projects/assets/img/projects/bloomberg-iteam-displacement/displacement-prob-frame.png)
+![Displacement Problem framing](/assets/img/projects/bloomberg-iteam-displacement/displacement-prob-frame.png)
 
 
 ## iTeam Grant Requirements
