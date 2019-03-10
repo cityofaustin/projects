@@ -21,4 +21,4 @@ The Bloomberg Austin iTeam uses a nested team approach, which consists of four c
 The Bloomberg core innovation team working on the project consists of:
 
 
-![iTeam Core Team Photos](projects/assets/img/projects/bloomberg-iteam-displacement/iteam2 team pics.png)
+![i-Team Core Team Photos](/assets/img/projects/bloomberg-iteam-displacement/iteam2 team pics.png)
