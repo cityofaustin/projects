@@ -5,13 +5,9 @@ position: 0
 
 ## The Project
 
-In Austin, there are over 2,000 individuals without a safe place to sleep. There are many reasons a person can become homeless. It can range from the lack of affordable housing to the loss of family and community.
+Austin, Texas frequently appears at the top of many top 10 lists. The metropolitan area is one of the fastest growing in the country, with a high economic growth and low unemployment rates that encourages an estimated [105 people to move here per day](https://www.austinchamber.com/blog/02-21-2019-austin-migration).
 
-In 2017, the [Design, Technology and Innovation Fellows](https://cityofaustin.github.io/innovation-fellows/) secured a grant from [Bloomberg Philanthropies](https://www.bloomberg.org/program/government-innovation/innovation-teams/#overview.). Austin was selected from a pool of municipalities with a demonstrated commitment to designing and delivering bold solutions to solve homelessness. Other cities selected for the global program include Be’er Sheva, Israel; Toronto, Canada, and Anchorage, AK; Austin, TX; Baltimore, MD; Detroit, MI; and Durham; NC in the United States.
-
-Currently in the third round of funding, the Bloomberg program will allow Mayor Steve Adler and the [City Council](https://austintexas.gov/) to fund an in-house innovation team, or “i-team”, to pioneer new approaches on homelessness.
-
-“This grant will help us tackle problems in new ways that reflect who we are in Austin, and I’m excited to see what can come from this,” said Mayor Adler. “When we effectively ended veteran homelessness, we learned how effective new partnerships between the business community, philanthropists and non-profits could be. Bloomberg’s grant will allow our Innovation Office to experiment with new ways to house the homeless.”
+As economic prosperity and Austin’s frequent listing as one of the best places to live make it an increasingly attractive community, population increases have resulted in [rising property values](https://www.austintexas.gov/sites/default/files/files/NHCD/Strategic_Housing_Blueprint_4.24.17__reduced_.pdf). However, not all share in Austin’s prosperity. This dynamic has resulted in gentrification, the process by which higher income households displace low income residents of a neighborhood, changing the essential character of that neighborhood. According to a study by the University of Toronto, Austin ranks first amongst cities of 1 million residents or more in being the [most economically segregated](http://martinprosperity.org/media/Segregated%20City.pdf).
 
 
 ## iTeam Grant Requirements
