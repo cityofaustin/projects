@@ -15,6 +15,16 @@ As economic prosperity and Austin’s frequent listing as one of the best places
 
 In his 2018 State of the City Address, [Mayor Adler said](http://www.mayoradler.com/mayor-adlers-state-of-the-city-address-part-8/) “We cannot repeat the mistakes of the past any more than we can afford the cost that the status quo is imposing on our community. Our job is to prevent an unacceptable future. After years of unimplemented ideas, we need to do something to address displacement.”
 
+By “the mistakes of the past,” the Mayor was referring to Austin’s legacy of institutionalized racism that have created systemic inequities. These include:
+
+...1. During the 1870’s–1920’s original Black “Freedman” towns and Hispanic/Latino populations were forced to move into settlements outside of what was then the city of Austin into communities such as Clarksville, St. John’s, and Montopolis - neighborhoods currently facing gentrification pressure.
+...2. The City’s 1928 Master Plan created a “Negro District” on the East side of Austin. Those historic neighborhoods are currently facing extreme gentrification pressure, or are in late stages of gentrification.
+...3. From 1910 through the 1920s Blacks lived throughout the center of Austin with concentration along the eastern side of downtown, while “Mexican American” households were concentrated in a neighborhood in the southwest of downtown. These neighborhoods are currently experiencing, or are at risk of experiencing, gentrification pressure.
+...4. The Industrial Development Plan of 1957 zoned all property in East Austin “industrial,” including single family residential uses. Polluting industries were allowed to remain, and residents were not allowed to get bank loans for home repair, so-called “red-lining,” which laid the groundwork for gentrification. East Austin faces gentrification pressure.
+...5. Urban Renewal programs of the 1960s-1970s became known as Urban Removal, displaced people of color from large areas, and turned formerly residential land into parks and schools without providing adequate opportunities for displaced households to return.
+...6. Since the 1990s, zoning changes in East Austin have accelerated gentrification, without efforts to mitigate displacement.
+
+As a result of collaborative efforts between Mayor, Council, City Management and staff, the recently adopted City of Austin Strategic Direction 2023 identifies a strategy of “Develop and act upon recommendations to reduce the number of households and businesses displaced from Austin due to unaffordability.”  In 2018, Austinites voted to approve a $250 million affordable housing bond, and a resident Task Force on Anti-Displacement issues recommendations to provide a right to remain and a right to return for Austin residents.
 
 ## iTeam Grant Requirements
 
