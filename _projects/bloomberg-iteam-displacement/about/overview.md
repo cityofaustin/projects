@@ -9,6 +9,12 @@ Austin, Texas frequently appears at the top of many top 10 lists. The metropolit
 
 As economic prosperity and Austin’s frequent listing as one of the best places to live make it an increasingly attractive community, population increases have resulted in [rising property values](https://www.austintexas.gov/sites/default/files/files/NHCD/Strategic_Housing_Blueprint_4.24.17__reduced_.pdf). However, not all share in Austin’s prosperity. This dynamic has resulted in gentrification, the process by which higher income households displace low income residents of a neighborhood, changing the essential character of that neighborhood. According to a study by the University of Toronto, Austin ranks first amongst cities of 1 million residents or more in being the [most economically segregated](http://martinprosperity.org/media/Segregated%20City.pdf).
 
+### Gentrification and displacement
+
+**A recent [research study by the University of Texas at Austin](http://sites.utexas.edu/gentrificationproject/) identified that out of 200 neighborhoods, 16 are “actively gentrifying,” and 23 more that are at risk of gentrification.** The UT study identified that most vulnerable residents in those neighborhoods (those who have low-income, are people of color, have not achieved a bachelor’s degree are higher, are families with children in poverty, and whose housing status are renters) are most likely to experience displacement.
+
+In his 2018 State of the City Address, [Mayor Adler said](http://www.mayoradler.com/mayor-adlers-state-of-the-city-address-part-8/) “We cannot repeat the mistakes of the past any more than we can afford the cost that the status quo is imposing on our community. Our job is to prevent an unacceptable future. After years of unimplemented ideas, we need to do something to address displacement.”
+
 
 ## iTeam Grant Requirements
 
