@@ -14,7 +14,7 @@ Goals for the i-teams’ work over the course of 2019 include:
    * Establishing anti-displacement metrics with actionable targets ensures accountability for progress, which, combined with community participation in the project, increases trust and connection between residents and the city;
    * Improve accessibility to resources that will improve quality of life for current and future community members.
    
-The i-teams process of discovery and prototyping will help us build evidence for how different anti-displacement strategies will perform to stabilize residents at risk of displacement in gentrifying neighborhoods. Our work will be informed by the lived experience to learn how we might effectively facilitate and connect:
+The i-team's process of discovery and prototyping will help us build evidence for how different anti-displacement strategies will perform to stabilize residents at risk of displacement in gentrifying neighborhoods. Our work will be informed by the lived experience to learn how we might effectively facilitate and connect:
 
    * People of color to easily- accessible database of affordable units
    * Households in need to opportunities to reduce utility costs
