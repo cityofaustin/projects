@@ -1,8 +1,8 @@
-## Utility Assistance Service Mapping
+## Sprint 1 - Utility Assistance Service Mapping
 
 For the first sprint, the team honed their process by mapping utility assistance services. Mounting utility bills are a well known cause of displacement pressure, and there are serveral programs that provide utility assitance. However, the team found that many of these programs have access issues, and may not function as intended.
 
-### Sprint 1 Results - Utility Assistance
+<p style="text-align:center;">## Sprint 1 Results</p>
 
 
 ![Team mapping utility assitance services](/assets/img/projects/bloomberg-iteam-displacement/iteam-sprint1.png)
