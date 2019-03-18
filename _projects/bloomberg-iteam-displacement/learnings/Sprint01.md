@@ -4,6 +4,8 @@ For the first sprint, the team honed their process by mapping utility assistance
 
 ### Sprint 1 Results - Utility Assistance
 
+
 ![Team mapping utility assitance services](/assets/img/projects/bloomberg-iteam-displacement/iteam-sprint1.png)
+
 
 The team will deliver the service insights to NHCD and program managers, and integrate them into future service design sprints. Sprint 2 will take on eviction data and home repair.
