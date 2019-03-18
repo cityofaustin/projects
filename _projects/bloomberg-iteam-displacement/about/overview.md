@@ -5,11 +5,30 @@ position: 0
 
 ## The Project
 
+Bringing the tools of data science, service design, content strategy, and community organizing, the Austin i-team will partner with the Neighborhood Housing and Community Development Department to begin focusing on services designed to stabilize residents in housing. Building off of over a year’s worth of work to [alleviate homelessness in Austin](https://austininnovation.wixsite.com/solveforhomelessness), the Austin i-team will continue to focus on issues of service delivery to help Austin’s most vulnerable residents not only survive, but thrive.
+
+Goals for the i-teams’ work over the course of 2019 include:
+
+   * Quick action that enables neighbors--both homeowners and renters--to stay in their neighborhood with agency and control over the fate of their community; 
+   * Lessons learned address Council requests, city strategic outcomes, and inform how the Department of Neighborhood Housing and Community Development deploys its anti-displacement strategy in all neighborhoods also facing displacement pressure;
+   * Establishing anti-displacement metrics with actionable targets ensures accountability for progress, which, combined with community participation in the project, increases trust and connection between residents and the city;
+   * Improve accessibility to resources that will improve quality of life for current and future community members.
+   
+The i-teams process of discovery and prototyping will help us build evidence for how different anti-displacement strategies will perform to stabilize residents at risk of displacement in gentrifying neighborhoods. Our work will be informed by the lived experience to learn how we might effectively facilitate and connect:
+
+   * People of color to easily- accessible database of affordable units
+   * Households in need to opportunities to reduce utility costs
+   * Seniors in need to service providers that address displacement
+   * Eligible homeowners with property tax exemptions
+   * Tenants facing displacement with assistance programs
+   * The iTeam could employ [other potential actions](https://airtable.com/shrYMtqL09aEhDAjl/tblkvbyzUnWqCKNvh) based on the needs of the neighborhood
+
+
+### Gentrification and displacement
+
 Austin, Texas frequently appears at the top of many top 10 lists. The metropolitan area is one of the fastest growing in the country, with a high economic growth and low unemployment rates that encourages an estimated [105 people to move here per day](https://www.austinchamber.com/blog/02-21-2019-austin-migration).
 
 As economic prosperity and Austin’s frequent listing as one of the best places to live make it an increasingly attractive community, population increases have resulted in [rising property values](https://www.austintexas.gov/sites/default/files/files/NHCD/Strategic_Housing_Blueprint_4.24.17__reduced_.pdf). However, not all share in Austin’s prosperity. This dynamic has resulted in gentrification, the process by which higher income households displace low income residents of a neighborhood, changing the essential character of that neighborhood. According to a study by the University of Toronto, Austin ranks first amongst cities of 1 million residents or more in being the [most economically segregated](http://martinprosperity.org/media/Segregated%20City.pdf).
-
-### Gentrification and displacement
 
 **A recent [research study by the University of Texas at Austin](http://sites.utexas.edu/gentrificationproject/) identified that out of 200 neighborhoods, 16 are “actively gentrifying,” and 23 more that are at risk of gentrification.** The UT study identified that most vulnerable residents in those neighborhoods (those who have low-income, are people of color, have not achieved a bachelor’s degree are higher, are families with children in poverty, and whose housing status are renters) are most likely to experience displacement.
 
@@ -37,27 +56,6 @@ These definitions, along with the over 300 recommendations on this topic provide
 
 
 ![Displacement Problem framing](/assets/img/projects/bloomberg-iteam-displacement/displacement-prob-frame.png)
-
-
-## The Plan
-
-Bringing the tools of data science, service design, content strategy, and community organizing, the Austin i-team will begin focusing on those services that are designed to stabilize residents in housing. Building off of over a year’s worth of work to alleviate homelessness in Austin, the Austin i-team will continue to focus on issues of service delivery to help Austin’s most vulnerable residents not only survive, but thrive.
-
-Goals for the i-teams’ work over the course of 2019 include:
-
-   * Quick action that enables neighbors--both homeowners and renters--to stay in their neighborhood with agency and control over the fate of their community; 
-   * Lessons learned address Council requests, city strategic outcomes, and inform how the Department of Neighborhood Housing and Community Development deploys its anti-displacement strategy in all neighborhoods also facing displacement pressure;
-   * Establishing anti-displacement metrics with actionable targets ensures accountability for progress, which, combined with community participation in the project, increases trust and connection between residents and the city;
-   * Improve accessibility to resources that will improve quality of life for current and future community members.
-   
-The i-teams process of discovery and prototyping will help us build evidence for how different anti-displacement strategies will perform to stabilize residents at risk of displacement in gentrifying neighborhoods. Our work will be informed by the lived experience to learn how we might effectively facilitate and connect:
-
-   * People of color to easily- accessible database of affordable units
-   * Households in need to opportunities to reduce utility costs
-   * Seniors in need to service providers that address displacement
-   * Eligible homeowners with property tax exemptions
-   * Tenants facing displacement with assistance programs
-   * The iTeam could employ [other potential actions](https://airtable.com/shrYMtqL09aEhDAjl/tblkvbyzUnWqCKNvh) based on the needs of the neighborhood
 
 
 ## iTeam Grant Requirements
