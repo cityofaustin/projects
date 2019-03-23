@@ -7,9 +7,16 @@ position: 0
 
 As part of our participation in the international [Open Government Partnership](https://www.opengovpartnership.org/), the City of Austin co-creates -- with the Austin community -- commitments to promote transparency, community engagement, accountability, and technology innovation. We joined this partnership and launched our first set of commitments in 2016 and are currently preparing for a new set of open government commitments for 2018-2020.
 
-## Commitment areas for 2018-2020 coming soon
+## Commitment areas for 2019-2021 announced
 
-In summer 2018 we are having conversations with community groups about what commitments we might make for 2018-2020. [Sign up for our email list](/projects/OpenGov2018/about/contact) to get updates and announcements on how to get involved. 
+In summer 2018, we talked with community groups about what commitments we might make for 2019-2021.  New partners came forward from both city departments and community organizations to sponsor [four fantastic commitments](https://opengovpartnership.bloomfire.com/posts/3431067-austin-s-2019-21-action-plan):
+
+1. Community climate resilience
+2. Public participation in city anti-displacement efforts
+3. Including the homeless in court contracting
+4. Public safety data analysis
+
+[Sign up for our email listhttp://projects.austintexas.io/projects/OpenGov2018/about/contact](http://projects.austintexas.io/projects/OpenGov2018/about/contact) to get updates and announcements on how to get involved.
 
 ## About the Open Government Partnership and Austin's previous commitments
 
