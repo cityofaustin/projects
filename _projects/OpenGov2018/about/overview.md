@@ -16,7 +16,7 @@ In summer 2018, we talked with community groups about what commitments we might 
 3. Including the homeless in court contracting
 4. Public safety data analysis
 
-[Sign up for our email listhttp://projects.austintexas.io/projects/OpenGov2018/about/contact](http://projects.austintexas.io/projects/OpenGov2018/about/contact) to get updates and announcements on how to get involved.
+[Sign up for our email list](http://projects.austintexas.io/projects/OpenGov2018/about/contact) to get updates and announcements on how to get involved.
 
 ## About the Open Government Partnership and Austin's previous commitments
 
