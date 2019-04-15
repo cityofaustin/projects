@@ -2,9 +2,6 @@
 title: Sprint 2 - Home Repair
 position: 1
 ---
-
-## Sprint 2 - Home Repair Program Service Mapping
-
 The team used the second sprint to map services and assess content for various home repair programs offered through the City. These programs can and do help residents remain in homes that require signigicant repair. However, the team found complexities and tradeoffs in the programs that require attention. They also began digging into data that may help qualify the potential benfits of different types of programs based on the overarching conditions and drivers of displacement in Austin. The teams sprint 2 learnings are summarized here:
 
 
