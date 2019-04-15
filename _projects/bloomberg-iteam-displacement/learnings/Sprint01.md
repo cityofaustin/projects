@@ -1,6 +1,6 @@
 ---
 title: Sprint 1 - Utility Assistance
-position: 0
+position: 1
 ---
 For the first sprint, the team honed their process by mapping utility assistance services. Mounting utility bills are a well known cause of displacement pressure, and there are serveral programs that provide utility assitance. However, the team found that many of these programs have access issues, and may not function as intended. Dig into their learnings here:
 
