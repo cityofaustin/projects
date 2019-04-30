@@ -6,6 +6,7 @@ position: 0
 project_name: Social Innovation Grant
 subtitle: Learning together with Austin's social impact community
 excerpt: The Innovation Office is partnering with the Austin Impact Hub Accelerator to explore new solutions to the city's strategic challenges.
+image_path: "/assets/img/projects/social-innovation-grant/skyline 1.png"
 active: true
 layout: redirect
 redirect_to: "/projects/social-innovation-grant/about/overview"
