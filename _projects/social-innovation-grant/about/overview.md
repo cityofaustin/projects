@@ -17,7 +17,7 @@ Throughout the accelerator, you’ll gather evidence around the following lines 
 * How might your solution contribute to the Economic Opportunity and Affordability outcome area of the [City’s Strategic Direction 2023](https://austinstrategicplan.bloomfire.com/posts/3301043-austin-strategic-direction-2023-final)?
 * How might your solution work alongside or for government?
 
-Grant awardees will provide the Innovation Office monthly progress reports, as well as a full report at the end of the accelerator. Reports will adhere to [Nesta Evidence Standards Levels 2 and 3](https://www.nesta.org.uk/feature/centre-social-action-our-evidence-base/nestas-standards-of-evidence/), include things like:
+Grant awardees will provide the Innovation Office monthly progress reports, as well as a full report at the end of the accelerator. Reports will adhere to [Nesta Evidence Standards Levels 2 and 3](https://www.nesta.org.uk/feature/centre-social-action-our-evidence-base/nestas-standards-of-evidence/), including:
 
 * Development milestones
 * Project outcomes
