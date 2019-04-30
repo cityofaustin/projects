@@ -1,3 +1,8 @@
+---
+title: FAQs
+position: 1
+---
+
 The answers below are meant to help you decide if you should apply for the Social Innovation Grant, and give you guidance in filling out the application. Have a question that's not answered below? [Let us know](mailto:innovation@austintexas.gov).
 
 ### I’m not sure if my social enterprise fits, or potentially has a municipal purpose. How do I know?
