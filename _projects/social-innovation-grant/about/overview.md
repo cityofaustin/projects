@@ -32,4 +32,4 @@ If you think your solution might align with the City’s strategic efforts, we e
 
 ## <p style="text-align: center;">[Apply to the Impact Hub Accelerator](https://gust.com/programs/2019-austin-impact-accelerator)</p>
 
-The Social Innovation grant appication is coming soon, but you must apply and be accepted into the Imapct Hub Accelerator to receive the grant. If you have more questions, check out our FAQs or [contact us](mailto:innovation@austintexas.gov).</p>
+The Social Innovation grant appication is coming soon, but you must apply and be accepted into the Imapct Hub Accelerator to receive the grant. If you have more questions, [contact us](mailto:innovation@austintexas.gov).</p>
