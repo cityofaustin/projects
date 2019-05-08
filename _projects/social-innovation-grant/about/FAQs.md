@@ -14,6 +14,22 @@ If so, your enterprise may have a municipal purpose, and this grant is to help y
 
 ### How do I choose the challenge(s) and indicator?
 
+We ask applicants to identify those challenge(s) from the Strategic Direction 2023 Economic Opportunity and Affordability outcome area that their solution addresses:
+* How might we break the cycle of poverty and inequity so that all residents experience economic mobility?
+* How   might   we   maintain   a   resilient   economy,   e.g.   supporting  small  businesses  and  skilled  workforce,  that  provides equitable opportunities for people and business?
+* How might we ensure Austin’s land use policies, processes and  programs  help  create  more  complete  communities  (i.e. communities where people’s basic needs can be met with short trips) in our city?
+* As cost of living rises, how might we increase equitably distributed options for household affordability in all parts of town?
+* How  might  we  leverage  both  prevention  and  service  delivery  to  reduce  the  number  of  people  experiencing  homelessness in Austin?
+
+We also ask applicants to identify the primary Indicator from the Strategic Direction 2023 Economic Opportunity and Affordability outcome area that their solution can influence. Those indicators include:
+* Employment
+* Income inequality
+* Cost of living compared to income
+* Housing
+* Homelessness
+* Skills and capability of our community workforce
+* Economic mobility
+
 This is where your theory of change comes in, and how you outline your alignment with the [City’s Strategic Direction](https://austinstrategicplan.bloomfire.com/posts/3301043-austin-strategic-direction-2023-final). Can you tell the story of how your solution contributes to addressing one or more of the challenge areas listed? Will the outcomes you create move the needle on one of the indicators, if even indirectly?
 
 It’s important to know that your solution does not need to map directly to a challenge and/or indicator. However, you should be able to articulate how it can meaningfully contribute to solving one or more of the challenges (the “what”), and by what pathway, or indicator, it will do so (the “how”). Make sure you can justify the challenge(s) and indicator you select in this way.
