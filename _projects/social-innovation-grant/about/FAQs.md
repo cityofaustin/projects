@@ -35,3 +35,22 @@ It’s likely, by working with a fiscal sponsor. If you’re a grant applicant a
 ### What happens if my social enterprise fails?
 
 As long as you generate evidence about your solution and its outcomes, we consider that success. Learning is our goal.
+
+### How will you evaluate my application?
+
+A panel of judges from across the City of Austin organization will select up to six awardees based on the following criteria: 
+
+To what extent could the solution increase an Austin resident’s:
+* autonomy to affect their situation
+* capability and competence to act on behalf of themselves, or 
+* connection to their neighbors and broader community?
+
+To what extent does the solution:
+* Align with the selected SD23 challenges?
+* Affect the selected SD23 indicator in a new or significant way?
+* Be fairly easily launched after successful evaluation?
+* Provide a new OR better option compared to what is currently available in Austin?
+* Better serve an existing customer segment OR open service for a new customer segment? 
+* Have a development plan that  involves crucial stakeholders, especially those who are often underrepresented, and those who will be affected by the concept?
+* Have a capable team behind it?
+
