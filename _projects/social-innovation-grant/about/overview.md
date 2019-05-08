@@ -27,9 +27,8 @@ Grant awardees will provide the Innovation Office monthly progress reports, as w
 * Key learnings and next steps
 * Grant budget synopsis
 
+If you think your solution might align with the City’s strategic efforts, we encourage you to [apply](http://bit.ly/3059HRT)! If you have more questions, check out the [FAQs](http://projects.austintexas.io/projects/social-innovation-grant/about/FAQs/) or [contact us](mailto:innovation@austintexas.gov). 
 
-If you think your solution might align with the City’s strategic efforts, we encourage you to [apply](https://docs.google.com/forms/d/e/1FAIpQLScJZzlrm-PHHqzfrqBlWD0ci0x5UjhuHhpt4Kd1U4huWkZvOA/viewform?usp=sf_link)! If you have more questions, check out the [FAQs](http://projects.austintexas.io/projects/social-innovation-grant/about/FAQs/) or [contact us](mailto:innovation@austintexas.gov). 
-
-## [Apply for the Social Innovation Grant](https://docs.google.com/forms/d/e/1FAIpQLScJZzlrm-PHHqzfrqBlWD0ci0x5UjhuHhpt4Kd1U4huWkZvOA/viewform?usp=sf_link)
+## [Apply for the Social Innovation Grant](http://bit.ly/3059HRT)
 
 You must apply and be accepted into the Imapct Hub Accelerator to receive a Social Innovation Grant. You can find out more about the Impact Hub Austin Accelerator and apply [here](https://gust.com/programs/2019-austin-impact-accelerator).
