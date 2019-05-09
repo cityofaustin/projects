@@ -70,3 +70,10 @@ To what extent does the solution:
 * Have a development plan that  involves crucial stakeholders, especially those who are often underrepresented, and those who will be affected by the concept?
 * Have a capable team behind it?
 
+### What is the grant timeline?
+
+* [Impact Hub Accelerator applications](https://gust.com/programs/2019-austin-impact-accelerator) are due May 20, 2019
+* [Social Innovation Grant applications](http://bit.ly/3059HRT) are due May 24
+* Impact Hub Accelerator acceptance announcements are on June 5
+* Social Innovation Grant award announcements are on (or around) June 10
+* The Impact Hub Accelerator program begins June 19
