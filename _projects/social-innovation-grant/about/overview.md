@@ -7,6 +7,7 @@ The City of Austin identified several [priority outcome areas](https://austinstr
 
 We also know that social entrepreneurs in Austin are developing innovative solutions to address these challenges -- solutions that could work alongside the City’s efforts and make our collective impact even stronger. That’s why we’re investing $15K each in up to six [Austin Impact Hub 2019 accelerator](https://impacthubaustin.com/impact-accelerators/) participants to further develop their solutions and create evidence around how they may work in a municipal context.
 
+## [Apply for the Social Innovation Grant](http://bit.ly/3059HRT)
 
 ### Grant Details
 
