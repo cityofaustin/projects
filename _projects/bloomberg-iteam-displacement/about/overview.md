@@ -48,7 +48,7 @@ As a result of collaborative efforts between Mayor, Council, City Management and
 
 ### Definition and Measurment
 
-However, the city has yet to identify a methodology to measure progress against its [anti-displacement strategy](https://austinstrategicplan.bloomfire.com/series/3304505/posts/3302571-outcome-metrics-master-list ). The Austin i-team support this methodology development over the course of the year. The University of Texas at Austin’s report on gentrification and displacement, UpRooted, defines direct displacement as when:
+However, the city has yet to identify a methodology to measure progress against its [anti-displacement strategy](https://austinstrategicplan.bloomfire.com/series/3304505/posts/3302571-outcome-metrics-master-list ). The Austin i-team is supporting this methodology development over the course of the year. The University of Texas at Austin’s report on gentrification and displacement, [UpRooted](https://sites.utexas.edu/gentrificationproject/), defines direct displacement as when:
    1. residents can no longer afford to remain in their homes due to rising housing bills (rents or property taxes), or
    2. residents are forced out due to causes such as eminent domain, lease non-renewals, and evictions to make way for new development, or physical conditions that render their homes uninhabitable. The report also classifies different stages of gentrification.
 
