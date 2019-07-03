@@ -9,5 +9,5 @@ excerpt: The Innovation Office, in partnership with the Robert Wood Johnson Foun
 image_path: "/assets/img/projects/mayors-blockchain-challenge/BCChallenge3.jpg"
 active: true
 layout: redirect
-redirect_to: "projects/mypass-digital-identity/about/overview"
+redirect_to: "/projects/mypass-digital-identity/about/overview"
 ---
