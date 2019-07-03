@@ -1,24 +1,45 @@
----
-title: Welcome to the Challenge!
-position: 0
----
+The MyPass project, funded by the Robert Wood Johnson Foundation Pioneering Ideas in Technology and Health, will create a blockchain-enabled platform that stores, secures, validates, and automatically packages personal documents, facilitating resident access to social and health services especially vital to ending homelessness, such as housing, benefits, and access to medical care.
 
-## Do you have the tech brain and the Austin heart to hack homelessness services in our community?
+During the one year grant period, the project team will work with clients and service providers to develop and test a minimum viable product for a blockchain-based digital platform (MyPass) that will allow people experiencing homelessness to securely and permanently store, validate, and automatically package and submit information needed to access health and social services. 
 
-The streets of Austin aren't an easy place to live. Important personal documents are often lost or stolen, and without them, people experiencing homelessness have difficulty accessing important services like healthcare, employment, and housing. 
+Digital documents will be linked to an account accessible on any device, and a client will always retain complete ownership of personal information, even after no longer being homeless or after receiving care from providers, and will be able to remove any reference to personal data from the blockchain platform at any time. 
 
-[The Austin Mayor’s Office](http://mayoradler.wpengine.com/), in collaboration with [Dell Medical School](https://dellmed.utexas.edu/) and the [City of Austin Innovation Office](https://cityofaustin.github.io/innovation/), is working to improve access to services by using blockchain technology to permanently store and maintain IDs and other important documents. We’ll explore big questions and potential paths forward in the Challenge, and use what we learn in the [Bloomberg Philanthropies Mayor’s Challenge](https://mayorschallenge.bloomberg.org/), where we’ll continue working toward exciting and innovative solutions.
+MyPass is intended to empower clients with their own history, enable self-advocacy, and catalyze client-centered care. 
 
-**UPDATE:** The Mayor's Blockchain Challenge was a success! Thank you to the amazing group of community members, developers, designers, service providers, City staff, experts, and Mayor Adler for co-creating a set of solutions that will significatly improve the lives of those experiencing homelessness in Austin. We are energized by your compassion and talent, and can't wait to work with you more to advance these and similar solutions. Congratulations to the Compass, DigitalTown, Transmute, and Samiam teams for taking home awards!
+## Why MyPass?
 
-We're just getting strated. Thank you for being part of a community that's making Austin better for all. Now that the Challenge weekend is over, we'll be in touch soon with next steps.
+50% of people experiencing homelessness who seek access to 13 vital services lack an ID; and it takes 2-4 weeks to replace an ID document. This greatly increases the time to service, especially when multiple documents are needed for eligibility.
 
-## About the challenge
+> "I have most of my documentation. I am waiting for my birth certificate in mail so I can get my other documents." - person experiencing homelessness
 
-Through the [Mayor's Blockchain Challenge](https://www.eventbrite.com/e/the-mayors-blockchain-challenge-tickets-48004157728), you'll investigate ways to secure a basic need: a trusted digital identity.
+When you're forced to live on the street, it can be difficult to maintain identification documents, if you ever had them at all.
+    
+> "Never had an ID, documents, birth certificate. Lost those documents in foster care." - person experiencing homelessness
 
-Starting on July 13, we'll release guidelines, info, and scenarios that you should consider when designing your solution. You don't need to wait until the event to begin creating. In fact, we encourage you to start as soon as you get the first scenario!
+Service providers told us this idea will positively impact homelessness services by helping them gain efficiency. For example, two local service providers spend an estimated $20,000 annually on document replacement assistance.
 
-Beginning July 27, we’ll all come together at the Faulk Library to share, refine, and test the solutions you’ve been developing. There will be service providers, people with lived experience, and subject matter experts on hand to answer questions and give you access to real world insights and testing scenarios. Faulk is located at 800 Guadalupe St., Austin, TX 78701.
+Our neighbors experiencing homelessness told us it would give them more agency and control and less worry. This small act of a digital ID can save lives. 
+
+And finally, MyPass can scale. The Texas Homelessness Network told us how the platform that can help a broader population state-wide.
+
+## What Success Looks Like
+
+There are several parameters of success for the MyPass project during the grant period and beyond. Here are a few that are top of mind:
+
+**Efficiency of social service delivery: reduced rate of time from initial user input to provider acceptance for a service**
+* Reducing this time expedites the process of receiving services, prevents further deterioration, increases trust in the system, and reduces costs on the system.  
+* Trusted digital versions of documents, together with further smart contract development for benefits packages, would cut budget lines significantly, and create additional capacity in homelessness services.
+* "Substance abuse treatment depends on the type of insurance client has. MAP or no insurance they go to the Alameda House, if they have Medicaid they go to Austin Recovery or another org that takes Medicaid." - case manager on the type of navigation they have to do
+
+**Increased control, agency, motivation: reduction in time for people to self-resolve their condition of homelessness **
+* "Shows that you've taken initiative to take care of your own healthcare" [so you don’t have to worry about bias in ER].
+* "A way to prove to people I've been doing things."
+* “With the help of this solution, homeless people don’t have to worry as much."
+* “The most important card is my Art from the Streets card because you begin to feel like you’re somebody.”
+
+**Serve broader need: Scaling to 10% of those below the poverty line will help prevent homelessness to help with eligibility for:**
+* Rental Assistance programs
+* Training and Workforce Development programs
+* Home Repair programs
 
 We’ll take what we learn from the Challenge and apply for a grant from Bloomberg Philanthropies which could fund continued work on these and other solutions that will improve access to services for those experiencing homelessness, and in turn empower them to improve their quality of life.
