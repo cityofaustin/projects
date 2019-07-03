@@ -1,6 +1,6 @@
 The MyPass project, funded by the Robert Wood Johnson Foundation Pioneering Ideas in Technology and Health, will create a blockchain-enabled platform that stores, secures, validates, and automatically packages personal documents, facilitating resident access to social and health services especially vital to ending homelessness, such as housing, benefits, and access to medical care.
 
-During the one year grant period, the project team will work with clients and service providers to develop and test a minimum viable product for a blockchain-based digital platform (MyPass) that will allow people experiencing homelessness to securely and permanently store, validate, and automatically package and submit information needed to access health and social services. 
+During the one-year grant period, the project team will work with clients and service providers to develop and test a minimum viable product for a blockchain-based digital platform (MyPass) that will allow people experiencing homelessness to securely and permanently store, validate, and automatically package and submit information needed to access health and social services. 
 
 Digital documents will be linked to an account accessible on any device, and a client will always retain complete ownership of personal information, even after no longer being homeless or after receiving care from providers, and will be able to remove any reference to personal data from the blockchain platform at any time. 
 
