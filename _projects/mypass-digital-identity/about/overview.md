@@ -31,7 +31,7 @@ There are several parameters of success for the MyPass project during the grant 
 * Trusted digital versions of documents, together with further smart contract development for benefits packages, would cut budget lines significantly, and create additional capacity in homelessness services.
 * "Substance abuse treatment depends on the type of insurance client has. MAP or no insurance they go to the Alameda House, if they have Medicaid they go to Austin Recovery or another org that takes Medicaid." - case manager on the type of navigation they have to do
 
-**Increased control, agency, motivation: reduction in time for people to self-resolve their condition of homelessness **
+**Increased control, agency, motivation: reduction in time for people to self-resolve their condition of homelessness**
 * "Shows that you've taken initiative to take care of your own healthcare" [so you don’t have to worry about bias in ER].
 * "A way to prove to people I've been doing things."
 * “With the help of this solution, homeless people don’t have to worry as much."
