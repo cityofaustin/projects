@@ -41,5 +41,3 @@ There are several parameters of success for the MyPass project during the grant 
 * Rental Assistance programs
 * Training and Workforce Development programs
 * Home Repair programs
-
-We’ll take what we learn from the Challenge and apply for a grant from Bloomberg Philanthropies which could fund continued work on these and other solutions that will improve access to services for those experiencing homelessness, and in turn empower them to improve their quality of life.
