@@ -9,7 +9,7 @@ excerpt: We’re working with Austin’s Watershed Protection Department to impr
   ATXfloods provides information about the status of roadway closures to the public
   and emergency services.
 image_path: "/assets/img/projects/atxfloods/atxfloods.jpg"
-active: true
+active: false
 layout: redirect
 redirect_to: "/projects/atxfloods/about/overview"
 ---
