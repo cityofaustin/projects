@@ -7,6 +7,8 @@ The City of Austin Innovation Office, Equity Office, Sustainability Office, and 
 
 We're launching this grant program to research and design ways to close the gap on workforce development approaches for communities of color, specifically for the green jobs sector, while also stimulating a) the number of organizations discussing **equitable** pathways to green jobs, and b) partnerships between trusted community-based organizations, potential green job employers, and training/education institutions.
 
+You can [find more details about the grant here.](http://projects.austintexas.io/projects/equitable-green-jobs/about/grant-details/)
+
 ## [Apply for an Equitable Green Jobs grant](https://airtable.com/shrCIw4MYPiOezJ7j)
 
 ### Background
