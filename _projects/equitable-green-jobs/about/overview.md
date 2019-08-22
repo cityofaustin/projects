@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Equitable Green Jobs Grant
 position: 0
 ---
 
