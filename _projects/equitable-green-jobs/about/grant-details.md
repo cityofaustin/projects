@@ -3,7 +3,7 @@ title: Grant Details
 position: 1
 ---
 
-Here's what you need to know to apply for an Equitable Green Jobs grant. If you have questions about the grant, please send them to Daniel Culotta in the City of Austin Innovation Office. He can be reached at at daniel.culotta@austintexas.gov 
+Here's what you need to know to apply for an Equitable Green Jobs grant. If you have questions about the grant, please send them to Daniel Culotta in the City of Austin Innovation Officeat [daniel.culotta@austintexas.gov](mailto:daniel.culotta@austintexas.gov). 
 
 ### [Submit your Equitable Green Jobs grant application here.](https://airtable.com/shrCIw4MYPiOezJ7j) **You must submit your application prior to 5:00pm Central Standard Time on Wednesday, September 4, 2019**
 
