@@ -7,6 +7,10 @@ Here's what you need to know to apply for an Equitable Green Jobs grant. If you 
 
 ### [Submit your Equitable Green Jobs grant application here.](https://airtable.com/shrCIw4MYPiOezJ7j) **You must submit your application prior to 5:00pm Central Standard Time on Wednesday, September 4, 2019**
 
+### Request for Grant Application Form
+
+If you would like a pdf version of the Request for Grant Applicantions form, you can find it [here.](https://drive.google.com/open?id=1nKW1jXvEWUZHHpVCTIy94ZQqUbIHXF5S)
+
 ### Grant Amount and Term
 
 Multiple awards will be made, ranging from $10,000-$50,000 for either: 
