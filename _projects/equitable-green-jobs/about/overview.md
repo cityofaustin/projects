@@ -53,12 +53,10 @@ The map below shows areas in Austin where 20% or more of the population makes 20
    * Youth of color ages 16-24, from communities in geographic neighborhoods of Austin identified in the map.
    * Adults of color from communities who might want to transition from low-wage jobs into more skilled higher paying green jobs, living in the communities identified on the map.
 
-**Map of Austin zip codes where 20% or more of the population makes 200% or less of the federal poverty level**
-
 ![Grant focus area zip codes](/assets/img/projects/equitable-green-jobs/green-jobs-map-zip-codes.png)
-
-**Map showing the number of people in each census tract in the grant focus area that make 200% or less of the federal poverty level**
+Austin **zip codes** where 20% or more of the population makes 200% or less of the federal poverty level
 
 ![Grant focus area zip codes and census tracts](/assets/img/projects/equitable-green-jobs/green-jobs-map-zip-codes-census-tracts.png)
+Number of people in each **census tract** in the grant focus area that make 200% or less of the federal poverty level
 
 ## [Apply for an Equitable Green Jobs grant](https://airtable.com/shrCIw4MYPiOezJ7j)
