@@ -1,6 +1,6 @@
 ---
 title: Grant Details
-position: 0
+position: 1
 ---
 
 Here's what you need to know to apply for an Equitable Green Jobs grant.
