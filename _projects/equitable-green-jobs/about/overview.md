@@ -38,6 +38,8 @@ Green jobs are ones that result in improved human well-being and social equity, 
 
 **Catalyzing pathways through partnerships and ideas:** How might we catalyze a connection between trusted community-based organizations and the green jobs sector? How might we strengthen our city’s capacity for workforce development, equity, inclusion, and community action? How might we encourage more social venture capital and matching funds or partnerships to carry the work into maturity? *To create pathways to green jobs, we need to match trusted community-based organizations that serve the population in focus to green jobs employers around specific ideas for pilots.*
 
+## [Apply for an Equitable Green Jobs grant](https://airtable.com/shrCIw4MYPiOezJ7j)
+
 ### Where We're Focusing
 
 Economic inequities persist amongst racial groups in Austin. Therefore, the population we're focusing on for equitable access to green jobs is defined by individual income levels and race so that we might to eradicate the disparities.
@@ -53,10 +55,10 @@ The map below shows areas in Austin where 20% or more of the population makes 20
 
 **Map of Austin zip codes where 20% or more of the population makes 200% or less of the federal poverty level**
 
-![Map of Austin zip codes where 20% or more of the population makes 200% or less of the federal poverty level](/assets/img/projects/equitable-green-jobs/green jobs map zip codes.png "Equitable Green Jobs Grant areas of focus")
+![Grant focus area zip codes](/assets/img/projects/equitable-green-jobs/green-jobs-map-zip-codes.png)
 
 **Map showing the number of people in each census tract in the grant focus area that make 200% or less of the federal poverty level**
 
-![Map of Austin zip codes where 20% or more of the population makes 200% or less of the federal poverty level](/assets/img/projects/equitable-green-jobs/green jobs map zip codes and census tracts.png "Equitable Green Jobs Grant areas of focus")
+![Grant focus area zip codes and census tracts](/assets/img/projects/equitable-green-jobs/green-jobs-map-zip-codes-census-tracts.png)
 
 ## [Apply for an Equitable Green Jobs grant](https://airtable.com/shrCIw4MYPiOezJ7j)
