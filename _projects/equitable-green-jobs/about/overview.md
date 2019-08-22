@@ -53,10 +53,10 @@ The map below shows areas in Austin where 20% or more of the population makes 20
 
 **Map of Austin zip codes where 20% or more of the population makes 200% or less of the federal poverty level**
 
-![Map of Austin zip codes where 20% or more of the population makes 200% or less of the federal poverty level](assets/img/projects/equitable-green-jobs/green jobs map zip codes.png "Equitable Green Jobs Grant areas of focus")
+![Map of Austin zip codes where 20% or more of the population makes 200% or less of the federal poverty level](/assets/img/projects/equitable-green-jobs/green jobs map zip codes.png "Equitable Green Jobs Grant areas of focus")
 
 **Map showing the number of people in each census tract in the grant focus area that make 200% or less of the federal poverty level**
 
-![Map of Austin zip codes where 20% or more of the population makes 200% or less of the federal poverty level](assets/img/projects/equitable-green-jobs/green jobs map zip codes and census tracts.png "Equitable Green Jobs Grant areas of focus")
+![Map of Austin zip codes where 20% or more of the population makes 200% or less of the federal poverty level](/assets/img/projects/equitable-green-jobs/green jobs map zip codes and census tracts.png "Equitable Green Jobs Grant areas of focus")
 
 ## [Apply for an Equitable Green Jobs grant](https://airtable.com/shrCIw4MYPiOezJ7j)
