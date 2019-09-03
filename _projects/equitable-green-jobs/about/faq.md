@@ -7,4 +7,4 @@ If you have questions about the grant, please send them to Daniel Culotta in the
 
 #### What types of businesses and organizations can apply for an Equitable Green Jobs grant?
 
-We value the input and insights from all types of organizations, so if you want to work on one or more of the grant's focus areas, [please apply](https://airtable.com/shrCIw4MYPiOezJ7j)! We also encourage diverse partnerships in the application.
+We value input and insights from all types of organizations, so if you want to work on one or more of the grant's focus areas, [please apply](https://airtable.com/shrCIw4MYPiOezJ7j)! We also encourage diverse partnerships in the application.
