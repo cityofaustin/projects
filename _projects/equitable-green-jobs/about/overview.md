@@ -50,7 +50,7 @@ Green jobs are ones that result in improved human well-being and social equity, 
 
 ### Where We're Focusing
 
-Economic inequities persist amongst racial groups in Austin. Therefore, the population we're focusing on for equitable access to green jobs is defined by individual income levels and race so that we might to eradicate the disparities.
+Economic inequities persist amongst racial groups in Austin. Therefore, the population we're focusing on for equitable access to green jobs is defined by individual income levels and race so that we might help eradicate these disparities.
 
 **Economic inequities:** With regard to income levels, we focus on people making up to 200% of the federal poverty level. This level tracks to several measures that indicate vulnerability of the working poor who might experience displacement in a city with high growth and rapid gentrification: the United Way’s measure of Asset Limited, Income Constrained Employed (ALICE), which describes the “working poor;” and to the UT Uprooted Report on displacement which indicates that 80% of median family income ($75,000) creates a vulnerability to displacement:
 
