@@ -9,7 +9,15 @@ We're launching this grant program to research and design ways to close the gap 
 
 You can [find more details about the grant here.](http://projects.austintexas.io/projects/equitable-green-jobs/about/grant-details/)
 
-## [Apply for an Equitable Green Jobs grant](https://airtable.com/shrCIw4MYPiOezJ7j)
+### Awards
+
+Congratulations to our first cohort of grant awardees!
+
+**EcoRise** is piloting a program that will prepare AISD high school students to obtain the U.S. Green Building Council's LEED GA certification, and gain professional experiences in the architecture and green building fields through an internship program with the UT School of Architecture and BLGY Architecture.
+
+**Central South Carpenters Regional Council** is partnering with American Youthworks, the International Brotherhood of Electrical Workers Local 520, and local employers to create a pilot program which provides young people in east Austin the training,  certifications, and experience required to become professionals in the renewable energy sector.
+
+**Solar Austin** is partnering with Huston-Tillotson University to pilot a new clean energy jobs internship program that will provide women and students of color with culturally-informed pathways to gain training, experience, and placement in high-paying solar and clean energy jobs in Austin.
 
 ### Background
 
@@ -40,8 +48,6 @@ Green jobs are ones that result in improved human well-being and social equity, 
 
 **Catalyzing pathways through partnerships and ideas:** How might we catalyze a connection between trusted community-based organizations and the green jobs sector? How might we strengthen our city’s capacity for workforce development, equity, inclusion, and community action? How might we encourage more social venture capital and matching funds or partnerships to carry the work into maturity? *To create pathways to green jobs, we need to match trusted community-based organizations that serve the population in focus to green jobs employers around specific ideas for pilots.*
 
-## [Apply for an Equitable Green Jobs grant](https://airtable.com/shrCIw4MYPiOezJ7j)
-
 ### Where We're Focusing
 
 Economic inequities persist amongst racial groups in Austin. Therefore, the population we're focusing on for equitable access to green jobs is defined by individual income levels and race so that we might to eradicate the disparities.
@@ -61,6 +67,3 @@ Austin **zip codes** where 20% or more of the population makes 200% or less of t
 
 ![Grant focus area zip codes and census tracts](/assets/img/projects/equitable-green-jobs/green-jobs-map-zip-codes-census-tracts.png)
 Number of people in each **census tract** in the grant focus area that make 200% or less of the federal poverty level
-
-
-## [Apply for an Equitable Green Jobs grant](https://airtable.com/shrCIw4MYPiOezJ7j)
