@@ -3,9 +3,7 @@ title: Grant Details
 position: 1
 ---
 
-Here's what you need to know to apply for an Equitable Green Jobs grant. If you have questions about the grant, please send them to Daniel Culotta in the City of Austin Innovation Officeat [daniel.culotta@austintexas.gov](mailto:daniel.culotta@austintexas.gov). 
-
-### [Submit your Equitable Green Jobs grant application here.](https://airtable.com/shrCIw4MYPiOezJ7j) **You must submit your application prior to 5:00pm Central Standard Time on Wednesday, September 4, 2019**
+Here are details about the Equitable Green Jobs Grant program. Please note that the grant applicaiton is closed. If you have questions about the grant, please send them to Daniel Culotta in the City of Austin Innovation Officeat [daniel.culotta@austintexas.gov](mailto:daniel.culotta@austintexas.gov). 
 
 ### Request for Grant Application Form
 
@@ -85,34 +83,6 @@ Grant funds shall be distributed directly to the primary organization / sole fis
   * Resolve questions, provide timely feedback as needed by participating in conference calls, as needed.
   * Provide any available, useful data to help focus on the population to be served.
 
-### How to Submit Your Application
-
-#### [Submit your application here](https://airtable.com/shrCIw4MYPiOezJ7j)
-
-#### **You must submit your application prior to 5:00pm Central Standard Time on Wednesday, September 4, 2019**
-
-The linked submission form will ask you to submit:
-1. Name of organization submitting application (primary organization)
-1. Sector of primary organization (trusted community based organization or trade association/technical training-education institution, or employer)
-1. Briefly describe your applicable experience
-1. Describe the community ties of your organization and who you currently serve. (What makes you a trusted community based organization?)
-1. Name(s) of cooperating organization(s)
-1. Sector of cooperating organization(s) (trusted community based organization or trade association/technical training-education institution, or employer)
-1. Describe the sector or community that the cooperating organization serves.
-1. Area of focus of your application (choose all that apply)
-  * Research to close the gap in workforce development programs and approaches
-  * Research on green jobs in Austin
-  * Catalyzing pathways through partnerships and ideas
-1. Attach 1) your application and 2) a letter indicating agreement to cooperate from secondary organization(s) 
-Application should include: 
-  * Area and population in focus
-  * Approach to your selected area and population in focus
-  * Experience serving the population in focus
-  * Cost Structure / Budget
-  * Timeline of activities and milestones
-
-Applicants should be registered to do business with the City prior to submitting an application. [Applicants can register as a City vendor here](https://www.austintexas.gov/financeonline/vendor_connection/index.cfm)
-
 ### Evaluation Factors
 
 Applications will be evaluated on the following factors:
@@ -122,4 +92,4 @@ Applications will be evaluated on the following factors:
   * Cost Proposal
   * Local Presence
   
-If you have questions about the grant, please send them to Daniel Culotta in the City of Austin Innovation Office. He can be reached at at daniel.culotta@austintexas.gov  
+If you have questions about the grant, please send them to Daniel Culotta in the City of Austin Innovation Office at daniel.culotta@austintexas.gov  
