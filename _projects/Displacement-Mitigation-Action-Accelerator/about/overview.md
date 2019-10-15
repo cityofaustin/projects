@@ -3,12 +3,12 @@ title: Event info
 position: 0
 ---
 
-#### Save the Date!
+# Save the Date!
 
-### Nov. 12th - 13th & Dec. 13th 
-## For the Displacement Mitigation Action Accelerator 
+## Nov. 12th - 13th & Dec. 13th 
+### For the Displacement Mitigation Action Accelerator 
 
-# Your community needs you! 
+#### Your community needs you! 
 
 Come work in multidisciplinary teams to tackle displacement in our communities. 
 
@@ -19,8 +19,10 @@ We will grant between **3-6 awards** ranging **from $12,500 upto $25,000**.
 
 When: 
 **Nov. 12th - 13th & Dec. 13th**
+
 Location: 
 **TBD**
+
 Hours:  
 **Nov. 12th - 3:00 PM to 5:30 PM -- Nov. 13th - 8:00 AM to 6:00 PM -- Dec. 13th - 10:00 AM to 2:00 PM** 
 
