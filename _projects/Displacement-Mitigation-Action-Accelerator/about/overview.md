@@ -22,7 +22,7 @@ Work Sessions: **Nov. 12th - 3:00 PM to 5:30 PM // Nov. 13th - 10:00 AM to 2:00 
 Pitch Session: **Dec. 13th - 10:00 AM to 2:00 PM**
 
 Location: 
-**TBD**
+**To be announced**
 
 
 Invitation and more information to follow. 
