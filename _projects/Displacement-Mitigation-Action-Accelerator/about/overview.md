@@ -17,7 +17,7 @@ This event will be a space where you can come up with your own ideas to mitigate
 **The best ideas will get initial funding!**
 We will grant between **3-6 awards** ranging **from $12,500 up to $25,000**. 
 
-When: 
+Date: 
 **Nov. 12th - 13th & Dec. 13th**
 
 Location: 
