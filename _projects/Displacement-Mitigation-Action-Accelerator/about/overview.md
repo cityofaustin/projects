@@ -17,9 +17,12 @@ This event will be a space where you can come up with your own ideas to mitigate
 **The best ideas will get initial funding!**
 We will grant between **3-6 awards** ranging **from $12,500 up to $25,000**. 
 
-Dates and Hours: *separate
+Dates and Hours:
+
 Work Sessions: **Nov. 12th - 3:00 PM to 5:30 PM // Nov. 13th - 10:00 AM to 2:00 PM** 
+
 Pitch Session: **Dec. 13th - 10:00 AM to 2:00 PM**
+
 
 Location: 
 **To be announced**
