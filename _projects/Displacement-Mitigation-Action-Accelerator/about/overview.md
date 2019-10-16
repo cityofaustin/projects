@@ -14,6 +14,7 @@ Join us in a space designed for you to join others on cross-sector teams to buil
 
 **1. Work Sessions: Nov. 12th - 3:00 PM to 5:30 PM // Nov. 13th - 8:00 AM to 6:00 PM**
 ⋅⋅* The best teams will get free technical assistance to flesh out their idea
+
 **2. Pitch Session: Dec. 13th - 10:00 AM to 2:00 PM**
 ⋅⋅* An evaluation panel will choose between 3-6 awards to receive funds to build evidence that the idea works in community.
 
