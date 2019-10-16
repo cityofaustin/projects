@@ -3,7 +3,7 @@ title: Event info
 position: 0
 ---
 
-[actionaccelerator]: https://github.com/assets/img/projects/Displacement-Mitigation-Action-Accelerator/BANNERGITHUB.png
+![Action accelerator logo](/assets/img/projects/Displacement-Mitigation-Action-Accelerator/BANNERGITHUB.png)
 
 # Save the Date!
 
@@ -32,7 +32,7 @@ Pitch Session: **Dec. 13th - 10:00 AM to 2:00 PM**
 
 Invitation and more information to follow. 
 
-After our first day of activities we are heading to the Austin Impact Accelerator. It will be a great way to get inspiration for our work ahead. [Register here] (https://go.impacthubaustin.com/accelerator-community-showcase-day).
+After our first day of activities we are heading to the Austin Impact Accelerator. It will be a great way to get inspiration for our work ahead. [Register here](https://go.impacthubaustin.com/accelerator-community-showcase-day).
 
 
 
