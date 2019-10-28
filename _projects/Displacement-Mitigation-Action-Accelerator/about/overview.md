@@ -14,7 +14,6 @@ The City of Austin Office of Innovation invites you to the Displacement Mitigati
 
 This is a space where you will find all the ingredients of possibility together. We need your combinatorial creativity to work smarter on solutions to tackle this problem. 
 
-•*Moving from your home when you do not want to*
 
 ### What is this event about? 
 
@@ -48,5 +47,5 @@ We want to be intentional and focused, so we request that you put forward concep
 
 After our first day of activities we are heading to the Austin Impact Accelerator. It will be a great way to get inspiration for our work ahead. [Register here](https://go.impacthubaustin.com/accelerator-community-showcase-day).
 
-
+•*For the purposes of this event, displacement is moving from your home when you do not want to, and it is connected to gentrification*
 
