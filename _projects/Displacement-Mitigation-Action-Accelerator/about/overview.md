@@ -14,7 +14,7 @@ The City of Austin Office of Innovation invites you to the Displacement Mitigati
 
 This is a space where you will find all the ingredients of possibility together. We need your combinatorial creativity to work smarter on solutions to tackle this problem. 
 
-*Moving from your home when you do not want to
+* Moving from your home when you do not want to
 
 ### What is this event about? 
 
