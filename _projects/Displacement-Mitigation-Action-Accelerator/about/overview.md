@@ -7,7 +7,7 @@ position: 0
 
 # Displacement Mitigation Action Accelerator 
 
-## Nov. 12th - 13th & Dec. 13th 
+## Nov. 12 - 13 & Dec. 13 
 
 
 The City of Austin Office of Innovation invites you to the Displacement Mitigation Action Accelerator! The Accelerator is a 3-day event to catalyze community-generated concepts that contribute to mitigate displacement•. 
