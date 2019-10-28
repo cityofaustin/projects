@@ -10,14 +10,12 @@ position: 0
 ## Nov. 12 - 13 & Dec. 13 
 
 
-The City of Austin Office of Innovation invites you to the Displacement Mitigation Action Accelerator! The Accelerator is a 3-day event to catalyze community-generated concepts that contribute to mitigate displacement•. 
-
-This is a space where you will find all the ingredients of possibility together. We need your combinatorial creativity to work smarter on solutions to tackle this problem. 
+The City of Austin Office of Innovation invites you to the Displacement Mitigation Action Accelerator! The Accelerator is a 3-day event to catalyze community-generated concepts that mitigate displacement•. 
 
 
 ### What is this event about? 
 
-This is a unique opportunity to work on possible solutions to displacement and get seed money to build evidence about concepts that work to fight displacement! We have designed a space for you and community collaborators to build an accelerated pathway for displacement mitigation interventions in three areas that will significantly impact this problem in Austin: 
+This is a unique opportunity to work on possible solutions and get seed money to build evidence about concepts that work to fight displacement! We have designed a space for you and community collaborators to build an accelerated pathway for displacement mitigation interventions in three focus areas that will significantly impact this problem in Austin: 
 
    
     A. evictions and predatory pressures; 
@@ -26,16 +24,17 @@ This is a unique opportunity to work on possible solutions to displacement and g
 
 ### How to participate? 
 
-We want to be intentional and focused, so we request that you put forward concepts you or your organization have regarding one of the three subjects mentioned above. To participate at the event, please: 
+We want to be intentional and focused, so we request that you put forward concepts you or your organization have regarding one of the three focus areas mentioned above. To participate at the event, please: 
 
 1. Review the problem frame you want to work on
 2. Think of a concept –related to the problem frame– that you have been wanting to try for a while   
-   *Hint: The right concept is something you have thought before and said: ‘This could work!’. Think of what will impact          communities in the near-term future.*
-3. Once you have decided on a concept, fill out this form
+   *Hint: The right concept is something you have thought of before and said: “This could work!” Think of what will impact        communities in the near-term future..*
+3. Once you have decided on a concept, fill out this [form](https://airtable.com/tblCGG4V8Ckz4mta2/viwVYG9HhTD0IKdLL?blocks=hide)
 4. Come to the event on Nov. 12th ready to iterate on your concept and collaborate! 
 
 ### Dates to keep in mind: 
 
+**Application Due Date**: Nov. 5, 2019 by 11:59 PM
 
 **Orientation**: Nov. 12th - 3:00 PM to 5:30 PM at [Conley-Guerrero Senior Activity Center](https://goo.gl/maps/mcPU2PkwGbyiYf9Q9)
 
