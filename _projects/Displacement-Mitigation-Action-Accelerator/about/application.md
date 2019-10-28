@@ -3,4 +3,4 @@ title: Successful Concepts
 position: 3
 ---
 
-Embed Airtable application 
+### Sign up for the [Action Accelerator here](https://airtable.com/shrEN0R3acNq3SEpd)
