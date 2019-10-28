@@ -10,11 +10,11 @@ position: 0
 ## Nov. 12th - 13th & Dec. 13th 
 
 
-The City of Austin Office of Innovation invites you to the Displacement Mitigation Action Accelerator! The Accelerator is a 3-day event to catalyze community-generated concepts that contribute to mitigate displacement*. 
+The City of Austin Office of Innovation invites you to the Displacement Mitigation Action Accelerator! The Accelerator is a 3-day event to catalyze community-generated concepts that contribute to mitigate displacement•. 
 
 This is a space where you will find all the ingredients of possibility together. We need your combinatorial creativity to work smarter on solutions to tackle this problem. 
 
-* Moving from your home when you do not want to
+•*Moving from your home when you do not want to*
 
 ### What is this event about? 
 
@@ -38,11 +38,11 @@ We want to be intentional and focused, so we request that you put forward concep
 ### Dates to keep in mind: 
 
 
-**Orientation**: Nov. 12th - 3:00 PM to 5:30 PM at Conley-Guerrero Senior Activity Center
+**Orientation**: Nov. 12th - 3:00 PM to 5:30 PM at [Conley-Guerrero Senior Activity Center](https://goo.gl/maps/mcPU2PkwGbyiYf9Q9)
 
-**Work**: Nov. 13th - 8:00 AM to 6:00 PM at the Faulk Central Library 
+**Work**: Nov. 13th - 8:00 AM to 6:00 PM at the [Faulk Central Library](https://goo.gl/maps/MKcWtFfiREk1GdRK9)
 
-**Pitch and Awards**: Dec. 13th - 10:00 AM to 2:00 PM at Austin Central Library 
+**Pitch and Awards**: Dec. 13th - 10:00 AM to 2:00 PM at [Austin Central Library](https://goo.gl/maps/ERvKG8ofDHbj2VzR9) 
 
 
 
