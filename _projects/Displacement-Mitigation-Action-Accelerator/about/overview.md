@@ -5,7 +5,7 @@ position: 0
 
 ![Action accelerator logo](/assets/img/projects/Displacement-Mitigation-Action-Accelerator/BANNERGITHUB.png)
 
-# The Displacement Mitigation Action Accelerator 
+# Displacement Mitigation Action Accelerator 
 
 ## Nov. 12th - 13th & Dec. 13th 
 
