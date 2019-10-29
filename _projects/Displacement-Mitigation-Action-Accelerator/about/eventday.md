@@ -24,4 +24,4 @@ position: 4
   * Evaluation 
   * Award of prizes 
 
-#### By the end of the day we will have multiple concepts to be prototyped. The top 3-6 awards will receive awards ranging from $X,000 to $X,000. 
+#### By the end of the day we will have multiple concepts to be prototyped. The top 3-6 will receive awards to finance the development of their idea. 
