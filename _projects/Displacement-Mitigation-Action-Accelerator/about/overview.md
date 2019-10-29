@@ -15,7 +15,7 @@ The City of Austin Office of Innovation invites you to the Displacement Mitigati
 
 ### What is this event about? 
 
-This is a unique opportunity to work on possible solutions and get seed money to build evidence about concepts that work to fight displacement! We have designed a space for you and community collaborators to build an accelerated pathway for displacement mitigation interventions in three focus areas that will significantly impact this problem in Austin: 
+This is a unique opportunity to work on possible solutions and get seed money to build evidence about concepts that work to fight displacement! We have designed a space for you and community collaborators to build an accelerated pathway for displacement• mitigation interventions in three focus areas that will significantly impact this problem in Austin: 
 
 #### A. Evictions and non-court methods
 In Austin, many displacements occur at the individual level through formal evictions and through “non-court” methods that are predatory. There are about 6,700 evictions a year in the city, but “non-court” ordered methods likely make up a majority of displacement locally. Arbitrary rent increases, enforcement of punitive house rules and unforeseen personal situations can have a lasting effect on Austinites’ lives when they lead to displacement. All types of evictions are devastating to residents. 
@@ -52,6 +52,7 @@ We want to be intentional and focused, so we request that you put forward concep
 
 
 After our first day of activities we are heading to the Austin Impact Accelerator. It will be a great way to get inspiration for our work ahead. [Register here](https://go.impacthubaustin.com/accelerator-community-showcase-day).
+
 
 •*For the purposes of this event, displacement is moving from your home when you do not want to, and it is connected to gentrification*
 
