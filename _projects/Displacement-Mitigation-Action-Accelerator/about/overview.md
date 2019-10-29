@@ -17,20 +17,27 @@ The City of Austin Office of Innovation invites you to the Displacement Mitigati
 
 This is a unique opportunity to work on possible solutions and get seed money to build evidence about concepts that work to fight displacement! We have designed a space for you and community collaborators to build an accelerated pathway for displacement mitigation interventions in three focus areas that will significantly impact this problem in Austin: 
 
-   
-    A. evictions and predatory pressures; 
-    B. alternate income generating or cost reduction options for homeowners; and 
-    C. holistic service packages and combinations designed to stabilize people in their homes
+#### A. Evictions and non-court methods
+In Austin, many displacements occur at the individual level through formal evictions and through “non-court” methods that are predatory. There are about 6,700 evictions a year in the city, but “non-court” ordered methods likely make up a majority of displacement locally. Arbitrary rent increases, enforcement of punitive house rules and unforeseen personal situations can have a lasting effect on Austinites’ lives when they lead to displacement. All types of evictions are devastating to residents. 
+
+#### B. Alternate income generating or cost reduction options for homeowners
+The gap between income and housing costs in Austin is creating complicated financial situations for many. Housing prices and property taxes are both increasing, for many salaries are not keeping up. There are families in every neighborhood in the city that are struggling. There are a potential 23,608 homeowner households struggling with housing costs. Yet tens of thousands of properties may be able to accommodate additional structures, and many residents may have spare rooms or units that could result in income-generating opportunities in Austin’s hot housing market. 
+
+#### C. Holistic service packages and combinations to stabilize people in their neighborhoods
+The right combination of services and programs can help people at risk of being displaced. What that mix looks like changes in each neighborhood. We are looking for new and creative collaborations amongst organizations, as well as how to transition available resources into a displacement mitigation perspective.
+
 
 ### How to participate? 
 
 We want to be intentional and focused, so we request that you put forward concepts you or your organization have regarding one of the three focus areas mentioned above. To participate at the event, please: 
 
-1. Review the problem frame you want to work on
-2. Think of a concept –related to the problem frame– that you have been wanting to try for a while   
+1. Review the description of our three focus areas
+2. Pick one you want to work on 
+3. Think of a concept –related to the three focus areas– that you have been wanting to try for a while   
    *Hint: The right concept is something you have thought of before and said: “This could work!” Think of what will impact        communities in the near-term future..*
 3. Once you have decided on a concept, fill out this [form](https://airtable.com/tblCGG4V8Ckz4mta2/viwVYG9HhTD0IKdLL?blocks=hide)
-4. Come to the event on Nov. 12th ready to iterate on your concept and collaborate! 
+4. Review the problem frames we will send you in the next couple of days
+5. Come to the event on Nov. 12th ready to iterate on your concept and collaborate! 
 
 ### Dates to keep in mind: 
 
