@@ -20,7 +20,7 @@ This is a unique opportunity to work on possible solutions and get seed money to
 #### A. Evictions and non-court methods
 In Austin, many displacements occur at the individual level through formal evictions and through “non-court” methods that are predatory. There are about 6,700 evictions a year in the city, but “non-court” ordered methods likely make up a majority of displacement locally. Arbitrary rent increases, enforcement of punitive house rules and unforeseen personal situations can have a lasting effect on Austinites’ lives when they lead to displacement. All types of evictions are devastating to residents. 
 
-#### B. Alternate income generating or cost reduction options for homeowners
+#### B. Alternate income-generating or cost-reducing options for homeowners
 The gap between income and housing costs in Austin is creating complicated financial situations for many. Housing prices and property taxes are both increasing, for many salaries are not keeping up. There are families in every neighborhood in the city that are struggling. There are a potential 23,608 homeowner households struggling with housing costs. Yet tens of thousands of properties may be able to accommodate additional structures, and many residents may have spare rooms or units that could result in income-generating opportunities in Austin’s hot housing market. 
 
 #### C. Holistic service packages and combinations to stabilize people in their neighborhoods
