@@ -41,7 +41,7 @@ We want to be intentional and focused, so we request that you put forward concep
 
 ### Dates to keep in mind: 
 
-**Application Due Date**: Nov. 5, 2019 by 11:59 PM
+**Application Due Date**: Nov. 10, 2019 by 11:59 PM
 
 **Orientation**: Nov. 12th - 3:00 PM to 5:30 PM at [Conley-Guerrero Senior Activity Center](https://goo.gl/maps/mcPU2PkwGbyiYf9Q9)
 
