@@ -35,7 +35,7 @@ We want to be intentional and focused, so we request that you put forward concep
 2. Pick one you want to work on 
 3. Think of a concept –related to the three focus areas– that you have been wanting to try for a while   
    *Hint: The right concept is something you have thought of before and said: “This could work!” Think of what will impact        communities in the near-term future..*
-3. Once you have decided on a concept, fill out this [form](https://airtable.com/tblCGG4V8Ckz4mta2/viwVYG9HhTD0IKdLL?blocks=hide)
+3. Once you have decided on a concept, fill out this [form](https://airtable.com/shrEN0R3acNq3SEpd)
 4. Review the problem frames we will send you in the next couple of days
 5. Come to the event on Nov. 12th ready to iterate on your concept and collaborate! 
 
