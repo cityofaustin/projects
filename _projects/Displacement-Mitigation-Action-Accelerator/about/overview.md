@@ -45,7 +45,7 @@ We want to be intentional and focused, so we request that you put forward concep
 
 **Orientation**: Nov. 12th - 3:00 PM to 5:30 PM at [Conley-Guerrero Senior Activity Center](https://goo.gl/maps/mcPU2PkwGbyiYf9Q9)
 
-**Work**: Nov. 13th - 8:00 AM to 6:00 PM at the [Faulk Central Library](https://goo.gl/maps/MKcWtFfiREk1GdRK9)
+**Work**: Nov. 13th - 8:00 AM to 6:00 PM at the [Faulk Library](https://goo.gl/maps/MKcWtFfiREk1GdRK9)
 
 **Pitch and Awards**: Dec. 13th - 10:00 AM to 2:00 PM at [Austin Central Library](https://goo.gl/maps/ERvKG8ofDHbj2VzR9) 
 
