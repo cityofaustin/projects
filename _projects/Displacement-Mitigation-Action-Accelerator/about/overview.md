@@ -10,26 +10,25 @@ position: 0
 ## Nov. 12 - 13 & Dec. 13 
 
 
-The City of Austin Office of Innovation invites you to the Displacement Mitigation Action Accelerator! The Accelerator is a 3-day event to catalyze community-generated concepts that mitigate displacement•. 
-
+The City of Austin Office of Innovation invites you to the Displacement Mitigation Action Accelerator! The Accelerator is a 3-day event to catalyze community-generated concepts that mitigate displacement.
 
 ### What is this event about? 
 
-This is a unique opportunity to work on possible solutions and get seed money to build evidence about concepts that work to fight displacement! We have designed a space for you and community collaborators to build an accelerated pathway for displacement• mitigation interventions in **three focus areas that will significantly impact this problem in Austin:** 
+This is a unique opportunity to work on possible solutions and get seed money to build evidence about concepts that work to fight displacement. We have designed a space for you and community collaborators to build an accelerated pathway for displacement mitigation interventions in **three focus areas that will significantly impact this problem in Austin**:
 
 #### A. Evictions and non-court methods of evictions
-In Austin, many displacements occur at the individual level through formal evictions and through “non-court” methods of evictions that are predatory. There are about 6,700 evictions a year in the city, but these “non-court” methods of evictions likely make up a majority of displacement locally. Arbitrary rent increases, enforcement of punitive house rules and unforeseen personal situations can have a lasting effect on Austinites’ lives when they lead to displacement. All types of evictions are devastating to residents. 
+In Austin, many displacements occur at the individual level through formal evictions and through “non-court” methods. There are about 6,700 evictions a year in the city, but research indicates that “non-court” ordered methods likely make up a majority of displacement. These non-court methods can include arbitrary rent increases, enforcement of punitive “house rules,” but data is limited on the number and variety of these methods.  We especially seek to advance concepts that can help residents adapt or respond to non-court methods of evictions. 
 
 #### B. Alternate income-generating or cost-reducing options for homeowners
-The gap between income and housing costs in Austin is creating complicated financial situations for many. Housing prices and property taxes are both increasing, for many salaries are not keeping up. There are families in every neighborhood in the city that are struggling. There are a potential 23,608 homeowner households struggling with housing costs. Yet tens of thousands of properties may be able to accommodate additional structures, and many residents may have spare rooms or units that could result in income-generating opportunities in Austin’s hot housing market. 
+It is difficult for many households to adapt to rising costs. Data analysis indicates a universe of need of approximately 23,608 homeowner households vulnerable to displacement. Whether it is accommodating additional structures, renting spare rooms, or another opportunity to be identified, we seek to accelerate  concepts that could result in income-generating opportunities for homeowner residents, so that they might adapt to rising costs. 
 
 #### C. Holistic service packages and combinations to stabilize people in their neighborhoods
-The right combination of services and programs can help people at risk of being displaced. What that mix looks like changes in each neighborhood. We are looking for new and creative collaborations amongst organizations, as well as how to transition available resources into a displacement mitigation perspective.
+Most services are not designed with displacement in mind. However, social service providers have suggested that there is a  right-sized combination of services and programs can help people at risk of being displaced. What that mix looks like changes in each neighborhood, for each situation. We are looking for new and creative collaborations amongst organizations, that might re-combine  available resources into a displacement mitigation approach.
 
 
 ### How to participate? 
 
-We want to be intentional and focused, so we request that you put forward concepts you or your organization have regarding one of the three focus areas mentioned above. To participate at the event, please: 
+We want to be intentional and focused, so we request that you put forward short concepts (only 4-5 sentences) that you or your organization have regarding one of the three focus areas mentioned above. To participate at the event, please:
 
 **I want to participate and I have a concept...**
 
@@ -69,5 +68,5 @@ You can also fill the form out for a teammate that has difficulty doing this.
 After our first day of activities we are heading to the Austin Impact Accelerator. It will be a great way to get inspiration for our work ahead. [Register here](https://go.impacthubaustin.com/accelerator-community-showcase-day).
 
 
-•*For the purposes of this event, displacement is moving from your home when you do not want to, and it is connected to gentrification*
+*For the purposes of this event, displacement is moving from your home when you do not want to, and it is connected to gentrification*
 
