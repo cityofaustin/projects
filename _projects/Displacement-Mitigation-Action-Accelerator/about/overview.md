@@ -22,7 +22,7 @@ In Austin, many displacements occur at the individual level through formal evict
 #### B. Alternate income-generating or cost-reducing options for homeowners
 It is difficult for many households to adapt to rising costs. Data analysis indicates a universe of need of approximately 23,608 homeowner households vulnerable to displacement. Whether it is accommodating additional structures, renting spare rooms, or another opportunity to be identified, we seek to accelerate  concepts that could result in income-generating opportunities for homeowner residents, so that they might adapt to rising costs. 
 
-#### C. Holistic service packages and combinations to stabilize people in their neighborhoods
+#### C. Holistic service packages and combinations to stabilize residents in their neighborhoods
 Most services are not designed with displacement in mind. However, social service providers have suggested that there is a  right-sized combination of services and programs can help people at risk of being displaced. What that mix looks like changes in each neighborhood, for each situation. We are looking for new and creative collaborations amongst organizations, that might re-combine  available resources into a displacement mitigation approach.
 
 
