@@ -1,9 +1,9 @@
 ---
-title: 3. Possible Solutions Must To Consider... 
+title: 3. Possible Solutions Must Consider... 
 position: 2
 ---
 
-For this event we need to take a look at the special conditions related to displacement that takes place in Austin. Any viable concept must **account for what we are not allowed to do, the velocity of our local displacement problem, speculative market forces, and the magnitude of the problem**. 
+For this event we need to take a look at the special conditions related to displacement that takes place in Austin. Any viable concept must **account for what we are not allowed to do, the velocity of local displacement, speculative market forces, and the magnitude of the problem**. 
 
 ### Tools that are not available in Texas… 
   * During 2018, more than 20% of renters in Austin were **spending more than half their income in rent**. 
