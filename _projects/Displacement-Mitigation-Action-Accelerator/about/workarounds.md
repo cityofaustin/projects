@@ -14,7 +14,7 @@ For this event we need to take a look at the special conditions related to displ
     * Affordable housing linkage fees (also known as impact fees)
     * Tenant right-to-purchase program, and flat dollar homestead property tax exemption for low-value properties.
 
-### The velocity of our local displacement problem
+### The velocity of local displacement
   * Ranked the highest-growth city in the country in 2018, Austin has experienced a population growth of 21% over the last eight years. 
   * The median rent has **increased 30% in the last 5 years**. 
     * **2018** Median Gross Rent in Austin: **$1,314**
