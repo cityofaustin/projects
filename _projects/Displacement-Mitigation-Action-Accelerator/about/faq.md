@@ -49,6 +49,6 @@ These are questions we have received from Accelerator participants that relate t
 
 * Please email the Office of Innovation and let us know your needs. We will attempt to provide this type of assistance. We will make all types of technical assistance available to all teams.
 
-#### If a team is awarded dollars, must they do the activities they pitched for?
+#### If a team is awarded dollars, do they have to spend them on the activities they pitched for?
 
 * Funds are strictly provided for the activities described in your pitch. If awarded, your pitch will become the scope of work in the grant agreement. A contract describing approved activities will be required for the disbursement of dollars.
