@@ -39,7 +39,11 @@ These are questions we have received from Accelerator participants that relate t
 
 #### Is there a way to help defray costs that teams may incur for small miscellaneous expenses from concept testing in preparation for the December 13 event?
 
-* Please email the Office of Innovation and let us know your needs. We will attempt to provide this type of assistance, which may include compensating residents for completing interviews or surveys.
+* Please email the Office of Innovation and let us know your needs and we will work to provide this type of assistance.
+
+#### Is there compensation available for residnets in exchange for interview and/or survey feedback?
+
+* Yes, please share those needs with Measure Austin. We have set up a payment method and guidelines with them, and they will be able to process compensation for individuals.
 
 #### Can you provide additional data sources and/or help us navigate the Neighborhood Strategy Stabilization Tool?
 
