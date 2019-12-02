@@ -6,29 +6,28 @@ position: 7
 The Pitch Session for The Displacement Mitigation Action Accelerator will have the following people as judges: 
 
 
-## Erika Leak
+### Erika Leak
 *Division Manager*
 **Neighborhood Housing and Community Development Department** 
 
 
-## Verónica Briseño 
+### Verónica Briseño 
 *Director*
 **City of Austin Economic Development Department** 
 
 
-## Meagan Longley
+### Meagan Longley
 
 *Vice President* 
-
 **Austin Community Foundation**
 
 
-## Madge Vasquez  
+### Madge Vasquez  
 *Chief Executive Officer*
 **Mission Capital**  
 
 
-## Xavier Zárate
+### Xavier Zárate
 *Board Member*, **Velocity Credit Union**
 *Program Manager*, **City of Austin Family Business Loan Program** 
 
