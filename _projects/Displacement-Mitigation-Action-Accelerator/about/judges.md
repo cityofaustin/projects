@@ -36,4 +36,11 @@ The judges for the Pitch Session on December 13, 2019 are:
 *Program Manager*, **City of Austin Family Business Loan Program** 
 
 
+### Keree Brannon
+*Lead*
+
+**Equity Academy, Health Equity & Development Division at Austin Public Health** 
+
+
+
 ## Equity Office - TBD ## 
