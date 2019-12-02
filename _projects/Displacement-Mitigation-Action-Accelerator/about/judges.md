@@ -43,4 +43,4 @@ The judges for the Pitch Session on December 13, 2019 are:
 
 
 
-## Equity Office - TBD ## 
+### Equity Office - TBD  
