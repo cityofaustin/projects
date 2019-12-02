@@ -3,8 +3,7 @@ title: Judges
 position: 7
 ---
 
-The Pitch Session for The Displacement Mitigation Action Accelerator will have the following people as judges: 
-
+The judges for the Pitch Session on December 13, 2019 are: 
 
 ### Erika Leak
 *Division Manager*
