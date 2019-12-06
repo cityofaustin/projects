@@ -3,8 +3,10 @@ title: 5. The Day of The Event
 position: 4
 ---
 
-### Dec. 13th - Pitch Session  at [Austin Central Library](https://goo.gl/maps/ERvKG8ofDHbj2VzR9)
-From 10:00am –2:00pm 
+### Pitch Session  
+#### Date: Friday December 13, 2019 
+#### Location: [Austin Central Library](https://goo.gl/maps/ERvKG8ofDHbj2VzR9)
+#### Hours: 10:00 AM –2:00 PM 
 
 ### Day of the event:
 
