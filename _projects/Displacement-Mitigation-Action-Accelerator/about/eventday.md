@@ -10,36 +10,23 @@ position: 4
 
 ### Day of the event:
 
-**9:45 AM**
-
-Arrival, registration, coffee and tea
+**9:45 AM** Arrival, registration, coffee and tea
 
 **10:00 AM**	
-
 Opening of pitch event, Kerry O’Connor, Chief Innovation Officer (Event Host)
 Welcoming Remarks, Rosie Truelove, Director of Neighborhood Housing and Community Development
 The Neighborhood Stabilization Strategy Tool, Alba Sereno, i-Team Lead
 
-**10:15 AM -12:15 PM**
+**10:15 AM -12:15 PM** Pitches
 
-Pitches
+**12:15 PM – 1:15 PM** Lunch and networking
 
-**12:15 PM – 1:15 PM**
-
-Lunch and networking
-
-**1:15 PM**
-
-Keynote talk - **A. Rafael "Andy" Johnson** from **Inspire to Change** team help people remove bias from their work and expand their ideas of validity, fidelity, accountability, and findings by including the arts, indigenous, and culturally specific ways of knowing and being into systemic change work.
+**1:15 PM** Keynote talk - **A. Rafael "Andy" Johnson** from **Inspire to Change** team help people remove bias from their work and expand their ideas of validity, fidelity, accountability, and findings by including the arts, indigenous, and culturally specific ways of knowing and being into systemic change work.
 
 
-**1:30 PM**
+**1:30 PM** Grant awards
 
-Grant awards
-
-**2:00 PM**
-
-Close
+**2:00 PM** Close
 
 
 **Follow the signs!** 
