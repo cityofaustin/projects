@@ -13,8 +13,11 @@ position: 4
 **9:45 AM** Arrival, registration, coffee and tea
 
 **10:00 AM**	
+
 Opening of pitch event, Kerry O’Connor, Chief Innovation Officer (Event Host)
+
 Welcoming Remarks, Rosie Truelove, Director of Neighborhood Housing and Community Development
+
 The Neighborhood Stabilization Strategy Tool, Alba Sereno, i-Team Lead
 
 **10:15 AM -12:15 PM** Pitches
@@ -28,6 +31,7 @@ The Neighborhood Stabilization Strategy Tool, Alba Sereno, i-Team Lead
 
 **2:00 PM** Close
 
+### Some important details for the day
 
 **Follow the signs!** 
 
