@@ -3,18 +3,14 @@ title: 5. The Day of The Event
 position: 4
 ---
 
-### Dec. 13th - Pitch Session  
-  * Recap - Where we left off 
-  * 10-minute presentation per team
-  * Lunch and networking
-  * Keynote speaker
-  * Evaluation 
-  * Award of prizes 
-
+### Dec. 13th - Pitch Session  at [Austin Central Library](https://goo.gl/maps/ERvKG8ofDHbj2VzR9)
+From 10:00am –2:00pm 
 
 ### Day of the event:
 
-10:00 AM to 2:00 PM at Austin Central Library 
+
+
+
 
 **Follow the signs!** 
 There will be signs in the parking garage elevators, as as well as private event signs on the gallery entrance doors and outside the 2nd St. entrance. 
