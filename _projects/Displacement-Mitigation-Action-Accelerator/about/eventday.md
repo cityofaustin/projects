@@ -8,7 +8,7 @@ From 10:00am –2:00pm
 
 ### Day of the event:
 
-
+![DEC13SCHEDULE](/assets/img/projects/Displacement-Mitigation-Action-Accelerator/DEC13SCHEDULE.png)
 
 
 
