@@ -10,7 +10,7 @@ position: 4
 
 ### Day of the event:
 
-![DEC13SCHEDULE](/assets/img/projects/Displacement-Mitigation-Action-Accelerator/DEC13SCHEDULE2.png)
+![DEC13SCHEDULE](/assets/img/projects/Displacement-Mitigation-Action-Accelerator/DEC13SCHEDULE3.png)
 
 
 
