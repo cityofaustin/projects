@@ -1,5 +1,5 @@
 ---
-title: 5. The Day of The Event 
+title: 5. Details for Dec. 13 Pitch Event 
 position: 4
 ---
 
