@@ -41,6 +41,13 @@ The judges for the Pitch Session on December 13, 2019 are:
 
 **Equity Academy, Health Equity & Development Division at Austin Public Health** 
 
+### Parisa Fatehi-Weeks
+*Head of Equity*, **Inclusion and Community Impact at Google Fiber**
+
+*Board Secretary*, **HousingWorks**
+
+*Board President*, **Workers Defense Project** 
+
 
 
 
