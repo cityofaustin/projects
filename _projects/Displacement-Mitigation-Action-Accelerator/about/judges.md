@@ -5,8 +5,9 @@ position: 7
 
 The judges for the Pitch Session on December 13, 2019 are: 
 
-### Erika Leak
-*Division Manager*
+### Mandy De Mayo 
+
+*Community Development Administrator*
 
 **Neighborhood Housing and Community Development Department** 
 
