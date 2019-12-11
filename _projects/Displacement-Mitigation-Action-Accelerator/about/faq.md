@@ -56,3 +56,9 @@ These are questions we have received from Accelerator participants that relate t
 #### If a team is awarded dollars, do they have to spend them on the activities they pitched for?
 
 * Funds are strictly provided for the activities described in your pitch. If awarded, your pitch will become the scope of work in the grant agreement. A contract describing approved activities will be required for the disbursement of dollars.
+
+#### Will the Final Napkin Pitch save answers already entered if we cannot finish all at once? 
+
+* The web tool for the form will require you to complete the questions all at once. However, you can click through all of the questions to see them in advance, work on a separate document and just copy paste in when you are ready to submit. 
+  
+
