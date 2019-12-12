@@ -68,3 +68,7 @@ These are questions we have received from Accelerator participants that relate t
 #### How many awards will be available? 
 
 * The web tool for the form will require you to complete the questions all at once. However, you can click through all of the questions to see them in advance, work on a separate document and just copy paste in when you are ready to submit. 
+
+#### If our concept requires more than $50,000 how do we write that up in the application? 
+
+* Segment what you are able to accomplish with different levels of funds.
