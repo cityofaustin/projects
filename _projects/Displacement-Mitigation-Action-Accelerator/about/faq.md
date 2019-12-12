@@ -61,4 +61,6 @@ These are questions we have received from Accelerator participants that relate t
 
 * The web tool for the form will require you to complete the questions all at once. However, you can click through all of the questions to see them in advance, work on a separate document and just copy paste in when you are ready to submit. 
   
+#### Can we share our Google Slide presentation on Thursday before the Pitch? 
 
+* Teams can share their Google Slide presentation link over email to [Alba Sereno](Alba.Donajhi@austintexas.gov). 
