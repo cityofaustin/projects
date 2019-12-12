@@ -63,4 +63,4 @@ These are questions we have received from Accelerator participants that relate t
   
 #### Can we share our Google Slide presentation on Thursday before the Pitch? 
 
-* Teams can share their Google Slide presentation link over email to [Alba Sereno](Alba.Donajhi@austintexas.gov). 
+* Teams can share their Google Slide presentation link over email to [Alba Sereno](mailito: Alba.Donajhi@austintexas.gov). 
