@@ -5,11 +5,8 @@ position: 7
 
 The judges for the Pitch Session on December 13, 2019 are: 
 
-### Mandy De Mayo 
-
-*Community Development Administrator*
-
-**Neighborhood Housing and Community Development Department** 
+### Rosie Truelove
+*Director*, **Neighborhood Housing and Community Development Department**
 
 
 ### Verónica Briseño 
@@ -18,17 +15,24 @@ The judges for the Pitch Session on December 13, 2019 are:
 **City of Austin Economic Development Department** 
 
 
-### Meagan Longley
+### Mandy De Mayo 
 
-*Vice President* 
+*Community Development Administrator*
 
-**Austin Community Foundation**
+**Neighborhood Housing and Community Development Department** 
 
 
 ### Madge Vasquez  
 *Chief Executive Officer*
 
 **Mission Capital**  
+
+
+### Meagan Longley
+
+*Vice President* 
+
+**Austin Community Foundation**
 
 
 ### Xavier Zárate
@@ -41,6 +45,7 @@ The judges for the Pitch Session on December 13, 2019 are:
 *Lead*
 
 **Equity Academy, Health Equity & Development Division at Austin Public Health** 
+
 
 ### Parisa Fatehi-Weeks
 *Head of Equity*, **Inclusion and Community Impact at Google Fiber**
