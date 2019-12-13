@@ -32,7 +32,7 @@ The judges for the Pitch Session on December 13, 2019 are:
 
 
 ### Keree Brannon
-*Lead***, *Equity Academy, Health Equity & Development Division at Austin Public Health*
+**Lead**, *Equity Academy, Health Equity & Development Division at Austin Public Health*
 
 
 ### Parisa Fatehi-Weeks
