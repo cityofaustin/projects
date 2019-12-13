@@ -34,6 +34,9 @@ The judges for the Pitch Session on December 13, 2019 are:
 ### Keree Brannon
 **Lead**, *Equity Academy, Health Equity & Development Division at Austin Public Health*
 
+### A. Rafael Johnson
+**Vice President**, *Inspire to Change*
+
 
 ### Parisa Fatehi-Weeks
 **Head of Equity**, *Inclusion and Community Impact at Google Fiber*
